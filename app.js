@@ -399,6 +399,8 @@ function App() {
           <p className="text-[0.8rem] max-w-xl leading-relaxed" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#6b6558" }}>
             La Boussole est un média indépendant à ligne éditoriale assumée de gauche. L'actualité est
             actualisée automatiquement via des flux RSS ; les partis et candidats sont maintenus à la main.
+            Sources : Le Monde – Politique,franceinfo – Politique,Libération – Politique,L'Humanité – Politique,
+            Sénat – Communiqués de presse,Le Figaro – Politique,Mediapart,Politis et Les Échos – Politique
           </p>
           <div className="text-[0.75rem]" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#8a8272" }}>engagés, pas sectaires</div>
         </div>
