@@ -54,6 +54,8 @@ KEYWORDS = [
 ]
 
 MAX_ITEMS = 12
+FETCH_LIMIT = 30          # combien d'articles neufs on peut ramasser par run
+ARCHIVE_MAX = 50          # taille max de l'historique conservé dans le JSON
 OUTPUT_PATH = Path(__file__).resolve().parent.parent / "data" / "actu.json"
 
 
@@ -80,6 +82,26 @@ def sort_key(entry):
         if val:
             return datetime(*val[:6], tzinfo=timezone.utc)
     return datetime.min.replace(tzinfo=timezone.utc)
+
+
+def parse_date_iso(entry) -> str:
+    for field in ("published_parsed", "updated_parsed"):
+        val = getattr(entry, field, None)
+        if val:
+            return datetime(*val[:6], tzinfo=timezone.utc).isoformat()
+    return datetime.now(timezone.utc).isoformat()
+
+
+def load_existing():
+    """Charge l'archive déjà présente dans data/actu.json, si elle existe."""
+    if not OUTPUT_PATH.exists():
+        return []
+    try:
+        data = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+        return data.get("articles", [])
+    except Exception as exc:  # noqa: BLE001
+        print(f"[warn] impossible de lire l'archive existante ({exc}), on repart de zéro", file=sys.stderr)
+        return []
 
 
 def fetch_all():
@@ -113,6 +135,7 @@ def fetch_all():
                     "color": color,
                     "source": source,
                     "date": parse_date(entry),
+                    "date_iso": parse_date_iso(entry),
                     "titre": title,
                     "dek": (summary[:280] + "…") if len(summary) > 280 else summary,
                     "avis": None,  # l'angle éditorial reste rédigé à la main, jamais généré automatiquement
@@ -132,16 +155,40 @@ def fetch_all():
         seen.add(key)
         it.pop("_sort")
         deduped.append(it)
-        if len(deduped) >= MAX_ITEMS:
+        if len(deduped) >= FETCH_LIMIT:
             break
 
     return deduped
 
 
+def merge_with_archive(new_items):
+    """Fusionne les nouveaux articles avec l'archive existante, dédoublonne
+    par titre, trie du plus récent au plus ancien, et plafonne à
+    ARCHIVE_MAX pour que le fichier ne grossisse pas indéfiniment."""
+    existing = load_existing()
+    combined = new_items + existing
+
+    seen = set()
+    deduped = []
+    for it in combined:
+        key = it.get("titre", "").lower()[:60]
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped.append(it)
+
+    deduped.sort(key=lambda x: x.get("date_iso", ""), reverse=True)
+    return deduped[:ARCHIVE_MAX]
+
+
 def main():
-    articles = fetch_all()
+    new_items = fetch_all()
+    if not new_items:
+        print("[warn] aucun article neuf récupéré ce run, on garde l'archive existante telle quelle", file=sys.stderr)
+
+    articles = merge_with_archive(new_items)
     if not articles:
-        print("[error] aucun article récupéré, on ne touche pas au fichier existant", file=sys.stderr)
+        print("[error] archive vide et aucun article récupéré, rien à écrire", file=sys.stderr)
         sys.exit(1)
 
     payload = {
@@ -151,7 +198,7 @@ def main():
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"[ok] {len(articles)} articles écrits dans {OUTPUT_PATH}")
+    print(f"[ok] {len(new_items)} article(s) neuf(s) fusionné(s), {len(articles)} au total dans {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":
