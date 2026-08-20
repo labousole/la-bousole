@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-20T06:24:21+00:00",
+  "generated_at": "2026-08-20T06:28:36+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Aug 2026",
+      "titre": "Présidentielle 2027 : Les Ecologistes tiraillés entre Jean-Luc Mélenchon et Raphaël Glucksmann",
+      "dek": "Alors que le PS a douché les espoirs d’une primaire de toute la gauche hors LFI, la cheffe de file des écologistes, Marine Tondelier, a appelé à rouvrir les discussions. Un appel qui a mis au jour les fractures idéologiques internes d’un parti déchiré entre deux lignes politiques…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/presidentielle-2027-les-ecologistes-tirailles-entre-jean-luc-melenchon-et-raphael-glucksmann_6750679_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -110,16 +120,6 @@
       "dek": "Yvette Roudy, ancienne ministre des Droits des femmes, est décédée mardi à 97 ans. En 1982, elle obtenait le remboursement de l'IVG par la Sécurité sociale. Près de 50 ans plus tard, le droit à l'avortement est inscrit dans la Constitution, mais son accès reste inégal et les oppo…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-mort-d-yvette-roudy-elle-s-etait-battue-pour-qu-il-soit-rembourse-le-combat-pour-le-droit-a-l-ivg-toujours-d-actualite_8070527.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Aug 2026",
-      "titre": "Crime organisé : Sébastien Lecornu demande à renforcer la lutte contre la corruption dans la fonction publique",
-      "dek": "Le premier ministre appelle son gouvernement, dans une circulaire datée du mardi 18 août, à redoubler de vigilance contre les atteintes à la probité au sein des administrations et à accentuer la politique de sanction, sur fond de narcotrafic et d’attaques cybercriminelles.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/19/crime-organise-sebastien-lecornu-demande-a-renforcer-la-lutte-contre-la-corruption-dans-la-fonction-publique_6749893_823448.html"
     }
   ]
 }
