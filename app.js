@@ -144,6 +144,10 @@ function useActu() {
 function Accueil() {
   const jours = useDaysUntil("2027-04-11");
   const { loading, error, articles, generatedAt } = useActu();
+  const PAGE_SIZE = 8;
+  const [visible, setVisible] = useState(PAGE_SIZE);
+  const shown = articles.slice(0, visible);
+  const hasMore = visible < articles.length;
 
   return (
     <div>
@@ -192,7 +196,7 @@ function Accueil() {
         )}
 
         <div className="grid gap-0">
-          {articles.map((a, i) => (
+          {shown.map((a, i) => (
             <article key={i} className="grid md:grid-cols-[110px_1fr] gap-4 md:gap-8 py-6"
               style={{ borderTop: i === 0 ? "none" : "1px solid var(--line)" }}>
               <div>
@@ -225,6 +229,18 @@ function Accueil() {
             <p style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#8a8272" }}>Aucun article pour le moment.</p>
           )}
         </div>
+
+        {hasMore && (
+          <div className="flex justify-center mt-8">
+            <button
+              onClick={() => setVisible((v) => v + PAGE_SIZE)}
+              className="px-5 py-2.5 text-xs uppercase tracking-wide"
+              style={{ fontFamily: "'IBM Plex Mono', monospace", border: "1px solid var(--ink)", color: "var(--ink)", background: "transparent" }}
+            >
+              Articles précédents ({articles.length - visible} de plus)
+            </button>
+          </div>
+        )}
       </section>
     </div>
   );
@@ -399,8 +415,6 @@ function App() {
           <p className="text-[0.8rem] max-w-xl leading-relaxed" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#6b6558" }}>
             La Boussole est un média indépendant à ligne éditoriale assumée de gauche. L'actualité est
             actualisée automatiquement via des flux RSS ; les partis et candidats sont maintenus à la main.
-            Sources : Le Monde – Politique,franceinfo – Politique,Libération – Politique,L'Humanité – Politique,
-            Sénat – Communiqués de presse,Le Figaro – Politique,Mediapart,Politis et Les Échos – Politique
           </p>
           <div className="text-[0.75rem]" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#8a8272" }}>engagés, pas sectaires</div>
         </div>
