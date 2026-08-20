@@ -57,6 +57,9 @@ MAX_ITEMS = 12
 FETCH_LIMIT = 30          # combien d'articles neufs on peut ramasser par run
 ARCHIVE_MAX = 50          # taille max de l'historique conservé dans le JSON
 OUTPUT_PATH = Path(__file__).resolve().parent.parent / "data" / "actu.json"
+# Fichier éphémère (non commité) listant les articles vraiment nouveaux de ce
+# run, lu ensuite par post_social.py pour savoir quoi publier sur les réseaux.
+NEW_ITEMS_PATH = Path(__file__).resolve().parent.parent / "data" / "_new_since_last_run.json"
 
 
 def strip_html(text: str) -> str:
@@ -164,10 +167,16 @@ def fetch_all():
 def merge_with_archive(new_items):
     """Fusionne les nouveaux articles avec l'archive existante, dédoublonne
     par titre, trie du plus récent au plus ancien, et plafonne à
-    ARCHIVE_MAX pour que le fichier ne grossisse pas indéfiniment."""
-    existing = load_existing()
-    combined = new_items + existing
+    ARCHIVE_MAX pour que le fichier ne grossisse pas indéfiniment.
 
+    Retourne (articles_fusionnés, articles_vraiment_inédits) — le deuxième
+    élément sert uniquement à savoir quoi poster sur les réseaux sociaux.
+    """
+    existing = load_existing()
+    existing_keys = {it.get("titre", "").lower()[:60] for it in existing}
+    truly_new = [it for it in new_items if it["titre"].lower()[:60] not in existing_keys]
+
+    combined = new_items + existing
     seen = set()
     deduped = []
     for it in combined:
@@ -178,7 +187,7 @@ def merge_with_archive(new_items):
         deduped.append(it)
 
     deduped.sort(key=lambda x: x.get("date_iso", ""), reverse=True)
-    return deduped[:ARCHIVE_MAX]
+    return deduped[:ARCHIVE_MAX], truly_new
 
 
 def main():
@@ -186,7 +195,7 @@ def main():
     if not new_items:
         print("[warn] aucun article neuf récupéré ce run, on garde l'archive existante telle quelle", file=sys.stderr)
 
-    articles = merge_with_archive(new_items)
+    articles, truly_new = merge_with_archive(new_items)
     if not articles:
         print("[error] archive vide et aucun article récupéré, rien à écrire", file=sys.stderr)
         sys.exit(1)
@@ -198,7 +207,13 @@ def main():
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    # Écrit la liste des articles inédits pour que post_social.py sache quoi
+    # publier ensuite. Ce fichier n'est jamais commité (voir .gitignore).
+    NEW_ITEMS_PATH.write_text(json.dumps(truly_new, ensure_ascii=False, indent=2), encoding="utf-8")
+
     print(f"[ok] {len(new_items)} article(s) neuf(s) fusionné(s), {len(articles)} au total dans {OUTPUT_PATH}")
+    print(f"[ok] {len(truly_new)} article(s) réellement inédit(s) écrit(s) dans {NEW_ITEMS_PATH}")
 
 
 if __name__ == "__main__":
