@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:28:36+00:00",
+  "generated_at": "2026-08-20T06:39:28+00:00",
   "articles": [
     {
       "tag": "Politique",
@@ -22,6 +22,16 @@
       "lien": "https://www.franceinfo.fr/politique/francois-fillon/francois-fillon-suspendu-de-la-legion-d-honneur-apres-sa-condamnation-pour-emplois-fictifs_8154512.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Aug 2026",
+      "titre": "Comment la philosophie contribue à l’idée de réparer l’«injustice historique» d’Haïti",
+      "dek": "À partir d’une étude de la «double dette» imposée en 1825 par la France à Port-au-Prince en échange de la reconnaissance de son indépendance, Magali Bessone élabore les bases d’une justice «postcoloniale», dans un livre stimulant qui vient de paraître intitulé «Ce que nous devons…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/200826/comment-la-philosophie-contribue-l-idee-de-reparer-l-injustice-historique-d-haiti"
+    },
+    {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
@@ -40,6 +50,16 @@
       "dek": "Le leader de La France insoumise interviendra dans la Drôme, lors des journées d’été du mouvement, qui ont lieu du jeudi 20 au dimanche 23 août. Sans rien céder sur son programme, il tente d’apparaître rassurant et fédérateur en vue d’un possible second tour contre Marine Le Pen.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/20/presidentielle-2027-jean-luc-melenchon-entre-radicalite-et-besoin-de-rassembler-reve-d-un-duel-avec-l-extreme-droite_6750546_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Aug 2026",
+      "titre": "Comment les écologistes ont raté la refondation de la gauche",
+      "dek": "Avec ses bons résultats aux européennes de 2019, EE-LV a eu l’occasion, trois ans avant une présidentielle, de «recomposer» un espace politique social et écologiste autour d’eux. Depuis, la fenêtre s’est refermée.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/comment-les-ecologistes-ont-rate-la-refondation-de-la-gauche-20260820_DQR2ZJIHBBABTBPOLPCTNJPMCI/"
     },
     {
       "tag": "Politique",
@@ -100,26 +120,6 @@
       "dek": "Cette mesure a été censurée par le Conseil constitutionnel en raison \"des droits de la défense et du principe du contradictoire\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/le-jour-de-la-promulgation-de-la-loi-ripost-le-ministre-de-l-interieur-promet-une-reecriture-du-texte-pour-generaliser-la-pseudonymisation-des-policiers-et-gendarmes_8154095.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Aug 2026",
-      "titre": "\"C'est important de se réunir pour se parler tout de suite et prendre les décisions\", demande Marine Tondelier concernant les incendies et canicules de l'été 2026",
-      "dek": "Dès la fin du mois de juillet, la patronne des Ecologistes avait demandé au président de la République de réunir les différentes forces politiques afin de faire un point sur la \"situation climatique\" en France.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/c-est-important-de-se-reunir-pour-se-parler-tout-de-suite-et-prendre-les-decisions-demande-marine-tondelier-concernant-les-incendies-et-canicules-de-l-ete-2026_8154062.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Aug 2026",
-      "titre": "Édito. Mort d'Yvette Roudy : elle s'était battue pour qu'il soit remboursé, le combat pour le droit à l'IVG, toujours d'actualité",
-      "dek": "Yvette Roudy, ancienne ministre des Droits des femmes, est décédée mardi à 97 ans. En 1982, elle obtenait le remboursement de l'IVG par la Sécurité sociale. Près de 50 ans plus tard, le droit à l'avortement est inscrit dans la Constitution, mais son accès reste inégal et les oppo…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-mort-d-yvette-roudy-elle-s-etait-battue-pour-qu-il-soit-rembourse-le-combat-pour-le-droit-a-l-ivg-toujours-d-actualite_8070527.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
