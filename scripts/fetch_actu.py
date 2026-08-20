@@ -35,9 +35,13 @@ HEADERS = {
 FEEDS = [
     ("Le Monde – Politique", "https://www.lemonde.fr/politique/rss_full.xml", "Politique", "#C81E3A"),
     ("franceinfo – Politique", "https://www.francetvinfo.fr/politique.rss", "Politique", "#8C1327"),
-    ("Libération – Politique", "https://www.liberation.fr/arc/outboundfeeds/rss/section/politique/", "Politique", "#C81E3A"),
-    ("L'Humanité", "https://www.humanite.fr/rss.xml", "Gauche", "#1F5C4A"),
-    ("Sénat", "https://www.senat.fr/rss/actualites.rss", "Institutions", "#C9972B"),
+    ("Libération – Politique", "https://www.liberation.fr/arc/outboundfeeds/rss/category/politique/?outputType=xml", "Politique", "#C81E3A"),
+    ("L'Humanité – Politique", "https://www.humanite.fr/sections/politique/feed", "Gauche", "#1F5C4A"),
+    ("Sénat – Communiqués de presse", "https://www.senat.fr/rss/presse.rss", "Institutions", "#C9972B"),
+    ("Le Figaro – Politique", "https://www.lefigaro.fr/rss/figaro_politique.xml", "Droite", "#3A5A8C"),
+    ("Mediapart", "https://www.mediapart.fr/articles/feed", "Gauche", "#1F5C4A"),
+    ("Politis", "https://www.politis.fr/flux-rss-apps/", "Gauche", "#1F5C4A"),
+    ("Les Échos – Politique", "https://services.lesechos.fr/rss/les-echos-politique.xml", "Politique", "#8a8272"),
 ]
 
 # Mots-clés utilisés pour ne garder que les articles réellement liés à la
