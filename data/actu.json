@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-08-20T17:06:21+00:00",
+  "generated_at": "2026-08-20T21:02:08+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T19:59:56+00:00",
+      "titre": "Le maire d'Arcachon, Yves Foulon, condamné à 10 000 euros d'amende dont 5 000 avec sursis pour avoir insulté et menacé un rival EELV",
+      "dek": "Un \"pétage de plombs\" sanctionné par la justice : ce sont les mots du maire d’Arcachon, Yves Foulon. Il vient d'être condamné à une amende de 5 000 euros pour avoir insulté et menacé son rival écologiste. L'altercation, filmée à son insu, avait vivement fait réagir dans la ville.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/le-maire-d-arcachon-yves-foulon-condamne-a-10-000-euros-d-amende-dont-5-000-avec-sursis-pour-avoir-insulte-et-menace-son-rival-eelv_8155424.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T19:07:56+00:00",
+      "titre": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat, annonce Stéphanie Rist",
+      "dek": "Pour freiner la croissance des dépenses de santé, le gouvernement avait annoncé il y a près d’un mois le doublement du montant maximum des franchises, de 100 à 200 euros par an. La ministre de la santé a admis que ce choix avait pu apparaître « brutal ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/franchises-medicales-le-gouvernement-renonce-au-doublement-des-plafonds-dans-l-immediat-annonce-stephanie-rist_6751296_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T18:42:23+00:00",
+      "titre": "A Grenoble, Les Ecologistes n’esquivent pas la question des alliances pour 2027",
+      "dek": "Alors que ses opposants réclament une clarification de la ligne entre deux positions qu’ils jugent incompatibles, la cheffe et candidate des verts, Marine Tondelier, a assuré devant les journalistes que ce débat serait tranché par les adhérents.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/a-grenoble-les-ecologistes-nesquivent-pas-la-question-des-alliances-pour-2027-20260820_6MJDAUW2PFCZTFK7YG3NSJSBLM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T18:33:15+00:00",
+      "titre": "L’opération menace et déminage du gouvernement pour faire adopter un projet de loi de finances en 2027",
+      "dek": "Alors que l’équation semble impossible à résoudre en pleine campagne, un régime sous loi spéciale jusqu’à l’automne 2027 creuserait le déficit à au moins 5,5 %. «Un cocktail extrêmement dangereux», argue le ministre des Comptes publics auprès de «Libé».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/loperation-menace-et-deminage-du-gouvernement-pour-faire-adopter-un-projet-de-loi-de-finances-en-2027-20260820_MAVBD25U7VBZFGGZXJK7K36UPM/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T18:17:04+00:00",
+      "titre": "Avant son départ pour Mayotte, Édouard Philippe à droite toute sur l’immigration",
+      "dek": "En visite sur l’île vendredi 21 et samedi 22 août, l’ancien premier ministre compte faire de ce déplacement un marqueur de son virage à droite sur les enjeux migratoires. Les réformes qu’il propose, en plus d’être probablement anticonstitutionnelles, s’appuient sur des mythes.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/200826/avant-son-depart-pour-mayotte-edouard-philippe-droite-toute-sur-l-immigration"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -495,61 +550,6 @@
       "dek": "Cet appel au rassemblement de la gauche, lancé par le sénateur dans \"Libération\", n'inclut pas La France insoumise.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/yannick-jadot/yannick-jadot-annonce-le-lancement-d-une-initiative-pour-refonder-la-gauche-autour-de-la-social-ecologie-en-vue-de-la-presidentielle-2027_8154137.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T20:08:31+00:00",
-      "titre": "Yannick Jadot annonce le lancement d'\"une initiative pour refonder la gauche autour de la social-écologie\" en vue de la présidentielle 2027",
-      "dek": "Cet appel au rassemblement de la gauche, lancé dans un entretien à Libération, n'inclut pas la France insoumise.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/yannick-jadot/yannick-jadot-annonce-le-lancement-d-une-initiative-pour-refonder-la-gauche-autour-de-la-social-ecologie-en-vue-de-la-presidentielle-2027_8154137.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T19:33:30+00:00",
-      "titre": "Le jour de la promulgation de la loi Ripost, le ministre de l'Intérieur promet une réécriture du texte pour généraliser la pseudonymisation des policiers et gendarmes",
-      "dek": "Cette mesure a été censurée par le Conseil constitutionnel \"à l'aune des droits de la défense et du principe du contradictoire\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/le-jour-de-la-promulgation-de-la-loi-ripost-le-ministre-de-l-interieur-promet-une-reecriture-du-texte-pour-generaliser-la-pseudonymisation-des-policiers-et-gendarmes_8154095.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T18:19:34+00:00",
-      "titre": "\"C'est important de se réunir pour se parler tout de suite et prendre les décisions\", demande Marine Tondelier concernant les incendies et canicules de l'été 2026",
-      "dek": "Dès la fin du mois de juillet, la patronne des Ecologistes avait demandé au président de la République de réunir les différentes forces politiques afin de faire un point sur la \"situation climatique\" en France.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/c-est-important-de-se-reunir-pour-se-parler-tout-de-suite-et-prendre-les-decisions-demande-marine-tondelier-concernant-les-incendies-et-canicules-de-l-ete-2026_8154062.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T18:07:25+00:00",
-      "titre": "«Fjord», une Palme d’or qui étrille la protection de l’enfance et séduit les réactionnaires",
-      "dek": "À partir de l’affaire médiatisée d’un placement d’enfants en Norvège, «Fjord» du Roumain Cristian Mungiu, Palme d’or 2026, veut susciter un débat sur les angles morts des démocraties les plus progressistes. Sous couvert de pensée complexe, le film peine à décrire avec précision l…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/190826/fjord-une-palme-d-or-qui-etrille-la-protection-de-l-enfance-et-seduit-les-reactionnaires"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T18:02:33+00:00",
-      "titre": "Ecartelés entre les insoumis et les sociaux-démocrates : le supplice des Écologistes pour 2027",
-      "dek": "Après l’échec de la primaire des unitaires, les verts vont devoir faire face à un douloureux dilemme. Pour éviter la scission, leur cheffe Marine Tondelier maintient pour l’instant sa candidature à la présidentielle, alors que leurs journées d’été s’ouvrent à Grenoble ce jeudi.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/ecarteles-entre-les-insoumis-et-les-sociaux-democrates-le-supplice-des-ecologistes-pour-2027-20260819_6RVGHXUARJESHHUT72M5DKMBAM/"
     }
   ]
 }
