@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-08-20T12:02:46+00:00",
+  "generated_at": "2026-08-20T14:42:20+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T14:39:07+00:00",
+      "titre": "Suppression des APL, gel du RSA… Sébastien Lecornu dément certaines des rumeurs d’économies dans le budget 2027",
+      "dek": "Nombre d’idées de coupes budgétaires circulent ces dernières semaines en lien avec le futur projet de loi de finances. Le Premier ministre assure que rien n’est encore définitivement tranché en vue du tour de vis qui s’annonce cet automne.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/suppression-des-apl-gel-du-rsa-sebastien-lecornu-dement-certaines-des-rumeurs-deconomies-dans-le-budget-2027-20260820_FMHYFV4N4NE6LKVS33ET6Z5MOI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T14:00:01+00:00",
+      "titre": "Le RN veut supprimer plusieurs agences",
+      "dek": "Cet été, les incendies ont ravagé plusieurs régions françaises. Invité sur le plateau du \"8.30 franceinfo\", le député RN des Bouches-du-Rhône, Franck Allisio, a affirmé que pour réaliser des économies, le Rassemblement national réclame la suppression de l'Ademe, l'Agence de l'env…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/le-rn-veut-supprimer-plusieurs-agences_8155010.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T13:57:40+00:00",
+      "titre": "Yves Foulon, maire d’Arcachon, condamné à 5 000 euros d’amende pour menaces et violences envers son principal opposant aux municipales",
+      "dek": "L’édile avait été filmé à son insu au matin du premier tour des élections, le 15 mars, par un média en ligne. Il a aussi été condamné à verser 2 500 euros à son adversaire écologiste, Vital Baude.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/yves-foulon-maire-d-arcachon-condamne-a-5-000-euros-d-amende-pour-menaces-et-violences-envers-son-principal-opposant-aux-municipales_6751011_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T13:15:32+00:00",
+      "titre": "Les rendez-vous antifascistes de la Fête de l’Humanité 2026",
+      "dek": "À quelques mois de l’élection présidentielle, cette Fête de l’Humanité pourrait être la dernière, avant l’arrivée au pouvoir&nbsp;du Rassemblement national. Un péril contre lequel ses participants luttent plus que jamais.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite/les-rendez-vous-antifascistes-de-la-fete-de-lhumanite-2026"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T13:06:28+00:00",
+      "titre": "Présidentielle 2027 : Les taux d’emprunt explosent et font réagir les politiques",
+      "dek": "Marine Le Pen, David Lisnard, Mathilde Panot... Les réactions et inquiétudes des politiques se multiplient face à un taux d’emprunt record que connaît la France.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-les-taux-d-emprunt-explosent-et-font-reagir-les-politiques-20260820"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T13:00:27+00:00",
+      "titre": "Affaire Le Scouarnec : un collectif de victimes redoute \"une posture politique\" de Gérald Darmanin lors d'une rencontre en Bretagne vendredi",
+      "dek": "L'ancien chirurgien, déjà condamné pour près de 300 viols et agressions sexuelles, est à nouveau visé par une information judiciaire concernant 10 viols et 40 agressions sexuelles.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/affaire-le-scouarnec-un-collectif-de-victimes-redoute-une-posture-politique-de-gerald-darmanin-lors-d-une-rencontre-en-bretagne-vendredi_8154971.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T12:46:16+00:00",
+      "titre": "Cour des comptes : un rapport interne appelle à une « vigilance accrue » sur la liberté d’expression des magistrats de l’institution",
+      "dek": "Missionné par Amélie de Montchalin, l’ancien premier président de la Cour des comptes Didier Migaud a remis début juillet son rapport consacré à l’indépendance des juridictions financières. Ses conclusions inquiètent une partie des juges de la rue Cambon.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/cour-des-comptes-un-rapport-interne-appelle-a-une-vigilance-accrue-sur-la-liberte-d-expression-des-magistrats-de-l-institution_6750972_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T12:10:02+00:00",
+      "titre": "Piratage du site des impôts : la cybersécurité de l’Etat est une affaire de volonté politique",
+      "dek": "Au-delà des annonces de court terme du premier ministre, l’Etat ne pourra faire l’économie d’efforts supplémentaires pour améliorer sa protection. Longs, coûteux, ceux-ci vont nécessiter une solide volonté politique.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/pixels/article/2026/08/20/piratage-du-site-des-impots-la-cybersecurite-de-l-etat-est-une-affaire-de-volonte-politique_6750968_4408996.html"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -462,94 +550,6 @@
       "dek": "Les libéraux brandissent de nouveau cet épouvantail pour s’attaquer à la dépense publique. Il est pourtant possible de financer vertueusement nos emprunts, en sortant la dette des griffes des marchés financiers, grâce à un pôle public bancaire et une mobilisation de l’épargne pop…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/budget/budget-2027-la-droite-agite-la-peur-de-la-dette-pour-imposer-lausterite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T16:32:40+00:00",
-      "titre": "Mort du sénateur François Patriat, grand fidèle d’Emmanuel Macron",
-      "dek": "L’ancien socialiste, «marcheur» de la première heure et président du groupe macroniste au Sénat, avait été hospitalisé en juillet après un grave accident de vélo. Il avait 83 ans.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/mort-du-senateur-francois-patriat-grand-fidele-demmanuel-macron-20260819_3Z7XPMFY7BCE3IGTXBX6PQWKAI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T16:00:08+00:00",
-      "titre": "Crime organisé : Sébastien Lecornu demande à renforcer la lutte contre la corruption dans la fonction publique",
-      "dek": "Le premier ministre appelle son gouvernement, dans une circulaire datée du mardi 18 août, à redoubler de vigilance contre les atteintes à la probité au sein des administrations et à accentuer la politique de sanction, sur fond de narcotrafic et d’attaques cybercriminelles.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/19/crime-organise-sebastien-lecornu-demande-a-renforcer-la-lutte-contre-la-corruption-dans-la-fonction-publique_6749893_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T15:53:39+00:00",
-      "titre": "Présidentielle 2027 : Yannick Jadot acte la rupture avec LFI et lance « Rassembler la social-écologie », une initiative pour unir la gauche",
-      "dek": "Face à la division persistante à gauche, Yannick Jadot propose une nouvelle dynamique transpartisane pour peser face à la « menace de l’extrême droite » en 2027.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/19/presidentielle-2027-yannick-jadot-acte-la-rupture-avec-lfi-et-lance-rassembler-la-social-ecologie-pour-unir-la-gauche_6749890_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T15:30:01+00:00",
-      "titre": "\"Ensemble, tout devient possible\" : le slogan de la victoire pour Nicolas Sarkozy",
-      "dek": "Cet été, Fabrice d'Almeida sonde les slogans des élections présidentielles sous la Ve République. De quoi se rafraîchir la mémoire avant l'élection de 2027. Aujourd'hui, retour sur l'élection de 2007 et ce slogan de Nicolas Sarkozy : \"Ensemble, tout devient possible\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/ensemble-tout-devient-possible-le-slogan-de-la-victoire-pour-nicolas-sarkozy_8070542.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T15:28:52+00:00",
-      "titre": "Rentrée politique : quelles sont les étapes du tour de France des gauches ?",
-      "dek": "Des journées d’été des Ecologistes à la Fête de l’Humanité des communistes, les formations de gauche entament un marathon politique de deux semaines à huit mois du premier tour de la présidentielle.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/rentree-politique-quelles-sont-les-etapes-du-tour-de-france-des-gauches-20260819_WRB5TWEVHNDPXL55EQRAVYPWDA/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T15:19:16+00:00",
-      "titre": "François Patriat, la mort d’un Bourguignon qui adulait Emmanuel Macron… mais pas la « start-up nation »",
-      "dek": "DISPARITION - Soutien inconditionnel du chef de l’État, le sénateur, qui fut notamment ministre de Lionel Jospin et président du conseil régional de Bourgogne, est décédé mercredi à 83 ans.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/francois-patriat-la-mort-d-un-bourguignon-qui-adulait-emmanuel-macron-mais-pas-la-start-up-nation-20260819"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T15:13:45+00:00",
-      "titre": "INFO FRANCEINFO. \"Nous, c'est carré\" : La France insoumise dévoile un tract et une affiche pour marquer le lancement de ses universités d'été",
-      "dek": "Le mouvement de Jean-Luc Mélenchon organise ses \"Amfis\" de jeudi à dimanche à Valence (Drôme), une rentrée politique qui se déroule dans un contexte de campagne présidentielle. LFI veut installer le match contre l'extrême droite et les héritiers du président de la République.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/nous-c-est-carre-la-france-insoumise-devoile-un-tract-et-une-affiche-pour-marquer-le-lancement-de-ses-universites-d-ete_8153762.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T15:11:46+00:00",
-      "titre": "Piratage du site des impôts : « Peu de ministères sont au niveau requis » pour faire face aux cyberattaques, reconnaît Sébastien Lecornu",
-      "dek": "« Il y a urgence à concevoir et conduire sans délai une réponse opérationnelle plus réactive et plus forte aux cyberattaques que l’Etat rencontre actuellement », a écrit le chef du gouvernement dans un courrier adressé à l’Anssi.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/pixels/article/2026/08/19/piratage-du-site-des-impots-peu-de-ministeres-sont-au-niveau-requis-face-aux-cyberattaques-reconnait-sebastien-lecornu_6749887_4408996.html"
     }
   ]
 }
