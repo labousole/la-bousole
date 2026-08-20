@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:57:29+00:00",
+  "generated_at": "2026-08-20T12:02:46+00:00",
   "articles": [
     {
       "tag": "Gauche",
@@ -11,6 +11,17 @@
       "dek": "L’urgence climatique ne nous permet plus de nous diviser. L’écologie, associée à une politique sociale radicale, doit désormais structurer notre méthode pour les mois à venir. Il n’y a plus une seconde à perdre.",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=500505"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T11:50:33+00:00",
+      "titre": "À gauche, une rentrée politique avec la présidentielle 2027 en ligne de mire",
+      "dek": "À huit mois de l’élection, les universités d’été donneront le ton d’une rentrée largement dominée par 2027. Toujours divisées, les différentes formations vont tenter d’en profiter pour clarifier leurs ambitions et imposer leurs thèmes dans une campagne qui s’accélère déjà. On fai…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/la-france-insoumise/a-gauche-une-rentree-politique-avec-la-presidentielle-2027-en-ligne-de-mire"
     },
     {
       "tag": "Gauche",
