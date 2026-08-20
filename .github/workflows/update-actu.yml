@@ -1,0 +1,40 @@
+name: Mise à jour de l'actu politique
+
+on:
+  schedule:
+    # Toutes les 6h (heure UTC). Adapte la fréquence si besoin — voir README.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {} # permet aussi de le lancer manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch actu.json
+        run: python scripts/fetch_actu.py
+
+      - name: Commit & push si changement
+        run: |
+          git config user.name "la-boussole-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- data/actu.json; then
+            echo "Rien de nouveau, pas de commit."
+          else
+            git add data/actu.json
+            git commit -m "auto: mise à jour actu $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
