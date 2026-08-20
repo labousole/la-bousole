@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-08-20T14:42:20+00:00",
+  "generated_at": "2026-08-20T17:06:21+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T16:59:57+00:00",
+      "titre": "«La liberté de navigation est censée prévaloir dans les détroits internationaux»",
+      "dek": "La géographe Pauline Pic, coautrice d’une «Géopolitique des détroits», analyse la spécificité de ceux d’Ormuz et de Bab-el-Mandeb au Moyen-Orient. Elle souligne que si aucun passage n’est à jamais incontournable, les coûts des routes alternatives peuvent être considérables.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/200826/la-liberte-de-navigation-est-censee-prevaloir-dans-les-detroits-internationaux"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T16:00:05+00:00",
+      "titre": "« Derrière les crédits de la culture se joue la capacité de la France à transmettre une histoire commune »",
+      "dek": "La question culturelle ne concerne pas que les artistes, le public ou la vie économique, elle joue aussi un rôle démocratique central, explique le secrétaire général de la CFDT-Culture, Alexis Fritche, qui, dans une tribune au « Monde », appelle à défaire les choix budgétaires du…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/08/20/derriere-les-credits-de-la-culture-se-joue-la-capacite-de-la-france-a-transmettre-une-histoire-commune_6751088_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T16:00:03+00:00",
+      "titre": "Absence de budget et loi spéciale prolongée : l’inspection générale des finances alerte sur des « risques majeurs »",
+      "dek": "L’inspection générale des finances a publié, jeudi, le rapport que le gouvernement lui avait demandé sur les conséquences d’une application prolongée en 2027 d’une loi de finances spéciale. Un document que l’exécutif devrait largement mobiliser pour tenter de convaincre le Parlem…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/absence-de-budget-et-loi-speciale-prolongee-l-inspection-generale-des-finances-alerte-sur-des-risques-majeurs_6751089_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T15:42:38+00:00",
+      "titre": "La justice française ordonne l’extradition de l’antifasciste «Gino» vers l’Allemagne",
+      "dek": "Le militant albanais Rexhino Abazaj, soupçonné d’avoir participé à des heurts en marge d’une manifestation néonazie à Budapest en 2023, doit être jugé outre-Rhin. Ses avocats redoutent une procédure basée sur des éléments transmis par la police hongroise, alors sous la coupe de V…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/la-justice-francaise-ordonne-lextradition-de-lantifasciste-gino-vers-lallemagne-20260820_JSXH5YJZKNFUZKS4QUTNJGVIBM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T15:34:29+00:00",
+      "titre": "Pour préparer sa rentrée, Marine Le Pen avance bille en dette",
+      "dek": "La candidate du Rassemblement national à la présidentielle cible le «bilan implacable de dix ans de macronisme» en matière économique. Une manière comme le font les insoumis, de préparer les débats budgétaires à venir et ceux de la campagne pour 2027.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/pour-preparer-sa-rentree-marine-le-pen-avance-bille-en-dette-20260820_XYTLETUXSNE2TFQUGIHGZBA4UM/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T15:32:41+00:00",
+      "titre": "Pour leurs universités d’été, les partis de gauche font leur rentrée en ordre dispersé",
+      "dek": "À huit mois du premier tour, communistes, insoumis et écologistes se réunissent à l’occasion de leurs universités d’été respectives pour plancher sur des questions stratégiques et de fond. Avec un but&nbsp;: préparer les enjeux électoraux à venir.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/election-presidentielle/pour-leurs-universites-dete-les-partis-de-gauche-font-leur-rentree-en-ordre-disperse"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T15:29:34+00:00",
+      "titre": "Un des deux journalistes français détenus au Togo a été placé en «résidence surveillée»",
+      "dek": "Gaël Mocaër et Sebastian Perez Pezzani, et leur guide togolais Fred Vedomey, ont été incarcérés il y a trois semaines. L’un d’eux a été placé jeudi en «résidence surveillée», tandis que les motifs de leur détention restent flous. L’affaire intervient sur fond de tensions entre Lo…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/200826/un-des-deux-journalistes-francais-detenus-au-togo-ete-place-en-residence-surveillee"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "20 Aug 2026",
+      "date_iso": "2026-08-20T14:52:06+00:00",
+      "titre": "Présidentielle 2027 : les taux d’emprunt explosent et font réagir les politiques",
+      "dek": "Marine Le Pen, David Lisnard, Mathilde Panot... Les réactions et inquiétudes des politiques se multiplient face à un taux d’emprunt record que connaît la France.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-les-taux-d-emprunt-explosent-et-font-reagir-les-politiques-20260820"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -44,17 +132,6 @@
       "dek": "À quelques mois de l’élection présidentielle, cette Fête de l’Humanité pourrait être la dernière, avant l’arrivée au pouvoir&nbsp;du Rassemblement national. Un péril contre lequel ses participants luttent plus que jamais.",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/fete-de-lhumanite/les-rendez-vous-antifascistes-de-la-fete-de-lhumanite-2026"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T13:06:28+00:00",
-      "titre": "Présidentielle 2027 : Les taux d’emprunt explosent et font réagir les politiques",
-      "dek": "Marine Le Pen, David Lisnard, Mathilde Panot... Les réactions et inquiétudes des politiques se multiplient face à un taux d’emprunt record que connaît la France.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-les-taux-d-emprunt-explosent-et-font-reagir-les-politiques-20260820"
     },
     {
       "tag": "Politique",
@@ -473,83 +550,6 @@
       "dek": "Après l’échec de la primaire des unitaires, les verts vont devoir faire face à un douloureux dilemme. Pour éviter la scission, leur cheffe Marine Tondelier maintient pour l’instant sa candidature à la présidentielle, alors que leurs journées d’été s’ouvrent à Grenoble ce jeudi.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/ecarteles-entre-les-insoumis-et-les-sociaux-democrates-le-supplice-des-ecologistes-pour-2027-20260819_6RVGHXUARJESHHUT72M5DKMBAM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T18:00:54+00:00",
-      "titre": "Présidentielle 2027 : des Ecologistes plus perdus que jamais",
-      "dek": "Les verts font leur rentrée ce jeudi dans leur fief de Grenoble. Si Marine Tondelier reste pour l’instant leur candidate à la présidentielle, Yannick Jadot et Sandrine Rousseau défendent dans «Libération» deux options d’alliances opposées.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/editorial/presidentielle-2027-des-ecologistes-plus-perdus-que-jamais-20260819_MAWCC6XZNBFB5PGX5EFXPIWIZ4/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T18:00:16+00:00",
-      "titre": "Un coup K.O. contre l’abstention et l’extrême droite",
-      "dek": "Dimanche 30 août, à Saint-Denis, des habitantes et des habitants lancent l’Alliance des Numéros 10. Une démarche née en Seine-Saint-Denis, mais qui s’adresse aux quartiers populaires de toute la France.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=500499"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T17:55:37+00:00",
-      "titre": "Édito. Mort d'Yvette Roudy : elle s'était battue pour qu'il soit remboursé, le combat pour le droit à l'IVG, toujours d'actualité",
-      "dek": "Yvette Roudy, ancienne ministre des Droits des femmes, est décédée mardi à 97 ans. En 1982, elle obtenait le remboursement de l'IVG par la Sécurité sociale. Près de 50 ans plus tard, le droit à l'avortement est inscrit dans la Constitution, mais son accès reste inégal et les oppo…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-mort-d-yvette-roudy-elle-s-etait-battue-pour-qu-il-soit-rembourse-le-combat-pour-le-droit-a-l-ivg-toujours-d-actualite_8070527.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T17:30:00+00:00",
-      "titre": "Présidentielle 2027 : se voyant déjà au 2e tour, Jean-Luc Mélenchon maintient la pression sur ses anciens partenaires de gauche",
-      "dek": "DÉCRYPTAGE - Le leader Insoumis, qui vient de fêter ses 75 ans, fera sa rentrée ce week-end aux universités d’été de son mouvement dans la Drôme, où il prononcera dimanche un discours de clôture.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-se-voyant-deja-au-2e-tour-jean-luc-melenchon-maintient-la-pression-sur-ses-anciens-partenaires-de-gauche-20260819"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T17:08:53+00:00",
-      "titre": "Que lisent les politiques cet été ? Les conseils de lecture de 6 personnalités de la gauche pour bien préparer la rentrée",
-      "dek": "Ils sont communistes, insoumis, écologistes, socialistes, et ont mis l’été à profit pour, à travers de riches lectures, prendre du recul, penser le monde et anticiper la rentrée politique. Voici leurs recommandations d’ouvrages émancipateurs pour les lectrices et les lecteurs de …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/arthur-delaporte/que-lisent-les-politiques-cet-ete-les-conseils-de-lecture-de-6-personnalites-de-la-gauche-pour-bien-preparer-la-rentree"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T16:51:40+00:00",
-      "titre": "Baisse de la CSG, renforcement d’EDF et «capitalisation» publique des retraites : Philippe Brun présente son programme économique pour 2027",
-      "dek": "Mercredi 19 août, le député de l’Eure, candidat à la primaire socialiste pour la présidentielle, a formulé plusieurs propositions pour «augmenter la production et la croissance en France».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/baisse-de-la-csg-renforcement-dedf-et-capitalisation-publique-des-retraites-philippe-brun-presente-son-programme-economique-pour-la-presidentielle-20260819_3YSRSKRHOVFP5CTEUMQI2INDQ4/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "19 Aug 2026",
-      "date_iso": "2026-08-19T16:37:09+00:00",
-      "titre": "Budget 2027 : la droite agite la peur de la dette pour imposer l’austérité",
-      "dek": "Les libéraux brandissent de nouveau cet épouvantail pour s’attaquer à la dépense publique. Il est pourtant possible de financer vertueusement nos emprunts, en sortant la dette des griffes des marchés financiers, grâce à un pôle public bancaire et une mobilisation de l’épargne pop…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/budget/budget-2027-la-droite-agite-la-peur-de-la-dette-pour-imposer-lausterite"
     }
   ]
 }
