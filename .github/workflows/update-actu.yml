@@ -27,6 +27,14 @@ jobs:
       - name: Fetch actu.json
         run: python scripts/fetch_actu.py
 
+      - name: Poster les nouveaux articles sur les réseaux sociaux
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          MASTODON_INSTANCE_URL: ${{ secrets.MASTODON_INSTANCE_URL }}
+          MASTODON_ACCESS_TOKEN: ${{ secrets.MASTODON_ACCESS_TOKEN }}
+        run: python scripts/post_social.py
+
       - name: Commit & push si changement
         run: |
           git config user.name "la-boussole-bot"
