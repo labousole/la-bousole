@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-21T17:06:23+00:00",
+  "generated_at": "2026-08-21T20:54:06+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T18:35:02+00:00",
+      "titre": "Rentrée des insoumis : Jean-Luc Mélenchon prend son clash en patience",
+      "dek": "A huit mois de l’élection présidentielle, le chef de file LFI va-t-il arrondir les angles pour rassembler autour de lui ou conserver sa radicalité pour asseoir son socle ? Une équation de plus en plus périlleuse.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/editorial/rentree-des-insoumis-jean-luc-melenchon-prend-son-clash-en-patience-20260821_4ARSKWYNNJBVLBMIKXHXBMNBIY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T18:30:48+00:00",
+      "titre": "Présidentielle 2027 : clivant ou rassembleur, Jean-Luc Mélenchon sème le double",
+      "dek": "En meeting aux universités d’été des insoumis ce dimanche, le quadruple candidat à la présidentielle, qui a enchaîné les polémiques, semble se montrer plus fédérateur à l’égard de ses potentiels alliés verts voire communistes.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-clivant-ou-rassembleur-jean-luc-melenchon-seme-le-double-20260821_OVKRXT2O3RE6BPJWKTFNF4OFQM/"
+    },
     {
       "tag": "Droite",
       "color": "#3A5A8C",
@@ -528,28 +550,6 @@
       "dek": "À huit mois du premier tour, communistes, insoumis et écologistes se réunissent à l’occasion de leurs universités d’été respectives pour plancher sur des questions stratégiques et de fond. Avec un but&nbsp;: préparer les enjeux électoraux à venir.",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/election-presidentielle/pour-leurs-universites-dete-les-partis-de-gauche-font-leur-rentree-en-ordre-disperse"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T15:29:34+00:00",
-      "titre": "Un des deux journalistes français détenus au Togo a été placé en «résidence surveillée»",
-      "dek": "Gaël Mocaër et Sebastian Perez Pezzani, et leur guide togolais Fred Vedomey, ont été incarcérés il y a trois semaines. L’un d’eux a été placé jeudi en «résidence surveillée», tandis que les motifs de leur détention restent flous. L’affaire intervient sur fond de tensions entre Lo…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/200826/un-des-deux-journalistes-francais-detenus-au-togo-ete-place-en-residence-surveillee"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T14:52:06+00:00",
-      "titre": "Présidentielle 2027 : les taux d’emprunt explosent et font réagir les politiques",
-      "dek": "Marine Le Pen, David Lisnard, Mathilde Panot... Les réactions et inquiétudes des politiques se multiplient face à un taux d’emprunt record que connaît la France.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-les-taux-d-emprunt-explosent-et-font-reagir-les-politiques-20260820"
     }
   ]
 }
