@@ -1,6 +1,182 @@
 {
-  "generated_at": "2026-08-21T05:20:30+00:00",
+  "generated_at": "2026-08-21T09:54:50+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T09:43:47+00:00",
+      "titre": "À Lussas, l’incandescence d’un certain cinéma politique argentin",
+      "dek": "Cinquante ans après le début de la dernière dictature argentine, les États généraux de Lussas, qui s’achèvent le 22 août, ont montré une sélection remuante de films tournés dans des années troubles, souvent dans la clandestinité, sur fond de répression ouvrière et de luttes armée…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/210826/lussas-l-incandescence-d-un-certain-cinema-politique-argentin"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T09:33:17+00:00",
+      "titre": "Loi d'urgence agricole : \"J'ai toujours été contre\" les néonicotinoïdes, \"mais voter quoi que ce soit dans une niche parlementaire n’aura aucune incidence\", selon Sylvain Maillard",
+      "dek": "La France insoumise a fait savoir qu'elle utiliserait sa niche parlementaire pour faire abroger l'introduction des néonicotinoïdes prévue dans la loi d'urgence agricole. \"Un effet d'annonce\", dénonce le député EPR de Paris, vendredi sur franceinfo.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-j-ai-toujours-ete-contre-les-neonicotinoides-mais-voter-quoi-que-ce-soit-dans-une-niche-parlementaire-n-aura-aucune-incidence-selon-sylvain-maillard_8156063.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T09:30:07+00:00",
+      "titre": "Présidentielle 2027 : la nécessité d’une alternative à gauche",
+      "dek": "Les sociaux-démocrates et les écologistes ne parviennent toujours pas à concurrencer la candidature de Jean-Luc Mélenchon. C’est pourtant indispensable : à défaut, l’élection pourrait se résumer à une opposition des formations antisystème.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/08/21/presidentielle-2027-la-necessite-d-une-alternative-a-gauche_6751911_3232.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T09:28:28+00:00",
+      "titre": "«Marre de voter pour le moins pire»: les militants écologistes restent tiraillés entre les gauches",
+      "dek": "Réunis pendant trois jours à Grenoble pour les Journées d’été des Écologistes, les militants du parti de Marine Tondelier sont divisés sur la stratégie à tenir pour la présidentielle. Entre ralliement aux différents pôles de gauche et candidature autonome, les avis s’éparpillent.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/210826/marre-de-voter-pour-le-moins-pire-les-militants-ecologistes-restent-tirailles-entre-les-gauches"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T09:28:21+00:00",
+      "titre": "Franchises médicales: le gouvernement renonce à doubler les plafonds",
+      "dek": "Fin juillet, il comptait augmenter de 100 à 200 euros le montant maximal restant à la charge des patients. La ministre de la santé estime désormais que cette décision n’a pas été comprise et a «pu apparaître» brutale, dans un entretien au «Figaro» paru jeudi 20 août. «Nous avons …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/210826/franchises-medicales-le-gouvernement-renonce-doubler-les-plafonds"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T09:12:58+00:00",
+      "titre": "\"L'ordre juste\" : le slogan de Ségolène Royal en 2007",
+      "dek": "Cet été, Fabrice d'Almeida sonde les slogans des élections présidentielles sous la Ve République. De quoi se rafraîchir la mémoire avant l'élection de 2027. Aujourd'hui, retour sur les élections de 2007 avec slogan de Ségolène Royal : \"L'ordre juste\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/l-ordre-juste-le-slogan-de-segolene-royal-en-2007_8070539.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T09:03:26+00:00",
+      "titre": "Gérald Darmanin au côté des victimes de Joël Le Scouarnec ce vendredi : \"Pourquoi communiquer maintenant ?\", interroge leur porte-parole",
+      "dek": "Les victimes de Joël Le Scouarnec doivent rencontrer le garde des Sceaux à Vannes, dans le Morbihan, ce vendredi 21 août. Elles espèrent un vrai travail de fond pour augmenter les moyens de la justice. Le chirurgien a été condamné au printemps 2025 pour avoir commis des violences…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/gerald-darmanin-au-cote-des-victimes-de-joel-le-scouarnec-ce-vendredi-pourquoi-communiquer-maintenant-interroge-leur-porte-parole_8155988.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T08:27:35+00:00",
+      "titre": "Présidentielle 2027 : \"Bien sûr que notre main est tendue, qu'on est prêts à discuter du programme. Par contre, nous ne sommes pas prêts à perdre du temps\", prévient Manon Aubry",
+      "dek": "L'eurodéputée La France insoumise répond ce vendredi 21 août sur franceinfo à la proposition de la cheffe des Ecologistes, Marine Tondelier, qui souhaite des rencontres bilatérales avec les autres forces de gauche avant la présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-21-aout-2026_8130782.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T07:41:39+00:00",
+      "titre": "Affaire Le Scouarnec : \"On espère pouvoir être dans un échange collaboratif\" avec Gérald Darmanin, confie la porte-parole du collectif des victimes de Joël Le Scouarnec",
+      "dek": "En amont de sa rencontre avec le garde des Sceaux à Vannes ce vendredi, Manon Lemoine, porte-parole du collectif, elle-même victime de l'ancien chirurgien, se confie dans \"La Matinale\" sur ses attentes. \"On s'est présentés à plusieurs reprises place Vendôme, mais Monsieur le mini…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/affaire-le-scouarnec-on-espere-pouvoir-etre-dans-un-echange-collaboratif-avec-gerald-darmanin-confie-la-porte-parole-du-collectif-des-victimes-de-joel-le-scouarnec_8155904.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T07:35:44+00:00",
+      "titre": "Bataille pour le leadership à gauche avant la présidentielle",
+      "dek": "À huit mois de l'élection présidentielle, tous cherchent à être le centre de gravité de la gauche. Des écologistes aux insoumis en passant par les socialistes, en cette fin d'été, la rentrée politique a un parfum de bataille.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/bataille-pour-le-leadership-a-gauche-avant-la-presidentielle_8155844.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T07:35:28+00:00",
+      "titre": "\"Il est temps de nettoyer les écuries d’Augias\" : un message de Marine Le Pen sur la dette française met en colère le camp présidentiel",
+      "dek": "La candidate RN à la présidentielle dénonce les taux d'intérêts records de la dette française, dans une publication sur X. En retour, d'anciens ministres d'Emmanuel Macron pointent les mesures d'économies auxquelles le Rassemblement national s'est toujours opposé.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/marine-le-pen/il-est-temps-de-nettoyer-les-ecuries-d-augias-un-message-de-marine-le-pen-sur-la-dette-francaise-met-en-colere-le-camp-presidentiel_8155859.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T07:27:11+00:00",
+      "titre": "Rentrée de LFI : l’été sous pression de Bally Bagayoko",
+      "dek": "Mis en cause dans une énième polémique, le 4 août, pour des soupçons d’emploi fictif à la RATP, le maire de Saint-Denis-Pierrefitte sort d’une saison estivale loin d’avoir été de tout repos.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/rentree-de-lfi-lete-sous-pression-de-bally-bagayoko-20260821_HGOCOSJMVNEIPAKWDB4ADXVJ24/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T06:54:27+00:00",
+      "titre": "L'avertissement de la direction générale des finances publiques : le non-vote d'un budget aura de lourdes conséquences pour la France",
+      "dek": "Une prolongation de la loi spéciale pourrait aggraver le déficit et fortement limiter la marge de manœuvre du prochain gouvernement, explique la DGFiP dans un rapport à l'adresse de la classe politique.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/l-avertissement-de-la-direction-generale-des-finances-publiques-le-non-vote-d-un-budget-aura-de-lourdes-consequences-pour-la-france_8129801.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T06:13:03+00:00",
+      "titre": "Franchises médicales : \"Il faut que le gouvernement renonce à toute augmentation\", estime la CGT",
+      "dek": "\"Ces franchises, même minimes, mettent à mal le principe de la Sécurité sociale de rembourser les soins de ceux qui en ont besoin\", ajoute Denis Gravouil, de la CGT, sur franceinfo. La veille, le gouvernement a abandonné le doublement des franchises médicales.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/sante/franchises-medicales-il-faut-que-le-gouvernement-renonce-a-toute-augmentation-estime-la-cgt_8155877.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T06:09:31+00:00",
+      "titre": "Gabriel Attal visé par deux séries de fausses informations en ligne, soupçonnées d'être liées à l'ingérence russe dans la campagne présidentielle",
+      "dek": "Elles portent à quatre, depuis le début du mois d'août, le nombre de campagnes visant le candidat Renaissance à la présidentielle, qui avait déjà déposé plainte.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/gabriel-attal/gabriel-attal-candidat-a-la-presidentielle-vise-par-deux-nouvelles-ingerences-attribuees-a-la-russie_8155841.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T06:08:00+00:00",
+      "titre": "«J’ai voté pour Mélenchon et…» Paroles d’électeurs, convaincus ou non, de revoter pour lui en 2027",
+      "dek": "Que ce soit parce qu’ils sont séduits par le programme, détestent ses provocations ou qu’ils pensent qu’il sera «utile» de voter ou de se détourner du candidat insoumis à la présidentielle, plusieurs électeurs expliquent leur choix à «Libé».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/jai-vote-pour-melenchon-et-paroles-delecteurs-convaincus-ou-non-de-revoter-pour-lui-en-2027-20260821_PCY7XAQRRBH3LMXSXXLSHLSSMQ/"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -19,9 +195,20 @@
       "date": "21 Aug 2026",
       "date_iso": "2026-08-21T04:30:07+00:00",
       "titre": "Après les canicules et les incendies, le RN rattrapé par son absence de réflexion écologique",
-      "dek": "Si ses porte-parole ont cessé de contester la réalité du réchauffement climatique, le parti, très critique des écologistes et du gouvernement, peine à développer un discours crédible sur l’adaptation à la crise.",
+      "dek": "Si ses porte-parole ont cessé de contester la réalité du réchauffement climatique, le parti d’extrême droite, très critique des écologistes et du gouvernement, peine à développer un discours crédible sur l’adaptation à la crise.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/21/apres-les-canicules-et-les-incendies-le-rassemblement-national-rattrape-par-son-absence-de-reflexion-ecologique_6751610_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T04:10:00+00:00",
+      "titre": "Rentrée à gauche : LFI voit le vert à moitié plein",
+      "dek": "Alors qu’elles ont démarré jeudi leurs universités d’été avec l’ambition d’afficher leur «force», les troupes de Jean-Luc Mélenchon poursuivent leur opération séduction des Ecologistes.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/rentrees-a-gauche-lfi-voit-le-vert-a-moitie-plein-20260821_IAPOUCK6F5HWDOJX5BFHOSWWPA/"
     },
     {
       "tag": "Politique",
@@ -51,7 +238,7 @@
       "source": "Le Monde – Politique",
       "date": "21 Aug 2026",
       "date_iso": "2026-08-21T03:30:30+00:00",
-      "titre": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques muets sur l’urgence climatique",
+      "titre": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques incapables de répondre à l’urgence climatique",
       "dek": "Alors que la France subit une série d’événements extrêmes, ni le gouvernement ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalement le défi climatique.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html"
@@ -63,7 +250,7 @@
       "date": "21 Aug 2026",
       "date_iso": "2026-08-21T02:30:00+00:00",
       "titre": "Jean Jouzel, climatologue : « Il n’y a pas, chez les candidats à la présidentielle, une véritable prise de conscience de la réalité du réchauffement climatique »",
-      "dek": "Le paléoclimatologue, ancien vice-président du GIEC, craint que la question climatique ne soit reléguée au second plan lorsque les températures redescendront. Dans un entretien au « Monde », il appelle les prétendants à l’Elysée à « prendre la mesure de ce défi planétaire ».",
+      "dek": "Le paléoclimatologue, ancien vice-président du groupe scientifique du GIEC, craint que la question climatique ne soit reléguée au second plan lorsque les températures redescendront. Dans un entretien au « Monde », il appelle les prétendants à l’Elysée à « prendre la mesure de ce …",
       "avis": null,
       "lien": "https://www.lemonde.fr/planete/article/2026/08/21/jean-jouzel-climatologue-il-n-y-a-pas-chez-les-candidats-a-la-presidentielle-une-veritable-prise-de-conscience-de-la-realite-du-rechauffement-climatique_6751428_3244.html"
     },
@@ -95,8 +282,8 @@
       "source": "Le Monde – Politique",
       "date": "20 Aug 2026",
       "date_iso": "2026-08-20T19:07:56+00:00",
-      "titre": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat, annonce Stéphanie Rist",
-      "dek": "Pour freiner la croissance des dépenses de santé, le gouvernement avait annoncé il y a près d’un mois le doublement du montant maximum des franchises, de 100 à 200 euros par an. La ministre de la santé a admis que ce choix avait pu apparaître « brutal ».",
+      "titre": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat et promet une future réforme « juste »",
+      "dek": "Pour freiner la croissance des dépenses de santé, le gouvernement avait annoncé il y a près d’un mois le doublement du montant maximum des franchises, de 100 à 200 euros par an. La ministre de la santé, Stéphanie Rist, a admis que ce choix avait pu apparaître « brutal ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/20/franchises-medicales-le-gouvernement-renonce-au-doublement-des-plafonds-dans-l-immediat-annonce-stephanie-rist_6751296_823448.html"
     },
@@ -363,193 +550,6 @@
       "dek": "Alors que l’archipel de l’océan Indien est devenu une destination phare de la route migratoire des ressortissants de la région des Grands Lacs, le candidat à la présidentielle veut y suspendre les demandes d’asile et le droit du sol.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/edouard-philippe-dit-vouloir-fermer-totalement-les-vannes-de-limmigration-a-mayotte-20260820_N4SWPHGJ3RHWPH4KE5HYPOLGTE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T09:42:07+00:00",
-      "titre": "Attentat antisémite de Munich en 1970 : un suspect d’extrême droite identifié, cinquante-six ans après les faits",
-      "dek": "L’homme, âgé de 25 ans au moment des faits et décédé en 2020, écoutait des discours d’Hitler et faisait des exercices de tir à Obersalzberg, station touristique dans les montagnes bavaroises où le Führer avait sa résidence secondaire.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/08/20/attentat-antisemite-de-munich-en-1970-un-suspect-d-extreme-droite-identifie-cinquante-six-ans-apres-les-faits_6750823_3210.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T09:33:28+00:00",
-      "titre": "François Fillon suspendu de la Légion d’honneur après sa condamnation pour emplois fictifs",
-      "dek": "L’ancien premier ministre a été radié pour dix ans de l’ordre de la Légion d’honneur après la confirmation définitive de sa condamnation, en février, dans le dossier des emplois fictifs de son épouse.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/200826/francois-fillon-suspendu-de-la-legion-d-honneur-apres-sa-condamnation-pour-emplois-fictifs"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T09:24:52+00:00",
-      "titre": "Le Scouarnec: information judiciaire ouverte pour dix nouveaux viols et quarante agressions sexuelles",
-      "dek": "Le parquet de Lorient a annoncé mercredi 19 août l’ouverture d’une information judiciaire pour quarante nouvelles agressions sexuelles et dix viols contre Joël Le Scouarnec, ex-chirurgien condamné en mai 2025 pour près de 300 viols et agressions sexuelles.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/200826/le-scouarnec-information-judiciaire-ouverte-pour-dix-nouveaux-viols-et-quarante-agressions-sexuelles"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T09:11:53+00:00",
-      "titre": "Après le piratage du fisc, Sébastien Lecornu veut créer une «nouvelle unité cyber» d’intervention rapide",
-      "dek": "Le Premier ministre a demandé à l’Agence nationale de la sécurité des systèmes d’information de proposer d’ici à vendredi une équipe capable d’intervenir en première ligne en cas de suspicion de cyberattaque contre l’Etat.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/apres-le-piratage-du-fisc-sebastien-lecornu-souhaite-creer-une-nouvelle-unite-cyber-de-letat-francais-20260820_NU3GRX3CG5FLJOXVHN7A7PDJZA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T09:09:41+00:00",
-      "titre": "Vaucluse : un millier de personnes à la marche blanche en hommage à Katerina, une mère de famille tuée à Bollène",
-      "dek": "Son ex-conjoint, ex-candidat RN, a été mis en examen pour \"meurtre par conjoint\" et placé en détention provisoire. Une marche blanche était organisée mercredi à Bollène, rapporte ICI Vaucluse.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/vaucluse-un-millier-de-personnes-a-la-marche-blanche-en-hommage-a-katerina-une-mere-de-famille-tuee-a-bollene_8154686.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T08:46:52+00:00",
-      "titre": "Canicule, incendies, budget... Le \"8h30 franceinfo\" de Franck Allisio",
-      "dek": "Le député RN des Bouches-du-Rhône était l'invité du \"8h30 franceinfo\", jeudi 20 août 2026.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/canicule-incendies-budget-le-8h30-franceinfo-de-franck-allisio_8070323.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T08:46:51+00:00",
-      "titre": "Lutte contre les incendies : le RN maintient sa volonté de supprimer \"toutes les agences qui coûtent beaucoup plus que ce qu'elles rapportent\"",
-      "dek": "\"Toutes ces agences cumulées, c'est 80 milliards. Sur ces 80 milliards, nous proposons de faire une économie de 8 milliards\", justifie le député Franck Allisio, jeudi sur franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/lutte-contre-les-incendies-le-rn-maintient-sa-volonte-de-supprimer-toutes-les-agences-qui-coutent-beaucoup-plus-que-ce-qu-elles-rapportent_8154644.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T08:25:33+00:00",
-      "titre": "Régine Komokoli, élue LFI : cible d’une vague de haine raciste depuis plusieurs mois",
-      "dek": "Les vitres de son véhicule brisées avec un mot d’insulte laissé à l’intérieur, des injures racistes reçues en ligne par centaines, depuis des mois Régine Komokoli, conseillère municipale et départementale d'Ille-et-Vilaine (LFI) est la cible d’une vague de haine raciste. Elle tém…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/regine-komokoli-elue-lfi-cible-dune-vague-de-haine-raciste-depuis-plusieurs-mois"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T08:01:30+00:00",
-      "titre": "Primaire de la gauche : \"Je ne cache pas ma sympathie pour Raphaël Glucksmann…\", confie l'eurodéputé PS-Place publique François Kalfon",
-      "dek": "Invité politique du 20 août sur franceinfo, l'eurodéputé François Kalfon revient sur les enjeux de la primaire de la gauche dans l'élection présidentielle de 2027.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-jeudi-20-aout-2026_8129309.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T07:56:19+00:00",
-      "titre": "Présidentielle 2027 : Edouard Philippe veut « fermer totalement les vannes de l’immigration » à Mayotte et suspendre le droit du sol",
-      "dek": "Le favori des sondages à droite souhaite qu’un « centre de retour français soit installé dans la région, en Afrique de l’Est, afin d’éloigner rapidement et massivement les étrangers en situation irrégulière installés à Mayotte ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/20/presidentielle-2027-edouard-philippe-veut-fermer-totalement-les-vannes-de-l-immigration-a-mayotte-et-suspendre-le-droit-du-sol_6750751_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T07:27:27+00:00",
-      "titre": "\"Il est vrai que la gauche manque, pour le moment, d'incarnation forte\", observe le politologue Bruno Cautrès",
-      "dek": "Invité de \"La Matinale\" jeudi 20 août, le chercheur au Cevipof et enseignant à Sciences Po fait le point sur la position de la gauche dans la course à l'Elysée, alors que les Écologistes et La France insoumise lancent leurs universités d'été.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/il-est-vrai-que-la-gauche-manque-pour-le-moment-d-incarnation-forte-observe-le-politologue-bruno-cautres_8154560.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T07:00:00+00:00",
-      "titre": "Présidentielle 2027 : au PS, l’outsider Philippe Brun entend peser dans la primaire",
-      "dek": "DÉCRYPTAGE - Le député de l’Eure veut placer le pouvoir d’achat au cœur du débat et espère jouer les trouble-fêtes face au duel annoncé entre Olivier Faure et Raphaël Glucksmann.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-au-ps-l-outsider-philippe-brun-entend-peser-dans-la-primaire-20260820"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T06:25:31+00:00",
-      "titre": "Présidentielle 2027 : Les Ecologistes tiraillés entre Jean-Luc Mélenchon et Raphaël Glucksmann",
-      "dek": "Alors que le PS a douché les espoirs d’une primaire de toute la gauche hors LFI, la cheffe de file des Ecologistes, Marine Tondelier, a appelé à rouvrir les discussions. Un appel qui a mis au jour les fractures idéologiques internes d’un parti déchiré entre deux lignes politiques…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/presidentielle-2027-les-ecologistes-tirailles-entre-jean-luc-melenchon-et-raphael-glucksmann_6750679_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T06:08:37+00:00",
-      "titre": "L'ancien Premier ministre François Fillon suspendu de la Légion d'honneur après sa condamnation pour emplois fictifs",
-      "dek": "Selon un décret publié jeudi au Journal officiel, le candidat à la présidentielle de la droite en 2017 a aussi été suspendu pour dix ans de l'ordre national du Mérite, dont il est grand-croix, plus d'un an après avoir écopé de quatre ans de prison avec sursis.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/francois-fillon/francois-fillon-suspendu-de-la-legion-d-honneur-apres-sa-condamnation-pour-emplois-fictifs_8154512.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T06:08:37+00:00",
-      "titre": "François Fillon suspendu de la Légion d'honneur après sa condamnation pour emplois fictifs",
-      "dek": "Selon un décret publié jeudi au Journal officiel, il a aussi été suspendu pour dix ans de l'ordre national du Mérite, dont il est grand'croix, plus d'un an après avoir écopé de quatre ans de prison avec sursis.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/francois-fillon/francois-fillon-suspendu-de-la-legion-d-honneur-apres-sa-condamnation-pour-emplois-fictifs_8154512.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T06:04:11+00:00",
-      "titre": "Comment la philosophie contribue à l’idée de réparer l’«injustice historique» d’Haïti",
-      "dek": "À partir d’une étude de la «double dette» imposée en 1825 par la France à Port-au-Prince en échange de la reconnaissance de son indépendance, Magali Bessone élabore les bases d’une justice «postcoloniale», dans un livre stimulant qui vient de paraître intitulé «Ce que nous devons…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/200826/comment-la-philosophie-contribue-l-idee-de-reparer-l-injustice-historique-d-haiti"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T05:53:48+00:00",
-      "titre": "Cyberattaques en série : Sébastien Lecornu annonce la création d'une unité spéciale",
-      "dek": "Les cyberattaques contre les services publics se multiplient, poussant Sébastien Lecornu à créer une nouvelle unité cyber d'urgence. Après le vol des données fiscales de 700 000 Français, l'État durcit sa réponse opérationnelle pour sécuriser des ministères jugés vulnérables.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-en-serie-sebastien-lecornu-annonce-la-creation-d-une-unite-speciale_8154509.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
