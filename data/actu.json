@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-08-21T09:54:50+00:00",
+  "generated_at": "2026-08-21T14:06:01+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T13:49:46+00:00",
+      "titre": "Marine Tondelier, la cheffe des Ecologistes, appelle de nouveau à l’union de la gauche pour la présidentielle de 2027",
+      "dek": "La candidate met en garde contre la division de la gauche et appelle à dépasser les querelles internes pour bâtir une alternative crédible face à l’extrême droite en 2027.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/21/presidentielle-2027-la-cheffe-des-ecologistes-marine-tondelier-appelle-de-nouveau-a-l-union-de-la-gauche_6752216_6205049.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T13:38:17+00:00",
+      "titre": "«Pour sortir de l’imaginaire touristique, il faut revaloriser la vie quotidienne»",
+      "dek": "Le tourisme a-t-il seulement encore un avenir? En partie responsable de la crise climatique, il est aussi la victime de ses effets, des grands feux à l’assèchement des ressources. Pourtant, notre société a du mal à renoncer à l’appel du voyage et des vacances ailleurs, explique l…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/210826/pour-sortir-de-l-imaginaire-touristique-il-faut-revaloriser-la-vie-quotidienne"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T13:27:51+00:00",
+      "titre": "Le non-vote d'un budget aura de lourdes conséquences pour la France, avertit un rapport",
+      "dek": "Une prolongation de la loi spéciale pourrait aggraver le déficit et fortement limiter la marge de manœuvre du prochain gouvernement, explique l'Inspection générale des finances dans un rapport à l'adresse de la classe politique.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/l-avertissement-de-la-direction-generale-des-finances-publiques-le-non-vote-d-un-budget-aura-de-lourdes-consequences-pour-la-france_8129801.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T12:50:22+00:00",
+      "titre": "\"On ne veut plus indexer les retraites sur l'inflation mais on veut indexer les franchises [médicales] des personnes malades sur l'inflation\", fustige France Assos Santé",
+      "dek": "La ministre de la Santé, Stéphanie Rist, a annoncé jeudi 23 juillet, l'augmentation du plafond annuel des franchises médicales sur les consultations et les médicaments, un coût supplémentaire pour de nombreux malades.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/sante/on-ne-veut-plus-indexer-les-retraites-sur-l-inflation-mais-on-veut-indexer-les-franchises-medicales-des-personnes-malades-sur-l-inflation-fustige-france-assos-sante_8156282.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T10:43:31+00:00",
+      "titre": "La Mairie de Paris demande au Quai d’Orsay d’enquêter sur la Maison de l’Argentine, et son nouveau directeur lié à l’extrême droite",
+      "dek": "Santiago Muzio a pris la tête de la Maison de l’Argentine, située dans la Cité internationale universitaire de Paris, en 2024, après avoir dirigé l’antenne de Madrid de l’Institut de sciences sociales, économiques et politiques, université privée fondée par la députée européenne …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/08/21/la-mairie-de-paris-demande-au-quai-d-orsay-d-enqueter-sur-la-maison-de-l-argentine-situee-dans-la-cite-internationale-universitaire-de-paris_6752012_3210.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T10:02:45+00:00",
+      "titre": "Des élections législatives annoncées en Serbie",
+      "dek": "Le président Aleksandar Vučić a annoncé jeudi 20 août que des élections législatives anticipées devraient avoir lieu en octobre, en évoquant deux dates possibles. Depuis plus d’un an et demi, des manifestants opposés au gouvernement réclament un nouveau scrutin.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/210826/des-elections-legislatives-annoncees-en-serbie"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T09:50:50+00:00",
+      "titre": "\"Rien n'est encore chiffré\" : les malades saluent l'abandon du doublement des franchises médicales mais redoutent toujours une hausse",
+      "dek": "La ministre de la Santé a annoncé jeudi qu'elle ne mettrait pas en œuvre le doublement des franchises médicales, annoncé fin juillet. Mais les patients attendent encore des précisions.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/sante/rien-n-est-encore-chiffre-les-malades-saluent-l-abandon-du-doublement-des-franchises-medicales-mais-redoutent-toujours-une-hausse_8156048.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -54,7 +131,7 @@
       "titre": "Franchises médicales: le gouvernement renonce à doubler les plafonds",
       "dek": "Fin juillet, il comptait augmenter de 100 à 200 euros le montant maximal restant à la charge des patients. La ministre de la santé estime désormais que cette décision n’a pas été comprise et a «pu apparaître» brutale, dans un entretien au «Figaro» paru jeudi 20 août. «Nous avons …",
       "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/210826/franchises-medicales-le-gouvernement-renonce-doubler-les-plafonds"
+      "lien": "https://www.mediapart.fr/journal/france/210826/franchises-medicales-le-gouvernement-renonce-doubler-les-plafonds"
     },
     {
       "tag": "Politique",
@@ -165,6 +242,17 @@
       "dek": "Elles portent à quatre, depuis le début du mois d'août, le nombre de campagnes visant le candidat Renaissance à la présidentielle, qui avait déjà déposé plainte.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/gabriel-attal/gabriel-attal-candidat-a-la-presidentielle-vise-par-deux-nouvelles-ingerences-attribuees-a-la-russie_8155841.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T06:08:00+00:00",
+      "titre": "«J’ai voté pour Mélenchon et…» : Paroles d’électeurs, convaincus ou non, de revoter pour lui en 2027",
+      "dek": "Que ce soit parce qu’ils sont séduits par le programme, détestent ses provocations ou qu’ils pensent qu’il sera «utile» de voter ou de se détourner du candidat insoumis à la présidentielle, plusieurs électeurs expliquent leur choix à «Libé».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/jai-vote-pour-melenchon-et-paroles-delecteurs-convaincus-ou-non-de-revoter-pour-lui-en-2027-20260821_PCY7XAQRRBH3LMXSXXLSHLSSMQ/"
     },
     {
       "tag": "Politique",
@@ -462,94 +550,6 @@
       "dek": "L'ancien chirurgien, déjà condamné pour près de 300 viols et agressions sexuelles, est à nouveau visé par une information judiciaire concernant 10 viols et 40 agressions sexuelles.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/affaire-le-scouarnec-un-collectif-de-victimes-redoute-une-posture-politique-de-gerald-darmanin-lors-d-une-rencontre-en-bretagne-vendredi_8154971.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T12:46:16+00:00",
-      "titre": "Cour des comptes : un rapport interne appelle à une « vigilance accrue » sur la liberté d’expression des magistrats de l’institution",
-      "dek": "Missionné par Amélie de Montchalin, l’ancien premier président de la Cour des comptes Didier Migaud a remis début juillet son rapport consacré à l’indépendance des juridictions financières. Ses conclusions inquiètent une partie des juges de la rue Cambon.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/cour-des-comptes-un-rapport-interne-appelle-a-une-vigilance-accrue-sur-la-liberte-d-expression-des-magistrats-de-l-institution_6750972_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T12:10:02+00:00",
-      "titre": "Piratage du site des impôts : la cybersécurité de l’Etat est une affaire de volonté politique",
-      "dek": "Au-delà des annonces de court terme du premier ministre, l’Etat ne pourra faire l’économie d’efforts supplémentaires pour améliorer sa protection. Longs, coûteux, ceux-ci vont nécessiter une solide volonté politique.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/pixels/article/2026/08/20/piratage-du-site-des-impots-la-cybersecurite-de-l-etat-est-une-affaire-de-volonte-politique_6750968_4408996.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T12:00:00+00:00",
-      "titre": "Il n’y a plus une seconde à perdre pour une union large de la gauche",
-      "dek": "L’urgence climatique ne nous permet plus de nous diviser. L’écologie, associée à une politique sociale radicale, doit désormais structurer notre méthode pour les mois à venir. Il n’y a plus une seconde à perdre.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=500505"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T11:50:33+00:00",
-      "titre": "À gauche, une rentrée politique avec la présidentielle 2027 en ligne de mire",
-      "dek": "À huit mois de l’élection, les universités d’été donneront le ton d’une rentrée largement dominée par 2027. Toujours divisées, les différentes formations vont tenter d’en profiter pour clarifier leurs ambitions et imposer leurs thèmes dans une campagne qui s’accélère déjà. On fai…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/la-france-insoumise/a-gauche-une-rentree-politique-avec-la-presidentielle-2027-en-ligne-de-mire"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T10:13:22+00:00",
-      "titre": "L’armée israélienne reconnaît avoir tiré sur la voiture de Hind Rajab, tuée à 5 ans à Gaza",
-      "dek": "Le corps de l’enfant a été retrouvé dans un véhicule criblé de balles, plusieurs jours après que la petite fille a été entendue pour la dernière fois, lors d’un long appel téléphonique avec le Croissant-Rouge palestinien, le 29 janvier 2024. L’État hébreu avait auparavant nié la …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/200826/l-armee-israelienne-reconnait-avoir-tire-sur-la-voiture-de-hind-rajab-tuee-5-ans-gaza"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T10:11:43+00:00",
-      "titre": "François Fillon déchu de la Légion d’honneur pour 10 ans",
-      "dek": "François Fillon a été suspendu de sa légion d’honneur ce jeudi 20&nbsp;août pour une durée de dix ans, après la confirmation définitive de sa condamnation dans l’affaire des emplois fictifs de son épouse, Penelope Fillon.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/francois-fillon/francois-fillon-dechu-de-la-legion-dhonneur-pour-10-ans"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T10:09:44+00:00",
-      "titre": "Gabriel Attal et Jean-Luc Mélenchon : un duel permanent, avec l'élection présidentielle en ligne de mire",
-      "dek": "L'ancien Premier ministre et le leader de La France insoumise se prennent régulièrement pour cible sur les réseaux sociaux. Un moyen de dénoncer leurs bilans et prises de position, alors que la campagne pour l'élection de 2027 est lancée.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/gabriel-attal-et-jean-luc-melenchon-un-duel-permanent-avec-l-election-presidentielle-en-ligne-de-mire_8154785.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T09:46:59+00:00",
-      "titre": "Edouard Philippe dit vouloir fermer «totalement» les «vannes de l’immigration» à Mayotte",
-      "dek": "Alors que l’archipel de l’océan Indien est devenu une destination phare de la route migratoire des ressortissants de la région des Grands Lacs, le candidat à la présidentielle veut y suspendre les demandes d’asile et le droit du sol.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/edouard-philippe-dit-vouloir-fermer-totalement-les-vannes-de-limmigration-a-mayotte-20260820_N4SWPHGJ3RHWPH4KE5HYPOLGTE/"
     }
   ]
 }
