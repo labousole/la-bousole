@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-08-21T03:31:11+00:00",
+  "generated_at": "2026-08-21T05:20:30+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T05:06:00+00:00",
+      "titre": "L’été où la terre a dit non",
+      "dek": "Cet été brûlant restera comme celui où la nature a posé un ultimatum. La terre se fissure. Elle a cessé de nourrir : l’herbe jaunit, les betteraves se flétrissent, les abricotiers ne donnent plus. Les nappes phréatiques sont à sec, les rivières réduites à un filet d’eau. Les réco…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/agriculture/lete-ou-la-terre-a-dit-non"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T04:30:07+00:00",
+      "titre": "Après les canicules et les incendies, le RN rattrapé par son absence de réflexion écologique",
+      "dek": "Si ses porte-parole ont cessé de contester la réalité du réchauffement climatique, le parti, très critique des écologistes et du gouvernement, peine à développer un discours crédible sur l’adaptation à la crise.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/21/apres-les-canicules-et-les-incendies-le-rassemblement-national-rattrape-par-son-absence-de-reflexion-ecologique_6751610_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T04:10:00+00:00",
+      "titre": "Rentrées à gauche : LFI voit le vert à moitié plein",
+      "dek": "Alors qu’elles ont démarré jeudi leurs universités d’été avec l’ambition d’afficher leur «force», les troupes de Jean-Luc Mélenchon poursuivent leur opération séduction des Ecologistes.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/rentrees-a-gauche-lfi-voit-le-vert-a-moitie-plein-20260821_IAPOUCK6F5HWDOJX5BFHOSWWPA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T04:01:39+00:00",
+      "titre": "REPORTAGE. \"Je ne peux pas vous dire quel est le bon choix\" : pour leur rentrée politique, les écologistes se divisent sur la question d'un ralliement à gauche pour la présidentielle",
+      "dek": "Face aux pressions de ses troupes, partagées entre le souhait d'un rapprochement avec Jean-Luc Mélenchon et un soutien à Raphaël Glucksmann, la cheffe du parti, Marine Tondelier, temporise et ouvre la voie à une consultation des militants pour trancher.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/reportage-je-ne-peux-pas-vous-dire-quel-est-le-bon-choix-pour-leur-rentree-politique-les-ecologistes-se-divisent-sur-la-question-d-un-ralliement-a-gauche-pour-la-presidentielle_8154497.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T03:30:30+00:00",
+      "titre": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques muets sur l’urgence climatique",
+      "dek": "Alors que la France subit une série d’événements extrêmes, ni le gouvernement ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalement le défi climatique.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -495,61 +550,6 @@
       "dek": "Les cyberattaques contre les services publics se multiplient, poussant Sébastien Lecornu à créer une nouvelle unité cyber d'urgence. Après le vol des données fiscales de 700 000 Français, l'État durcit sa réponse opérationnelle pour sécuriser des ministères jugés vulnérables.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/cyberattaques-en-serie-sebastien-lecornu-annonce-la-creation-d-une-unite-speciale_8154509.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T04:30:07+00:00",
-      "titre": "Présidentielle 2027 : Jean-Luc Mélenchon, entre radicalité et besoin de rassembler, rêve d’un duel avec l’extrême droite",
-      "dek": "Le leader de La France insoumise interviendra dans la Drôme, lors des journées d’été du mouvement, qui ont lieu du jeudi 20 au dimanche 23 août. Sans rien céder sur son programme, il tente d’apparaître rassurant et fédérateur en vue d’un possible second tour contre Marine Le Pen.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/presidentielle-2027-jean-luc-melenchon-entre-radicalite-et-besoin-de-rassembler-reve-d-un-duel-avec-l-extreme-droite_6750546_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T04:20:00+00:00",
-      "titre": "Comment les écologistes ont raté la refondation de la gauche",
-      "dek": "Avec ses bons résultats aux européennes de 2019, EE-LV a eu l’occasion, trois ans avant une présidentielle, de «recomposer» un espace politique social et écologiste autour d’eux. Depuis, la fenêtre s’est refermée.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/comment-les-ecologistes-ont-rate-la-refondation-de-la-gauche-20260820_DQR2ZJIHBBABTBPOLPCTNJPMCI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T04:00:03+00:00",
-      "titre": "Présidentielle 2027 : « Le vote utile qu’espère mobiliser Jean-Luc Mélenchon n’aura plus le même sens qu’en 2022 »",
-      "dek": "Le candidat de La France insoumise entend s’installer en tête des sondages à gauche et, ce faisant, rallier les électeurs de son camp afin d’accéder au second tour, mais ceux-ci sont divisés sur sa personnalité comme sur sa capacité à battre l’extrême droite, explique le politist…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/08/20/presidentielle-2027-le-vote-utile-qu-espere-mobiliser-jean-luc-melenchon-n-aura-plus-le-meme-sens-qu-en-2022_6750478_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T00:09:00+00:00",
-      "titre": "A Tahiti, vingt-neuf ans après la disparition de Jean-Pascal Couraud, opposant à Gaston Flosse, la juge d’instruction clôt ses investigations",
-      "dek": "L’ancien président de la Polynésie française a été entendu par la magistrate Mathilde Panici au mois de juin, dans l’enquête sur la disparition du journaliste, surnommé « JPK », un mystère vieux de trois décennies.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/08/20/a-tahiti-vingt-neuf-ans-apres-la-disparition-du-journaliste-jpk-opposant-a-gaston-flosse-la-juge-clot-ses-investigations_6750203_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T00:09:00+00:00",
-      "titre": "A Tahiti, vingt-neuf ans après la disparition du journaliste « JPK », opposant à Gaston Flosse, la juge clôt ses investigations",
-      "dek": "L’ancien président de la Polynésie française a été entendu par la magistrate au mois de juin, dans l’enquête sur la disparition de Jean-Pascal Couraud, un mystère vieux de trois décennies.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/08/20/a-tahiti-vingt-neuf-ans-apres-la-disparition-du-journaliste-jpk-opposant-a-gaston-flosse-la-juge-clot-ses-investigations_6750203_3224.html"
     }
   ]
 }
