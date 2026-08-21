@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-08-21T14:06:01+00:00",
+  "generated_at": "2026-08-21T17:06:23+00:00",
   "articles": [
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T16:47:12+00:00",
+      "titre": "«En juin 2024, les digues ont cédé»: cet électorat de droite, plus âgé et diplômé, tenté par le RN",
+      "dek": "Dans une étude pour la Fondapol, le politologue Pascal Perrineau livre une radioscopie éclairante de l’évolution récente de l’électorat du parti de Marine Le Pen.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/en-juin-2024-les-digues-ont-cede-cet-electorat-de-droite-plus-age-et-diplome-tente-par-le-rn-20260821"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T16:23:37+00:00",
+      "titre": "Le résistible retour de l’extrême droite, par Nonna Mayer",
+      "dek": "Fondé en 1972 par des nostalgiques de Vichy et des anciens Waffen-SS, le Front national a commencé son ascension électorale en 1983-1984. Depuis, elle ne s’est pas ralentie et, avec Marine Le Pen, s’approche de l’Élysée. Quels sont les ressorts français de ce retour de l’extrême …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/210826/le-resistible-retour-de-l-extreme-droite-par-nonna-mayer"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T15:27:12+00:00",
+      "titre": "Université d’été : les Verts à la croisée des chemins pour la présidentielle de 2027",
+      "dek": "À huit mois de la présidentielle, Marine Tondelier se retrouve face à un choix cornélien : maintenir une candidature écologiste autonome, rejoindre le pôle social-démocrate autour de Raphaël Glucksmann ou s’allier avec Jean-Luc Mélenchon. À Grenoble, pour les journées d’été des é…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/gauche/universite-dete-les-verts-a-la-croisee-des-chemins-pour-la-presidentielle-de-2027"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T14:08:22+00:00",
+      "titre": "Exploitées puis oubliées, elles étaient nommées «karayuki-san»",
+      "dek": "De très nombreuses jeunes femmes et filles, principalement originaires du sud du Japon, ont été envoyées dans les bordels des anciennes colonies japonaises à la fin du XIXe et au début du XXe siècle. Ce qui reste de l’histoire des «karayuki-san» est rare: tout a été effacé, ou pr…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/210826/exploitees-puis-oubliees-elles-etaient-nommees-karayuki-san"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -44,6 +88,17 @@
       "dek": "La ministre de la Santé, Stéphanie Rist, a annoncé jeudi 23 juillet, l'augmentation du plafond annuel des franchises médicales sur les consultations et les médicaments, un coût supplémentaire pour de nombreux malades.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/sante/on-ne-veut-plus-indexer-les-retraites-sur-l-inflation-mais-on-veut-indexer-les-franchises-medicales-des-personnes-malades-sur-l-inflation-fustige-france-assos-sante_8156282.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T10:43:31+00:00",
+      "titre": "Maison de l’Argentine : la Mairie de Paris demande au Quai d’Orsay d’enquêter sur son nouveau directeur lié à l’extrême droite",
+      "dek": "Santiago Muzio a pris la tête de la Maison de l’Argentine, située dans la Cité internationale universitaire de Paris, en 2024, après avoir dirigé l’antenne de Madrid de l’Institut de sciences sociales, économiques et politiques, université privée fondée par la députée européenne …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/08/21/la-mairie-de-paris-demande-au-quai-d-orsay-d-enqueter-sur-la-maison-de-l-argentine-situee-dans-la-cite-internationale-universitaire-de-paris_6752012_3210.html"
     },
     {
       "tag": "Politique",
@@ -495,61 +550,6 @@
       "dek": "Marine Le Pen, David Lisnard, Mathilde Panot... Les réactions et inquiétudes des politiques se multiplient face à un taux d’emprunt record que connaît la France.",
       "avis": null,
       "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-les-taux-d-emprunt-explosent-et-font-reagir-les-politiques-20260820"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T14:39:07+00:00",
-      "titre": "Suppression des APL, gel du RSA… Sébastien Lecornu dément certaines des rumeurs d’économies dans le budget 2027",
-      "dek": "Nombre d’idées de coupes budgétaires circulent ces dernières semaines en lien avec le futur projet de loi de finances. Le Premier ministre assure que rien n’est encore définitivement tranché en vue du tour de vis qui s’annonce cet automne.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/suppression-des-apl-gel-du-rsa-sebastien-lecornu-dement-certaines-des-rumeurs-deconomies-dans-le-budget-2027-20260820_FMHYFV4N4NE6LKVS33ET6Z5MOI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T14:00:01+00:00",
-      "titre": "Le RN veut supprimer plusieurs agences",
-      "dek": "Cet été, les incendies ont ravagé plusieurs régions françaises. Invité sur le plateau du \"8.30 franceinfo\", le député RN des Bouches-du-Rhône, Franck Allisio, a affirmé que pour réaliser des économies, le Rassemblement national réclame la suppression de l'Ademe, l'Agence de l'env…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/le-rn-veut-supprimer-plusieurs-agences_8155010.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T13:57:40+00:00",
-      "titre": "Yves Foulon, maire d’Arcachon, condamné à 5 000 euros d’amende pour menaces et violences envers son principal opposant aux municipales",
-      "dek": "L’édile avait été filmé à son insu au matin du premier tour des élections, le 15 mars, par un média en ligne. Il a aussi été condamné à verser 2 500 euros à son adversaire écologiste, Vital Baude.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/yves-foulon-maire-d-arcachon-condamne-a-5-000-euros-d-amende-pour-menaces-et-violences-envers-son-principal-opposant-aux-municipales_6751011_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T13:15:32+00:00",
-      "titre": "Les rendez-vous antifascistes de la Fête de l’Humanité 2026",
-      "dek": "À quelques mois de l’élection présidentielle, cette Fête de l’Humanité pourrait être la dernière, avant l’arrivée au pouvoir&nbsp;du Rassemblement national. Un péril contre lequel ses participants luttent plus que jamais.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fete-de-lhumanite/les-rendez-vous-antifascistes-de-la-fete-de-lhumanite-2026"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T13:00:27+00:00",
-      "titre": "Affaire Le Scouarnec : un collectif de victimes redoute \"une posture politique\" de Gérald Darmanin lors d'une rencontre en Bretagne vendredi",
-      "dek": "L'ancien chirurgien, déjà condamné pour près de 300 viols et agressions sexuelles, est à nouveau visé par une information judiciaire concernant 10 viols et 40 agressions sexuelles.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/affaire-le-scouarnec-un-collectif-de-victimes-redoute-une-posture-politique-de-gerald-darmanin-lors-d-une-rencontre-en-bretagne-vendredi_8154971.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
