@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-08-22T09:02:46+00:00",
+  "generated_at": "2026-08-22T13:43:20+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T13:42:47+00:00",
+      "titre": "DIRECT. Présidentielle 2027 : Olivier Faure ne veut pas \"rejouer en permanence les gauches irréconciliables\"",
+      "dek": "Le socialiste, présent aux journées d'été des Ecologistes, a expliqué sa venue par la nécessité de \"considérer que la première priorité doit être la transition écologique\", notamment après la grave crise climatique de l'été.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-rentree-politique-marine-tondelier-persiste-dans-son-appel-a-l-union-de-la-gauche-lfi-attend-un-ralliement-des-ecologistes_8157125.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T13:33:26+00:00",
+      "titre": "Olivier Faure dit ne pas vouloir « rejouer les gauches irréconciliables », lors des journées d’été des Ecologistes",
+      "dek": "« Aujourd’hui, personne à gauche, dans un deuxième tour, ne peut imaginer gagner sans l’ensemble des électeurs de gauche », a affirmé, samedi, le premier secrétaire du PS, qui pourrait participer à une primaire sociale-démocrate avec, notamment, Raphaël Glucksmann.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/olivier-faure-dit-ne-pas-vouloir-rejouer-les-gauches-irreconciliables-lors-des-journees-d-ete-des-ecologistes_6753370_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T12:18:29+00:00",
+      "titre": "«Nous allons fonder l’Etat écologique» : au JT de TF1, Jean-Luc Mélenchon promet que le pays sera prêt pour le prochain été",
+      "dek": "Déplorant un manque d’organisation et de prévention, le candidat insoumis à la présidentielle assure que la France disposera des moyens nécessaires pour lutter contre les incendies. Notamment en créant des éco-régions, projet phare de sa campagne.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/nous-allons-fonder-letat-ecologique-au-jt-de-tf1-jean-luc-melenchon-promet-que-le-pays-sera-pret-pour-le-prochain-ete-20260822_FCQKTZLNL5BKRLERWGZ5WVUXYA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T09:41:03+00:00",
+      "titre": "A Mayotte, Edouard Philippe promet de mettre fin à l’«appel d’air» de l’immigration et tacle Mélenchon",
+      "dek": "Le candidat Horizons a fait du thème le sujet central de sa visite dans le département-région pour sa rentrée politique. Pour sa part, le chef de file des insoumis a jugé ses propositions «ridicules».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/a-mayotte-edouard-philippe-promet-de-mettre-fin-a-lappel-dair-de-limmigration-et-tacle-melenchon-20260822_E5LS3534OZBMTA22WOD7NKTNJE/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T09:38:58+00:00",
+      "titre": "Le collectif de victimes de Joël Le Scouarnec salue sa rencontre avec Gérald Darmanin",
+      "dek": "Ces victimes espèrent désormais des actes de la part du ministre de la Justice qui s'est dit favorable à de nombreuses revendications portées par le collectif.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/le-collectif-de-victimes-de-joel-le-scouarnec-salue-sa-rencontre-avec-gerald-darmanin_8157248.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -22,6 +77,17 @@
       "dek": "L’annonce opportune de l’ouverture d’une nouvelle information judiciaire dans l’affaire Le Scouarnec a permis au garde des Sceaux de s’offrir une opération de communication, au détriment des victimes toujours en attente de justice.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/220826/je-n-arrive-pas-comprendre-ce-systeme-des-victimes-de-joel-le-scouarnec-atterrees-par-l-operation-de-commu"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T08:31:29+00:00",
+      "titre": "De Mayotte, Edouard Philippe répond aux critiques de Jean-Luc Mélenchon : « J’aimerais qu’il vienne ici et qu’il constate que la crise migratoire est prégnante »",
+      "dek": "Vendredi, l’ancien premier ministre d’Emmanuel Macron a multiplié les propositions visant à « fermer les vannes de l’immigration » dans le 101ᵉ département français.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/depuis-mayotte-edouard-philippe-repond-aux-critiques-de-jean-luc-melenchon-j-aimerais-qu-il-vienne-ici-et-qu-il-constate-que-la-crise-migratoire-est-pregnante_6753027_6205049.html"
     },
     {
       "tag": "Politique",
@@ -129,7 +195,7 @@
       "date": "21 Aug 2026",
       "date_iso": "2026-08-21T21:37:09+00:00",
       "titre": "En visite à Mayotte, Edouard Philippe souhaite mettre fin à l'\"appel d'air\" de l'immigration",
-      "dek": "Le candidat Horizons à la présidentielle est en visite à Mayotte vendredi et samedi.",
+      "dek": "Le candidat Horizons à la présidentielle est en visite dans le département vendredi et samedi.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-fait-sa-rentree-politique-a-mayotte-et-promet-de-mettre-fin-a-l-appel-d-air-de-l-immigration_8156786.html#xtor=RSS-3-%5Bgeneral%5D"
     },
@@ -154,6 +220,17 @@
       "dek": "En meeting aux universités d’été des insoumis ce dimanche, le quadruple candidat à la présidentielle, qui a enchaîné les polémiques, semble se montrer plus fédérateur à l’égard de ses potentiels alliés verts voire communistes.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/presidentielle-2027-clivant-ou-rassembleur-jean-luc-melenchon-seme-le-double-20260821_OVKRXT2O3RE6BPJWKTFNF4OFQM/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T18:23:14+00:00",
+      "titre": "Sénatoriales : les Écologistes se préparent à subir les conséquences des municipales",
+      "dek": "Strasbourg, Bordeaux, Bègles, Lyon… Les pertes enregistrées aux municipales pourraient coûter cher aux Écologistes. Trois de leurs sept sièges renouvelables sont en danger.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/elections-senatoriales/senatoriales-les-ecologistes-se-preparent-a-subir-les-consequences-des-municipales"
     },
     {
       "tag": "Gauche",
@@ -473,83 +550,6 @@
       "dek": "Cet été brûlant restera comme celui où la nature a posé un ultimatum. La terre se fissure. Elle a cessé de nourrir : l’herbe jaunit, les betteraves se flétrissent, les abricotiers ne donnent plus. Les nappes phréatiques sont à sec, les rivières réduites à un filet d’eau. Les réco…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/agriculture/lete-ou-la-terre-a-dit-non"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T04:30:07+00:00",
-      "titre": "Après les canicules et les incendies, le RN rattrapé par son absence de réflexion écologique",
-      "dek": "Si ses porte-parole ont cessé de contester la réalité du réchauffement climatique, le parti d’extrême droite, très critique des écologistes et du gouvernement, peine à développer un discours crédible sur l’adaptation à la crise.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/21/apres-les-canicules-et-les-incendies-le-rassemblement-national-rattrape-par-son-absence-de-reflexion-ecologique_6751610_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T04:10:00+00:00",
-      "titre": "Rentrée à gauche : LFI voit le vert à moitié plein",
-      "dek": "Alors qu’elles ont démarré jeudi leurs universités d’été avec l’ambition d’afficher leur «force», les troupes de Jean-Luc Mélenchon poursuivent leur opération séduction des Ecologistes.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/rentrees-a-gauche-lfi-voit-le-vert-a-moitie-plein-20260821_IAPOUCK6F5HWDOJX5BFHOSWWPA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T04:10:00+00:00",
-      "titre": "Rentrées à gauche : LFI voit le vert à moitié plein",
-      "dek": "Alors qu’elles ont démarré jeudi leurs universités d’été avec l’ambition d’afficher leur «force», les troupes de Jean-Luc Mélenchon poursuivent leur opération séduction des Ecologistes.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/rentrees-a-gauche-lfi-voit-le-vert-a-moitie-plein-20260821_IAPOUCK6F5HWDOJX5BFHOSWWPA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T04:01:39+00:00",
-      "titre": "REPORTAGE. \"Je ne peux pas vous dire quel est le bon choix\" : pour leur rentrée politique, les écologistes se divisent sur la question d'un ralliement à gauche pour la présidentielle",
-      "dek": "Face aux pressions de ses troupes, partagées entre le souhait d'un rapprochement avec Jean-Luc Mélenchon et un soutien à Raphaël Glucksmann, la cheffe du parti, Marine Tondelier, temporise et ouvre la voie à une consultation des militants pour trancher.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/reportage-je-ne-peux-pas-vous-dire-quel-est-le-bon-choix-pour-leur-rentree-politique-les-ecologistes-se-divisent-sur-la-question-d-un-ralliement-a-gauche-pour-la-presidentielle_8154497.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T03:30:30+00:00",
-      "titre": "Malgré un été marqué par les canicules, les incendies et la sécheresse, les responsables politiques incapables de répondre à l’urgence climatique",
-      "dek": "Alors que la France subit une série d’événements extrêmes, ni le gouvernement ni les candidats à la présidentielle de 2027 n’ont jusqu’ici abordé frontalement le défi climatique.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/21/malgre-un-ete-de-tous-les-records-le-refus-d-obstacle-de-la-classe-politique-face-a-l-urgence-climatique_6751533_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T02:30:00+00:00",
-      "titre": "Jean Jouzel, climatologue : « Il n’y a pas, chez les candidats à la présidentielle, une véritable prise de conscience de la réalité du réchauffement climatique »",
-      "dek": "Le paléoclimatologue, ancien vice-président du groupe scientifique du GIEC, craint que la question climatique ne soit reléguée au second plan lorsque les températures redescendront. Dans un entretien au « Monde », il appelle les prétendants à l’Elysée à « prendre la mesure de ce …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/planete/article/2026/08/21/jean-jouzel-climatologue-il-n-y-a-pas-chez-les-candidats-a-la-presidentielle-une-veritable-prise-de-conscience-de-la-realite-du-rechauffement-climatique_6751428_3244.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T21:47:00+00:00",
-      "titre": "Emmanuel Macron recevra le prince héritier saoudien Mohammed ben Salmane dimanche et lundi",
-      "dek": "Les \"enjeux régionaux\" sur fond de guerre au Moyen-Orient seront notamment évoqués, a annoncé l'Elysée jeudi.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi_8155523.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
