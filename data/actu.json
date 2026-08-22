@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-08-22T16:54:36+00:00",
+  "generated_at": "2026-08-22T20:52:05+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T20:50:15+00:00",
+      "titre": "Présidentielle 2027 : \"Le sujet, ce n'est pas qui va se mettre derrière qui\", estime la secrétaire nationale des Ecologistes Marine Tondelier",
+      "dek": "\"Notre responsabilité est de nous mettre, chacun, au service de quelque chose de plus grand que notre propre organisation\", avait déjà plaidé la candidate écologiste, dans son discours hier.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-rentree-politique-marine-tondelier-persiste-dans-son-appel-a-l-union-de-la-gauche-lfi-attend-un-ralliement-des-ecologistes_8157125.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T20:35:20+00:00",
+      "titre": "Présidentielle 2027 : les patrons appellent à placer l’économie au cœur du débat",
+      "dek": "Les Entrepreneurs (ex-CPME) et le Medef appellent à placer l’économie et la création de richesse au cœur du débat présidentiel, sur fond d’inquiétudes concernant la dette et les finances publiques.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/08/22/presidentielle-2027-les-patrons-appellent-a-placer-l-economie-au-c-ur-du-debat_6753645_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T20:05:09+00:00",
+      "titre": "Rentrée politique : Édouard Philippe et Jean-Luc Mélenchon s'écharpent au sujet de l'immigration à Mayotte",
+      "dek": "La journée du samedi 22 août a été marquée par une passe d'armes entre Édouard Philippe et Jean-Luc Mélenchon au sujet de l'immigration à Mayotte. La campagne présidentielle est bel et bien lancée.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/rentree-politique-edouard-philippe-et-jean-luc-melenchon-s-echarpent-au-sujet-de-l-immigration-a-mayotte_8157719.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T19:41:12+00:00",
+      "titre": "Présidentielle 2027 : Edouard Philippe presse la droite et le centre de s’unir avant février",
+      "dek": "Pour le maire du Havre, actuellement en déplacement de campagne à Mayotte et La Réunion, ce rassemblement est indispensable, pour contrer les candidatures de Marine Le Pen et Jean-Luc Mélenchon déjà solidement établies.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-edouard-philippe-presse-la-droite-et-le-centre-de-s-unir-avant-fevrier_6753612_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T19:00:27+00:00",
+      "titre": "En Loir-et-Cher, une maire UDI et vice-présidente de l'AMF recrute un membre du RN pour diriger ses services municipaux",
+      "dek": "Catherine Lhéritier affirme ne pas avoir été informée de l'orientation politique de sa nouvelle recrue.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/en-loir-et-cher-une-maire-udi-et-vice-presidente-de-l-amf-recrute-un-membre-du-rn-pour-diriger-ses-services-municipaux_8157701.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T18:56:06+00:00",
+      "titre": "Aux journées d’été des Verts, l’intervention d’Olivier Faure court-circuitée par un débat en coulisses sur une alliance avec LFI",
+      "dek": "Le premier secrétaire du PS s’est rendu à Grenoble ce samedi 22 août pour participer à une table ronde sur les leçons à tirer du mouvement des gilets jaunes. Au même moment, s’organisait une discussion informelle sur un éventuel accord des écolos avec Jean-Luc Mélenchon en 2027.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/aux-journees-dete-des-verts-lintervention-dolivier-faure-court-circuitee-par-un-debat-en-coulisses-sur-une-alliance-avec-lfi-20260822_6SSPS7VDMBEHDPS3NUXXMAWT6I/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T18:46:05+00:00",
+      "titre": "Sébastien Lecornu appelle les parlementaires à \"adopter un budget\" pour 2027",
+      "dek": "\"Choisir d'attendre l'élection présidentielle pour adopter un budget (...), c'est choisir le désordre\", écrit le Premier ministre dans une lettre adressée aux députés et sénateurs.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-appelle-les-parlementaires-a-adopter-un-budget-pour-2027_8157608.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T18:17:08+00:00",
+      "titre": "Sébastien Lecornu met en garde les parlementaires : « Choisir d’attendre l’élection présidentielle pour adopter un budget pour 2027, c’est choisir le désordre »",
+      "dek": "En cas d’absence de budget, « une hausse [des] taux d’intérêt pèserait durablement sur l’Etat, mais aussi sur [l’]économie, et donc sur les ménages », estime le premier ministre dans une lettre envoyée aux parlementaires et révélée par « Le Parisien ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/sebastien-lecornu-met-en-garde-les-parlementaires-choisir-d-attendre-l-election-presidentielle-pour-adopter-un-budget-pour-2027-c-est-choisir-le-desordre_6753579_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T18:02:16+00:00",
+      "titre": "Présidentielle 2027 : Fabien Roussel, secrétaire national du PCF, appelle à « se débarrasser » de la politique d’Emmanuel Macron",
+      "dek": "S’exprimant à l’université d’été du Parti communiste, il a estimé, samedi, que la gauche « a la responsabilité de redevenir majoritaire dans le pays et d’être capable de redonner de l’espoir en portant un programme ambitieux, transformateur, crédible ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-fabien-roussel-secretaire-national-du-pcf-appelle-a-se-debarrasser-de-la-politique-d-emmanuel-macron_6753575_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T17:30:02+00:00",
+      "titre": "Présidentielle 2027 : à Mayotte, Edouard Philippe promet de « fermer les vannes de l’immigration » à des élus lassés par les promesses",
+      "dek": "Lors d’un déplacement de deux jours à Mayotte, Edouard Philippe a choisi comme thématique principale de sa rentrée politique la lutte contre l’immigration illégale. Le candidat Horizons a répété sa volonté d’y suspendre pendant cinq ans le droit du sol, le droit d’asile et le reg…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-a-mayotte-edouard-philippe-promet-de-fermer-les-vannes-de-l-immigration-a-des-elus-lasses-par-les-promesses_6753542_6205049.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T17:09:57+00:00",
+      "titre": "Le Canada dénonce la «guerre» commerciale lancée par Washington",
+      "dek": "Le premier ministre canadien, Mark Carney, a vivement dénoncé samedi l’attitude des États-Unis à la suite de la rupture des négociations commerciales entre les deux voisins.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/220826/le-canada-denonce-la-guerre-commerciale-lancee-par-washington"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T17:09:17+00:00",
+      "titre": "Santé mentale des mineurs: aux États-Unis, Meta sur le banc des accusés",
+      "dek": "Les plaintes et les procédures se multiplient contre les géants de la tech, et Meta est particulièrement visée. Déjà condamnée au printemps, l’entreprise est poursuivie en Californie depuis mardi 18 août pour la mise en danger de ses plus jeunes utilisateurs dans un procès qualif…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/220826/sante-mentale-des-mineurs-aux-etats-unis-meta-sur-le-banc-des-accuses"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -106,7 +238,7 @@
       "source": "Le Monde – Politique",
       "date": "22 Aug 2026",
       "date_iso": "2026-08-22T13:33:26+00:00",
-      "titre": "Olivier Faure dit ne pas vouloir « rejouer les gauches irréconciliables », lors des Journées d’été des Ecologistes",
+      "titre": "Olivier Faure dit ne pas vouloir « rejouer les gauches irréconciliables », aux Journées d’été des Ecologistes",
       "dek": "« Aujourd’hui, personne à gauche, dans un deuxième tour, ne peut imaginer gagner sans l’ensemble des électeurs de gauche », a affirmé, samedi, le premier secrétaire du PS, qui pourrait participer à une primaire sociale-démocrate avec, parmi d’autres candidats, Raphaël Glucksmann.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/22/olivier-faure-dit-ne-pas-vouloir-rejouer-les-gauches-irreconciliables-lors-des-journees-d-ete-des-ecologistes_6753370_823448.html"
@@ -418,138 +550,6 @@
       "dek": "Santiago Muzio a pris la tête de la Maison de l’Argentine, située dans la Cité internationale universitaire de Paris, en 2024, après avoir dirigé l’antenne de Madrid de l’Institut de sciences sociales, économiques et politiques, université privée fondée par la députée européenne …",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/08/21/la-mairie-de-paris-demande-au-quai-d-orsay-d-enqueter-sur-la-maison-de-l-argentine-situee-dans-la-cite-internationale-universitaire-de-paris_6752012_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T10:43:31+00:00",
-      "titre": "La Mairie de Paris demande au Quai d’Orsay d’enquêter sur la Maison de l’Argentine, et son nouveau directeur lié à l’extrême droite",
-      "dek": "Santiago Muzio a pris la tête de la Maison de l’Argentine, située dans la Cité internationale universitaire de Paris, en 2024, après avoir dirigé l’antenne de Madrid de l’Institut de sciences sociales, économiques et politiques, université privée fondée par la députée européenne …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/08/21/la-mairie-de-paris-demande-au-quai-d-orsay-d-enqueter-sur-la-maison-de-l-argentine-situee-dans-la-cite-internationale-universitaire-de-paris_6752012_3210.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T10:02:45+00:00",
-      "titre": "Des élections législatives annoncées en Serbie",
-      "dek": "Le président Aleksandar Vučić a annoncé jeudi 20 août que des élections législatives anticipées devraient avoir lieu en octobre, en évoquant deux dates possibles. Depuis plus d’un an et demi, des manifestants opposés au gouvernement réclament un nouveau scrutin.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/210826/des-elections-legislatives-annoncees-en-serbie"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T09:50:50+00:00",
-      "titre": "\"Rien n'est encore chiffré\" : les malades saluent l'abandon du doublement des franchises médicales mais redoutent toujours une hausse",
-      "dek": "La ministre de la Santé a annoncé jeudi qu'elle ne mettrait pas en œuvre le doublement des franchises médicales, annoncé fin juillet. Mais les patients attendent encore des précisions.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/sante/rien-n-est-encore-chiffre-les-malades-saluent-l-abandon-du-doublement-des-franchises-medicales-mais-redoutent-toujours-une-hausse_8156048.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T09:43:47+00:00",
-      "titre": "À Lussas, l’incandescence d’un certain cinéma politique argentin",
-      "dek": "Cinquante ans après le début de la dernière dictature argentine, les États généraux de Lussas, qui s’achèvent le 22 août, ont montré une sélection remuante de films tournés dans des années troubles, souvent dans la clandestinité, sur fond de répression ouvrière et de luttes armée…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/210826/lussas-l-incandescence-d-un-certain-cinema-politique-argentin"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T09:33:17+00:00",
-      "titre": "Loi d'urgence agricole : \"J'ai toujours été contre\" les néonicotinoïdes, \"mais voter quoi que ce soit dans une niche parlementaire n’aura aucune incidence\", selon Sylvain Maillard",
-      "dek": "La France insoumise a fait savoir qu'elle utiliserait sa niche parlementaire pour faire abroger l'introduction des néonicotinoïdes prévue dans la loi d'urgence agricole. \"Un effet d'annonce\", dénonce le député EPR de Paris, vendredi sur franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/loi-d-urgence-agricole-j-ai-toujours-ete-contre-les-neonicotinoides-mais-voter-quoi-que-ce-soit-dans-une-niche-parlementaire-n-aura-aucune-incidence-selon-sylvain-maillard_8156063.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T09:30:07+00:00",
-      "titre": "Présidentielle 2027 : la nécessité d’une alternative à gauche",
-      "dek": "Les sociaux-démocrates et les écologistes ne parviennent toujours pas à concurrencer la candidature de Jean-Luc Mélenchon. C’est pourtant indispensable : à défaut, l’élection pourrait se résumer à une opposition des formations antisystème.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/08/21/presidentielle-2027-la-necessite-d-une-alternative-a-gauche_6751911_3232.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T09:28:28+00:00",
-      "titre": "«Marre de voter pour le moins pire»: les militants écologistes restent tiraillés entre les gauches",
-      "dek": "Réunis pendant trois jours à Grenoble pour les Journées d’été des Écologistes, les militants du parti de Marine Tondelier sont divisés sur la stratégie à tenir pour la présidentielle. Entre ralliement aux différents pôles de gauche et candidature autonome, les avis s’éparpillent.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/210826/marre-de-voter-pour-le-moins-pire-les-militants-ecologistes-restent-tirailles-entre-les-gauches"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T09:28:21+00:00",
-      "titre": "Franchises médicales: le gouvernement renonce à doubler les plafonds",
-      "dek": "Fin juillet, il comptait augmenter de 100 à 200 euros le montant maximal restant à la charge des patients. La ministre de la santé estime désormais que cette décision n’a pas été comprise et a «pu apparaître» brutale, dans un entretien au «Figaro» paru jeudi 20 août. «Nous avons …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/210826/franchises-medicales-le-gouvernement-renonce-doubler-les-plafonds"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T09:12:58+00:00",
-      "titre": "\"L'ordre juste\" : le slogan de Ségolène Royal en 2007",
-      "dek": "Cet été, Fabrice d'Almeida sonde les slogans des élections présidentielles sous la Ve République. De quoi se rafraîchir la mémoire avant l'élection de 2027. Aujourd'hui, retour sur les élections de 2007 avec slogan de Ségolène Royal : \"L'ordre juste\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/l-ordre-juste-le-slogan-de-segolene-royal-en-2007_8070539.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T09:03:26+00:00",
-      "titre": "Gérald Darmanin au côté des victimes de Joël Le Scouarnec ce vendredi : \"Pourquoi communiquer maintenant ?\", interroge leur porte-parole",
-      "dek": "Les victimes de Joël Le Scouarnec doivent rencontrer le garde des Sceaux à Vannes, dans le Morbihan, ce vendredi 21 août. Elles espèrent un vrai travail de fond pour augmenter les moyens de la justice. Le chirurgien a été condamné au printemps 2025 pour avoir commis des violences…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/gerald-darmanin-au-cote-des-victimes-de-joel-le-scouarnec-ce-vendredi-pourquoi-communiquer-maintenant-interroge-leur-porte-parole_8155988.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T08:27:35+00:00",
-      "titre": "Présidentielle 2027 : \"Bien sûr que notre main est tendue, qu'on est prêts à discuter du programme. Par contre, nous ne sommes pas prêts à perdre du temps\", prévient Manon Aubry",
-      "dek": "L'eurodéputée La France insoumise répond ce vendredi 21 août sur franceinfo à la proposition de la cheffe des Ecologistes, Marine Tondelier, qui souhaite des rencontres bilatérales avec les autres forces de gauche avant la présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-vendredi-21-aout-2026_8130782.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T07:41:39+00:00",
-      "titre": "Affaire Le Scouarnec : \"On espère pouvoir être dans un échange collaboratif\" avec Gérald Darmanin, confie la porte-parole du collectif des victimes de Joël Le Scouarnec",
-      "dek": "En amont de sa rencontre avec le garde des Sceaux à Vannes ce vendredi, Manon Lemoine, porte-parole du collectif, elle-même victime de l'ancien chirurgien, se confie dans \"La Matinale\" sur ses attentes. \"On s'est présentés à plusieurs reprises place Vendôme, mais Monsieur le mini…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/affaire-le-scouarnec-on-espere-pouvoir-etre-dans-un-echange-collaboratif-avec-gerald-darmanin-confie-la-porte-parole-du-collectif-des-victimes-de-joel-le-scouarnec_8155904.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
