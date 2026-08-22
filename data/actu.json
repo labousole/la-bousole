@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-22T03:08:33+00:00",
+  "generated_at": "2026-08-22T05:04:20+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T04:30:11+00:00",
+      "titre": "Présidentielle 2027 : les syndicats, inquiets par les reculs dans des pays dirigés par l’extrême droite, essaient de se mobiliser contre le RN",
+      "dek": "Une note de la Fondation Jean Jaurès et de son équivalent allemand, la Fondation Friedrich-Ebert, publiée à la fin du mois de juillet, fait un bilan de l’action menée par les gouvernements aux Etats-Unis, en Hongrie et en Italie à l’égard des organisations, des libertés et des dr…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-les-syndicats-inquiets-par-les-reculs-dans-des-pays-diriges-par-l-extreme-droite-essaient-de-se-mobiliser-contre-le-rn_6752695_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T04:00:09+00:00",
+      "titre": "Cinq ans après, l’amer anniversaire de la loi Climat et résilience, inspirée par des propositions citoyennes : « presque toutes les mesures ont été détricotées »",
+      "dek": "Le texte promulgué il y a cinq ans se voulait la traduction dans la loi des propositions de la convention citoyenne pour le climat visant à guider la France vers la décarbonation. Mais ses principales dispositions n’ont cessé d’être assouplies ou annulées depuis.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/planete/article/2026/08/22/cinq-ans-apres-l-amer-anniversaire-de-la-loi-climat-et-resilience-inspiree-par-des-propositions-citoyennes-presque-toutes-les-mesures-ont-ete-detricotees_6752625_3244.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -528,28 +550,6 @@
       "dek": "La question culturelle ne concerne pas que les artistes, le public ou la vie économique, elle joue aussi un rôle démocratique central, explique le secrétaire général de la CFDT-Culture, Alexis Fritche, qui, dans une tribune au « Monde », appelle à défaire les choix budgétaires du…",
       "avis": null,
       "lien": "https://www.lemonde.fr/idees/article/2026/08/20/derriere-les-credits-de-la-culture-se-joue-la-capacite-de-la-france-a-transmettre-une-histoire-commune_6751088_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T16:00:03+00:00",
-      "titre": "Absence de budget et loi spéciale prolongée : l’inspection générale des finances alerte sur des « risques majeurs »",
-      "dek": "L’inspection générale des finances a publié, jeudi, le rapport que le gouvernement lui avait demandé sur les conséquences d’une application prolongée en 2027 d’une loi de finances spéciale. Un document que l’exécutif devrait largement mobiliser pour tenter de convaincre le Parlem…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/absence-de-budget-et-loi-speciale-prolongee-l-inspection-generale-des-finances-alerte-sur-des-risques-majeurs_6751089_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T15:42:38+00:00",
-      "titre": "La justice française ordonne l’extradition de l’antifasciste «Gino» vers l’Allemagne",
-      "dek": "Le militant albanais Rexhino Abazaj, soupçonné d’avoir participé à des heurts en marge d’une manifestation néonazie à Budapest en 2023, doit être jugé outre-Rhin. Ses avocats redoutent une procédure basée sur des éléments transmis par la police hongroise, alors sous la coupe de V…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/la-justice-francaise-ordonne-lextradition-de-lantifasciste-gino-vers-lallemagne-20260820_JSXH5YJZKNFUZKS4QUTNJGVIBM/"
     }
   ]
 }
