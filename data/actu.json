@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-21T20:54:06+00:00",
+  "generated_at": "2026-08-22T03:08:33+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T03:00:02+00:00",
+      "titre": "Présidentielle 2027 : à Grenoble, l’écologiste Marine Tondelier maintient la ligne de l’union à gauche malgré la pression de LFI",
+      "dek": "La secrétaire nationale des Verts a plaidé, vendredi lors de leur université d’été, pour un dépassement des querelles partisanes, rappelant qu’« aucune famille politique du camp progressiste n’est capable de gagner seule » l’élection à la magistrature suprême.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-a-grenoble-l-ecologiste-marine-tondelier-maintient-la-ligne-de-l-union-a-gauche-malgre-la-pression-de-lfi_6752519_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "21 Aug 2026",
+      "date_iso": "2026-08-21T21:37:09+00:00",
+      "titre": "En visite à Mayotte, Edouard Philippe souhaite mettre fin à l'\"appel d'air\" de l'immigration",
+      "dek": "Le candidat Horizons à la présidentielle est en visite à Mayotte vendredi et samedi.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-fait-sa-rentree-politique-a-mayotte-et-promet-de-mettre-fin-a-l-appel-d-air-de-l-immigration_8156786.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -528,28 +550,6 @@
       "dek": "Le militant albanais Rexhino Abazaj, soupçonné d’avoir participé à des heurts en marge d’une manifestation néonazie à Budapest en 2023, doit être jugé outre-Rhin. Ses avocats redoutent une procédure basée sur des éléments transmis par la police hongroise, alors sous la coupe de V…",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/la-justice-francaise-ordonne-lextradition-de-lantifasciste-gino-vers-lallemagne-20260820_JSXH5YJZKNFUZKS4QUTNJGVIBM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T15:34:29+00:00",
-      "titre": "Pour préparer sa rentrée, Marine Le Pen avance bille en dette",
-      "dek": "La candidate du Rassemblement national à la présidentielle cible le «bilan implacable de dix ans de macronisme» en matière économique. Une manière comme le font les insoumis, de préparer les débats budgétaires à venir et ceux de la campagne pour 2027.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/pour-preparer-sa-rentree-marine-le-pen-avance-bille-en-dette-20260820_XYTLETUXSNE2TFQUGIHGZBA4UM/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T15:32:41+00:00",
-      "titre": "Pour leurs universités d’été, les partis de gauche font leur rentrée en ordre dispersé",
-      "dek": "À huit mois du premier tour, communistes, insoumis et écologistes se réunissent à l’occasion de leurs universités d’été respectives pour plancher sur des questions stratégiques et de fond. Avec un but&nbsp;: préparer les enjeux électoraux à venir.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/election-presidentielle/pour-leurs-universites-dete-les-partis-de-gauche-font-leur-rentree-en-ordre-disperse"
     }
   ]
 }
