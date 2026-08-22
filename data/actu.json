@@ -1,12 +1,89 @@
 {
-  "generated_at": "2026-08-22T05:04:20+00:00",
+  "generated_at": "2026-08-22T09:02:46+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T08:48:59+00:00",
+      "titre": "DIRECT. Présidentielle 2027 : Sandrine Rousseau prône \"une alliance\" des écologistes avec LFI",
+      "dek": "\"La candidature de Marine Tondelier ne décolle pas dans les sondages, et on ne peut pas rajouter des candidatures à gauche\", estime la députée écologiste, dont la ligne n'est pas partagée par tous les cadres de son parti.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-rentree-politique-marine-tondelier-persiste-dans-son-appel-a-l-union-de-la-gauche-lfi-attend-un-ralliement-des-ecologistes_8157125.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T08:44:11+00:00",
+      "titre": "«Je n’arrive pas à comprendre ce système»: des victimes de Joël Le Scouarnec atterrées par l’opération de communication de Darmanin",
+      "dek": "L’annonce opportune de l’ouverture d’une nouvelle information judiciaire dans l’affaire Le Scouarnec a permis au garde des Sceaux de s’offrir une opération de communication, au détriment des victimes toujours en attente de justice.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/220826/je-n-arrive-pas-comprendre-ce-systeme-des-victimes-de-joel-le-scouarnec-atterrees-par-l-operation-de-commu"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T04:30:11+00:00",
+      "date_iso": "2026-08-22T08:31:29+00:00",
+      "titre": "Depuis Mayotte, Edouard Philippe répond aux critiques de Jean-Luc Mélenchon : « J’aimerais qu’il vienne ici et qu’il constate que la crise migratoire est prégnante »",
+      "dek": "Vendredi, l’ancien premier ministre d’Emmanuel Macron a multiplié les propositions visant à « fermer les vannes de l’immigration » dans le 101ᵉ département français.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/depuis-mayotte-edouard-philippe-repond-aux-critiques-de-jean-luc-melenchon-j-aimerais-qu-il-vienne-ici-et-qu-il-constate-que-la-crise-migratoire-est-pregnante_6753027_6205049.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T08:11:08+00:00",
+      "titre": "Le dragon, ancien symbole des empereurs, est devenu l’emblème d’une Chine conquérante",
+      "dek": "Après l’abdication du dernier empereur Puyi en 1912, la créature hybride s’est transformée en symbole de toute la nation chinoise. Même le numéro un communiste Xi Jinping se proclame «descendant des dragons».",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/220826/le-dragon-ancien-symbole-des-empereurs-est-devenu-l-embleme-d-une-chine-conquerante"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T07:42:02+00:00",
+      "titre": "REPORTAGE. \"C'est l'été qui a montré l'urgence\" : les écologistes entendent porter l'enjeu climatique pendant la campagne présidentielle",
+      "dek": "En invitant samedi l'intersyndicale des pompiers à leurs Journées d'été, les écologistes veulent mettre la pression sur le gouvernement dès la rentrée autour des sujets environnementaux.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/eelv/reportage-c-est-le-moment-de-faire-valoir-nos-propositions-face-aux-chaleurs-records-et-aux-incendies-les-ecologistes-entendent-porter-l-enjeu-de-l-urgence-climatique-pendant-la-campagne-presidentielle_8156030.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T06:55:05+00:00",
+      "titre": "REPORTAGE. \"J'ai l'impression qu'on peut y arriver\" : aux universités d'été de LFI, les militants confiants pour 2027",
+      "dek": "Les Amfis se tiennent ce week-end et marquent la rentrée politique de Jean-Luc Mélenchon. Le leader insoumis prononcera un discours dimanche.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/reportage-j-ai-l-impression-qu-on-peut-y-arriver-aux-universites-d-ete-de-lfi-les-militants-confiants-pour-2027_8157035.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T06:49:33+00:00",
+      "titre": "«En juin 2024, les digues ont cédé»: cet électorat de droite, plus âgé et diplômé, tenté par le RN",
+      "dek": "Dans une étude pour la Fondapol, le politologue Pascal Perrineau livre une radioscopie éclairante de l’évolution récente de l’électorat du parti de Marine Le Pen.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/en-juin-2024-les-digues-ont-cede-cet-electorat-de-droite-plus-age-et-diplome-tente-par-le-rn-20260821"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T04:30:07+00:00",
       "titre": "Présidentielle 2027 : les syndicats, inquiets par les reculs dans des pays dirigés par l’extrême droite, essaient de se mobiliser contre le RN",
       "dek": "Une note de la Fondation Jean Jaurès et de son équivalent allemand, la Fondation Friedrich-Ebert, publiée à la fin du mois de juillet, fait un bilan de l’action menée par les gouvernements aux Etats-Unis, en Hongrie et en Italie à l’égard des organisations, des libertés et des dr…",
       "avis": null,
@@ -28,9 +105,20 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T03:00:02+00:00",
+      "date_iso": "2026-08-22T04:00:02+00:00",
+      "titre": "Pour la loi Climat et résilience, issue de propositions citoyennes, un cinquième et amer anniversaire : « Presque toutes les mesures ont été détricotées »",
+      "dek": "Le texte promulgué en août 2021 ans se voulait la traduction dans la loi du travail de la convention citoyenne pour le climat visant à guider la France vers la décarbonation. Mais ses principales dispositions n’ont cessé d’être assouplies ou annulées depuis.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/planete/article/2026/08/22/cinq-ans-apres-l-amer-anniversaire-de-la-loi-climat-et-resilience-inspiree-par-des-propositions-citoyennes-presque-toutes-les-mesures-ont-ete-detricotees_6752625_3244.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T03:00:00+00:00",
       "titre": "Présidentielle 2027 : à Grenoble, l’écologiste Marine Tondelier maintient la ligne de l’union à gauche malgré la pression de LFI",
-      "dek": "La secrétaire nationale des Verts a plaidé, vendredi lors de leur université d’été, pour un dépassement des querelles partisanes, rappelant qu’« aucune famille politique du camp progressiste n’est capable de gagner seule » l’élection à la magistrature suprême.",
+      "dek": "La secrétaire nationale des Verts a plaidé, vendredi 21 août, lors de leur université d’été, pour un dépassement des querelles partisanes, rappelant qu’« aucune famille politique du camp progressiste n’est capable de gagner seule » l’élection.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-a-grenoble-l-ecologiste-marine-tondelier-maintient-la-ligne-de-l-union-a-gauche-malgre-la-pression-de-lfi_6752519_823448.html"
     },
@@ -66,17 +154,6 @@
       "dek": "En meeting aux universités d’été des insoumis ce dimanche, le quadruple candidat à la présidentielle, qui a enchaîné les polémiques, semble se montrer plus fédérateur à l’égard de ses potentiels alliés verts voire communistes.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/presidentielle-2027-clivant-ou-rassembleur-jean-luc-melenchon-seme-le-double-20260821_OVKRXT2O3RE6BPJWKTFNF4OFQM/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T16:47:12+00:00",
-      "titre": "«En juin 2024, les digues ont cédé»: cet électorat de droite, plus âgé et diplômé, tenté par le RN",
-      "dek": "Dans une étude pour la Fondapol, le politologue Pascal Perrineau livre une radioscopie éclairante de l’évolution récente de l’électorat du parti de Marine Le Pen.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/en-juin-2024-les-digues-ont-cede-cet-electorat-de-droite-plus-age-et-diplome-tente-par-le-rn-20260821"
     },
     {
       "tag": "Gauche",
@@ -473,83 +550,6 @@
       "dek": "Les \"enjeux régionaux\" sur fond de guerre au Moyen-Orient seront notamment évoqués, a annoncé l'Elysée jeudi.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/emmanuel-macron-recevra-le-prince-heritier-saoudien-mohammed-ben-salmane-dimanche-et-lundi_8155523.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T19:59:56+00:00",
-      "titre": "Le maire d'Arcachon, Yves Foulon, condamné à 10 000 euros d'amende dont 5 000 avec sursis pour avoir insulté et menacé un rival EELV",
-      "dek": "Un \"pétage de plombs\" sanctionné par la justice : ce sont les mots du maire d’Arcachon, Yves Foulon. Il vient d'être condamné à une amende de 5 000 euros pour avoir insulté et menacé son rival écologiste. L'altercation, filmée à son insu, avait vivement fait réagir dans la ville.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/france/nouvelle-aquitaine/gironde/le-maire-d-arcachon-yves-foulon-condamne-a-10-000-euros-d-amende-dont-5-000-avec-sursis-pour-avoir-insulte-et-menace-son-rival-eelv_8155424.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T19:07:56+00:00",
-      "titre": "Franchises médicales : le gouvernement renonce au doublement des plafonds dans l’immédiat et promet une future réforme « juste »",
-      "dek": "Pour freiner la croissance des dépenses de santé, le gouvernement avait annoncé il y a près d’un mois le doublement du montant maximum des franchises, de 100 à 200 euros par an. La ministre de la santé, Stéphanie Rist, a admis que ce choix avait pu apparaître « brutal ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/20/franchises-medicales-le-gouvernement-renonce-au-doublement-des-plafonds-dans-l-immediat-annonce-stephanie-rist_6751296_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T18:42:23+00:00",
-      "titre": "A Grenoble, Les Ecologistes n’esquivent pas la question des alliances pour 2027",
-      "dek": "Alors que ses opposants réclament une clarification de la ligne entre deux positions qu’ils jugent incompatibles, la cheffe et candidate des verts, Marine Tondelier, a assuré devant les journalistes que ce débat serait tranché par les adhérents.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/a-grenoble-les-ecologistes-nesquivent-pas-la-question-des-alliances-pour-2027-20260820_6MJDAUW2PFCZTFK7YG3NSJSBLM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T18:33:15+00:00",
-      "titre": "L’opération menace et déminage du gouvernement pour faire adopter un projet de loi de finances en 2027",
-      "dek": "Alors que l’équation semble impossible à résoudre en pleine campagne, un régime sous loi spéciale jusqu’à l’automne 2027 creuserait le déficit à au moins 5,5 %. «Un cocktail extrêmement dangereux», argue le ministre des Comptes publics auprès de «Libé».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/loperation-menace-et-deminage-du-gouvernement-pour-faire-adopter-un-projet-de-loi-de-finances-en-2027-20260820_MAVBD25U7VBZFGGZXJK7K36UPM/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T18:17:04+00:00",
-      "titre": "Avant son départ pour Mayotte, Édouard Philippe à droite toute sur l’immigration",
-      "dek": "En visite sur l’île vendredi 21 et samedi 22 août, l’ancien premier ministre compte faire de ce déplacement un marqueur de son virage à droite sur les enjeux migratoires. Les réformes qu’il propose, en plus d’être probablement anticonstitutionnelles, s’appuient sur des mythes.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/200826/avant-son-depart-pour-mayotte-edouard-philippe-droite-toute-sur-l-immigration"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T16:59:57+00:00",
-      "titre": "«La liberté de navigation est censée prévaloir dans les détroits internationaux»",
-      "dek": "La géographe Pauline Pic, coautrice d’une «Géopolitique des détroits», analyse la spécificité de ceux d’Ormuz et de Bab-el-Mandeb au Moyen-Orient. Elle souligne que si aucun passage n’est à jamais incontournable, les coûts des routes alternatives peuvent être considérables.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/200826/la-liberte-de-navigation-est-censee-prevaloir-dans-les-detroits-internationaux"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "20 Aug 2026",
-      "date_iso": "2026-08-20T16:00:05+00:00",
-      "titre": "« Derrière les crédits de la culture se joue la capacité de la France à transmettre une histoire commune »",
-      "dek": "La question culturelle ne concerne pas que les artistes, le public ou la vie économique, elle joue aussi un rôle démocratique central, explique le secrétaire général de la CFDT-Culture, Alexis Fritche, qui, dans une tribune au « Monde », appelle à défaire les choix budgétaires du…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/08/20/derriere-les-credits-de-la-culture-se-joue-la-capacite-de-la-france-a-transmettre-une-histoire-commune_6751088_3232.html"
     }
   ]
 }
