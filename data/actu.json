@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-08-23T05:16:13+00:00",
+  "generated_at": "2026-08-23T09:02:14+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T08:59:39+00:00",
+      "titre": "DIRECT. Présidentielle 2027 : Jean-Luc Mélenchon prononce un discours en clôture des universités d'été LFI et pourrait de nouveau tendre la main aux écologistes",
+      "dek": "\"Toute aide sera la bienvenue\", a déclaré le candidat à la présidentielle au sujet des écologistes, qui se divisent sur la stratégie à suivre pour la présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T08:40:04+00:00",
+      "titre": "Présidentielle 2027 : le communiste Fabien Roussel lance sa campagne sur une ligne autonome",
+      "dek": "Le projet, proposé par la direction sortante, a d’ores et déjà été approuvé par les délégués lors du 40e Congrès du PCF, début juillet, à Lille. Mais les adhérents doivent encore approuver la désignation de Fabien Roussel.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/presidentielle-2027-le-communiste-fabien-roussel-lance-sa-campagne-sur-une-ligne-autonome_6754061_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T08:20:24+00:00",
+      "titre": "«Une fois que l’heure sera passée, ce sera trop tard» : Edouard Philippe prédit un rassemblement de la droite et du centre entre «novembre et février»",
+      "dek": "Interrogé samedi sur BFM TV, le candidat Horizons a rappelé qu’une union de son camp sera selon lui indispensable face à Marine Le Pen et Jean-Luc Mélenchon.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/une-fois-que-lheure-sera-passee-ce-sera-trop-tard-edouard-philippe-predit-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier-20260823_QHAYFYI2LZAVRI7PWOXU5ONZU4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T06:42:29+00:00",
+      "titre": "REPORTAGE. À Mayotte, Édouard Philippe enfile le costume traditionnel... du candidat à l'élection présidentielle",
+      "dek": "L'ancien Premier ministre et candidat Horizons à la présidentielle de 2027 fait campagne dans l'océan Indien.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/reportage-a-mayotte-edouard-philippe-enfile-le-costume-traditionnel-du-candidat-a-l-election-presidentielle_8157998.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T06:25:55+00:00",
+      "titre": "Écologistes : avec qui faire l'union ?",
+      "dek": "Pendant leur université d'été, les Ecologistes ont ouvert le débat sur l'union en prévision de l'élection présidentielle de 2027. Les militants sont tiraillés entre un rapprochement avec La France Insoumise ou avec le Parti Socialiste.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ecologistes-avec-qui-faire-l-union_8158052.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -39,9 +94,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T19:41:12+00:00",
+      "date_iso": "2026-08-22T19:41:08+00:00",
       "titre": "Présidentielle 2027 : Edouard Philippe presse la droite et le centre de s’unir avant février",
-      "dek": "Pour le maire du Havre, actuellement en déplacement de campagne à Mayotte et La Réunion, ce rassemblement est indispensable, pour contrer les candidatures de Marine Le Pen et Jean-Luc Mélenchon déjà solidement établies.",
+      "dek": "Pour le maire du Havre, actuellement en déplacement de campagne à Mayotte et à La Réunion, ce rassemblement est indispensable pour contrer les candidatures de Marine Le Pen et de Jean-Luc Mélenchon, déjà solidement établies.",
       "avis": null,
       "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-edouard-philippe-presse-la-droite-et-le-centre-de-s-unir-avant-fevrier_6753612_6205049.html"
     },
@@ -118,7 +173,7 @@
       "date": "22 Aug 2026",
       "date_iso": "2026-08-22T17:18:51+00:00",
       "titre": "« Une France verte, libre et indépendante » : à Toulouse, Fabien Roussel appelle les communistes à « renverser la table »",
-      "dek": "Lors des universités d'été du PCF, à Toulouse, Fabien Roussel s'est adressé au millier de participants présents en réaffirmant le projet qu'il entend défendre lors de la campagne présidentielle : la révolution sociale et écologique. Il a également invité le reste de la gauche à «…",
+      "dek": "Lors des universités d'été du PCF, à Toulouse, Fabien Roussel s'est adressé au millier de participants présents en réaffirmant le projet qu'il entend défendre lors de la campagne présidentielle&nbsp;: la révolution sociale et écologique. Il a également invité le reste de la gauch…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/election-presidentielle/une-france-verte-libre-et-independante-a-toulouse-fabien-roussel-appelle-les-communistes-a-renverser-la-table"
     },
@@ -495,61 +550,6 @@
       "dek": "À huit mois de la présidentielle, Marine Tondelier se retrouve face à un choix cornélien : maintenir une candidature écologiste autonome, rejoindre le pôle social-démocrate autour de Raphaël Glucksmann ou s’allier avec Jean-Luc Mélenchon. À Grenoble, pour les journées d’été des é…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/gauche/universite-dete-les-verts-a-la-croisee-des-chemins-pour-la-presidentielle-de-2027"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T14:08:22+00:00",
-      "titre": "Exploitées puis oubliées, elles étaient nommées «karayuki-san»",
-      "dek": "De très nombreuses jeunes femmes et filles, principalement originaires du sud du Japon, ont été envoyées dans les bordels des anciennes colonies japonaises à la fin du XIXe et au début du XXe siècle. Ce qui reste de l’histoire des «karayuki-san» est rare: tout a été effacé, ou pr…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/210826/exploitees-puis-oubliees-elles-etaient-nommees-karayuki-san"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T13:49:46+00:00",
-      "titre": "Marine Tondelier, la cheffe des Ecologistes, appelle de nouveau à l’union de la gauche pour la présidentielle de 2027",
-      "dek": "La candidate met en garde contre la division de la gauche et appelle à dépasser les querelles internes pour bâtir une alternative crédible face à l’extrême droite en 2027.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/21/presidentielle-2027-la-cheffe-des-ecologistes-marine-tondelier-appelle-de-nouveau-a-l-union-de-la-gauche_6752216_6205049.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T13:38:17+00:00",
-      "titre": "«Pour sortir de l’imaginaire touristique, il faut revaloriser la vie quotidienne»",
-      "dek": "Le tourisme a-t-il seulement encore un avenir? En partie responsable de la crise climatique, il est aussi la victime de ses effets, des grands feux à l’assèchement des ressources. Pourtant, notre société a du mal à renoncer à l’appel du voyage et des vacances ailleurs, explique l…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/210826/pour-sortir-de-l-imaginaire-touristique-il-faut-revaloriser-la-vie-quotidienne"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T13:27:51+00:00",
-      "titre": "Le non-vote d'un budget aura de lourdes conséquences pour la France, avertit un rapport",
-      "dek": "Une prolongation de la loi spéciale pourrait aggraver le déficit et fortement limiter la marge de manœuvre du prochain gouvernement, explique l'Inspection générale des finances dans un rapport à l'adresse de la classe politique.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/l-avertissement-de-la-direction-generale-des-finances-publiques-le-non-vote-d-un-budget-aura-de-lourdes-consequences-pour-la-france_8129801.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T12:50:22+00:00",
-      "titre": "\"On ne veut plus indexer les retraites sur l'inflation mais on veut indexer les franchises [médicales] des personnes malades sur l'inflation\", fustige France Assos Santé",
-      "dek": "La ministre de la Santé, Stéphanie Rist, a annoncé jeudi 23 juillet, l'augmentation du plafond annuel des franchises médicales sur les consultations et les médicaments, un coût supplémentaire pour de nombreux malades.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/sante/on-ne-veut-plus-indexer-les-retraites-sur-l-inflation-mais-on-veut-indexer-les-franchises-medicales-des-personnes-malades-sur-l-inflation-fustige-france-assos-sante_8156282.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
