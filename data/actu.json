@@ -1,6 +1,149 @@
 {
-  "generated_at": "2026-08-23T16:56:35+00:00",
+  "generated_at": "2026-08-23T20:51:56+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T20:41:38+00:00",
+      "titre": "DIRECT. Présidentielle 2027 : la participation de Raphaël Glucksmann à la primaire social-démocrate \"va permettre de réduire l'offre de candidatures à gauche\" au premier tour, se réjouit le député PS Arthur Delaporte",
+      "dek": "Le cofondateur de Place publique a annoncé, dimanche soir sur TF1, son intention de participer à la primaire coorganisée par son parti et le PS, afin de devenir le candidat de la social-démocratie à la présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T20:13:21+00:00",
+      "titre": "Présidentielle 2027 : Raphaël Glucksmann entre en course avec l’ambition de «relever la France»",
+      "dek": "La figure sociale-démocrate a confirmé dimanche soir sur TF1 sa participation à la primaire du PS et de Place publique, prévue en octobre.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-raphael-glucksmann-se-lance-dans-la-course-20260823"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T20:00:34+00:00",
+      "titre": "Raphaël Glucksmann lance sa campagne par le labyrinthe socialiste",
+      "dek": "Sans surprise, le fondateur de Place publique s’est déclaré dimanche 23 août candidat à la primaire socialiste. Faute de dynamique estivale, l’eurodéputé mise sur cette annonce pour lancer sa campagne. Mais les obstacles sont nombreux, à commencer par une votation interne pas com…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/230826/raphael-glucksmann-lance-sa-campagne-par-le-labyrinthe-socialiste"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T19:34:02+00:00",
+      "titre": "Présidentielle 2027 : ce qu’il faut retenir de l’annonce de candidature de Raphaël Glucksmann",
+      "dek": "Le co-président de Place publique a officialisé sa candidature à la prochaine présidentielle sur TF1 ce 23&nbsp;août. Pendant plus de quinze minutes, il s’est présenté comme seul rempart à l’extrême droite, vantant la nécessité de la mise en place d’une «&nbsp;République écologiq…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/presidentielle-2027/presidentielle-2027-ce-quil-faut-retenir-de-lannonce-de-candidature-de-raphael-glucksmann"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T19:21:55+00:00",
+      "titre": "Présidentielle 2027 : \"C'est une forme de satisfaction\" que Raphaël Glucksmann ait annoncé sa candidature, salue le député PS Arthur Delaporte",
+      "dek": "Raphaël Glucksmann a annoncé dimanche sur TF1 sa candidature à la présidentielle et participera à la primaire sociale-démocrate organisée en octobre par le PS et son propre parti, Place publique.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/presidentielle-2027-c-est-une-forme-de-satisfaction-que-raphael-glucksmann-ait-annonce-sa-candidature-salue-le-depute-ps-arthur-delaporte_8158850.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T19:21:14+00:00",
+      "titre": "Présidentielle : Raphaël Glucksmann est bel et bien candidat",
+      "dek": "Trois mois après son premier passage au 20 heures de TF1, le député européen a confirmé, ce dimanche, qu’il se lançait dans la course à l’Elysée. Un chemin périlleux, avec, pour première étape, la primaire organisée par le Parti socialiste.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/presidentielle-raphael-glucksmann-est-bel-et-bien-candidat-20260823_V7X7J7ANVJERPODYUI6LSLQOSI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T19:18:27+00:00",
+      "titre": "Le cofondateur de Place publique, Raphaël Glucksmann, officialise sa candidature à l'élection présidentielle \"pour relever la France\"",
+      "dek": "Dans son programme, son obsession sera d'augmenter \"la rémunération nette des travailleurs\" par une baisse des prélèvements sociaux sur les salaires, a-t-il dit sur TF1.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T19:14:42+00:00",
+      "titre": "Raphaël Glucksmann en campagne pour 2027 : ce n’est pas le tout d’être candidat",
+      "dek": "Officiellement déclaré ce dimanche 23 août, le leader de Place publique, face à un Mélenchon préparé, a encore tout à construire, de ses soutiens à son programme, pour réussir sa course à la présidence.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/editorial/raphael-glucksmann-en-campagne-pour-2027-ce-nest-pas-le-tout-detre-candidat-20260823_RIVXGSGFNZA3XHVH6JZVX2SHXM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T19:05:38+00:00",
+      "titre": "Présidentielle 2027 : une union impossible à gauche ? \"Il faut que tout le monde s'y mette\", enjoint Jean-Luc Mélenchon",
+      "dek": "Dimanche 23 août, le leader de La France Insoumise a donné le coup d'envoi de la campagne à gauche, où les candidatures se mutliplient, comme les appels à l'unité. La route est encore longue de ce côté de l'échiquier politique...",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-une-union-impossible-a-gauche-il-faut-que-tout-le-monde-s-y-mette-enjoint-jean-luc-melenchon_8158823.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T18:55:44+00:00",
+      "titre": "Léa Salamé se retire du « 20 heures » de France 2 après la déclaration officielle de candidature de Raphaël Glucksmann",
+      "dek": "Conformément à l’engagement pris dès son arrivée au JT de France Télévisions en 2025, la journaliste tire les conséquences de l’officialisation de la candidature de son compagnon à la présidentielle, et renonce à présenter le rendez-vous phare de l’information de service public.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/08/23/lea-salame-se-retire-du-20-heures-de-france-2-apres-la-declaration-officielle-de-candidature-de-raphael-glucksmann_6754541_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T18:33:02+00:00",
+      "titre": "Raphaël Glucksmann annonce être candidat à l’élection présidentielle dans le cadre de la primaire organisée avec le Parti socialiste",
+      "dek": "L’essayiste et fondateur de Place publique a annoncé sa candidature au journal de 20 heures, sur TF1, dimanche. En attendant de participer à une primaire organisée avec le Parti socialiste, il espère créer une dynamique dans les semaines à venir.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/raphael-glucksmann-annonce-etre-candidat-a-l-election-presidentielle-dans-le-cadre-de-la-primaire-organisee-avec-le-parti-socialiste_6754507_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T17:27:46+00:00",
+      "titre": "«À présent, pour tous, la victoire est possible»: Jean-Luc Mélenchon déploie sa stratégie de l’optimisme",
+      "dek": "Les universités d’été de La France insoumise ont donné à voir une confiance inédite dans la perspective d’une victoire à l’élection présidentielle. Les cadres de la campagne veulent en profiter pour s’imposer comme la seule alternative crédible à Marine Le Pen et plier le match à…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/230826/present-pour-tous-la-victoire-est-possible-jean-luc-melenchon-deploie-sa-strategie-de-l-optimisme"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T17:19:44+00:00",
+      "titre": "Jean-Luc Mélenchon met en doute l'impartialité des préfets vis-à-vis de LFI, Laurent Nunez répond qu'ils n'ont \"pas de leçons à recevoir\"",
+      "dek": "Le candidat à la présidentielle demande à ces représentants de l'Etat de \"retourner dans leurs bureaux et cesser de faire des procès aux députés insoumis\". \"Ils agissent chaque jour avec neutralité\", a défendu le ministre de l'Intérieur.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/nous-ne-sommes-pas-vos-copains-jean-luc-melenchon-et-laurent-nunez-s-opposent-sur-l-impartialite-des-prefets_8158742.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -407,149 +550,6 @@
       "dek": "Les Entrepreneurs (ex-CPME) et le Medef appellent à placer l’économie et la création de richesse au cœur du débat présidentiel, sur fond d’inquiétudes concernant la dette et les finances publiques.",
       "avis": null,
       "lien": "https://www.lemonde.fr/economie/article/2026/08/22/presidentielle-2027-les-patrons-appellent-a-placer-l-economie-au-c-ur-du-debat_6753645_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T20:05:09+00:00",
-      "titre": "Rentrée politique : Édouard Philippe et Jean-Luc Mélenchon s'écharpent au sujet de l'immigration à Mayotte",
-      "dek": "La journée du samedi 22 août a été marquée par une passe d'armes entre Édouard Philippe et Jean-Luc Mélenchon au sujet de l'immigration à Mayotte. La campagne présidentielle est bel et bien lancée.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/rentree-politique-edouard-philippe-et-jean-luc-melenchon-s-echarpent-au-sujet-de-l-immigration-a-mayotte_8157719.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T19:41:08+00:00",
-      "titre": "Présidentielle 2027 : Edouard Philippe presse la droite et le centre de s’unir avant février",
-      "dek": "Pour le maire du Havre, actuellement en déplacement de campagne à Mayotte et à La Réunion, ce rassemblement est indispensable pour contrer les candidatures de Marine Le Pen et de Jean-Luc Mélenchon, déjà solidement établies.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-edouard-philippe-presse-la-droite-et-le-centre-de-s-unir-avant-fevrier_6753612_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T19:00:27+00:00",
-      "titre": "En Loir-et-Cher, une maire UDI et vice-présidente de l'AMF recrute un membre du RN pour diriger ses services municipaux",
-      "dek": "Catherine Lhéritier affirme ne pas avoir été informée de l'orientation politique de sa nouvelle recrue.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/en-loir-et-cher-une-maire-udi-et-vice-presidente-de-l-amf-recrute-un-membre-du-rn-pour-diriger-ses-services-municipaux_8157701.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T18:56:06+00:00",
-      "titre": "Aux journées d’été des Verts, l’intervention d’Olivier Faure court-circuitée par un débat en coulisses sur une alliance avec LFI",
-      "dek": "Le premier secrétaire du PS s’est rendu à Grenoble ce samedi 22 août pour participer à une table ronde sur les leçons à tirer du mouvement des gilets jaunes. Au même moment, s’organisait une discussion informelle sur un éventuel accord des écolos avec Jean-Luc Mélenchon en 2027.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/aux-journees-dete-des-verts-lintervention-dolivier-faure-court-circuitee-par-un-debat-en-coulisses-sur-une-alliance-avec-lfi-20260822_6SSPS7VDMBEHDPS3NUXXMAWT6I/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T18:46:05+00:00",
-      "titre": "Sébastien Lecornu appelle les parlementaires à \"adopter un budget\" pour 2027",
-      "dek": "\"Choisir d'attendre l'élection présidentielle pour adopter un budget (...), c'est choisir le désordre\", écrit le Premier ministre dans une lettre adressée aux députés et sénateurs.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/budget/sebastien-lecornu-appelle-les-parlementaires-a-adopter-un-budget-pour-2027_8157608.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T18:17:08+00:00",
-      "titre": "Sébastien Lecornu met en garde les parlementaires : « Choisir d’attendre l’élection présidentielle pour adopter un budget pour 2027, c’est choisir le désordre »",
-      "dek": "En cas d’absence de budget, « une hausse [des] taux d’intérêt pèserait durablement sur l’Etat, mais aussi sur [l’]économie, et donc sur les ménages », estime le premier ministre dans une lettre envoyée aux parlementaires et révélée par « Le Parisien ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/sebastien-lecornu-met-en-garde-les-parlementaires-choisir-d-attendre-l-election-presidentielle-pour-adopter-un-budget-pour-2027-c-est-choisir-le-desordre_6753579_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T18:02:16+00:00",
-      "titre": "Présidentielle 2027 : Fabien Roussel, secrétaire national du PCF, appelle à « se débarrasser » de la politique d’Emmanuel Macron",
-      "dek": "S’exprimant à l’université d’été du Parti communiste, il a estimé, samedi, que la gauche « a la responsabilité de redevenir majoritaire dans le pays et d’être capable de redonner de l’espoir en portant un programme ambitieux, transformateur, crédible ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-fabien-roussel-secretaire-national-du-pcf-appelle-a-se-debarrasser-de-la-politique-d-emmanuel-macron_6753575_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T17:30:02+00:00",
-      "titre": "Edouard Philippe, en campagne à Mayotte pour la présidentielle 2027, promet de « fermer les vannes de l’immigration » à des élus lassés par les promesses",
-      "dek": "Lors d’un déplacement de deux jours dans l’archipel, le président du parti Horizons a réitéré sa volonté de suspendre dans le département ultramarin, pendant cinq ans, le droit du sol, le droit d’asile et le regroupement familial.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-a-mayotte-edouard-philippe-promet-de-fermer-les-vannes-de-l-immigration-a-des-elus-lasses-par-les-promesses_6753542_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T17:30:02+00:00",
-      "titre": "Présidentielle 2027 : à Mayotte, Edouard Philippe promet de « fermer les vannes de l’immigration » à des élus lassés par les promesses",
-      "dek": "Lors d’un déplacement de deux jours, le président du parti Horizons a réitéré sa volonté de suspendre dans le département ultramarin pendant cinq ans le droit du sol, le droit d’asile et le regroupement familial.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-a-mayotte-edouard-philippe-promet-de-fermer-les-vannes-de-l-immigration-a-des-elus-lasses-par-les-promesses_6753542_6205049.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T17:18:51+00:00",
-      "titre": "« Une France verte, libre et indépendante » : à Toulouse, Fabien Roussel appelle les communistes à « renverser la table »",
-      "dek": "Lors des universités d'été du PCF, à Toulouse, Fabien Roussel s'est adressé au millier de participants présents en réaffirmant le projet qu'il entend défendre lors de la campagne présidentielle&nbsp;: la révolution sociale et écologique. Il a également invité le reste de la gauch…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/election-presidentielle/une-france-verte-libre-et-independante-a-toulouse-fabien-roussel-appelle-les-communistes-a-renverser-la-table"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T17:09:57+00:00",
-      "titre": "Le Canada dénonce la «guerre» commerciale lancée par Washington",
-      "dek": "Le premier ministre canadien, Mark Carney, a vivement dénoncé samedi l’attitude des États-Unis à la suite de la rupture des négociations commerciales entre les deux voisins.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/220826/le-canada-denonce-la-guerre-commerciale-lancee-par-washington"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T17:09:17+00:00",
-      "titre": "Santé mentale des mineurs: aux États-Unis, Meta sur le banc des accusés",
-      "dek": "Les plaintes et les procédures se multiplient contre les géants de la tech, et Meta est particulièrement visée. Déjà condamnée au printemps, l’entreprise est poursuivie en Californie depuis mardi 18 août pour la mise en danger de ses plus jeunes utilisateurs dans un procès qualif…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/220826/sante-mentale-des-mineurs-aux-etats-unis-meta-sur-le-banc-des-accuses"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T16:48:25+00:00",
-      "titre": "DIRECT. Présidentielle 2027 : Olivier Faure, invité de la rentrée des Ecologistes, ne veut pas \"rejouer en permanence les gauches irréconciliables\"",
-      "dek": "Le patron du Parti socialiste a expliqué sa venue par la nécessité de \"considérer que la première priorité doit être la transition écologique\", notamment après la grave crise climatique de l'été.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-rentree-politique-marine-tondelier-persiste-dans-son-appel-a-l-union-de-la-gauche-lfi-attend-un-ralliement-des-ecologistes_8157125.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
