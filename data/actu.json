@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-22T20:52:05+00:00",
+  "generated_at": "2026-08-23T03:30:38+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T20:50:15+00:00",
+      "date_iso": "2026-08-22T21:01:36+00:00",
       "titre": "Présidentielle 2027 : \"Le sujet, ce n'est pas qui va se mettre derrière qui\", estime la secrétaire nationale des Ecologistes Marine Tondelier",
       "dek": "\"Notre responsabilité est de nous mettre, chacun, au service de quelque chose de plus grand que notre propre organisation\", avait déjà plaidé la candidate écologiste, dans son discours hier.",
       "avis": null,
@@ -107,9 +107,20 @@
       "date": "22 Aug 2026",
       "date_iso": "2026-08-22T17:30:02+00:00",
       "titre": "Présidentielle 2027 : à Mayotte, Edouard Philippe promet de « fermer les vannes de l’immigration » à des élus lassés par les promesses",
-      "dek": "Lors d’un déplacement de deux jours à Mayotte, Edouard Philippe a choisi comme thématique principale de sa rentrée politique la lutte contre l’immigration illégale. Le candidat Horizons a répété sa volonté d’y suspendre pendant cinq ans le droit du sol, le droit d’asile et le reg…",
+      "dek": "Lors d’un déplacement de deux jours, le président du parti Horizons a réitéré sa volonté de suspendre dans le département ultramarin pendant cinq ans le droit du sol, le droit d’asile et le regroupement familial.",
       "avis": null,
       "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-a-mayotte-edouard-philippe-promet-de-fermer-les-vannes-de-l-immigration-a-des-elus-lasses-par-les-promesses_6753542_6205049.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T17:18:51+00:00",
+      "titre": "« Une France verte, libre et indépendante » : à Toulouse, Fabien Roussel appelle les communistes à « renverser la table »",
+      "dek": "Lors des universités d'été du PCF, à Toulouse, Fabien Roussel s'est adressé au millier de participants présents en réaffirmant le projet qu'il entend défendre lors de la campagne présidentielle : la révolution sociale et écologique. Il a également invité le reste de la gauche à «…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/election-presidentielle/une-france-verte-libre-et-independante-a-toulouse-fabien-roussel-appelle-les-communistes-a-renverser-la-table"
     },
     {
       "tag": "Gauche",
@@ -539,17 +550,6 @@
       "dek": "La ministre de la Santé, Stéphanie Rist, a annoncé jeudi 23 juillet, l'augmentation du plafond annuel des franchises médicales sur les consultations et les médicaments, un coût supplémentaire pour de nombreux malades.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/sante/on-ne-veut-plus-indexer-les-retraites-sur-l-inflation-mais-on-veut-indexer-les-franchises-medicales-des-personnes-malades-sur-l-inflation-fustige-france-assos-sante_8156282.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T10:43:31+00:00",
-      "titre": "Maison de l’Argentine : la Mairie de Paris demande au Quai d’Orsay d’enquêter sur son nouveau directeur lié à l’extrême droite",
-      "dek": "Santiago Muzio a pris la tête de la Maison de l’Argentine, située dans la Cité internationale universitaire de Paris, en 2024, après avoir dirigé l’antenne de Madrid de l’Institut de sciences sociales, économiques et politiques, université privée fondée par la députée européenne …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/08/21/la-mairie-de-paris-demande-au-quai-d-orsay-d-enqueter-sur-la-maison-de-l-argentine-situee-dans-la-cite-internationale-universitaire-de-paris_6752012_3210.html"
     }
   ]
 }
