@@ -1,6 +1,171 @@
 {
-  "generated_at": "2026-08-23T09:02:14+00:00",
+  "generated_at": "2026-08-23T13:45:12+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T13:37:28+00:00",
+      "titre": "Présidentielle 2027 : la transition écologique, élément de convergence et de rivalité entre LFI et les Ecologistes",
+      "dek": "Alors que le pays a vécu un été de crises liées au dérèglement climatique, l’écologie a été le thème central des universités des Ecologistes et de La France insoumise, le week-end des 22 et 23 août. Les « insoumis » espèrent les convaincre de soutenir la candidature de Jean-Luc M…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/presidentielle-2027-la-transition-ecologique-element-de-convergence-et-de-rivalite-entre-lfi-et-les-ecologistes_6754268_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T13:36:28+00:00",
+      "titre": "DIRECT. Présidentielle 2027 : \"Qu'il fasse pour le mieux\", déclare Jean-Luc Mélenchon à propos de Raphaël Glucksmann, qui devrait se déclarer candidat",
+      "dek": "\"Six mois avant [l'élection], on ne sait pas quelle est votre ligne ni quel est votre candidat\", a ironisé le chef de file de La France insoumise à propos des sociaux-démocrates, dont les relations avec le leader insoumis sont conflictuelles.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T13:14:44+00:00",
+      "titre": "Que s’est-il passé cet été ? Les 30 événements à retenir de juin et juillet",
+      "dek": "Si vous étiez loin de l’actualité en juillet et en août, comblez vos lacunes avec notre application qui vous offre à la carte un récapitulatif des informations les plus importantes des dernières semaines.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/08/23/vous-revenez-de-vacances-rattrapez-l-actualite-que-vous-avez-manquee-cet-ete-avec-le-recapator_6754234_4355770.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T12:25:37+00:00",
+      "titre": "À Mayotte, Édouard Philippe veut réunir la droite en s’attaquant au droit du sol",
+      "dek": "Le candidat à l’élection présidentielle a choisi l’archipel de Mayotte pour lancer sa rentrée. Voulant réunir sa famille politique, il a défendu sur place une suspension du droit du sol, du droit d’asile et du regroupement familial.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/droit-dasile/a-mayotte-edouard-philippe-veut-reunir-la-droite-en-sattaquant-au-droit-du-sol"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T12:09:54+00:00",
+      "titre": "Présidentielle 2027 : une union des gauches est-elle encore possible ?",
+      "dek": "Un budget qui sera censuré par LFI, c’est Jean-Luc Mélenchon qui l’a annoncé dans son discours de clôture des universités d’été de son parti dans la Drôme, dimanche 23 août. À huit mois de la Présidentielle, à gauche, une question subsiste : l’union est-elle vraiment possible pou…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/presidentielle-2027-une-union-des-gauches-est-elle-encore-possible_8158379.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T11:45:32+00:00",
+      "titre": "Entre journalisme et politique, le mélange des genres douteux de l’animateur Maxime Lledo",
+      "dek": "L’intervieweur de 28 ans a été écarté en août par la direction de Sud Radio, qui a invoqué une «confiance rompue». En parallèle de ses fonctions à l’antenne, il facturait des prestations en communication à des responsables politiques. Il réfute tout conflit d’intérêts.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/230826/entre-journalisme-et-politique-le-melange-des-genres-douteux-de-l-animateur-maxime-lledo"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T11:34:23+00:00",
+      "titre": "À Aurillac, le festival du théâtre de rue s’achève en manifestation contre les interventions policières",
+      "dek": "Plusieurs centaines de personnes ont manifesté samedi au festival du théâtre de rue contre des opérations de la police visant marchands de rue, punks et SDF, dénaturant selon elles l’esprit libertaire de l’événement. Le nouveau maire de droite avait annoncé une reprise en main ap…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/230826/aurillac-le-festival-du-theatre-de-rue-s-acheve-en-manifestation-contre-les-interventions-policieres"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T11:33:53+00:00",
+      "titre": "Présidentielle 2027 : la surenchère sur l’immigration des candidats du bloc central",
+      "dek": "En visite à Mayotte, Edouard Philippe a évoqué la suspension des demandes d’asile ou de regroupement familial. Son rival au centre, Gabriel Attal, évoque une modification constitutionnelle pour instaurer des quotas limitatifs de migrants.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/08/23/presidentielle-la-surenchere-des-candidats-du-bloc-central-sur-l-immigration_6754133_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T11:27:48+00:00",
+      "titre": "\"On a des chemins différents pour gagner\" : à neuf mois de l'élection présidentielle, les forces de gauche ont bien du mal à se réconcilier",
+      "dek": "Alors que Raphaël Glucksmann devrait se déclarer candidat dimanche, le clivage se creuse entre La France insoumise, d'un côté, et le Parti socialiste, de l'autre. Au milieu, les autres formations de gauche, qui font leur rentrée, hésitent encore sur la stratégie à adopter.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/on-a-des-chemins-differents-pour-gagner-a-neuf-mois-de-l-election-presidentielle-les-differentes-forces-de-gauche-ont-bien-du-mal-a-se-reconcilier_8158121.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T11:18:06+00:00",
+      "titre": "Jean-Luc Mélenchon promet que LFI censurera le gouvernement Lecornu sur son budget 2027 \"qui va aggraver tous les maux\" de l'économie",
+      "dek": "\"L'économie française était sur le fil du rasoir de la récession. Elle va plonger car [Sébastien] Lecornu prépare un nouveau bûcher de coupes rases qui va aggraver tous les maux\", a déclaré le leader insoumis lors des universités d'été de son parti.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/budget/jean-luc-melenchon-promet-que-lfi-censurera-le-gouvernement-lecornu-sur-son-budget-2027-qui-va-aggraver-tous-les-maux-de-l-economie_8158343.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T10:21:38+00:00",
+      "titre": "En Chine, des succès littéraires venus du monde ouvrier et de la précarité",
+      "dek": "À la mi-juillet, Jibin Wang, un livreur de repas, s’est vu décerner l’un des prix littéraires les plus prestigieux de Chine pour un recueil de poèmes écrits entre deux courses. Dernier exemple en date de témoignages d’ouvriers sur leurs conditions de vie, une tradition souvent en…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/230826/en-chine-des-succes-litteraires-venus-du-monde-ouvrier-et-de-la-precarite"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T10:21:23+00:00",
+      "titre": "En Chine, l’ubérisation du marché du travail gagne du terrain",
+      "dek": "En 2026, 44% des emplois chinois pourraient relever du secteur dit «flexible». Un moyen commode pour le gouvernement d’amortir le choc de la crise immobilière et de la montée en gamme de l’industrie, mais qui montre désormais ses limites.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/230826/en-chine-l-uberisation-du-marche-du-travail-gagne-du-terrain"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T09:43:36+00:00",
+      "titre": "Jean-Luc Mélenchon sur le budget 2027 : « Nous le censurerons, j’en suis certain »",
+      "dek": "Le candidat à l’élection présidentielle a critiqué l’inaction du gouvernement face aux « canicules et incendies à répétition », y opposant un « Etat écologique », sujet auquel il a accordé une large part de son discours de clôture des universités d’été de LFI.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/jean-luc-melenchon-sur-le-budget-2027-nous-le-censurerons-j-en-suis-certain_6754097_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T09:14:01+00:00",
+      "titre": "À l’ombre des Carpates, la saga du XXe siècle",
+      "dek": "Entre vie réelle et vie rêvée, la Roumanie dépeinte par Iris Wolff dans «Comme s’il pleuvait» oscille entre monde moderne et tradition, voilant sans l’oublier la brutalité de la dictature derrière une vérité plus profonde, portée par la poésie d’un récit sobre.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/230826/l-ombre-des-carpates-la-saga-du-xxe-siecle"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T09:02:36+00:00",
+      "titre": "Présidentielle 2027 : \"Le sujet, ce n'est pas qui va se mettre derrière qui\", estime la secrétaire nationale des Ecologistes Marine Tondelier",
+      "dek": "\"Notre responsabilité est de nous mettre, chacun, au service de quelque chose de plus grand que notre propre organisation\", avait déjà plaidé la candidate écologiste, dans son discours hier.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-rentree-politique-marine-tondelier-persiste-dans-son-appel-a-l-union-de-la-gauche-lfi-attend-un-ralliement-des-ecologistes_8157125.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -20,6 +185,17 @@
       "date_iso": "2026-08-23T08:40:04+00:00",
       "titre": "Présidentielle 2027 : le communiste Fabien Roussel lance sa campagne sur une ligne autonome",
       "dek": "Le projet, proposé par la direction sortante, a d’ores et déjà été approuvé par les délégués lors du 40e Congrès du PCF, début juillet, à Lille. Mais les adhérents doivent encore approuver la désignation de Fabien Roussel.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/presidentielle-2027-le-communiste-fabien-roussel-lance-sa-campagne-sur-une-ligne-autonome_6754061_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T08:40:01+00:00",
+      "titre": "Le communiste Fabien Roussel lance sa campagne pour la présidentielle 2027 sur une ligne autonome",
+      "dek": "Le projet, proposé par la direction sortante, a d’ores et déjà été approuvé par les délégués lors du 40ᵉ congrès du PCF, au début de juillet, à Lille. Mais les adhérents doivent encore approuver la désignation de Fabien Roussel.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/23/presidentielle-2027-le-communiste-fabien-roussel-lance-sa-campagne-sur-une-ligne-autonome_6754061_823448.html"
     },
@@ -55,17 +231,6 @@
       "dek": "Pendant leur université d'été, les Ecologistes ont ouvert le débat sur l'union en prévision de l'élection présidentielle de 2027. Les militants sont tiraillés entre un rapprochement avec La France Insoumise ou avec le Parti Socialiste.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/ecologistes-avec-qui-faire-l-union_8158052.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T21:01:36+00:00",
-      "titre": "Présidentielle 2027 : \"Le sujet, ce n'est pas qui va se mettre derrière qui\", estime la secrétaire nationale des Ecologistes Marine Tondelier",
-      "dek": "\"Notre responsabilité est de nous mettre, chacun, au service de quelque chose de plus grand que notre propre organisation\", avait déjà plaidé la candidate écologiste, dans son discours hier.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-rentree-politique-marine-tondelier-persiste-dans-son-appel-a-l-union-de-la-gauche-lfi-attend-un-ralliement-des-ecologistes_8157125.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -154,6 +319,17 @@
       "dek": "S’exprimant à l’université d’été du Parti communiste, il a estimé, samedi, que la gauche « a la responsabilité de redevenir majoritaire dans le pays et d’être capable de redonner de l’espoir en portant un programme ambitieux, transformateur, crédible ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-fabien-roussel-secretaire-national-du-pcf-appelle-a-se-debarrasser-de-la-politique-d-emmanuel-macron_6753575_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "22 Aug 2026",
+      "date_iso": "2026-08-22T17:30:02+00:00",
+      "titre": "Edouard Philippe, en campagne à Mayotte pour la présidentielle 2027, promet de « fermer les vannes de l’immigration » à des élus lassés par les promesses",
+      "dek": "Lors d’un déplacement de deux jours dans l’archipel, le président du parti Horizons a réitéré sa volonté de suspendre dans le département ultramarin, pendant cinq ans, le droit du sol, le droit d’asile et le regroupement familial.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/presidentielle-2027-a-mayotte-edouard-philippe-promet-de-fermer-les-vannes-de-l-immigration-a-des-elus-lasses-par-les-promesses_6753542_6205049.html"
     },
     {
       "tag": "Politique",
@@ -374,182 +550,6 @@
       "dek": "L’annonce opportune de l’ouverture d’une nouvelle information judiciaire dans l’affaire Le Scouarnec a permis au garde des Sceaux de s’offrir une opération de communication, au détriment des victimes toujours en attente de justice.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/220826/je-n-arrive-pas-comprendre-ce-systeme-des-victimes-de-joel-le-scouarnec-atterrees-par-l-operation-de-commu"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T08:31:29+00:00",
-      "titre": "De Mayotte, Edouard Philippe répond aux critiques de Jean-Luc Mélenchon : « J’aimerais qu’il vienne ici et qu’il constate que la crise migratoire est prégnante »",
-      "dek": "Vendredi, l’ancien premier ministre d’Emmanuel Macron a multiplié les propositions visant à « fermer les vannes de l’immigration » dans le 101ᵉ département français.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/depuis-mayotte-edouard-philippe-repond-aux-critiques-de-jean-luc-melenchon-j-aimerais-qu-il-vienne-ici-et-qu-il-constate-que-la-crise-migratoire-est-pregnante_6753027_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T08:31:29+00:00",
-      "titre": "Depuis Mayotte, Edouard Philippe répond aux critiques de Jean-Luc Mélenchon : « J’aimerais qu’il vienne ici et qu’il constate que la crise migratoire est prégnante »",
-      "dek": "Vendredi, l’ancien premier ministre d’Emmanuel Macron a multiplié les propositions visant à « fermer les vannes de l’immigration » dans le 101ᵉ département français.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/22/depuis-mayotte-edouard-philippe-repond-aux-critiques-de-jean-luc-melenchon-j-aimerais-qu-il-vienne-ici-et-qu-il-constate-que-la-crise-migratoire-est-pregnante_6753027_6205049.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T08:11:08+00:00",
-      "titre": "Le dragon, ancien symbole des empereurs, est devenu l’emblème d’une Chine conquérante",
-      "dek": "Après l’abdication du dernier empereur Puyi en 1912, la créature hybride s’est transformée en symbole de toute la nation chinoise. Même le numéro un communiste Xi Jinping se proclame «descendant des dragons».",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/220826/le-dragon-ancien-symbole-des-empereurs-est-devenu-l-embleme-d-une-chine-conquerante"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T07:42:02+00:00",
-      "titre": "REPORTAGE. \"C'est l'été qui a montré l'urgence\" : les écologistes entendent porter l'enjeu climatique pendant la campagne présidentielle",
-      "dek": "En invitant samedi l'intersyndicale des pompiers à leurs Journées d'été, les écologistes veulent mettre la pression sur le gouvernement dès la rentrée autour des sujets environnementaux.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/eelv/reportage-c-est-le-moment-de-faire-valoir-nos-propositions-face-aux-chaleurs-records-et-aux-incendies-les-ecologistes-entendent-porter-l-enjeu-de-l-urgence-climatique-pendant-la-campagne-presidentielle_8156030.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T06:55:05+00:00",
-      "titre": "REPORTAGE. \"J'ai l'impression qu'on peut y arriver\" : aux universités d'été de LFI, les militants confiants pour 2027",
-      "dek": "Les Amfis se tiennent ce week-end et marquent la rentrée politique de Jean-Luc Mélenchon. Le leader insoumis prononcera un discours dimanche.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/reportage-j-ai-l-impression-qu-on-peut-y-arriver-aux-universites-d-ete-de-lfi-les-militants-confiants-pour-2027_8157035.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T06:49:33+00:00",
-      "titre": "«En juin 2024, les digues ont cédé»: cet électorat de droite, plus âgé et diplômé, tenté par le RN",
-      "dek": "Dans une étude pour la Fondapol, le politologue Pascal Perrineau livre une radioscopie éclairante de l’évolution récente de l’électorat du parti de Marine Le Pen.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/en-juin-2024-les-digues-ont-cede-cet-electorat-de-droite-plus-age-et-diplome-tente-par-le-rn-20260821"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T04:30:07+00:00",
-      "titre": "Présidentielle 2027 : les syndicats, inquiets par les reculs dans des pays dirigés par l’extrême droite, essaient de se mobiliser contre le RN",
-      "dek": "Une note de la Fondation Jean Jaurès et de son équivalent allemand, la Fondation Friedrich-Ebert, publiée à la fin du mois de juillet, fait un bilan de l’action menée par les gouvernements aux Etats-Unis, en Hongrie et en Italie à l’égard des organisations, des libertés et des dr…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-les-syndicats-inquiets-par-les-reculs-dans-des-pays-diriges-par-l-extreme-droite-essaient-de-se-mobiliser-contre-le-rn_6752695_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T04:00:09+00:00",
-      "titre": "Cinq ans après, l’amer anniversaire de la loi Climat et résilience, inspirée par des propositions citoyennes : « presque toutes les mesures ont été détricotées »",
-      "dek": "Le texte promulgué il y a cinq ans se voulait la traduction dans la loi des propositions de la convention citoyenne pour le climat visant à guider la France vers la décarbonation. Mais ses principales dispositions n’ont cessé d’être assouplies ou annulées depuis.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/planete/article/2026/08/22/cinq-ans-apres-l-amer-anniversaire-de-la-loi-climat-et-resilience-inspiree-par-des-propositions-citoyennes-presque-toutes-les-mesures-ont-ete-detricotees_6752625_3244.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T04:00:02+00:00",
-      "titre": "Pour la loi Climat et résilience, issue de propositions citoyennes, un cinquième et amer anniversaire : « Presque toutes les mesures ont été détricotées »",
-      "dek": "Le texte promulgué en août 2021 ans se voulait la traduction dans la loi du travail de la convention citoyenne pour le climat visant à guider la France vers la décarbonation. Mais ses principales dispositions n’ont cessé d’être assouplies ou annulées depuis.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/planete/article/2026/08/22/cinq-ans-apres-l-amer-anniversaire-de-la-loi-climat-et-resilience-inspiree-par-des-propositions-citoyennes-presque-toutes-les-mesures-ont-ete-detricotees_6752625_3244.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T03:00:00+00:00",
-      "titre": "Présidentielle 2027 : à Grenoble, l’écologiste Marine Tondelier maintient la ligne de l’union à gauche malgré la pression de LFI",
-      "dek": "La secrétaire nationale des Verts a plaidé, vendredi 21 août, lors de leur université d’été, pour un dépassement des querelles partisanes, rappelant qu’« aucune famille politique du camp progressiste n’est capable de gagner seule » l’élection.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/presidentielle-2027-a-grenoble-l-ecologiste-marine-tondelier-maintient-la-ligne-de-l-union-a-gauche-malgre-la-pression-de-lfi_6752519_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T21:37:09+00:00",
-      "titre": "En visite à Mayotte, Edouard Philippe souhaite mettre fin à l'\"appel d'air\" de l'immigration",
-      "dek": "Le candidat Horizons à la présidentielle est en visite dans le département vendredi et samedi.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/edouard-philippe-fait-sa-rentree-politique-a-mayotte-et-promet-de-mettre-fin-a-l-appel-d-air-de-l-immigration_8156786.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T18:35:02+00:00",
-      "titre": "Rentrée des insoumis : Jean-Luc Mélenchon prend son clash en patience",
-      "dek": "A huit mois de l’élection présidentielle, le chef de file LFI va-t-il arrondir les angles pour rassembler autour de lui ou conserver sa radicalité pour asseoir son socle ? Une équation de plus en plus périlleuse.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/editorial/rentree-des-insoumis-jean-luc-melenchon-prend-son-clash-en-patience-20260821_4ARSKWYNNJBVLBMIKXHXBMNBIY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T18:30:48+00:00",
-      "titre": "Présidentielle 2027 : clivant ou rassembleur, Jean-Luc Mélenchon sème le double",
-      "dek": "En meeting aux universités d’été des insoumis ce dimanche, le quadruple candidat à la présidentielle, qui a enchaîné les polémiques, semble se montrer plus fédérateur à l’égard de ses potentiels alliés verts voire communistes.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-2027-clivant-ou-rassembleur-jean-luc-melenchon-seme-le-double-20260821_OVKRXT2O3RE6BPJWKTFNF4OFQM/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T18:23:14+00:00",
-      "titre": "Sénatoriales : les Écologistes se préparent à subir les conséquences des municipales",
-      "dek": "Strasbourg, Bordeaux, Bègles, Lyon… Les pertes enregistrées aux municipales pourraient coûter cher aux Écologistes. Trois de leurs sept sièges renouvelables sont en danger.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/elections-senatoriales/senatoriales-les-ecologistes-se-preparent-a-subir-les-consequences-des-municipales"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T16:23:37+00:00",
-      "titre": "Le résistible retour de l’extrême droite, par Nonna Mayer",
-      "dek": "Fondé en 1972 par des nostalgiques de Vichy et des anciens Waffen-SS, le Front national a commencé son ascension électorale en 1983-1984. Depuis, elle ne s’est pas ralentie et, avec Marine Le Pen, s’approche de l’Élysée. Quels sont les ressorts français de ce retour de l’extrême …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/210826/le-resistible-retour-de-l-extreme-droite-par-nonna-mayer"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "21 Aug 2026",
-      "date_iso": "2026-08-21T15:27:12+00:00",
-      "titre": "Université d’été : les Verts à la croisée des chemins pour la présidentielle de 2027",
-      "dek": "À huit mois de la présidentielle, Marine Tondelier se retrouve face à un choix cornélien : maintenir une candidature écologiste autonome, rejoindre le pôle social-démocrate autour de Raphaël Glucksmann ou s’allier avec Jean-Luc Mélenchon. À Grenoble, pour les journées d’été des é…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/gauche/universite-dete-les-verts-a-la-croisee-des-chemins-pour-la-presidentielle-de-2027"
     }
   ]
 }
