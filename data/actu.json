@@ -1,27 +1,203 @@
 {
-  "generated_at": "2026-08-23T13:45:12+00:00",
+  "generated_at": "2026-08-23T16:56:35+00:00",
   "articles": [
     {
       "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
       "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T13:37:28+00:00",
-      "titre": "Présidentielle 2027 : la transition écologique, élément de convergence et de rivalité entre LFI et les Ecologistes",
-      "dek": "Alors que le pays a vécu un été de crises liées au dérèglement climatique, l’écologie a été le thème central des universités des Ecologistes et de La France insoumise, le week-end des 22 et 23 août. Les « insoumis » espèrent les convaincre de soutenir la candidature de Jean-Luc M…",
+      "date_iso": "2026-08-23T16:38:04+00:00",
+      "titre": "DIRECT. Présidentielle 2027 : \"Qu'il fasse pour le mieux\", déclare Jean-Luc Mélenchon à propos de Raphaël Glucksmann, qui devrait se déclarer candidat",
+      "dek": "\"Six mois avant [l'élection], on ne sait pas quelle est votre ligne ni quel est votre candidat\", a ironisé le chef de file de La France insoumise à propos des sociaux-démocrates, dont les relations avec le leader insoumis sont conflictuelles.",
       "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/presidentielle-2027-la-transition-ecologique-element-de-convergence-et-de-rivalite-entre-lfi-et-les-ecologistes_6754268_823448.html"
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T16:33:13+00:00",
+      "titre": "Les préfets doivent-ils adresser un salut militaire réglementaire aux députés, comme l’affirme Jean-Luc Mélenchon ?",
+      "dek": "LA VÉRIF’ - Le candidat LFI à la présidentielle a vertement apostrophé les représentants de l’État, dimanche, lors de son discours aux universités d’été de son mouvement.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/les-prefets-doivent-ils-adresser-un-salut-militaire-reglementaire-aux-deputes-comme-l-affirme-jean-luc-melenchon-20260823"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T16:10:17+00:00",
+      "titre": "À ses universités d’été, la gauche se met en ordre de bataille pour 2027",
+      "dek": "Les universités d’été sont toujours des moments de conscientisation et de préparation aux luttes à venir. Encore plus après un été incendiaire et avant une élection en 2027 de tous les dangers. D’une même voix, communistes, insoumis et écologistes ont appelé ce week-end à rompre …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/fabien-roussel/a-ses-universites-dete-la-gauche-se-met-en-ordre-de-bataille-pour-2027"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T15:54:23+00:00",
+      "titre": "Médias et extrême droite, quelques glissements d’été, par Daniel Schneidermann",
+      "dek": "L’hypothèse «Le Pen au pouvoir» s’infiltre dans le récit médiatique dominant sous toutes ses formes et les digues s’effritent, alerte notre chroniqueur à partir, notamment, de sa lecture estivale du quotidien du soir : des articles excellents, informatifs, s’efforçant à la distan…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/opinions/extreme-droite-petits-glissements-dete-au-monde-par-daniel-schneidermann-20260821_CS6SWBELIJBSPNP2V3DOYJEEDQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T15:39:24+00:00",
+      "titre": "«On ne lâche pas le morceau»: à Tours, les ex-cadres insoumis de L’Après croient encore à l’union de la gauche",
+      "dek": "Réunis ce week-end en Indre-et-Loire pour leur première Université d’été, les dirigeants du parti créé par des expulsés de LFI estiment que «rien n’est fixé à gauche» pour 2027. Les militants, eux, commencent à douter.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/on-ne-lache-pas-le-morceau-a-tours-les-ex-cadres-insoumis-de-lapres-croient-encore-a-lunion-de-la-gauche-20260823_UYD45IF2AJG7XI7NODM4BZHAB4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T15:29:05+00:00",
+      "titre": "Le gouvernement détruit l’assurance maladie solidaire au prétexte de mieux la sauvegarder",
+      "dek": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Aujourd’hui il revient sur la séquence du frein sur la hausse des franchises, qui cache le déremboursement de nombreux soins p…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/societe/sante/le-gouvernement-detruit-lassurance-maladie-solidaire-au-pretexte-de-mieux-la-sauvegarder-20260823_G24MQ2WRXFGVHH4CN75L2O5HIQ/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T15:22:57+00:00",
+      "titre": "Les partis de gauche font leurs universités d’été, deux médailles d’or françaises en badminton… Ce qu’il ne fallait pas manquer ce week-end",
+      "dek": "Pas de panique si vous avez décroché de l’actualité durant le week-end. «&nbsp;L’Humanité&nbsp;» vous fait le récap' de ce qu’il ne fallait pas manquer ces 22 et 23&nbsp;août.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/presidentielle-2027/les-partis-de-gauche-font-leurs-universites-dete-deux-medailles-dor-francaises-en-badminton-ce-quil-ne-fallait-pas-manquer-ce-week-end"
     },
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T13:36:28+00:00",
-      "titre": "DIRECT. Présidentielle 2027 : \"Qu'il fasse pour le mieux\", déclare Jean-Luc Mélenchon à propos de Raphaël Glucksmann, qui devrait se déclarer candidat",
-      "dek": "\"Six mois avant [l'élection], on ne sait pas quelle est votre ligne ni quel est votre candidat\", a ironisé le chef de file de La France insoumise à propos des sociaux-démocrates, dont les relations avec le leader insoumis sont conflictuelles.",
+      "date_iso": "2026-08-23T15:22:27+00:00",
+      "titre": "REPORTAGE. \"La dynamique est ici\" : à leur université d'été, les insoumis et Jean-Luc Mélenchon en opération séduction des écologistes avant la présidentielle",
+      "dek": "Lors de leurs universités d'été, près de Valence (Drôme), les insoumis ont multiplié les gestes en direction des écologistes, dont plusieurs députés ont fait le déplacement. Pour les convaincre de rallier sa candidature, le patron de LFI veut \"incarner la candidature écolo\".",
       "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/reportage-la-dynamique-est-ici-jean-luc-melenchon-et-les-insoumis-en-operation-seduction-aupres-des-ecologistes-avec-la-presidentielle-en-ligne-de-mire_8157635.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T15:11:21+00:00",
+      "titre": "À l’université d’été du PCF, Fabien Roussel parie sur « l’élargissement du socle électoral de la gauche »",
+      "dek": "À l’occasion de l’université d’été du Parti communiste, Fabien Roussel a détaillé les grandes lignes de sa candidature, qui devrait être officialisée le 6&nbsp;septembre, après un vote des militants. Objectif annoncé&nbsp;: élargir le socle électoral de la gauche pour lui ouvrir …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/communisme/a-luniversite-dete-du-pcf-fabien-roussel-parie-sur-lelargissement-du-socle-electoral-de-la-gauche"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T15:07:16+00:00",
+      "titre": "À son université d’été, LFI vise la victoire et tend la main aux Écologistes",
+      "dek": "En pleine dynamique de campagne, les insoumis ont réuni plus de 8&nbsp;000 personnes lors de leurs Amfis d’été. S’estimant en capacité de remporter l’élection présidentielle de 2027, ils appellent à un «&nbsp;changement radical de politique&nbsp;», notamment face à la crise clima…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/jean-luc-melenchon/a-son-universite-dete-lfi-vise-la-victoire-et-tend-la-main-aux-ecologistes"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T14:50:50+00:00",
+      "titre": "Sébastien Lecornu exhorte les députés à s’entendre sur un budget avant la présidentielle",
+      "dek": "Le premier ministre a écrit aux parlementaires pour les alerter du risque de ne voir aucune loi de finances adoptée avant la prochaine présidentielle. Tout en faisant comprendre qu’il entendait baisser la dépense publique.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/assemblee-nationale/sebastien-lecornu-exhorte-les-deputes-a-sentendre-sur-un-budget-avant-la-presidentielle"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T14:48:24+00:00",
+      "titre": "Avant la présidentielle, Bruno Le Maire publie \"un manifeste pour une autre France\"",
+      "dek": "L'ancien ministre de l'Economie pointe trois priorités pour la France, \"l'autorité\", \"la prospérité\" et \"la souveraineté\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/bruno-le-maire/avant-la-presidentielle-bruno-le-maire-publie-un-manifeste-pour-une-autre-france_8158523.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T14:29:02+00:00",
+      "titre": "Présidentielle 2027 : qu’est-ce que la « conscription écologique » que veut créer Jean-Luc Mélenchon ?",
+      "dek": "Lors de son discours de clôture aux universités d’été de LFI, le quadruple candidat à la présidentielle a déroulé le concept d’une «conscription écologique» pour permettre au pays de mieux faire face aux crises climatiques.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-qu-est-ce-que-la-conscription-ecologique-que-veut-creer-jean-luc-melenchon-20260823"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T14:10:58+00:00",
+      "titre": "Présidentielle 2027 : l’écologie et l’économie, fers de lance de la campagne de Mélenchon",
+      "dek": "Dans son discours aux «amphis d’été» de LFI ce dimanche 23 août, le prétendant à l’Elysée a mis en avant la taxation des superprofits et des grandes fortunes ainsi que son idée d’«écorégion», espérant s’attirer les faveurs d’un parti écologiste encore indécis.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-lecologie-et-leconomie-fers-de-lance-de-la-campagne-de-melenchon-20260823_3TNYTZZWLFFLHOKDSMXK4DFI2Q/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T14:01:36+00:00",
+      "titre": "Présidentielle 2027 : Bruno Le Maire publie un manifeste « pour une autre France »",
+      "dek": "En retrait de la vie politique depuis deux ans, l’ancien ministre de l’économie a exposé ses trois priorités pour le pays, à quelques mois de l’élection présidentielle, alors qu’il laisse planer le doute sur une éventuelle candidature.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/presidentielle-2027-bruno-le-maire-publie-un-manifeste-pour-une-autre-france_6754301_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T13:52:31+00:00",
+      "titre": "Familles de France et la CGT s’inquiètent d’une remise en cause des avantages familiaux dans le prochain PLFSS",
+      "dek": "Familles de France et la CGT ont critiqué vendredi des pistes d’économies envisagées dans un récent rapport demandé par le Premier ministre Sébastien Lecornu et qui propose 4,2 milliards d’euros d’économies sur les politiques familiales.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/austerite/familles-de-france-et-la-cgt-sinquietent-dune-remise-en-cause-des-avantages-familiaux-dans-le-prochain-plfss"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T13:51:54+00:00",
+      "titre": "Présidentielle 2027 : une union des gauches est-elle encore possible ?",
+      "dek": "Le budget sera censuré par LFI, a annoncé Jean-Luc Mélenchon dans son discours de clôture des universités d’été de son parti dans la Drôme, dimanche 23 août. À huit mois de la Présidentielle, à gauche, une question subsiste : l’union est-elle vraiment possible pour éviter la disp…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/presidentielle-2027-une-union-des-gauches-est-elle-encore-possible_8158379.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T13:37:27+00:00",
+      "titre": "Présidentielle 2027 : la transition écologique, élément de convergence et de rivalité entre LFI et les Ecologistes",
+      "dek": "Alors que le pays a vécu un été de crises liées au dérèglement climatique, l’écologie a été le thème central des universités de La France insoumise et des Ecologistes, le week-end des 22 et 23 août. Les « insoumis » espèrent convaincre les seconds de soutenir la candidature de Je…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/presidentielle-2027-la-transition-ecologique-element-de-convergence-et-de-rivalite-entre-lfi-et-les-ecologistes_6754268_823448.html"
     },
     {
       "tag": "Politique",
@@ -44,17 +220,6 @@
       "dek": "Le candidat à l’élection présidentielle a choisi l’archipel de Mayotte pour lancer sa rentrée. Voulant réunir sa famille politique, il a défendu sur place une suspension du droit du sol, du droit d’asile et du regroupement familial.",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/droit-dasile/a-mayotte-edouard-philippe-veut-reunir-la-droite-en-sattaquant-au-droit-du-sol"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T12:09:54+00:00",
-      "titre": "Présidentielle 2027 : une union des gauches est-elle encore possible ?",
-      "dek": "Un budget qui sera censuré par LFI, c’est Jean-Luc Mélenchon qui l’a annoncé dans son discours de clôture des universités d’été de son parti dans la Drôme, dimanche 23 août. À huit mois de la Présidentielle, à gauche, une question subsiste : l’union est-elle vraiment possible pou…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/presidentielle-2027-une-union-des-gauches-est-elle-encore-possible_8158379.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Gauche",
@@ -106,8 +271,8 @@
       "source": "franceinfo – Politique",
       "date": "23 Aug 2026",
       "date_iso": "2026-08-23T11:18:06+00:00",
-      "titre": "Jean-Luc Mélenchon promet que LFI censurera le gouvernement Lecornu sur son budget 2027 \"qui va aggraver tous les maux\" de l'économie",
-      "dek": "\"L'économie française était sur le fil du rasoir de la récession. Elle va plonger car [Sébastien] Lecornu prépare un nouveau bûcher de coupes rases qui va aggraver tous les maux\", a déclaré le leader insoumis lors des universités d'été de son parti.",
+      "titre": "Jean-Luc Mélenchon promet que LFI censurera le gouvernement Lecornu sur son budget 2027, \"qui va aggraver tous les maux\" de l'économie",
+      "dek": "\"L'économie française était sur le fil du rasoir de la récession. Elle va plonger\", a déclaré le leader insoumis lors des universités d'été de son parti.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/budget/jean-luc-melenchon-promet-que-lfi-censurera-le-gouvernement-lecornu-sur-son-budget-2027-qui-va-aggraver-tous-les-maux-de-l-economie_8158343.html#xtor=RSS-3-%5Bgeneral%5D"
     },
@@ -385,171 +550,6 @@
       "dek": "Le patron du Parti socialiste a expliqué sa venue par la nécessité de \"considérer que la première priorité doit être la transition écologique\", notamment après la grave crise climatique de l'été.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-rentree-politique-marine-tondelier-persiste-dans-son-appel-a-l-union-de-la-gauche-lfi-attend-un-ralliement-des-ecologistes_8157125.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T15:45:27+00:00",
-      "titre": "Matthieu Pigasse, l’influenceur des universités d’été de la gauche",
-      "dek": "Le millionnaire, qui assume d’être lancé dans une «bataille culturelle» contre l’extrême droite, est intervenu aux raouts des différents partis, pour marteler son message : tout n’est pas perdu pour 2027, à condition de s’allier.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/matthieu-pigasse-linfluenceur-des-universites-dete-de-la-gauche-20260822_OXTY23CWWZB5JGVTK2OAOA5NHY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T15:34:00+00:00",
-      "titre": "Matthieu Pigasse assure qu’il y a « pas mal de convergences » entre lui et les « insoumis », pendant les universités d’été de LFI",
-      "dek": "Comme lors de son débat chez Les Ecologistes vendredi, le banquier d’affaires millionnaire a martelé samedi son impression que la France était actuellement dans une période « prérévolutionnaire », une analyse répétée depuis longtemps par Jean-Luc Mélenchon.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/matthieu-pigasse-assure-qu-il-y-a-pas-mal-de-convergences-entre-lui-et-les-insoumis-pendant-les-universites-d-ete-de-lfi_6753471_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T15:33:24+00:00",
-      "titre": "\"Nous sommes présents dans tous les ministères\" : pour la première fois, un membre du réseau de hauts fonctionnaires qui œuvrent en secret pour LFI témoigne",
-      "dek": "Un responsable du réseau des Phrygiens décrit - anonymement et en exclusivité pour franceinfo - leur organisation et leur travail dans les coulisses de la campagne de Jean-Luc Mélenchon.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/la-france-insoumise/exclusif-nous-sommes-presents-dans-tous-les-ministeres-pour-la-premiere-fois-un-membre-du-reseau-de-hauts-fonctionnaires-qui-travaillent-en-secret-pour-lfi-temoigne_8157518.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T14:37:45+00:00",
-      "titre": "En Ukraine, une nouvelle attaque sur des civils dans un été meurtrier",
-      "dek": "La Russie ne cesse de pilonner des cibles civiles ukrainiennes, profitant des faibles capacités d’interception de missiles balistiques du pays. Le mois de juillet a été le mois le plus meurtrier pour les civils depuis mai 2022, d’après les Nations unies. Emmanuel Macron annonce l…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/220826/en-ukraine-une-nouvelle-attaque-sur-des-civils-dans-un-ete-meurtrier"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T14:29:53+00:00",
-      "titre": "La députée Ecologiste Sandrine Rousseau plaide pour \"une alliance\" avec LFI, Jean-Luc Mélenchon lui répond que \"toute aide sera la bienvenue\"",
-      "dek": "\"Pour nous, c'est facile avec les Verts et les communistes. On vote à 85% ensemble à l'Assemblée nationale et on censure ensemble\", a estimé le candidat insoumis.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/la-deputee-ecologiste-sandrine-rousseau-plaide-pour-une-alliance-avec-lfi-jean-luc-melenchon-lui-repond-que-toute-aide-sera-la-bienvenue_8157455.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T14:14:46+00:00",
-      "titre": "Présidentielle 2027 : \"Je prône l'alliance vers LFI\", partage Sandrine Rousseau, députée écologiste",
-      "dek": "Sandrine Rousseau, députée Ecologiste et Social de Paris, était l’invitée politique de franceinfo samedi 22 août.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-je-prone-l-alliance-vers-lfi-partage-sandrine-rousseau-deputee-ecologiste_8157443.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T13:49:16+00:00",
-      "titre": "Aux universités d’été insoumise et écologiste, le vent du rapprochement",
-      "dek": "Les rentrées politiques de LFI et des Écologistes tournent beaucoup autour d’une question: Marine Tondelier va-t-elle retirer sa candidature pour soutenir celle de Jean-Luc Mélenchon? Se disant prêts à un accord, les cadres insoumis appellent leurs homologues écologistes à se déc…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/220826/aux-universites-d-ete-insoumise-et-ecologiste-le-vent-du-rapprochement"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T13:42:47+00:00",
-      "titre": "DIRECT. Présidentielle 2027 : Olivier Faure ne veut pas \"rejouer en permanence les gauches irréconciliables\"",
-      "dek": "Le socialiste, présent aux journées d'été des Ecologistes, a expliqué sa venue par la nécessité de \"considérer que la première priorité doit être la transition écologique\", notamment après la grave crise climatique de l'été.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-rentree-politique-marine-tondelier-persiste-dans-son-appel-a-l-union-de-la-gauche-lfi-attend-un-ralliement-des-ecologistes_8157125.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T13:33:26+00:00",
-      "titre": "Olivier Faure dit ne pas vouloir « rejouer les gauches irréconciliables », aux Journées d’été des Ecologistes",
-      "dek": "« Aujourd’hui, personne à gauche, dans un deuxième tour, ne peut imaginer gagner sans l’ensemble des électeurs de gauche », a affirmé, samedi, le premier secrétaire du PS, qui pourrait participer à une primaire sociale-démocrate avec, parmi d’autres candidats, Raphaël Glucksmann.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/22/olivier-faure-dit-ne-pas-vouloir-rejouer-les-gauches-irreconciliables-lors-des-journees-d-ete-des-ecologistes_6753370_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T12:59:32+00:00",
-      "titre": "Emmanuel Macron annonce l'envoi de nouveaux missiles intercepteurs à l'Ukraine",
-      "dek": "Kiev souffre d'une pénurie de ces outils de défense aérienne pour faire face aux salves de missiles balistiques et de drones russes.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/emmanuel-macron-annonce-l-envoi-de-nouveaux-missiles-intercepteurs-a-l-ukraine-au-lendemain-d-une-frappe-russe-meurtriere-sur-un-centre-commercial_8157410.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T12:18:29+00:00",
-      "titre": "«Nous allons fonder l’Etat écologique» : au JT de TF1, Jean-Luc Mélenchon promet que le pays sera prêt pour le prochain été",
-      "dek": "Déplorant un manque d’organisation et de prévention, le candidat insoumis à la présidentielle assure que la France disposera des moyens nécessaires pour lutter contre les incendies. Notamment en créant des éco-régions, projet phare de sa campagne.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/nous-allons-fonder-letat-ecologique-au-jt-de-tf1-jean-luc-melenchon-promet-que-le-pays-sera-pret-pour-le-prochain-ete-20260822_FCQKTZLNL5BKRLERWGZ5WVUXYA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T09:41:03+00:00",
-      "titre": "A Mayotte, Edouard Philippe promet de mettre fin à l’«appel d’air» de l’immigration et tacle Mélenchon",
-      "dek": "Le candidat Horizons a fait du thème le sujet central de sa visite dans le département-région pour sa rentrée politique. Pour sa part, le chef de file des insoumis a jugé ses propositions «ridicules».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/a-mayotte-edouard-philippe-promet-de-mettre-fin-a-lappel-dair-de-limmigration-et-tacle-melenchon-20260822_E5LS3534OZBMTA22WOD7NKTNJE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T09:38:58+00:00",
-      "titre": "Le collectif de victimes de Joël Le Scouarnec salue sa rencontre avec Gérald Darmanin",
-      "dek": "Ces victimes espèrent désormais des actes de la part du ministre de la Justice qui s'est dit favorable à de nombreuses revendications portées par le collectif.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/affaire-le-scouarnec/le-collectif-de-victimes-de-joel-le-scouarnec-salue-sa-rencontre-avec-gerald-darmanin_8157248.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T08:48:59+00:00",
-      "titre": "DIRECT. Présidentielle 2027 : Sandrine Rousseau prône \"une alliance\" des écologistes avec LFI",
-      "dek": "\"La candidature de Marine Tondelier ne décolle pas dans les sondages, et on ne peut pas rajouter des candidatures à gauche\", estime la députée écologiste, dont la ligne n'est pas partagée par tous les cadres de son parti.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-rentree-politique-marine-tondelier-persiste-dans-son-appel-a-l-union-de-la-gauche-lfi-attend-un-ralliement-des-ecologistes_8157125.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T08:44:11+00:00",
-      "titre": "«Je n’arrive pas à comprendre ce système»: des victimes de Joël Le Scouarnec atterrées par l’opération de communication de Darmanin",
-      "dek": "L’annonce opportune de l’ouverture d’une nouvelle information judiciaire dans l’affaire Le Scouarnec a permis au garde des Sceaux de s’offrir une opération de communication, au détriment des victimes toujours en attente de justice.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/220826/je-n-arrive-pas-comprendre-ce-systeme-des-victimes-de-joel-le-scouarnec-atterrees-par-l-operation-de-commu"
     }
   ]
 }
