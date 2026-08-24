@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-23T20:51:56+00:00",
+  "generated_at": "2026-08-24T03:32:58+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T03:00:38+00:00",
+      "titre": "Emmanuel Macron et le prince saoudien « MBS » ont clôturé l’Esports World Cup, à Paris",
+      "dek": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo. Véritable point d’orgue du « soft power » saoudien en la matière, il a rassemblé de nombreuses stars et personnalités politiques.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T21:08:26+00:00",
+      "titre": "Présidentielle 2027 : la participation de Raphaël Glucksmann à la primaire social-démocrate \"va permettre de réduire l'offre de candidatures à gauche\" au premier tour, se réjouit le député PS Arthur Delaporte",
+      "dek": "Le cofondateur de Place publique a annoncé, dimanche soir sur TF1, son intention de participer à la primaire coorganisée par son parti et le PS, afin de devenir le candidat de la social-démocratie à la présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T20:57:37+00:00",
+      "titre": "Présidentielle 2027 : Raphaël Glucksmann entre en course avec l’ambition de «relever la France»",
+      "dek": "La figure sociale-démocrate a confirmé dimanche soir sur TF1 sa participation à la primaire du PS et de Place publique, prévue en octobre.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-raphael-glucksmann-se-lance-dans-la-course-20260823"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -11,17 +44,6 @@
       "dek": "Le cofondateur de Place publique a annoncé, dimanche soir sur TF1, son intention de participer à la primaire coorganisée par son parti et le PS, afin de devenir le candidat de la social-démocratie à la présidentielle.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T20:13:21+00:00",
-      "titre": "Présidentielle 2027 : Raphaël Glucksmann entre en course avec l’ambition de «relever la France»",
-      "dek": "La figure sociale-démocrate a confirmé dimanche soir sur TF1 sa participation à la primaire du PS et de Place publique, prévue en octobre.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-raphael-glucksmann-se-lance-dans-la-course-20260823"
     },
     {
       "tag": "Gauche",
@@ -118,7 +140,7 @@
       "date": "23 Aug 2026",
       "date_iso": "2026-08-23T18:33:02+00:00",
       "titre": "Raphaël Glucksmann annonce être candidat à l’élection présidentielle dans le cadre de la primaire organisée avec le Parti socialiste",
-      "dek": "L’essayiste et fondateur de Place publique a annoncé sa candidature au journal de 20 heures, sur TF1, dimanche. En attendant de participer à une primaire organisée avec le Parti socialiste, il espère créer une dynamique dans les semaines à venir.",
+      "dek": "L’essayiste et fondateur de Place publique a annoncé sa candidature au journal de 20 heures, sur TF1, dimanche. En attendant de participer à une primaire organisée avec le PS, il espère créer une dynamique dans les semaines à venir.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/23/raphael-glucksmann-annonce-etre-candidat-a-l-election-presidentielle-dans-le-cadre-de-la-primaire-organisee-avec-le-parti-socialiste_6754507_823448.html"
     },
@@ -528,28 +550,6 @@
       "dek": "L'ancien Premier ministre et candidat Horizons à la présidentielle de 2027 fait campagne dans l'océan Indien.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/edouard-philippe/reportage-a-mayotte-edouard-philippe-enfile-le-costume-traditionnel-du-candidat-a-l-election-presidentielle_8157998.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T06:25:55+00:00",
-      "titre": "Écologistes : avec qui faire l'union ?",
-      "dek": "Pendant leur université d'été, les Ecologistes ont ouvert le débat sur l'union en prévision de l'élection présidentielle de 2027. Les militants sont tiraillés entre un rapprochement avec La France Insoumise ou avec le Parti Socialiste.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ecologistes-avec-qui-faire-l-union_8158052.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "22 Aug 2026",
-      "date_iso": "2026-08-22T20:35:20+00:00",
-      "titre": "Présidentielle 2027 : les patrons appellent à placer l’économie au cœur du débat",
-      "dek": "Les Entrepreneurs (ex-CPME) et le Medef appellent à placer l’économie et la création de richesse au cœur du débat présidentiel, sur fond d’inquiétudes concernant la dette et les finances publiques.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/08/22/presidentielle-2027-les-patrons-appellent-a-placer-l-economie-au-c-ur-du-debat_6753645_3234.html"
     }
   ]
 }
