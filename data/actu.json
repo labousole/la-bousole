@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-08-24T10:21:19+00:00",
+  "generated_at": "2026-08-24T14:25:54+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T16:03:41+00:00",
+      "titre": "Écologistes : le parti tiraillé, Marine Tondelier rêve de liberté",
+      "dek": "Prise entre ceux qui souhaitent s’entendre avec Jean-Luc Mélenchon et ceux qui veulent travailler avec Raphaël Glucksmann, la secrétaire nationale des Verts défend sa candidature. Et plaide pour l’unité dans un parti plus que divisé.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=500899"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T15:46:57+00:00",
+      "titre": "Pour la rentrée, Jean-Luc Mélenchon veut aspirer la gauche et vite passer à la suite",
+      "dek": "Les insoumis veulent inonder idéologiquement la campagne, engagent un bras de fer contre les candidats de droite et rêvent d’un ralliement pur et simple des écolos.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=500926"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T15:00:00+00:00",
+      "titre": "Sortir de la zone de confort",
+      "dek": "À huit mois de la présidentielle, l’extrême droite n’a jamais semblé aussi proche du pouvoir. Face à cette perspective, il ne suffit plus de se retrouver entre convaincus. Il faut sortir de nos cercles, entendre les colères et renouer avec le dialogue.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=500891"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T14:18:55+00:00",
+      "titre": "DIRECT. Budget 2027 : \"Tous devront faire des efforts\" face à l'\"urgence\" de réduire les déficits, prévient le ministre des Comptes publics",
+      "dek": "Parmi les pistes du gouvernement, figure l'idée d'une moindre revalorisation des pensions de retraite pour les plus aisés.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/direct-budget-2027-le-gouvernement-travaille-a-une-reconduction-des-aides-pour-les-secteurs-les-plus-exposes-a-la-hausse-des-prix-du-carburant_8159252.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T13:52:26+00:00",
+      "titre": "Franchises médicales : le gouvernement veut porter le plafond à 140 euros par l’adoption d’un décret, après avoir renoncé à le doubler",
+      "dek": "Le 20 août, la ministre de la santé, Stéphanie Rist, avait annoncé que le gouvernement ne doublerait pas le montant, actuellement de 100 euros. Selon l’exécutif, le nouveau plafond correspond à la prise en compte de l’inflation depuis 2005.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/franchises-medicales-le-gouvernement-veut-porter-le-plafond-a-140-euros-par-l-adoption-d-un-decret-apres-avoir-renonce-a-le-doubler_6755438_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T13:41:20+00:00",
+      "titre": "Deux tours, cotisation de 15 euros, quatre candidats… Une primaire sociale-démocrate pour départager le PS et Place publique",
+      "dek": "Le leader de Place publique, Raphaël Glucksmann, est officiellement candidat à la présidentielle. Il précise qu'il participera à la primaire organisée avec les socialistes.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/deux-tours-cotisation-de-15-euros-quatre-candidats-une-primaire-sociale-democrate-pour-departager-le-ps-et-place-publique_8159525.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T13:04:14+00:00",
+      "titre": "Éducation à la sexualité: à Montpellier, des écoles en demande se heurtent à l’intransigeance du rectorat",
+      "dek": "Les interventions d’associations pour assurer les programmes d’éducation à la vie affective et relationnelle dans le premier degré ont été interdites. Pour s’être formés sur leur temps libre, des enseignants d’une école rurale ont même été rappelés à l’ordre. Des parents d’élèves…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/240826/education-la-sexualite-montpellier-des-ecoles-en-demande-se-heurtent-l-intransigeance-du-rectorat"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T12:58:11+00:00",
+      "titre": "Le Canada se rebelle contre le diktat commercial de Donald Trump",
+      "dek": "Ottawa a décidé de rompre les discussions avec Washington, au motif que «les États-Unis ont demandé trop et offert trop peu». Alors qu’une nouvelle escalade est à prévoir entre les deux voisins, le premier ministre canadien, Mark Carney, en fait un test de souveraineté.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/240826/le-canada-se-rebelle-contre-le-diktat-commercial-de-donald-trump"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T12:43:10+00:00",
+      "titre": "La région Paca passe un marché allant jusqu’à 2,5 millions d’euros avec des «influenceurs»",
+      "dek": "Malgré un budget présenté comme contraint, la région Provence-Alpes-Côte d’Azur fait le choix de s’associer avec trois «agences d’influence» pour vanter son action sur les réseaux. L’enveloppe annuelle est de 625 000 euros et pourra être renouvelée trois fois.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/240826/la-region-paca-passe-un-marche-allant-jusqu-25-millions-d-euros-avec-des-influenceurs"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T12:24:53+00:00",
+      "titre": "Raphaël Glucksmann : la bataille à gauche pour 2027",
+      "dek": "C’est désormais officiel, Raphaël Glucksmann est candidat à l’élection présidentielle. L’eurodéputé se lance dans la bataille, d’abord de la primaire organisée par le parti socialiste, et a déjà indiqué qu’il refuserait toute alliance avec La France insoumise de Jean-Luc Mélencho…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/raphael-glucksmann-la-bataille-a-gauche-pour-2027_8159615.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -17,11 +127,66 @@
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T10:03:21+00:00",
-      "titre": "DIRECT. Budget 2027 : \"Tous devront faire des efforts\" face à l'\"urgence\" de réduire les déficits, prévient le ministre des Comptes publics",
-      "dek": "Parmi les pistes du gouvernement, figure l'idée d'une moindre revalorisation des pensions de retraite pour les plus aisés.",
+      "date_iso": "2026-08-24T12:09:28+00:00",
+      "titre": "Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste pour la présidentielle 2027 ?",
+      "dek": "Le cofondateur de Place publique a officialisé dimanche sa participation. Il n'est pas le seul sur la ligne de départ, tandis que d'autres, à gauche, ne souhaitent pas prendre part à ce scrutin.",
       "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/direct-budget-2027-le-gouvernement-travaille-a-une-reconduction-des-aides-pour-les-secteurs-les-plus-exposes-a-la-hausse-des-prix-du-carburant_8159252.html#xtor=RSS-3-%5Bgeneral%5D"
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T11:52:47+00:00",
+      "titre": "Présidentielle 2027 : se rallier à Jean-Luc Mélenchon ou Raphaël Glucksmann, \"c'est acter les gauches irréconciliables\", souligne l'écologiste David Cormand",
+      "dek": "\"Accepter les gauches irréconciliables, c'est garantir la victoire des autres\", estime aussi l'eurodéputé écologiste David Cormand.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-se-rallier-a-jean-luc-melenchon-ou-raphael-glucksmann-c-est-acter-les-gauches-irreconciliables-souligne-l-ecologiste-david-cormand_8159594.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T11:31:35+00:00",
+      "titre": "Rentrée politique de la gauche : le bilan des universités d’été",
+      "dek": "Les universités d’été sont toujours des moments de conscientisation et de préparation aux luttes à venir. Encore plus après un été incendiaire et avant une élection en 2027 de tous les dangers. D’une même voix, communistes, insoumis et écologistes ont appelé ce week-end à rompre …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/gauche/rentree-politique-de-la-gauche-le-bilan-des-universites-dete"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T11:09:07+00:00",
+      "titre": "Budget, canicules, cyberattaques… Sébastien Lecornu va organiser un séminaire gouvernemental dans une rentrée agitée",
+      "dek": "Le Premier ministre convoquera ses ministres le 31 août afin de poursuivre la préparation du prochain budget et de se montrer actifs sur les sujets qui ont agité l’été.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/budget-canicules-cyberattaques-sebastien-lecornu-va-organiser-un-seminaire-gouvernemental-dans-une-rentree-agitee-20260824_GCQKLYBPINCHBED4BX5YTZGTJU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T10:58:33+00:00",
+      "titre": "«Le débat peut commencer entre plusieurs lignes politiques» : la candidature de Raphaël Glucksmann lance la primaire",
+      "dek": "L’annonce du président de Place publique a fait réagir ses adversaires directs  au sein de l’espace social-démocrate, qui demandent désormais l’éclaircissement des positions de chacun par le débat.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/le-debat-peut-commencer-entre-plusieurs-lignes-politiques-la-candidature-de-raphael-glucksmann-lance-la-primaire-20260824_VSTLPOOKFJEOBOS5LAJDOC5S2Q/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T10:43:54+00:00",
+      "titre": "Budget 2027 : le gouvernement promet « beaucoup de rigueur » et appelle à un effort partagé",
+      "dek": "Réunis lundi à l’Elysée pour le premier conseil des ministres de la rentrée, les membres du gouvernement ont engagé la préparation du budget 2027, avec l’objectif affiché de réduire le déficit.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/budget-2027-le-gouvernement-veut-ouvrir-le-debat-a-une-contribution-raisonnable-des-retraites_6755332_823448.html"
     },
     {
       "tag": "Politique",
@@ -44,6 +209,17 @@
       "dek": "L'édition 2027 du concours européen de la chanson se déboulera le 15 mai en Bulgarie, suite à la victoire cette année de la chanteuse bulgare Darina Yotova,",
       "avis": null,
       "lien": "https://www.franceinfo.fr/culture/musique/les-pays-bas-absents-de-la-prochaine-edition-de-l-eurovision-jugeant-le-concours-pas-assez-neutre_8159360.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T09:35:43+00:00",
+      "titre": "Marseille : l’élu d’extrême droite Antoine Baudino poursuivi en diffamation pour avoir surnommé une association « Addap DZ »",
+      "dek": "Addap 13 a déposé plainte pour diffamation contre l’élu d’extrême droite Antoine Baudino, qui a qualifié l’association d'« Addap DZ », lors d’un conseil municipal en avril dernier, annonce Marsactu. Une première audience au tribunal est prévue pour le 1er septembre prochain.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/algerie/marseille-lelu-dextreme-droite-antoine-baudino-poursuivi-en-diffamation-pour-avoir-surnomme-une-association-addap-dz"
     },
     {
       "tag": "Politique",
@@ -374,182 +550,6 @@
       "dek": "Trois mois après son premier passage au 20 heures de TF1, le député européen a confirmé, ce dimanche, qu’il se lançait dans la course à l’Elysée. Un chemin périlleux, avec, pour première étape, la primaire organisée par le Parti socialiste.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/elections/presidentielle-raphael-glucksmann-est-bel-et-bien-candidat-20260823_V7X7J7ANVJERPODYUI6LSLQOSI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T19:18:27+00:00",
-      "titre": "Le cofondateur de Place publique, Raphaël Glucksmann, officialise sa candidature à l'élection présidentielle \"pour relever la France\"",
-      "dek": "Dans son programme, son obsession sera d'augmenter \"la rémunération nette des travailleurs\" par une baisse des prélèvements sociaux sur les salaires, a-t-il dit sur TF1.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-cofondateur-de-place-publique-raphael-glucksmann-officialise-sa-candidature-a-l-election-presidentielle-pour-relever-la-france_8158841.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T19:14:42+00:00",
-      "titre": "Raphaël Glucksmann en campagne pour 2027 : ce n’est pas le tout d’être candidat",
-      "dek": "Officiellement déclaré ce dimanche 23 août, le leader de Place publique, face à un Mélenchon préparé, a encore tout à construire, de ses soutiens à son programme, pour réussir sa course à la présidence.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/editorial/raphael-glucksmann-en-campagne-pour-2027-ce-nest-pas-le-tout-detre-candidat-20260823_RIVXGSGFNZA3XHVH6JZVX2SHXM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T19:05:38+00:00",
-      "titre": "Présidentielle 2027 : une union impossible à gauche ? \"Il faut que tout le monde s'y mette\", enjoint Jean-Luc Mélenchon",
-      "dek": "Dimanche 23 août, le leader de La France Insoumise a donné le coup d'envoi de la campagne à gauche, où les candidatures se mutliplient, comme les appels à l'unité. La route est encore longue de ce côté de l'échiquier politique...",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-une-union-impossible-a-gauche-il-faut-que-tout-le-monde-s-y-mette-enjoint-jean-luc-melenchon_8158823.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T18:55:44+00:00",
-      "titre": "Léa Salamé se retire du « 20 heures » de France 2 après la déclaration officielle de candidature de Raphaël Glucksmann",
-      "dek": "Conformément à l’engagement pris dès son arrivée au JT de France Télévisions en 2025, la journaliste tire les conséquences de l’officialisation de la candidature de son compagnon à la présidentielle, et renonce à présenter le rendez-vous phare de l’information de service public.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/08/23/lea-salame-se-retire-du-20-heures-de-france-2-apres-la-declaration-officielle-de-candidature-de-raphael-glucksmann_6754541_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T18:55:41+00:00",
-      "titre": "Léa Salamé se retire du « 20 heures » de France 2 après la déclaration officielle de candidature de Raphaël Glucksmann",
-      "dek": "Conformément à l’engagement pris dès son arrivée au JT de France Télévisions en 2025, la journaliste tire les conséquences de l’officialisation de la candidature de son compagnon à la présidentielle, et renonce à présenter le rendez-vous phare de l’information de service public.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/08/23/lea-salame-se-retire-du-20-heures-de-france-2-apres-la-declaration-officielle-de-candidature-de-raphael-glucksmann_6754541_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T18:33:02+00:00",
-      "titre": "Raphaël Glucksmann annonce être candidat à l’élection présidentielle de 2027 dans le cadre de la primaire organisée avec le PS",
-      "dek": "L’essayiste et fondateur de Place publique a annoncé sa candidature au journal de 20 heures, sur TF1, dimanche. En attendant de participer à une primaire organisée avec le PS, il espère créer une dynamique dans les semaines à venir.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/raphael-glucksmann-annonce-etre-candidat-a-l-election-presidentielle-dans-le-cadre-de-la-primaire-organisee-avec-le-parti-socialiste_6754507_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T17:27:46+00:00",
-      "titre": "«À présent, pour tous, la victoire est possible»: Jean-Luc Mélenchon déploie sa stratégie de l’optimisme",
-      "dek": "Les universités d’été de La France insoumise ont donné à voir une confiance inédite dans la perspective d’une victoire à l’élection présidentielle. Les cadres de la campagne veulent en profiter pour s’imposer comme la seule alternative crédible à Marine Le Pen et plier le match à…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/230826/present-pour-tous-la-victoire-est-possible-jean-luc-melenchon-deploie-sa-strategie-de-l-optimisme"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T17:19:44+00:00",
-      "titre": "Jean-Luc Mélenchon met en doute l'impartialité des préfets vis-à-vis de LFI, Laurent Nunez répond qu'ils n'ont \"pas de leçons à recevoir\"",
-      "dek": "Le candidat à la présidentielle demande à ces représentants de l'Etat de \"retourner dans leurs bureaux et cesser de faire des procès aux députés insoumis\". \"Ils agissent chaque jour avec neutralité\", a défendu le ministre de l'Intérieur.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/nous-ne-sommes-pas-vos-copains-jean-luc-melenchon-et-laurent-nunez-s-opposent-sur-l-impartialite-des-prefets_8158742.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T16:38:04+00:00",
-      "titre": "DIRECT. Présidentielle 2027 : \"Qu'il fasse pour le mieux\", déclare Jean-Luc Mélenchon à propos de Raphaël Glucksmann, qui devrait se déclarer candidat",
-      "dek": "\"Six mois avant [l'élection], on ne sait pas quelle est votre ligne ni quel est votre candidat\", a ironisé le chef de file de La France insoumise à propos des sociaux-démocrates, dont les relations avec le leader insoumis sont conflictuelles.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T16:33:13+00:00",
-      "titre": "Les préfets doivent-ils adresser un salut militaire réglementaire aux députés, comme l’affirme Jean-Luc Mélenchon ?",
-      "dek": "LA VÉRIF’ - Le candidat LFI à la présidentielle a vertement apostrophé les représentants de l’État, dimanche, lors de son discours aux universités d’été de son mouvement.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/les-prefets-doivent-ils-adresser-un-salut-militaire-reglementaire-aux-deputes-comme-l-affirme-jean-luc-melenchon-20260823"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T16:10:17+00:00",
-      "titre": "À ses universités d’été, la gauche se met en ordre de bataille pour 2027",
-      "dek": "Les universités d’été sont toujours des moments de conscientisation et de préparation aux luttes à venir. Encore plus après un été incendiaire et avant une élection en 2027 de tous les dangers. D’une même voix, communistes, insoumis et écologistes ont appelé ce week-end à rompre …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fabien-roussel/a-ses-universites-dete-la-gauche-se-met-en-ordre-de-bataille-pour-2027"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T15:54:23+00:00",
-      "titre": "Médias et extrême droite, quelques glissements d’été, par Daniel Schneidermann",
-      "dek": "L’hypothèse «Le Pen au pouvoir» s’infiltre dans le récit médiatique dominant sous toutes ses formes et les digues s’effritent, alerte notre chroniqueur à partir, notamment, de sa lecture estivale du quotidien du soir : des articles excellents, informatifs, s’efforçant à la distan…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/opinions/extreme-droite-petits-glissements-dete-au-monde-par-daniel-schneidermann-20260821_CS6SWBELIJBSPNP2V3DOYJEEDQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T15:39:24+00:00",
-      "titre": "«On ne lâche pas le morceau»: à Tours, les ex-cadres insoumis de L’Après croient encore à l’union de la gauche",
-      "dek": "Réunis ce week-end en Indre-et-Loire pour leur première Université d’été, les dirigeants du parti créé par des expulsés de LFI estiment que «rien n’est fixé à gauche» pour 2027. Les militants, eux, commencent à douter.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/on-ne-lache-pas-le-morceau-a-tours-les-ex-cadres-insoumis-de-lapres-croient-encore-a-lunion-de-la-gauche-20260823_UYD45IF2AJG7XI7NODM4BZHAB4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T15:29:05+00:00",
-      "titre": "Le gouvernement détruit l’assurance maladie solidaire au prétexte de mieux la sauvegarder",
-      "dek": "Christian Lehmann est médecin et écrivain. Pour «Libération», il tient la chronique d’une société touchée par les crises sanitaires et du service public. Aujourd’hui il revient sur la séquence du frein sur la hausse des franchises, qui cache le déremboursement de nombreux soins p…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/sante/le-gouvernement-detruit-lassurance-maladie-solidaire-au-pretexte-de-mieux-la-sauvegarder-20260823_G24MQ2WRXFGVHH4CN75L2O5HIQ/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T15:22:57+00:00",
-      "titre": "Les partis de gauche font leurs universités d’été, deux médailles d’or françaises en badminton… Ce qu’il ne fallait pas manquer ce week-end",
-      "dek": "Pas de panique si vous avez décroché de l’actualité durant le week-end. «&nbsp;L’Humanité&nbsp;» vous fait le récap' de ce qu’il ne fallait pas manquer ces 22 et 23&nbsp;août.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/presidentielle-2027/les-partis-de-gauche-font-leurs-universites-dete-deux-medailles-dor-francaises-en-badminton-ce-quil-ne-fallait-pas-manquer-ce-week-end"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T15:22:27+00:00",
-      "titre": "REPORTAGE. \"La dynamique est ici\" : à leur université d'été, les insoumis et Jean-Luc Mélenchon en opération séduction des écologistes avant la présidentielle",
-      "dek": "Lors de leurs universités d'été, près de Valence (Drôme), les insoumis ont multiplié les gestes en direction des écologistes, dont plusieurs députés ont fait le déplacement. Pour les convaincre de rallier sa candidature, le patron de LFI veut \"incarner la candidature écolo\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/reportage-la-dynamique-est-ici-jean-luc-melenchon-et-les-insoumis-en-operation-seduction-aupres-des-ecologistes-avec-la-presidentielle-en-ligne-de-mire_8157635.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
