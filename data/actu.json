@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-08-24T03:32:58+00:00",
+  "generated_at": "2026-08-24T05:58:06+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T05:32:31+00:00",
+      "titre": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
+      "dek": "Le député européen a annoncé dimanche soir sa candidature à la primaire du Parti socialiste, et indirectement à l'élection présidentielle de 2027.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T04:30:00+00:00",
+      "titre": "Guillaume Tabard : « Mélenchon contre Glucksmann, un duel asymétrique à l’avantage de l’Insoumis »",
+      "dek": "CONTRE-POINT - Tout en rejetant le mélenchonisme dans les mots, la gauche qui se prétend « raisonnable » n’ose pas aller au bout de la logique du cordon sanitaire comme, il y a trente ans, la droite se l’était laissé imposer face au lepénisme.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-melenchon-contre-glucksmann-un-duel-asymetrique-a-l-avantage-de-l-insoumis-20260824"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T03:30:34+00:00",
+      "titre": "Présidentielle 2027 : la bataille des gauches est lancée",
+      "dek": "Lors de l’université d’été de La France insoumise, où il a prononcé un discours très centré sur la planification écologique, Jean-Luc Mélenchon a multiplié les appels du pied pour attirer Les Ecologistes. Son rival à gauche, Raphaël Glucksmann a, lui, annoncé sa candidature au « …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-la-bataille-des-gauches-irreconciliables-est-lancee_6754812_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -9,6 +42,17 @@
       "date_iso": "2026-08-24T03:00:38+00:00",
       "titre": "Emmanuel Macron et le prince saoudien « MBS » ont clôturé l’Esports World Cup, à Paris",
       "dek": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo. Véritable point d’orgue du « soft power » saoudien en la matière, il a rassemblé de nombreuses stars et personnalités politiques.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T03:00:29+00:00",
+      "titre": "Emmanuel Macron et Mohammed Ben Salman ont clôturé l’Esports World Cup, symbole du « soft power » saoudien",
+      "dek": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo ayant rassemblé de nombreuses stars et personnalités politiques.",
       "avis": null,
       "lien": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html"
     },
@@ -138,8 +182,19 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "23 Aug 2026",
+      "date_iso": "2026-08-23T18:55:41+00:00",
+      "titre": "Léa Salamé se retire du « 20 heures » de France 2 après la déclaration officielle de candidature de Raphaël Glucksmann",
+      "dek": "Conformément à l’engagement pris dès son arrivée au JT de France Télévisions en 2025, la journaliste tire les conséquences de l’officialisation de la candidature de son compagnon à la présidentielle, et renonce à présenter le rendez-vous phare de l’information de service public.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/08/23/lea-salame-se-retire-du-20-heures-de-france-2-apres-la-declaration-officielle-de-candidature-de-raphael-glucksmann_6754541_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "23 Aug 2026",
       "date_iso": "2026-08-23T18:33:02+00:00",
-      "titre": "Raphaël Glucksmann annonce être candidat à l’élection présidentielle dans le cadre de la primaire organisée avec le Parti socialiste",
+      "titre": "Raphaël Glucksmann annonce être candidat à l’élection présidentielle de 2027 dans le cadre de la primaire organisée avec le PS",
       "dek": "L’essayiste et fondateur de Place publique a annoncé sa candidature au journal de 20 heures, sur TF1, dimanche. En attendant de participer à une primaire organisée avec le PS, il espère créer une dynamique dans les semaines à venir.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/23/raphael-glucksmann-annonce-etre-candidat-a-l-election-presidentielle-dans-le-cadre-de-la-primaire-organisee-avec-le-parti-socialiste_6754507_823448.html"
@@ -495,61 +550,6 @@
       "dek": "\"Notre responsabilité est de nous mettre, chacun, au service de quelque chose de plus grand que notre propre organisation\", avait déjà plaidé la candidate écologiste, dans son discours hier.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-rentree-politique-marine-tondelier-persiste-dans-son-appel-a-l-union-de-la-gauche-lfi-attend-un-ralliement-des-ecologistes_8157125.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T08:59:39+00:00",
-      "titre": "DIRECT. Présidentielle 2027 : Jean-Luc Mélenchon prononce un discours en clôture des universités d'été LFI et pourrait de nouveau tendre la main aux écologistes",
-      "dek": "\"Toute aide sera la bienvenue\", a déclaré le candidat à la présidentielle au sujet des écologistes, qui se divisent sur la stratégie à suivre pour la présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T08:40:04+00:00",
-      "titre": "Présidentielle 2027 : le communiste Fabien Roussel lance sa campagne sur une ligne autonome",
-      "dek": "Le projet, proposé par la direction sortante, a d’ores et déjà été approuvé par les délégués lors du 40e Congrès du PCF, début juillet, à Lille. Mais les adhérents doivent encore approuver la désignation de Fabien Roussel.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/presidentielle-2027-le-communiste-fabien-roussel-lance-sa-campagne-sur-une-ligne-autonome_6754061_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T08:40:01+00:00",
-      "titre": "Le communiste Fabien Roussel lance sa campagne pour la présidentielle 2027 sur une ligne autonome",
-      "dek": "Le projet, proposé par la direction sortante, a d’ores et déjà été approuvé par les délégués lors du 40ᵉ congrès du PCF, au début de juillet, à Lille. Mais les adhérents doivent encore approuver la désignation de Fabien Roussel.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/23/presidentielle-2027-le-communiste-fabien-roussel-lance-sa-campagne-sur-une-ligne-autonome_6754061_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T08:20:24+00:00",
-      "titre": "«Une fois que l’heure sera passée, ce sera trop tard» : Edouard Philippe prédit un rassemblement de la droite et du centre entre «novembre et février»",
-      "dek": "Interrogé samedi sur BFM TV, le candidat Horizons a rappelé qu’une union de son camp sera selon lui indispensable face à Marine Le Pen et Jean-Luc Mélenchon.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/une-fois-que-lheure-sera-passee-ce-sera-trop-tard-edouard-philippe-predit-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier-20260823_QHAYFYI2LZAVRI7PWOXU5ONZU4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T06:42:29+00:00",
-      "titre": "REPORTAGE. À Mayotte, Édouard Philippe enfile le costume traditionnel... du candidat à l'élection présidentielle",
-      "dek": "L'ancien Premier ministre et candidat Horizons à la présidentielle de 2027 fait campagne dans l'océan Indien.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/edouard-philippe/reportage-a-mayotte-edouard-philippe-enfile-le-costume-traditionnel-du-candidat-a-l-election-presidentielle_8157998.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
