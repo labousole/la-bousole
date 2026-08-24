@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-08-24T14:25:54+00:00",
+  "generated_at": "2026-08-24T17:19:25+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T17:18:35+00:00",
+      "titre": "DIRECT. Budget 2027 : \"Tous devront faire des efforts\" face à l'\"urgence\" de réduire les déficits, prévient le ministre des Comptes publics",
+      "dek": "Parmi les pistes du gouvernement, figure l'idée d'une moindre revalorisation des pensions de retraite pour les plus aisés.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/direct-budget-2027-le-gouvernement-travaille-a-une-reconduction-des-aides-pour-les-secteurs-les-plus-exposes-a-la-hausse-des-prix-du-carburant_8159252.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T17:03:44+00:00",
+      "titre": "L’UE renforce son aide à l’Ukraine à l’occasion du 35ᵉ anniversaire de l’indépendance du pays",
+      "dek": "« Malgré les menaces scandaleuses proférées par la Russie à l’encontre de mon pays, nous continuerons à soutenir la défense de l’Ukraine », a dit Andy Burnham, qui effectue son premier déplacement à l’étranger à Kiev.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/video/2026/08/24/l-ue-renforce-son-aide-a-l-ukraine-a-l-occasion-du-35-anniversaire-de-l-independance-du-pays_6755587_3210.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T16:48:26+00:00",
+      "titre": "Le patronat dit adieu à son rêve de voir Jordan Bardella au pouvoir",
+      "dek": "Alors que débutent mercredi les journées d’été du Medef, les milieux d’affaires réfléchissent à la manière de composer avec le Rassemblement national et de relancer «l’union des droites». La candidature de Marine Le Pen à la présidentielle, après l’arrêt de la cour d’appel, a mis…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/240826/le-patronat-dit-adieu-son-reve-de-voir-jordan-bardella-au-pouvoir"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T16:46:37+00:00",
+      "titre": "Le RN revient sur scène après un été de silences et de malaise",
+      "dek": "Marine Le Pen fera sa rentrée devant les patrons du Medef jeudi 27 août à l’occasion d’un premier débat avec les autres candidats. Première étape avant le congrès, en octobre. Avec une grande inconnue pour les mois qui viennent: le degré d’implication de Jordan Bardella dans la c…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/240826/le-rn-revient-sur-scene-apres-un-ete-de-silences-et-de-malaise"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T16:45:02+00:00",
+      "titre": "Raphaël Glucksmann : la bataille à gauche pour 2027",
+      "dek": "C’est désormais officiel, Raphaël Glucksmann est candidat à l’élection présidentielle. L’eurodéputé se lance dans la bataille, d’abord de la primaire organisée par le Parti socialiste, et a déjà indiqué qu’il refuserait toute alliance avec La France insoumise de Jean-Luc Mélencho…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/raphael-glucksmann-la-bataille-a-gauche-pour-2027_8159615.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T16:44:17+00:00",
+      "titre": "Yannick Jadot rallie Raphaël Glucksmann… et le contredit déjà sur le nucléaire",
+      "dek": "En l’espace de quelques minutes seulement, Yannick Jadot a annoncé lundi rejoindre la campagne de Raphaël Glucksmann tout en indiquant s’opposer au projet du candidat de Place publique sur le nucléaire, l’un de ses combats historiques. Une contradiction qui raconte la valse-hésit…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/240826/yannick-jadot-rallie-raphael-glucksmann-et-le-contredit-deja-sur-le-nucleaire"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T16:43:57+00:00",
+      "titre": "Présidentielle 2027 : L’Après saisit la main tendue de l’écologiste Marine Tondelier pour une union de la gauche",
+      "dek": "La secrétaire nationale des Ecologistes avait de nouveau appelé vendredi à des rencontres bilatérales avec les partis de gauche. Si le parti des ex-élus de La France insoumise a répondu favorablement, la formation mélenchoniste a rejeté la proposition.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-l-apres-saisit-la-main-tendue-de-l-ecologiste-marine-tondelier-pour-une-union-de-la-gauche_6755585_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T16:25:15+00:00",
+      "titre": "Bally Bagayoko, maire LFI de Saint-Denis, visé par une enquête pour détournement de fonds publics",
+      "dek": "L’enquête a été ouverte le 19 août après des articles de presse qui accusaient l’élu d’avoir «longtemps cumulé mandat local et poste de cadre à la RATP». L’association AC!! Anti-Corruption avait porté plainte.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/240826/bally-bagayoko-maire-lfi-de-saint-denis-vise-par-une-enquete-pour-detournement-de-fonds-publics"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T16:09:46+00:00",
+      "titre": "Inde : Tukaram Mundhe, le commissaire à la sécurité alimentaire qui mène une répression contre le manque d’hygiène",
+      "dek": "Le fonctionnaire, en poste depuis mai 2026, a suspendu les permis d’exploitation de points de vente Domino’s, Pizza Hut, mais aussi de restaurants réputés. Son style offensif a conquis de nombreux Indiens, mais inquiète les commerçants.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/international/asie-pacifique/inde-tukaram-mundhe-le-commissaire-a-la-securite-alimentaire-qui-mene-une-repression-contre-le-manque-dhygiene-20260824_AAG3MDCU4ZEIPKB7NB73UQEV6E/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T16:05:38+00:00",
+      "titre": "Présidentielle 2027 : contraint de passer par la primaire du PS, Raphaël Glucksmann cherche à convaincre",
+      "dek": "Longtemps tenté par une aventure en solo, l’eurodéputé devra finalement en passer par la primaire du PS pour viser l’Élysée. Soutenu par Yannick Jadot et une partie de l’aile droite socialiste, il entend y faire valoir une ligne clairement anti-LFI.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/gauche/presidentielle-2027-contraint-de-passer-par-la-primaire-du-ps-raphael-glucksmann-cherche-a-convaincre"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -15,6 +125,39 @@
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T15:57:38+00:00",
+      "titre": "Bally Bagayoko visé par une enquête du PNF après l’article du Canard Enchaîné",
+      "dek": "Le parquet national financier (PNF) a annoncé ce lundi 24 août avoir ouvert une enquête, notamment pour détournement de fonds publics suite à la réception de plaintes de l’association AC !! Anti-corruption, concernant la façon dont le maire LFI de Saint-Denis Bally Bagayoko a été…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/bally-bagayoko/bally-bagayoko-vise-par-une-enquete-du-pnf-apres-larticle-du-canard-enchaine"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T15:54:17+00:00",
+      "titre": "Bally Bagayoko visé par une enquête du Parquet national financier pour détournement de fonds publics",
+      "dek": "Le maire insoumis de Saint-Denis, qui a fait l’objet d’une plainte déposée par l’association AC !! Anti-Corruption, est mis en cause pour le cumul présumé de ses anciennes fonctions d’élu et de cadre de la RATP.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/bally-bagayoko-vise-par-une-enquete-du-parquet-national-financier-pour-detournement-de-fonds-publics-20260824_Y57MGUQWWZC57APB5MMQ3LCAIY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T15:46:57+00:00",
+      "titre": "Le maire LFI de Saint-Denis, Bally Bagayoko, visé par une enquête pour détournement de fonds publics",
+      "dek": "Le Parquet national financier a ouvert une enquête visant Bally Bagayoko, maire La France insoumise (LFI) de Saint-Denis, notamment pour détournement de fonds publics, après une plainte concernant le cumul de son emploi à la RATP et de ses fonctions d'élu.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/le-maire-lfi-de-saint-denis-bally-bagayoko-vise-par-une-enquete-pour-detournement-de-fonds-publics_8159837.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
       "source": "Politis",
       "date": "24 Aug 2026",
       "date_iso": "2026-08-24T15:46:57+00:00",
@@ -22,6 +165,39 @@
       "dek": "Les insoumis veulent inonder idéologiquement la campagne, engagent un bras de fer contre les candidats de droite et rêvent d’un ralliement pur et simple des écolos.",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=500926"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T15:44:50+00:00",
+      "titre": "Bally Bagayoko, maire de Saint-Denis, visé par une enquête pour détournement de fonds publics concernant son emploi à la RATP",
+      "dek": "Cette enquête préliminaire vise à « procéder aux vérifications utiles concernant les conditions d’emploi » de M. Bagayoko à la régie des transports parisiens, selon le PNF.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/08/24/bally-bagayoko-maire-de-saint-denis-vise-par-une-enquete-pour-detournement-de-fonds-publics-concernant-son-emploi-a-la-ratp_6755547_3224.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T15:31:41+00:00",
+      "titre": "Mohammed ben Salmane en France: «Lui dérouler le tapis rouge, c’est donner une prime à l’impunité»",
+      "dek": "Alors qu’Emmanuel Macron reçoit pendant deux jours le prince héritier saoudien, Reporters sans frontières se dit choqué par cet accueil dans un entretien à «Mediapart». L’association demande au président d’agir pour que le dossier judiciaire sur l’assassinat du journaliste Jamal …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/240826/mohammed-ben-salmane-en-france-lui-derouler-le-tapis-rouge-c-est-donner-une-prime-l-impunite"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T15:30:02+00:00",
+      "titre": "\"Le changement, c'est maintenant\" : le slogan de l'élection de François Hollande en 2012",
+      "dek": "Cet été, Fabrice d'Almeida sonde les slogans des élections présidentielles sous la Ve République. De quoi se rafraîchir la mémoire avant l'élection de 2027. Aujourd'hui, retour sur les élections de 2012 avec slogan de François Hollande : \"Le changement, c'est maintenant\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/le-changement-c-est-maintenant-le-slogan-de-l-election-de-francois-hollande-en-2012_8074910.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Gauche",
@@ -36,14 +212,47 @@
     },
     {
       "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T14:50:17+00:00",
+      "titre": "Incendies, sécheresse, canicules… Comment la question de l’eau s’invite dans la campagne présidentielle",
+      "dek": "Alors que de nombreuses régions de France ont été ravagées par des feux intenses, et que les sols sont arides dans toute l’Europe, la gestion de l’eau préoccupe le gouvernement et les candidats pour 2027. Et pas qu’à gauche.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/incendies-secheresse-canicules-comment-la-question-de-leau-sinvite-dans-la-campagne-presidentielle-20260811_UHPFPQTKJNDHXGAFJXFN6JAQGQ/"
+    },
+    {
+      "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T14:18:55+00:00",
-      "titre": "DIRECT. Budget 2027 : \"Tous devront faire des efforts\" face à l'\"urgence\" de réduire les déficits, prévient le ministre des Comptes publics",
-      "dek": "Parmi les pistes du gouvernement, figure l'idée d'une moindre revalorisation des pensions de retraite pour les plus aisés.",
+      "date_iso": "2026-08-24T14:48:42+00:00",
+      "titre": "Les dates clés du calendrier parlementaire pour le projet de loi de finance 2027",
+      "dek": "À compter du 12 octobre, date d'ouverture des discussions autour des textes budgétaires, le gouvernement disposera de cinq semaines pour adopter un projet de loi de finance 2027 convenable. Reste à savoir si les délais seront respectés.",
       "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/direct-budget-2027-le-gouvernement-travaille-a-une-reconduction-des-aides-pour-les-secteurs-les-plus-exposes-a-la-hausse-des-prix-du-carburant_8159252.html#xtor=RSS-3-%5Bgeneral%5D"
+      "lien": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/les-dates-cles-du-calendrier-parlementaire-pour-le-projet-de-loi-de-finance-2027_8159534.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T14:43:01+00:00",
+      "titre": "Le plafond des franchises médicales finalement fixé à 140 euros par an dans le projet de décret, contre 100 euros actuellement",
+      "dek": "Le gouvernement, qui avait projeté de doubler à 200 euros le plafond des franchises médicales, va finalement le porter à 140 euros. Les assurés vont payer en moyenne 10 euros de plus par an, a indiqué lundi, la ministre de la Santé, invitée de franceinfo.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/sante/le-plafond-des-franchises-medicales-finalement-fixe-a-140-euros-par-an-contre-100-euros-actuellement_8159756.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T14:30:08+00:00",
+      "titre": "Budget 2027 : le gouvernement prêt à reconduire une deuxième fois la taxe « exceptionnelle » sur les grandes entreprises",
+      "dek": "Prévue pour ne durer qu’un an en 2025, reconduite en 2026, cette contribution devrait figurer au prochain budget. Roland Lescure, ministre de l’économie et des finances, a même reconnu, lundi 24 août, sur RMC et BFM-TV, que sa diminution était loin d’être acquise.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/budget-2027-le-gouvernement-pret-a-reconduire-une-deuxieme-fois-la-taxe-exceptionnelle-sur-les-grandes-entreprises_6755474_823448.html"
     },
     {
       "tag": "Politique",
@@ -99,17 +308,6 @@
       "dek": "Malgré un budget présenté comme contraint, la région Provence-Alpes-Côte d’Azur fait le choix de s’associer avec trois «agences d’influence» pour vanter son action sur les réseaux. L’enveloppe annuelle est de 625 000 euros et pourra être renouvelée trois fois.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/240826/la-region-paca-passe-un-marche-allant-jusqu-25-millions-d-euros-avec-des-influenceurs"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T12:24:53+00:00",
-      "titre": "Raphaël Glucksmann : la bataille à gauche pour 2027",
-      "dek": "C’est désormais officiel, Raphaël Glucksmann est candidat à l’élection présidentielle. L’eurodéputé se lance dans la bataille, d’abord de la primaire organisée par le parti socialiste, et a déjà indiqué qu’il refuserait toute alliance avec La France insoumise de Jean-Luc Mélencho…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/raphael-glucksmann-la-bataille-a-gauche-pour-2027_8159615.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Gauche",
@@ -352,204 +550,6 @@
       "dek": "La présentatrice en avait pris l'engagement dès sa nomination. Léa Salamé quitte le \"20 Heures\" jusqu'à nouvel ordre, après l'annonce de la candidature de son compagnon Raphaël Glucksmann à la prochaine élection présidentielle. Au nom de quel principe ? Selon quelles règles ? On …",
       "avis": null,
       "lien": "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-pourquoi-lea-salame-renonce-t-elle-a-la-presentation-du-journal-de-20-heures-sur-france-2_8154920.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T06:49:34+00:00",
-      "titre": "Léa Salamé se met en retrait du «20 heures» de France 2 après l’annonce de candidature de Raphaël Glucksmann",
-      "dek": "Son compagnon, leader de Place publique, a déclaré son intention de concourir à la primaire socialiste et à l’élection présidentielle au journal télévisé de TF1, dimanche soir.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/environnement/lea-salame-se-met-en-retrait-du-20-heures-de-france-2-apres-lannonce-de-candidature-de-raphael-glucksmann-20260824_KALHPGGEW5D37E7KDTE42YCQUI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T06:29:42+00:00",
-      "titre": "Les mises en garde du patronat à l'approche de la bataille pour le budget 2027",
-      "dek": "À l'approche des discussions sur le budget 2027, les organisations patronales refusent toute nouvelle hausse d'impôts ou de cotisations. De son côté, l'exécutif doit trouver des milliards d'euros dans un contexte politique et économique particulièrement tendu.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-mises-en-garde-du-patronat-a-l-approche-de-la-bataille-pour-le-budget-2027_8132957.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T06:25:17+00:00",
-      "titre": "Présidentielle 2027 : Yannick Jadot se range derrière Raphaël Glucksmann et sera chargé de préparer « la mise en place d’un état d’urgence écologique »",
-      "dek": "« Je suis convaincu que Raphaël Glucksmann est le candidat le mieux placé (…) et qu’il peut gagner cette élection présidentielle », a affirmé le sénateur écologiste sur France Inter.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-yannick-jadot-apporte-son-soutien-a-raphael-glucksmann_6755022_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T06:23:39+00:00",
-      "titre": "\"Il est vital de tout changer dans nos manières de vivre\" : Jean-Luc Mélenchon lance sa campagne présidentielle",
-      "dek": "Jean-Luc Mélenchon a appelé à changer nos comportements face au changement climatique, dimanche 23 août. Le leader de La France insoumise a également envoyé un signal fort au gouvernement.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/melenchon/il-est-vital-de-tout-changer-dans-nos-manieres-de-vivre-jean-luc-melenchon-lance-sa-campagne-presidentielle_8159204.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T06:20:54+00:00",
-      "titre": "Présidentielle : Raphaël Glucksmann n'a \"aucune chance\" d'accéder au second tour, estime le député LFI Hadrien Clouet",
-      "dek": "Le député LFI de Haute-Garonne, Hadrien Clouet estime que les propositions du candidat Raphaël Glucksmann sont \"décalées par rapport à l'actualité\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-raphael-glucksmann-n-a-aucune-chance-d-acceder-au-second-tour-estime-le-depute-lfi-hadrien-clouet_8159216.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T06:00:40+00:00",
-      "titre": "\"Le choix le plus important de notre vie de citoyen\" : Raphaël Glucksmann candidat à l'élection présidentielle de 2027",
-      "dek": "Dimanche 23 août, Raphaël Glucksmann a officialisé sa candidature pour l'élection présidentielle de 2027. Le patron de Place publique se présente comme un rempart au Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/le-choix-le-plus-important-de-notre-vie-de-citoyen-raphael-glucksmann-candidat-a-l-election-presidentielle-de-2027_8159177.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T05:32:31+00:00",
-      "titre": "Soutiens, sondages, programme… Sur quoi s'appuie la candidature de Raphaël Glucksmann, qui lance sa campagne pour la présidentielle 2027 ?",
-      "dek": "Le député européen a annoncé dimanche soir sa candidature à la primaire du Parti socialiste, et indirectement à l'élection présidentielle de 2027.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/soutiens-sondages-programme-sur-quoi-s-appuie-la-candidature-de-raphael-glucksmann-qui-lance-sa-campagne-pour-la-presidentielle-2027_8153303.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T04:30:00+00:00",
-      "titre": "Guillaume Tabard : « Mélenchon contre Glucksmann, un duel asymétrique à l’avantage de l’Insoumis »",
-      "dek": "CONTRE-POINT - Tout en rejetant le mélenchonisme dans les mots, la gauche qui se prétend « raisonnable » n’ose pas aller au bout de la logique du cordon sanitaire comme, il y a trente ans, la droite se l’était laissé imposer face au lepénisme.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-melenchon-contre-glucksmann-un-duel-asymetrique-a-l-avantage-de-l-insoumis-20260824"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T03:30:34+00:00",
-      "titre": "Présidentielle 2027 : la bataille des gauches est lancée",
-      "dek": "Lors de l’université d’été de La France insoumise, où il a prononcé un discours très centré sur la planification écologique, Jean-Luc Mélenchon a multiplié les appels du pied pour attirer Les Ecologistes. Son rival à gauche, Raphaël Glucksmann a, lui, annoncé sa candidature au « …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-la-bataille-des-gauches-irreconciliables-est-lancee_6754812_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T03:00:38+00:00",
-      "titre": "Emmanuel Macron et le prince saoudien « MBS » ont clôturé l’Esports World Cup, à Paris",
-      "dek": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo. Véritable point d’orgue du « soft power » saoudien en la matière, il a rassemblé de nombreuses stars et personnalités politiques.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T03:00:29+00:00",
-      "titre": "Emmanuel Macron et Mohammed Ben Salman ont clôturé l’Esports World Cup, symbole du « soft power » saoudien",
-      "dek": "Organisé au Grand Palais, à Paris, l’événement s’est achevé, dimanche, après sept semaines de compétitions de jeux vidéo ayant rassemblé de nombreuses stars et personnalités politiques.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/pixels/article/2026/08/24/emmanuel-macron-et-le-prince-saoudien-mbs-ont-cloture-l-esports-world-cup-a-paris_6754776_4408996.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T21:08:26+00:00",
-      "titre": "Présidentielle 2027 : la participation de Raphaël Glucksmann à la primaire social-démocrate \"va permettre de réduire l'offre de candidatures à gauche\" au premier tour, se réjouit le député PS Arthur Delaporte",
-      "dek": "Le cofondateur de Place publique a annoncé, dimanche soir sur TF1, son intention de participer à la primaire coorganisée par son parti et le PS, afin de devenir le candidat de la social-démocratie à la présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T20:57:37+00:00",
-      "titre": "Présidentielle 2027 : Raphaël Glucksmann entre en course avec l’ambition de «relever la France»",
-      "dek": "La figure sociale-démocrate a confirmé dimanche soir sur TF1 sa participation à la primaire du PS et de Place publique, prévue en octobre.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-raphael-glucksmann-se-lance-dans-la-course-20260823"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T20:41:38+00:00",
-      "titre": "DIRECT. Présidentielle 2027 : la participation de Raphaël Glucksmann à la primaire social-démocrate \"va permettre de réduire l'offre de candidatures à gauche\" au premier tour, se réjouit le député PS Arthur Delaporte",
-      "dek": "Le cofondateur de Place publique a annoncé, dimanche soir sur TF1, son intention de participer à la primaire coorganisée par son parti et le PS, afin de devenir le candidat de la social-démocratie à la présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-edouard-philippe-envisage-un-rassemblement-de-la-droite-et-du-centre-entre-novembre-et-fevrier_8158088.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T20:00:34+00:00",
-      "titre": "Raphaël Glucksmann lance sa campagne par le labyrinthe socialiste",
-      "dek": "Sans surprise, le fondateur de Place publique s’est déclaré dimanche 23 août candidat à la primaire socialiste. Faute de dynamique estivale, l’eurodéputé mise sur cette annonce pour lancer sa campagne. Mais les obstacles sont nombreux, à commencer par une votation interne pas com…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/230826/raphael-glucksmann-lance-sa-campagne-par-le-labyrinthe-socialiste"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T19:34:02+00:00",
-      "titre": "Présidentielle 2027 : ce qu’il faut retenir de l’annonce de candidature de Raphaël Glucksmann",
-      "dek": "Le co-président de Place publique a officialisé sa candidature à la prochaine présidentielle sur TF1 ce 23&nbsp;août. Pendant plus de quinze minutes, il s’est présenté comme seul rempart à l’extrême droite, vantant la nécessité de la mise en place d’une «&nbsp;République écologiq…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/presidentielle-2027/presidentielle-2027-ce-quil-faut-retenir-de-lannonce-de-candidature-de-raphael-glucksmann"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T19:21:55+00:00",
-      "titre": "Présidentielle 2027 : \"C'est une forme de satisfaction\" que Raphaël Glucksmann ait annoncé sa candidature, salue le député PS Arthur Delaporte",
-      "dek": "Raphaël Glucksmann a annoncé dimanche sur TF1 sa candidature à la présidentielle et participera à la primaire sociale-démocrate organisée en octobre par le PS et son propre parti, Place publique.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/presidentielle-2027-c-est-une-forme-de-satisfaction-que-raphael-glucksmann-ait-annonce-sa-candidature-salue-le-depute-ps-arthur-delaporte_8158850.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "23 Aug 2026",
-      "date_iso": "2026-08-23T19:21:14+00:00",
-      "titre": "Présidentielle : Raphaël Glucksmann est bel et bien candidat",
-      "dek": "Trois mois après son premier passage au 20 heures de TF1, le député européen a confirmé, ce dimanche, qu’il se lançait dans la course à l’Elysée. Un chemin périlleux, avec, pour première étape, la primaire organisée par le Parti socialiste.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/presidentielle-raphael-glucksmann-est-bel-et-bien-candidat-20260823_V7X7J7ANVJERPODYUI6LSLQOSI/"
     }
   ]
 }
