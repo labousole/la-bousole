@@ -1,16 +1,82 @@
 {
-  "generated_at": "2026-08-24T17:19:25+00:00",
+  "generated_at": "2026-08-24T21:04:47+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T17:18:35+00:00",
+      "date_iso": "2026-08-24T20:59:45+00:00",
       "titre": "DIRECT. Budget 2027 : \"Tous devront faire des efforts\" face à l'\"urgence\" de réduire les déficits, prévient le ministre des Comptes publics",
       "dek": "Parmi les pistes du gouvernement, figure l'idée d'une moindre revalorisation des pensions de retraite pour les plus aisés.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/direct-budget-2027-le-gouvernement-travaille-a-une-reconduction-des-aides-pour-les-secteurs-les-plus-exposes-a-la-hausse-des-prix-du-carburant_8159252.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T20:07:29+00:00",
+      "titre": "Présidentielle 2027 : Edouard Philippe veut augmenter de 20 % la rémunération moyenne des enseignants sur un quinquennat",
+      "dek": "L’ancien premier ministre et candidat Horizons à l’élection présidentielle souhaite par ailleurs instaurer une « amende de responsabilisation scolaire, sur le modèle de ce qui existe au Royaume-Uni », pour les « parents d’enfants harceleurs, perturbateurs ou absentéistes et les p…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/24/presidentielle-2027-edouard-philippe-veut-augmenter-de-20-la-remuneration-moyenne-des-enseignants-sur-un-quinquennat_6755790_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T19:56:52+00:00",
+      "titre": "Budget 2027 : patients, retraités… Qui sera mis à contribution dans la copie du gouvernement ?",
+      "dek": "Faut-il s’attendre à de nouvelles hausses d’impôts ? Le gouvernement faisait sa rentrée ce lundi matin en Conseil des ministres, avec un casse-tête : préparer le prochain budget sans majorité à l’Assemblée, à quelques mois de l'élection présidentielle. L’exécutif assure que non, …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/budget-2027-patients-retraites-qui-sera-mis-a-contribution-dans-la-copie-du-gouvernement_8160068.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T19:31:45+00:00",
+      "titre": "Bally Bagayoko visé par une enquête du Parquet national financier pour détournement de fonds publics",
+      "dek": "Le maire insoumis de Saint-Denis, qui a fait l’objet d’une plainte déposée par l’association AC !! Anti-Corruption, est mis en cause pour le cumul présumé de ses anciennes fonctions d’élu et de cadre de la RATP.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/bally-bagayoko-vise-par-une-enquete-du-parquet-national-financier-pour-detournement-de-fonds-publics-20260824_Y57MGUQWWZC57APB5MMQ3LCAIY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T18:17:09+00:00",
+      "titre": "Présidentielle 2027 : ne partons pas en «guerre de l’eau»",
+      "dek": "La raréfaction de cette ressource vitale est taillée pour la bagarre entre les candidats, mais c’est la dernière chose dont nous avons besoin. Car il est urgent d’établir des règles de partage et de réduire les usages absurdes.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/presidentielle-2027-ne-partons-pas-en-guerre-de-leau-20260824_D3WH2XQ7EZBQ7CAG45DDQONDOU/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T18:15:00+00:00",
+      "titre": "Pour Emmanuel Macron et Sébastien Lecornu, une dernière rentrée pleine de contrariétés",
+      "dek": "À neuf mois de la fin du quinquennat, le duo exécutif doit jongler entre les crises multiples et la préparation d’un budget périlleux, alors que la campagne présidentielle s’accélère.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/pour-emmanuel-macron-et-sebastien-lecornu-une-derniere-rentree-pleine-de-contrarietes-20260824"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T17:57:28+00:00",
+      "titre": "«Fonds vert»: l’indécence du gouvernement",
+      "dek": "Le gouvernement annonce que le fonds vert, destiné à aider les collectivités dans la transition écologique, va augmenter après cet été caniculaire. De l’art de la diversion alors que les besoins sont sans commune mesure avec cette enveloppe sans cesse rabotée.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/240826/fonds-vert-l-indecence-du-gouvernement"
     },
     {
       "tag": "Politique",
@@ -85,7 +151,7 @@
       "date": "24 Aug 2026",
       "date_iso": "2026-08-24T16:25:15+00:00",
       "titre": "Bally Bagayoko, maire LFI de Saint-Denis, visé par une enquête pour détournement de fonds publics",
-      "dek": "L’enquête a été ouverte le 19 août après des articles de presse qui accusaient l’élu d’avoir «longtemps cumulé mandat local et poste de cadre à la RATP». L’association AC!! Anti-Corruption avait porté plainte.",
+      "dek": "L’enquête a été ouverte le 19 août après des articles de presse qui accusaient l’élu d’avoir «longtemps cumulé mandat local et poste de cadre à la RATP». L’association AC!! Anti-Corruption avait déposé deux plaintes. L’une concerne d’autres «élus parisiens […] de tout bord politi…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/politique/240826/bally-bagayoko-maire-lfi-de-saint-denis-vise-par-une-enquete-pour-detournement-de-fonds-publics"
     },
@@ -135,17 +201,6 @@
     },
     {
       "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T15:54:17+00:00",
-      "titre": "Bally Bagayoko visé par une enquête du Parquet national financier pour détournement de fonds publics",
-      "dek": "Le maire insoumis de Saint-Denis, qui a fait l’objet d’une plainte déposée par l’association AC !! Anti-Corruption, est mis en cause pour le cumul présumé de ses anciennes fonctions d’élu et de cadre de la RATP.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/bally-bagayoko-vise-par-une-enquete-du-parquet-national-financier-pour-detournement-de-fonds-publics-20260824_Y57MGUQWWZC57APB5MMQ3LCAIY/"
-    },
-    {
-      "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "24 Aug 2026",
@@ -173,7 +228,7 @@
       "date": "24 Aug 2026",
       "date_iso": "2026-08-24T15:44:50+00:00",
       "titre": "Bally Bagayoko, maire de Saint-Denis, visé par une enquête pour détournement de fonds publics concernant son emploi à la RATP",
-      "dek": "Cette enquête préliminaire vise à « procéder aux vérifications utiles concernant les conditions d’emploi » de M. Bagayoko à la régie des transports parisiens, selon le PNF.",
+      "dek": "Cette enquête préliminaire vise à « procéder aux vérifications utiles concernant les conditions d’emploi » de M. Bagayoko à la régie des transports parisiens, selon le Parquet national financier.",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/article/2026/08/24/bally-bagayoko-maire-de-saint-denis-vise-par-une-enquete-pour-detournement-de-fonds-publics-concernant-son-emploi-a-la-ratp_6755547_3224.html"
     },
@@ -495,61 +550,6 @@
       "dek": "Invité au micro de France Inter, le sénateur écologiste Yannick Jadot a officialisé son soutien à la candidature de Raphaël Glucksmann pour l’élection présidentielle de 2027. L'ex candidat à la présidence, en 2022, sera chargé de « la mise en place d’un état d’urgence écologique …",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/election-presidentielle/presidentielle-2027-yannick-jadot-confirme-son-soutien-a-raphael-glucksmann"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T07:23:20+00:00",
-      "titre": "Glucksmann candidat à la présidentielle : l’écologiste Yannick Jadot annonce son ralliement au chef de Place publique",
-      "dek": "L’ancien candidat des verts à l’élection présidentielle de 2022 participera au programme de son nouvel allié et sera chargé de mettre au point un «état d’urgence écologique».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/glucksmann-candidat-a-la-presidentielle-lecologiste-yannick-jadot-annonce-son-ralliement-au-chef-de-place-publique-20260824_AIJE6EZV3JECDJNAUQFSKSFH3A/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T07:15:59+00:00",
-      "titre": "Édito. Raphaël Glucksmann candidat à la primaire socialiste : le militant des droits humains coincé dans la politique politicienne ?",
-      "dek": "Dimanche soir sur TF1, Raphaël Glucksmann a annoncé sa candidature à la présidentielle de 2027, en se soumettant au préalable à la primaire socialiste.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-raphael-glucksmann-candidat-a-la-primaire-socialiste-le-militant-des-droits-humains-coince-dans-la-politique-politicienne_8074502.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T07:15:04+00:00",
-      "titre": "Candidature de Raphaël Glucksmann à la présidentielle 2027 : \"Nous ne sommes pas sur la même ligne\", indique Sandrine Rousseau, députée \"Ecologiste et social\"",
-      "dek": "Sandrine Rousseau, députée \"Écologiste et social\" de Paris était l’invitée des 4V sur France 2, lundi 24 août.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/candidature-de-raphael-glucksmann-a-la-presidentielle-2027-nous-ne-sommes-pas-sur-la-meme-ligne-indique-sandrine-rousseau-deputee-ecologiste-et-social_8159243.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T06:52:31+00:00",
-      "titre": "Présidentielle 2027 : le sénateur écologiste Yannick Jadot soutient Raphaël Glucksmann \"sans hésitation\", estimant qu'il \"peut gagner cette élection\"",
-      "dek": "Raphaël Glucksmann a officiellement annoncé sa candidature à la présidentielle. L'écologiste Yannick Jadot dit être \"convaincu\" que le leader de Place publique \"est le candidat le mieux placé\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-le-senateur-ecologiste-yannick-jadot-soutient-raphael-glucksmann-sans-hesitation-estimant-qu-il-peut-gagner-cette-election_8159192.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T06:51:53+00:00",
-      "titre": "TRANSPARENCE. Pourquoi Léa Salamé renonce-t-elle à la présentation du journal de 20 heures sur France 2 ?",
-      "dek": "La présentatrice en avait pris l'engagement dès sa nomination. Léa Salamé quitte le \"20 Heures\" jusqu'à nouvel ordre, après l'annonce de la candidature de son compagnon Raphaël Glucksmann à la prochaine élection présidentielle. Au nom de quel principe ? Selon quelles règles ? On …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-pourquoi-lea-salame-renonce-t-elle-a-la-presentation-du-journal-de-20-heures-sur-france-2_8154920.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
