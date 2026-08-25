@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-08-25T17:20:20+00:00",
+  "generated_at": "2026-08-25T21:00:13+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T20:27:42+00:00",
+      "titre": "Les professeurs courtisés par les candidats à la présidentielle 2027 : quelles revalorisations proposent-ils, avec quels financements ?",
+      "dek": "À une semaine de la rentrée scolaire, l’école s’invite déjà dans la campagne présidentielle. Édouard Philippe propose d’augmenter de 20% la rémunération moyenne des enseignants sur un quinquennat, et il n’est pas le seul à promettre une revalorisation importante. Alors, pourquoi …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/les-professeurs-courtises-par-les-candidats-a-la-presidentielle-2027-quelles-revalorisations-proposent-ils-avec-quels-financements_8161409.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T20:05:58+00:00",
+      "titre": "Le Parti socialiste valide l'accord sur les modalités de la primaire à laquelle participera Raphaël Glucksmann",
+      "dek": "Quatre candidats, dont le leader de Place Publique, sont sur la ligne de départ. Participer au vote coûtera au minimum 15 euros.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/le-parti-socialiste-valide-l-accord-sur-les-modalites-de-la-primaire-a-laquelle-participera-raphael-glucksmann_8161388.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T20:00:00+00:00",
+      "titre": "En Charente-Maritime, Glucksmann met en scène le renfort de Jadot et joue la carte «écolo»",
+      "dek": "REPORTAGE - Pour son premier déplacement de candidat officiellement déclaré, le social-démocrate s’est affiché ce mardi aux côtés de son nouvel allié écologiste, plaçant la cause climatique au cœur de sa campagne.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/en-charente-maritime-glucksmann-met-en-scene-le-renfort-de-jadot-et-joue-la-carte-ecolo-20260825"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T19:27:26+00:00",
+      "titre": "Présidentielle 2027 : en Charente-Maritime, le duo Glucksmann-Jadot se pose en défenseur de l’écologie",
+      "dek": "Sortie des énergies fossiles, électrification de la société, rénovation des bâtiments, etc. Le fondateur de Place publique a égrené mardi 25 août ses objectifs pour l’écologie accompagné de l’ancien candidat des Verts Yannick Jadot. Une manière de donner des marqueurs à gauche, m…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/25/presidentielle-2027-en-charente-maritime-le-duo-glucksmann-jadot-se-pose-en-defenseur-de-l-ecologie_6756624_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T19:26:54+00:00",
+      "titre": "«Alléluia, pas de nouvelles réformes!»: la rentrée à pas comptés d’Édouard Geffray",
+      "dek": "Gérer l’arrivée des profs et des élèves, en pleine crise des cyberattaques, capitaliser sur les bonnes nouvelles, et espérer que ça passe au niveau budgétaire: le ministre de l’éducation nationale fait une rentrée sans annonce majeure, à un an de la présidentielle.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/250826/alleluia-pas-de-nouvelles-reformes-la-rentree-pas-comptes-d-edouard-geffray"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T18:53:28+00:00",
+      "titre": "Aux obsèques de François Patriat, Emmanuel Macron rend hommage à un fidèle « grognard » et met en garde Edouard Philippe et Gabriel Attal",
+      "dek": "Les macronistes de la première heure étaient présents en nombre aux funérailles du sénateur, mort le 19 août. Dans l’oraison funèbre qu’il a prononcée, le président de la République a salué un élu « qui assumait bravement » et défendait son bilan, une critique en creux des candid…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/25/aux-obseques-de-francois-patriat-emmanuel-macron-rend-hommage-a-un-fidele-grognard-et-met-en-garde-edouard-philippe-et-gabriel-attal_6756622_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T18:00:16+00:00",
+      "titre": "Dans le Marais poitevin, Raphaël Glucksmann s’affiche avec Yannick Jadot et sort la carte verte",
+      "dek": "Pour son premier déplacement de candidat à la présidentielle, ce mardi 25 août, l’eurodéputé a envoyé un message aux Ecologistes en défendant le renouvelable et les zones humides.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/dans-le-marais-poitevin-raphael-glucksmann-saffiche-avec-yannick-jadot-et-sort-la-carte-verte-20260825_45QKKN4ONRECPAFPXY3QDASDDE/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T17:45:00+00:00",
+      "titre": "Présidentielle : le PS définit les modalités de la primaire sociale-démocrate",
+      "dek": "Une circulaire encadrant le scrutin commun à Place publique et au PS pour choisir leur candidat à la présidentielle mi-octobre a été adoptée lors d’un conseil national des socialistes, ce mardi 25 août.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/quelles-sont-les-conditions-dorganisation-de-la-primaire-sociale-democrate-20260825_BFVQ6SDAPZALNOLZW7WCSSRBUY/"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -106,7 +194,7 @@
       "source": "Le Monde – Politique",
       "date": "25 Aug 2026",
       "date_iso": "2026-08-25T15:00:06+00:00",
-      "titre": "L’avenir de la tour Montparnasse suspendu à la fin de la zizanie entre ses copropriétaires : enquête sur une interminable partie de Monopoly",
+      "titre": "L’avenir de la tour Montparnasse suspendu à la fin de la zizanie entre ses copropriétaires : enquête sur un interminable Monopoly",
       "dek": "A trois mois de l’expiration du permis de construire de la transformation du gratte-ciel parisien, des rebondissements en cascade font vaciller le projet lancé il y a dix ans. En juillet, le maire de la capitale a enjoint aux copropriétaires de régler leurs différends. « Le Monde…",
       "avis": null,
       "lien": "https://www.lemonde.fr/economie/article/2026/08/25/l-avenir-de-la-tour-montparnasse-suspendu-a-la-fin-de-la-zizanie-entre-ses-coproprietaires-enquete-sur-une-interminable-partie-de-monopoly_6756594_3234.html"
@@ -462,94 +550,6 @@
       "dek": "Parmi les pistes du gouvernement, figure l'idée d'une moindre revalorisation des pensions de retraite pour les plus aisés.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/direct-budget-2027-le-gouvernement-travaille-a-une-reconduction-des-aides-pour-les-secteurs-les-plus-exposes-a-la-hausse-des-prix-du-carburant_8159252.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T20:07:27+00:00",
-      "titre": "Présidentielle 2027 : Edouard Philippe veut augmenter de « 20 % la rémunération moyenne des enseignants » sur un quinquennat",
-      "dek": "L’ancien premier ministre et candidat Horizons à l’élection présidentielle souhaite par ailleurs instaurer une « amende de responsabilisation scolaire, sur le modèle de ce qui existe au Royaume-Uni », pour les « parents d’enfants harceleurs, perturbateurs ou absentéistes et les p…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/24/presidentielle-2027-edouard-philippe-veut-augmenter-de-20-la-remuneration-moyenne-des-enseignants-sur-un-quinquennat_6755790_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T20:07:27+00:00",
-      "titre": "Présidentielle 2027 : Edouard Philippe veut augmenter de 20 % la rémunération moyenne des enseignants sur un quinquennat",
-      "dek": "L’ancien premier ministre et candidat Horizons à l’élection présidentielle souhaite par ailleurs instaurer une « amende de responsabilisation scolaire, sur le modèle de ce qui existe au Royaume-Uni », pour les « parents d’enfants harceleurs, perturbateurs ou absentéistes et les p…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/24/presidentielle-2027-edouard-philippe-veut-augmenter-de-20-la-remuneration-moyenne-des-enseignants-sur-un-quinquennat_6755790_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T19:56:52+00:00",
-      "titre": "Budget 2027 : patients, retraités… Qui sera mis à contribution dans la copie du gouvernement ?",
-      "dek": "Faut-il s’attendre à de nouvelles hausses d’impôts ? Le gouvernement faisait sa rentrée ce lundi matin en Conseil des ministres, avec un casse-tête : préparer le prochain budget sans majorité à l’Assemblée, à quelques mois de l'élection présidentielle. L’exécutif assure que non, …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/budget-2027-patients-retraites-qui-sera-mis-a-contribution-dans-la-copie-du-gouvernement_8160068.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T19:31:45+00:00",
-      "titre": "Bally Bagayoko visé par une enquête du Parquet national financier pour détournement de fonds publics",
-      "dek": "Le maire insoumis de Saint-Denis, qui a fait l’objet d’une plainte déposée par l’association AC !! Anti-Corruption, est mis en cause pour le cumul présumé de ses anciennes fonctions d’élu et de cadre de la RATP.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/bally-bagayoko-vise-par-une-enquete-du-parquet-national-financier-pour-detournement-de-fonds-publics-20260824_Y57MGUQWWZC57APB5MMQ3LCAIY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T18:17:09+00:00",
-      "titre": "Présidentielle 2027 : ne partons pas en «guerre de l’eau»",
-      "dek": "La raréfaction de cette ressource vitale est taillée pour la bagarre entre les candidats, mais c’est la dernière chose dont nous avons besoin. Car il est urgent d’établir des règles de partage et de réduire les usages absurdes.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/presidentielle-2027-ne-partons-pas-en-guerre-de-leau-20260824_D3WH2XQ7EZBQ7CAG45DDQONDOU/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T18:15:00+00:00",
-      "titre": "Pour Emmanuel Macron et Sébastien Lecornu, une dernière rentrée pleine de contrariétés",
-      "dek": "À neuf mois de la fin du quinquennat, le duo exécutif doit jongler entre les crises multiples et la préparation d’un budget périlleux, alors que la campagne présidentielle s’accélère.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/pour-emmanuel-macron-et-sebastien-lecornu-une-derniere-rentree-pleine-de-contrarietes-20260824"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T17:57:28+00:00",
-      "titre": "«Fonds vert»: l’indécence du gouvernement",
-      "dek": "Le gouvernement annonce que le fonds vert, destiné à aider les collectivités dans la transition écologique, va augmenter après cet été caniculaire. De l’art de la diversion alors que les besoins sont sans commune mesure avec cette enveloppe sans cesse rabotée.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/240826/fonds-vert-l-indecence-du-gouvernement"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T17:03:44+00:00",
-      "titre": "L’UE renforce son aide à l’Ukraine à l’occasion du 35ᵉ anniversaire de l’indépendance du pays",
-      "dek": "« Malgré les menaces scandaleuses proférées par la Russie à l’encontre de mon pays, nous continuerons à soutenir la défense de l’Ukraine », a dit Andy Burnham, qui effectue son premier déplacement à l’étranger à Kiev.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/video/2026/08/24/l-ue-renforce-son-aide-a-l-ukraine-a-l-occasion-du-35-anniversaire-de-l-independance-du-pays_6755587_3210.html"
     }
   ]
 }
