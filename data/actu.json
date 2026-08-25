@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-08-25T14:28:03+00:00",
+  "generated_at": "2026-08-25T17:20:20+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T17:20:25+00:00",
+      "titre": "Pour un boycott politique d’Israël",
+      "dek": "Les discours sur l’extrême droite israélienne sont devenus la forme ultime de soutien au gouvernement Netanyahou.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=501354"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T17:13:48+00:00",
+      "titre": "Attal, Philippe et la fiction délétère du «lui c’est lui, et moi c’est moi»",
+      "dek": "Soucieux de se détacher du macronisme et de souligner leurs différences, les deux candidats à la présidentielle se ressemblent sur l’essentiel : ni l’un ni l’autre ne remet en cause la politique de l’offre, l’injustice fiscale ou l’inaction écologique.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/attal-philippe-et-la-fiction-deletere-du-lui-cest-lui-et-moi-cest-moi-20260825_36D5JVVPFZANTK4U7FORAATWZQ/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T16:57:04+00:00",
+      "titre": "Tornade dans l’Aude: «Des vents probablement supérieurs à 200 km/h»",
+      "dek": "La tornade qui a dévasté le village de Pomas le 24 août est «l’une des plus fortes qu’a pu connaître le sud de la France», selon Predict Services, filiale de Météo-France spécialisée dans la gestion des risques climatiques. Plusieurs départements sont davantage exposés à ces phén…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/250826/tornade-dans-l-aude-des-vents-probablement-superieurs-200-kmh"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T16:33:04+00:00",
+      "titre": "Vos séances de kiné bientôt moins remboursées ?",
+      "dek": "Le gouvernement a confirmé son intention d’augmenter les franchises médicales : de 100 euros, elles passeront à 140 euros par an et par assuré. Les kinésithérapeutes sont également dans le viseur. Certaines séances pourraient bientôt être moins remboursées.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/vos-seances-de-kine-bientot-moins-remboursees_8160872.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T16:15:11+00:00",
+      "titre": "Après l’annonce d’un parc d’attraction Dragon Ball financé par l’Arabie saoudite, la gauche dénonce le tapis rouge déroulé à MBS",
+      "dek": "En marge de la visite du prince héritier d'Arabie saoudite Mohammed ben Salmane à Paris, Emmanuel Macron a annoncé la création de trois parcs d’attractions sur l’ancien site de Mirapolis, entièrement financé par Riyad. Le maître de l'Elysée a déroulé le tapis rouge à un homme vis…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/arabie-saoudite/apres-lannonce-dun-parc-dattraction-dragon-ball-finance-par-larabie-saoudite-la-gauche-denonce-le-tapis-rouge-deroule-a-mbs"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -14,10 +69,76 @@
     },
     {
       "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T16:12:21+00:00",
+      "titre": "Un militant d'extrême droite fiché S condamné pour l'agression, dans la Sarthe, d'un élu RN qu'il soupçonnait d'être l'amant de sa femme députée",
+      "dek": "Dans la nuit du 19 au 20 août, Maxime Gaucher a frappé et volé Tim Bouzon, qui s'est vu prescrire cinq jours d'ITT. Le militant d'extrême droite écope de 15 mois de prison ferme, a appris mardi franceinfo et ICI Maine.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/un-militant-d-extreme-droite-fiche-s-condamne-pour-l-agression-dans-la-sarthe-d-un-elu-rn-qu-il-soupconnait-d-etre-l-amant-de-sa-femme-deputee_8161175.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T15:30:01+00:00",
+      "titre": "\"En marche\" : le mouvement lancé par Emmanuel Macron",
+      "dek": "Cet été, Fabrice d'Almeida sonde les slogans des élections présidentielles sous la Ve République. De quoi se rafraîchir la mémoire avant l'élection de 2027. Aujourd'hui, retour sur les élections de 2017, avec Emmanuel Macron et le nom de son mouvement : \"En marche !\"",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/en-marche-le-mouvement-lance-par-emmanuel-macron_8076761.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T15:30:00+00:00",
+      "titre": "Présidentielle 2027 : tiraillés entre Raphaël Glucksmann et Jean-Luc Mélenchon, les Verts au bord de l’implosion",
+      "dek": "RÉCIT - Les Écologistes de Marine Tondelier sont pris en étau entre les partisans d’une alliance avec la social-démocratie, emmenés par Yannick Jadot, et ceux qui défendent un rapprochement avec les Insoumis, comme Sandrine Rousseau.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-tirailles-entre-raphael-glucksmann-et-jean-luc-melenchon-les-verts-au-bord-de-l-implosion-20260825"
+    },
+    {
+      "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T14:15:55+00:00",
+      "date_iso": "2026-08-25T15:00:06+00:00",
+      "titre": "L’avenir de la tour Montparnasse suspendu à la fin de la zizanie entre ses copropriétaires : enquête sur une interminable partie de Monopoly",
+      "dek": "A trois mois de l’expiration du permis de construire de la transformation du gratte-ciel parisien, des rebondissements en cascade font vaciller le projet lancé il y a dix ans. En juillet, le maire de la capitale a enjoint aux copropriétaires de régler leurs différends. « Le Monde…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/08/25/l-avenir-de-la-tour-montparnasse-suspendu-a-la-fin-de-la-zizanie-entre-ses-coproprietaires-enquete-sur-une-interminable-partie-de-monopoly_6756594_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T14:51:13+00:00",
+      "titre": "Le gouvernement lance une campagne contre les violences intrafamiliales et sexuelles sur les aires d'autoroute et de repos",
+      "dek": "Affiches dans les sanitaires pour femmes, agents formés, messages sur la radio 107.7... Le dispositif vise à profiter de ces lieux de passage où les victimes peuvent momentanément se retrouver seules pour leur permettre de demander de l'aide.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-gouvernement-lance-une-campagne-contre-les-violences-intrafamiliales-et-sexuelles-sur-les-aires-d-autoroute-et-de-repos_8161013.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T14:32:40+00:00",
+      "titre": "Un parc DBZ sous parrainage saoudien : à quoi joue Macron ?",
+      "dek": "Un parc Dragon Ball Z dans le Val-d'Oise d'ici cinq ou six ans, c'est ce qu'a annoncé Emmanuel Macron ce 24 août dans le cadre d'un partenariat financier avec l'Arabie saoudite. On fait le point sur cette annonce et surtout sur ce qu'elle cache avec Aurélien Soucheyre, Cyprien Ca…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/monde/arabie-saoudite/un-parc-dbz-sous-parrainage-saoudien-a-quoi-joue-macron"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T14:15:54+00:00",
       "titre": "Le patronat et les syndicats tentent de relancer le dialogue pour faire avancer leur « agenda social autonome »",
       "dek": "Les organisations d’employeurs et de salariés se sont réunies lundi pour essayer de définir leur propre programme de négociations, sans directives gouvernementales. Alors qu’ils ne s’étaient pas revus dans une telle configuration depuis la fin janvier, les différents partenaires …",
       "avis": null,
@@ -429,127 +550,6 @@
       "dek": "« Malgré les menaces scandaleuses proférées par la Russie à l’encontre de mon pays, nous continuerons à soutenir la défense de l’Ukraine », a dit Andy Burnham, qui effectue son premier déplacement à l’étranger à Kiev.",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/video/2026/08/24/l-ue-renforce-son-aide-a-l-ukraine-a-l-occasion-du-35-anniversaire-de-l-independance-du-pays_6755587_3210.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T16:48:26+00:00",
-      "titre": "Le patronat dit adieu à son rêve de voir Jordan Bardella au pouvoir",
-      "dek": "Alors que débutent mercredi les journées d’été du Medef, les milieux d’affaires réfléchissent à la manière de composer avec le Rassemblement national et de relancer «l’union des droites». La candidature de Marine Le Pen à la présidentielle, après l’arrêt de la cour d’appel, a mis…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/240826/le-patronat-dit-adieu-son-reve-de-voir-jordan-bardella-au-pouvoir"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T16:46:37+00:00",
-      "titre": "Le RN revient sur scène après un été de silences et de malaise",
-      "dek": "Marine Le Pen fera sa rentrée devant les patrons du Medef jeudi 27 août à l’occasion d’un premier débat avec les autres candidats. Première étape avant le congrès, en octobre. Avec une grande inconnue pour les mois qui viennent: le degré d’implication de Jordan Bardella dans la c…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/240826/le-rn-revient-sur-scene-apres-un-ete-de-silences-et-de-malaise"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T16:45:02+00:00",
-      "titre": "Raphaël Glucksmann : la bataille à gauche pour 2027",
-      "dek": "C’est désormais officiel, Raphaël Glucksmann est candidat à l’élection présidentielle. L’eurodéputé se lance dans la bataille, d’abord de la primaire organisée par le Parti socialiste, et a déjà indiqué qu’il refuserait toute alliance avec La France insoumise de Jean-Luc Mélencho…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/raphael-glucksmann-la-bataille-a-gauche-pour-2027_8159615.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T16:44:17+00:00",
-      "titre": "Yannick Jadot rallie Raphaël Glucksmann… et le contredit déjà sur le nucléaire",
-      "dek": "En l’espace de quelques minutes seulement, Yannick Jadot a annoncé lundi rejoindre la campagne de Raphaël Glucksmann tout en indiquant s’opposer au projet du candidat de Place publique sur le nucléaire, l’un de ses combats historiques. Une contradiction qui raconte la valse-hésit…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/240826/yannick-jadot-rallie-raphael-glucksmann-et-le-contredit-deja-sur-le-nucleaire"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T16:43:55+00:00",
-      "titre": "Présidentielle 2027 : L’Après saisit la main tendue de l’écologiste Marine Tondelier pour une union de la gauche",
-      "dek": "La secrétaire nationale des Ecologistes avait de nouveau appelé vendredi à des rencontres bilatérales avec les partis de gauche. Si le parti des ex-élus de La France insoumise a répondu favorablement, la formation mélenchoniste a rejeté la proposition.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/presidentielle-2027-l-apres-saisit-la-main-tendue-de-l-ecologiste-marine-tondelier-pour-une-union-de-la-gauche_6755585_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T16:25:15+00:00",
-      "titre": "Bally Bagayoko, maire LFI de Saint-Denis, visé par une enquête pour détournement de fonds publics",
-      "dek": "L’enquête a été ouverte le 19 août après des articles de presse qui accusaient l’élu d’avoir «longtemps cumulé mandat local et poste de cadre à la RATP». L’association AC!! Anti-Corruption avait déposé deux plaintes. L’une concerne d’autres «élus parisiens […] de tout bord politi…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/240826/bally-bagayoko-maire-lfi-de-saint-denis-vise-par-une-enquete-pour-detournement-de-fonds-publics"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T16:09:46+00:00",
-      "titre": "Inde : Tukaram Mundhe, le commissaire à la sécurité alimentaire qui mène une répression contre le manque d’hygiène",
-      "dek": "Le fonctionnaire, en poste depuis mai 2026, a suspendu les permis d’exploitation de points de vente Domino’s, Pizza Hut, mais aussi de restaurants réputés. Son style offensif a conquis de nombreux Indiens, mais inquiète les commerçants.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/international/asie-pacifique/inde-tukaram-mundhe-le-commissaire-a-la-securite-alimentaire-qui-mene-une-repression-contre-le-manque-dhygiene-20260824_AAG3MDCU4ZEIPKB7NB73UQEV6E/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T16:05:38+00:00",
-      "titre": "Présidentielle 2027 : contraint de passer par la primaire du PS, Raphaël Glucksmann cherche à convaincre",
-      "dek": "Longtemps tenté par une aventure en solo, l’eurodéputé devra finalement en passer par la primaire du PS pour viser l’Élysée. Soutenu par Yannick Jadot et une partie de l’aile droite socialiste, il entend y faire valoir une ligne clairement anti-LFI.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/gauche/presidentielle-2027-contraint-de-passer-par-la-primaire-du-ps-raphael-glucksmann-cherche-a-convaincre"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T16:03:41+00:00",
-      "titre": "Écologistes : le parti tiraillé, Marine Tondelier rêve de liberté",
-      "dek": "Prise entre ceux qui souhaitent s’entendre avec Jean-Luc Mélenchon et ceux qui veulent travailler avec Raphaël Glucksmann, la secrétaire nationale des Verts défend sa candidature. Et plaide pour l’unité dans un parti plus que divisé.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=500899"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T15:57:38+00:00",
-      "titre": "Bally Bagayoko visé par une enquête du PNF après l’article du Canard Enchaîné",
-      "dek": "Le parquet national financier (PNF) a annoncé ce lundi 24 août avoir ouvert une enquête, notamment pour détournement de fonds publics suite à la réception de plaintes de l’association AC !! Anti-corruption, concernant la façon dont le maire LFI de Saint-Denis Bally Bagayoko a été…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/bally-bagayoko/bally-bagayoko-vise-par-une-enquete-du-pnf-apres-larticle-du-canard-enchaine"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T15:46:57+00:00",
-      "titre": "Le maire LFI de Saint-Denis, Bally Bagayoko, visé par une enquête pour détournement de fonds publics",
-      "dek": "Le Parquet national financier a ouvert une enquête visant Bally Bagayoko, maire La France insoumise (LFI) de Saint-Denis, notamment pour détournement de fonds publics, après une plainte concernant le cumul de son emploi à la RATP et de ses fonctions d'élu.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/le-maire-lfi-de-saint-denis-bally-bagayoko-vise-par-une-enquete-pour-detournement-de-fonds-publics_8159837.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
