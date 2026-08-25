@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-08-25T09:55:15+00:00",
+  "generated_at": "2026-08-25T14:28:03+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T16:15:00+00:00",
+      "titre": "Stéphane Delpeyrat-Vincent : « Aujourd’hui, l’habitabilité du pays n’est pas garantie »",
+      "dek": "Le maire de Saint-Médard-en-Jalles, en Gironde, qui a dû évacuer sa commune fin juillet, dénonce l’inaction et l’irresponsabilité du gouvernement après les ravages causés par les incendies. L’édile repense l’idée d’habitabilité du territoire et appelle à étendre le domaine juridi…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=501298"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T14:15:55+00:00",
+      "titre": "Le patronat et les syndicats tentent de relancer le dialogue pour faire avancer leur « agenda social autonome »",
+      "dek": "Les organisations d’employeurs et de salariés se sont réunies lundi pour essayer de définir leur propre programme de négociations, sans directives gouvernementales. Alors qu’ils ne s’étaient pas revus dans une telle configuration depuis la fin janvier, les différents partenaires …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/25/le-patronat-et-les-syndicats-tentent-de-relancer-le-dialogue-pour-faire-avancer-leur-agenda-social-autonome_6756592_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T14:11:24+00:00",
+      "titre": "Transparence salariale : le projet de loi présenté en Conseil des ministres le 9 septembre",
+      "dek": "Initialement, la France avait jusqu’au 7 juin pour transposer la directive européenne. Mais face à des divergences marquées entre syndicats et patronat, l’échéance n’avait pas pu être tenue.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/transparence-salariale-le-projet-de-loi-presente-en-conseil-des-ministres-le-9-septembre-20260825_SBLS4WNLSRCAPNWHH77VZK3AAA/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T14:08:25+00:00",
+      "titre": "Aux obsèques du «fidèle» François Patriat, Emmanuel Macron tacle ceux qui veulent faire «l’inventaire»",
+      "dek": "REPORTAGE - La cérémonie en hommage à ce grognard du chef de l’État a largement rassemblé les troupes historiques de la macronie, alors que le camp présidentiel se disloque à l’approche de 2027.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/aux-obseques-du-fidele-francois-patriat-emmanuel-macron-tacle-ceux-qui-veulent-faire-l-inventaire-20260825"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T13:30:09+00:00",
+      "titre": "Pourquoi le gouvernement veut exclure certains fonds du PEA",
+      "dek": "Le ministère des finances pourrait profiter du budget 2027 pour suspendre l’éligibilité de certains ETF, des fonds indiciels cotés, au plan d’épargne en actions. Des fonds auxquels on reproche de contourner les règles du dispositif.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/argent/article/2026/08/25/pourquoi-le-gouvernement-veut-exclure-certains-fonds-du-pea_6756588_1657007.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T13:02:45+00:00",
+      "titre": "Face à la sécheresse, le président de la région Grand Est réclame \"un plan européen massif\" pour l'agriculture",
+      "dek": "Après un été marqué par des canicules à répétition et d'importantes pertes agricoles, Franck Leroy appelle Bruxelles à débloquer des aides d'urgence et à préparer les exploitations aux effets du changement climatique.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/face-a-la-secheresse-le-president-de-la-region-grand-est-reclame-un-plan-europeen-massif-pour-l-agriculture_8160908.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T12:51:33+00:00",
+      "titre": "Raphaël Glucksmann promet une « révolution écologique » en cent jours s’il est élu président de la République",
+      "dek": "Pour son premier déplacement de campagne, le cofondateur du parti Place publique a choisi le thème de l’éolien. Aux côtés du sénateur Yannick Jadot, il a promis d’engager, dès sa victoire, cent jours de transformation pour « libérer la France » de « son addiction au gaz et au pét…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/25/raphael-glucksmann-promet-une-revolution-ecologique-en-cent-jours-s-il-est-elu-president-de-la-republique_6756579_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T12:12:12+00:00",
+      "titre": "Rémunération, promesse d'autorité… L'école se retrouve au cœur de la campagne présidentielle",
+      "dek": "Les deux anciens Premiers ministres, Édouard Philippe et Gabriel Attal, ont récemment proposé plusieurs mesures pour l'école et les enseignants.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/education/remuneration-promesse-d-autorite-l-ecole-se-retrouve-au-c-ur-de-la-campagne-presidentielle_8160707.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T12:00:06+00:00",
+      "titre": "Présidentielle 2027 : le bilan d’Emmanuel Macron, un lourd héritage à porter pour Gabriel Attal et Edouard Philippe",
+      "dek": "Si l’ancien secrétaire général de l’Elysée, Alexis Kohler, s’est exprimé pour défendre le chef de l’Etat, les candidats issus du bloc central critiquent sa pratique du pouvoir tout en essayant de ne pas froisser son électorat.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/25/presidentielle-2027-le-bilan-d-emmanuel-macron-un-lourd-heritage-a-porter-pour-gabriel-attal-et-edouard-philippe_6756575_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T10:32:21+00:00",
+      "titre": "Aux obsèques de François Patriat, Emmanuel Macron célèbre un homme « entier », « dans des temps où beaucoup pensent que l’inventaire vaut mieux que d’assumer bravement »",
+      "dek": "« Là où beaucoup pensent que l’esprit de défaite a déjà gagné, lui, il se battait », a notamment dit le président de la République, en hommage à l’ancien président du groupe macroniste au Sénat, à Semur-en-Auxois (Côte-d’Or), mort le 19 août.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/25/aux-obseques-de-francois-patriat-emmanuel-macron-celebre-un-homme-entier-dans-des-temps-ou-beaucoup-pensent-que-l-inventaire-vaut-mieux-que-d-assumer-bravement_6756571_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T10:30:32+00:00",
+      "titre": "David Lisnard, candidat à la présidentielle, relance l'idée d'une primaire ouverte de la droite et du centre pour 2027",
+      "dek": "Le maire de Cannes, qui estime qu'\"aucun candidat naturel ne s'impose\", appelle ses concurrents à regarder la situation \"avec lucidité\" et à \"éviter la division qui fait perdre les élections\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/david-lisnard-relance-l-idee-d-une-primaire-ouverte-de-la-droite-et-du-centre-pour-la-presidentielle_8160758.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -429,127 +550,6 @@
       "dek": "Le Parquet national financier a ouvert une enquête visant Bally Bagayoko, maire La France insoumise (LFI) de Saint-Denis, notamment pour détournement de fonds publics, après une plainte concernant le cumul de son emploi à la RATP et de ses fonctions d'élu.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/le-maire-lfi-de-saint-denis-bally-bagayoko-vise-par-une-enquete-pour-detournement-de-fonds-publics_8159837.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T15:46:57+00:00",
-      "titre": "Pour la rentrée, Jean-Luc Mélenchon veut aspirer la gauche et vite passer à la suite",
-      "dek": "Les insoumis veulent inonder idéologiquement la campagne, engagent un bras de fer contre les candidats de droite et rêvent d’un ralliement pur et simple des écolos.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=500926"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T15:44:50+00:00",
-      "titre": "Bally Bagayoko, maire de Saint-Denis, visé par une enquête pour détournement de fonds publics concernant son emploi à la RATP",
-      "dek": "Cette enquête préliminaire vise à « procéder aux vérifications utiles concernant les conditions d’emploi » de M. Bagayoko à la régie des transports parisiens, selon le Parquet national financier.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/08/24/bally-bagayoko-maire-de-saint-denis-vise-par-une-enquete-pour-detournement-de-fonds-publics-concernant-son-emploi-a-la-ratp_6755547_3224.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T15:31:41+00:00",
-      "titre": "Mohammed ben Salmane en France: «Lui dérouler le tapis rouge, c’est donner une prime à l’impunité»",
-      "dek": "Alors qu’Emmanuel Macron reçoit pendant deux jours le prince héritier saoudien, Reporters sans frontières se dit choqué par cet accueil dans un entretien à «Mediapart». L’association demande au président d’agir pour que le dossier judiciaire sur l’assassinat du journaliste Jamal …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/240826/mohammed-ben-salmane-en-france-lui-derouler-le-tapis-rouge-c-est-donner-une-prime-l-impunite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T15:30:02+00:00",
-      "titre": "\"Le changement, c'est maintenant\" : le slogan de l'élection de François Hollande en 2012",
-      "dek": "Cet été, Fabrice d'Almeida sonde les slogans des élections présidentielles sous la Ve République. De quoi se rafraîchir la mémoire avant l'élection de 2027. Aujourd'hui, retour sur les élections de 2012 avec slogan de François Hollande : \"Le changement, c'est maintenant\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/le-changement-c-est-maintenant-le-slogan-de-l-election-de-francois-hollande-en-2012_8074910.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T15:00:00+00:00",
-      "titre": "Sortir de la zone de confort",
-      "dek": "À huit mois de la présidentielle, l’extrême droite n’a jamais semblé aussi proche du pouvoir. Face à cette perspective, il ne suffit plus de se retrouver entre convaincus. Il faut sortir de nos cercles, entendre les colères et renouer avec le dialogue.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=500891"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T14:50:17+00:00",
-      "titre": "Incendies, sécheresse, canicules… Comment la question de l’eau s’invite dans la campagne présidentielle",
-      "dek": "Alors que de nombreuses régions de France ont été ravagées par des feux intenses, et que les sols sont arides dans toute l’Europe, la gestion de l’eau préoccupe le gouvernement et les candidats pour 2027. Et pas qu’à gauche.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/incendies-secheresse-canicules-comment-la-question-de-leau-sinvite-dans-la-campagne-presidentielle-20260811_UHPFPQTKJNDHXGAFJXFN6JAQGQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T14:48:42+00:00",
-      "titre": "Les dates clés du calendrier parlementaire pour le projet de loi de finance 2027",
-      "dek": "À compter du 12 octobre, date d'ouverture des discussions autour des textes budgétaires, le gouvernement disposera de cinq semaines pour adopter un projet de loi de finance 2027 convenable. Reste à savoir si les délais seront respectés.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/les-dates-cles-du-calendrier-parlementaire-pour-le-projet-de-loi-de-finance-2027_8159534.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T14:43:01+00:00",
-      "titre": "Le plafond des franchises médicales finalement fixé à 140 euros par an dans le projet de décret, contre 100 euros actuellement",
-      "dek": "Le gouvernement, qui avait projeté de doubler à 200 euros le plafond des franchises médicales, va finalement le porter à 140 euros. Les assurés vont payer en moyenne 10 euros de plus par an, a indiqué lundi, la ministre de la Santé, invitée de franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/sante/le-plafond-des-franchises-medicales-finalement-fixe-a-140-euros-par-an-contre-100-euros-actuellement_8159756.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T14:30:08+00:00",
-      "titre": "Budget 2027 : le gouvernement prêt à reconduire une deuxième fois la taxe « exceptionnelle » sur les grandes entreprises",
-      "dek": "Prévue pour ne durer qu’un an en 2025, reconduite en 2026, cette contribution devrait figurer au prochain budget. Roland Lescure, ministre de l’économie et des finances, a même reconnu, lundi 24 août, sur RMC et BFM-TV, que sa diminution était loin d’être acquise.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/budget-2027-le-gouvernement-pret-a-reconduire-une-deuxieme-fois-la-taxe-exceptionnelle-sur-les-grandes-entreprises_6755474_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T13:52:26+00:00",
-      "titre": "Franchises médicales : le gouvernement veut porter le plafond à 140 euros par l’adoption d’un décret, après avoir renoncé à le doubler",
-      "dek": "Le 20 août, la ministre de la santé, Stéphanie Rist, avait annoncé que le gouvernement ne doublerait pas le montant, actuellement de 100 euros. Selon l’exécutif, le nouveau plafond correspond à la prise en compte de l’inflation depuis 2005.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/franchises-medicales-le-gouvernement-veut-porter-le-plafond-a-140-euros-par-l-adoption-d-un-decret-apres-avoir-renonce-a-le-doubler_6755438_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T13:41:20+00:00",
-      "titre": "Deux tours, cotisation de 15 euros, quatre candidats… Une primaire sociale-démocrate pour départager le PS et Place publique",
-      "dek": "Le leader de Place publique, Raphaël Glucksmann, est officiellement candidat à la présidentielle. Il précise qu'il participera à la primaire organisée avec les socialistes.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/deux-tours-cotisation-de-15-euros-quatre-candidats-une-primaire-sociale-democrate-pour-departager-le-ps-et-place-publique_8159525.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
