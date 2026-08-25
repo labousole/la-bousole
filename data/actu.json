@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-24T21:04:47+00:00",
+  "generated_at": "2026-08-25T03:15:40+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T21:58:03+00:00",
+      "titre": "Budget 2027 : \"Tous devront faire des efforts\" face à l'\"urgence\" de réduire les déficits, prévient le ministre des Comptes publics",
+      "dek": "Parmi les pistes du gouvernement, figure l'idée d'une moindre revalorisation des pensions de retraite pour les plus aisés.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/direct-budget-2027-le-gouvernement-travaille-a-une-reconduction-des-aides-pour-les-secteurs-les-plus-exposes-a-la-hausse-des-prix-du-carburant_8159252.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T21:23:21+00:00",
+      "titre": "Présidentielle 2027 : Les Écologistes plus divisés que jamais",
+      "dek": "Au lendemain de l'annonce de la candidature de Raphaël Glucksmann, Les Écologistes paraissent plus que jamais divisés. Yannick Jadot a indiqué qu'il le soutiendrait \"sans hésitation\". De son côté, Sandrine Rousseau refuse catégoriquement cette option et penche plutôt pour un sout…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/presidentielle-2027-les-ecologistes-plus-divises-que-jamais_8160104.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -17,7 +39,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T20:07:29+00:00",
+      "date_iso": "2026-08-24T20:07:27+00:00",
       "titre": "Présidentielle 2027 : Edouard Philippe veut augmenter de 20 % la rémunération moyenne des enseignants sur un quinquennat",
       "dek": "L’ancien premier ministre et candidat Horizons à l’élection présidentielle souhaite par ailleurs instaurer une « amende de responsabilisation scolaire, sur le modèle de ce qui existe au Royaume-Uni », pour les « parents d’enfants harceleurs, perturbateurs ou absentéistes et les p…",
       "avis": null,
@@ -528,28 +550,6 @@
       "dek": "Le député Place publique Aurélien Rousseau appelle la gauche sociale-démocrate à ne pas être \"sous emprise politique\" de La France insoumise.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-aurelien-rousseau-veut-transformer-en-force-la-dynamique-autour-de-raphael-glucksmann-sans-avoir-peur-de-jean-luc-melenchon_8159309.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T08:19:01+00:00",
-      "titre": "Raphaël Glucksmann candidat à la présidentielle, budget... Le \"8h30 franceinfo\" d'Aurélien Rousseau",
-      "dek": "Le député Place Publique des Yvelines et ancien ministre de la Santé était l'invité du \"8h30 franceinfo\", lundi 24 août 2026.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/raphael-glucksmann-candidat-a-la-presidentielle-budget-le-8h30-franceinfo-d-aurelien-rousseau_8074541.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T07:29:44+00:00",
-      "titre": "Présidentielle 2027 : Yannick Jadot confirme son soutien à Raphaël Glucksmann",
-      "dek": "Invité au micro de France Inter, le sénateur écologiste Yannick Jadot a officialisé son soutien à la candidature de Raphaël Glucksmann pour l’élection présidentielle de 2027. L'ex candidat à la présidence, en 2022, sera chargé de « la mise en place d’un état d’urgence écologique …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/election-presidentielle/presidentielle-2027-yannick-jadot-confirme-son-soutien-a-raphael-glucksmann"
     }
   ]
 }
