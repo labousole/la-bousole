@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-08-25T03:15:40+00:00",
+  "generated_at": "2026-08-25T05:48:44+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T04:30:00+00:00",
+      "titre": "Une responsable de la CFDT écrit à Laurent Nuñez pour élargir la loi « permis de tuer » aux policiers municipaux",
+      "dek": "Deux semaines après le vote de la loi «&nbsp;permis de tuer&nbsp;», la secrétaire générale de la fédération Interco de la CFDT a pris la plume pour suggérer à Laurent Nuñez d’élargir la présomption de légitime défense aux policiers municipaux. Une position qui tranche radicalemen…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/cfdt/une-responsable-de-la-cfdt-ecrit-a-laurent-nunez-pour-elargir-la-loi-permis-de-tuer-aux-policiers-municipaux"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T04:00:06+00:00",
+      "titre": "David Lisnard : pour la présidentielle 2027, « sans une grande primaire ouverte à tous, la droite et le centre ne seront pas en mesure de l’emporter »",
+      "dek": "Pour éviter la division, la compromission programmatique et la multiplication des candidatures, le maire de Cannes, ex-LR et candidat à la présidentielle, appelle, dans une tribune au « Monde », ses concurrents de la droite et du centre à accepter l’organisation d’une primaire.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/08/25/david-lisnard-pour-la-presidentielle-2027-sans-une-grande-primaire-ouverte-a-tous-la-droite-et-le-centre-ne-seront-pas-en-mesure-de-l-emporter_6756156_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T04:00:02+00:00",
+      "titre": "Gabriel Attal : « Je souhaite une loi de programmation pour l’école et un ministre de l’éducation qui restera en poste cinq ans »",
+      "dek": "Rétablissement du certificat d’études, fermeture de collèges ghettos, augmentations salariales… A quelques jours de la rentrée des classes, le candidat de Renaissance à la présidentielle dévoile ses mesures pour l’éducation, dans un entretien au « Monde ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/08/25/gabriel-attal-je-souhaite-une-loi-de-programmation-pour-l-ecole-et-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans_6756157_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T03:58:30+00:00",
+      "titre": "\"Il doit nous donner envie\" : comment les élus socialistes accueillent-ils la candidature à la présidentielle de Raphaël Glucksmann ?",
+      "dek": "Le candidat de Place publique se rendra aux universités d'été du PS à Blois en fin de semaine, avec l'objectif de convaincre une majorité de militants de voter pour lui lors de la primaire.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/il-doit-nous-donner-envie-comment-les-elus-socialistes-accueillent-ils-la-candidature-a-la-presidentielle-de-raphael-glucksmann_8159336.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -506,50 +550,6 @@
       "dek": "Même s’il demeure des divergences profondes sur certains sujets, comme celui du nucléaire, toutes les formations de gauche considèrent, à raison, ce sujet comme une urgence.",
       "avis": null,
       "lien": "https://www.lemonde.fr/idees/article/2026/08/24/presidentielle-2027-la-transition-ecologique-combat-commun-de-la-gauche_6755229_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T09:29:50+00:00",
-      "titre": "Léa Salamé annonce son retrait de la présentation du \"20 heures\" de France 2",
-      "dek": "Une décision \"évidente et difficile\" pour Léa Salamé. La journaliste se retire de la présentation du \"20 heures\" de France 2, après l'annonce de la candidature à la présidentielle de son compagnon, Raphaël Glucksmann.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/lea-salame-annonce-son-retrait-de-la-presentation-du-20-heures-de-france-2_8159417.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T09:28:22+00:00",
-      "titre": "Présidentielle 2027 : \"Le premier enjeu de Raphaël Glucksmann, c'est d'abord de convaincre les militants socialistes\", indique Bruno Cautrès, politologue",
-      "dek": "Bruno Cautrès, politologue, chercheur au CEVIPOF et enseignant à Sciences Po était l’invité de La Matinale, sur franceinfo lundi 24 août.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/presidentielle-2027-le-premier-enjeu-de-raphael-glucksmann-c-est-d-abord-de-convaincre-les-militants-socialistes-indique-bruno-cautres-politologue_8159303.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T09:24:29+00:00",
-      "titre": "Carburant : le gouvernement « travaille à une reconduction » des aides et du chèque énergie",
-      "dek": "Les aides, destinées aux travailleurs modestes grands rouleurs et aux secteurs d’activité les plus exposés (agriculteurs, pêcheurs, BTP, transporteurs) à la hausse des prix liée au conflit au Moyen-Orient, expirent le 31 août.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/le-gouvernement-travaille-a-une-reconduction-des-aides-au-carburant-et-du-cheque-energie_6755228_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T08:20:17+00:00",
-      "titre": "Présidentielle : Aurélien Rousseau veut transformer en \"force\" la dynamique autour de Raphaël Glucksmann, sans \"avoir peur\" de Jean-Luc Mélenchon",
-      "dek": "Le député Place publique Aurélien Rousseau appelle la gauche sociale-démocrate à ne pas être \"sous emprise politique\" de La France insoumise.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-aurelien-rousseau-veut-transformer-en-force-la-dynamique-autour-de-raphael-glucksmann-sans-avoir-peur-de-jean-luc-melenchon_8159309.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
