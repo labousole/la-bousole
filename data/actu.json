@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-08-25T05:48:44+00:00",
+  "generated_at": "2026-08-25T09:55:15+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T09:27:36+00:00",
+      "titre": "Présidentielle 2027 : qui sont les candidats déclarés à la primaire sociale-démocrate ?",
+      "dek": "Le Parti socialiste et Place publique doivent valider ce mardi 25 août les modalités du scrutin, réservé aux adhérents des deux partis de gauche, et qui doit se tenir en octobre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-qui-sont-les-candidats-declares-a-la-primaire-sociale-democrate-20260825_QQADNI5M5RAV5JAXOHILWCS5OA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T08:53:28+00:00",
+      "titre": "Non, «Libération» n’a pas supprimé de commentaire de Rima Hassan sur Instagram",
+      "dek": "Alors que l’eurodéputée insoumise avait accusé publiquement notre journal de «censure» et de «mensonge», Meta a reconnu que son système de modération automatisé avait masqué «par erreur» un de ses commentaires.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/checknews/non-liberation-na-pas-supprime-de-commentaire-de-rima-hassan-sur-instagram-20260825_GERDURYNPJCBJB56D4THSTDCJU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T08:31:33+00:00",
+      "titre": "Groupes de niveau, uniforme, pacte enseignant… Gabriel Attal, le grand pschitt de l’éducation",
+      "dek": "Le candidat à la présidentielle fut un furtif mais hyperactif ministre de l’Education nationale. Alors qu’il place l’école comme l’une de ses priorités, passage en revue de ses réformes qui se sont dégonflées.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/societe/education/groupes-de-niveau-uniforme-pacte-enseignant-gabriel-attal-le-grand-pschitt-de-leducation-20260825_4O4OZCKYGJC3TJGOTYMSR4GD6Q/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T08:12:20+00:00",
+      "titre": "Arabie saoudite, budget, programme économique du RN... Le \"8h30 franceinfo\" d'Aleksandar Nikolic",
+      "dek": "Le député européen et porte-parole du Rassemblement national était l'invité du \"8h30 franceinfo\", mardi 25 août 2026.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/arabie-saoudite-budget-programme-economique-du-rn-le-8h30-franceinfo-d-aleksandar-nikolic_8076371.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T08:02:08+00:00",
+      "titre": "Parcs d’attractions à Cergy-Pontoise : Florence Portelli, présidente déléguée LR de la région Île-de-France, salue \"une chance extraordinaire\" pour le Val-d’Oise",
+      "dek": "Emmanuel Macron a reçu le prince héritier saoudien pour une visite consacrée aux crises du Moyen-Orient et aussi au rapprochement économique, avec un projet \"colossal\" financé par Riyad pour créer trois parcs d'attractions près de Paris.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/parcs-d-attractions-a-cergy-pontoise-florence-portelli-presidente-deleguee-lr-de-la-region-ile-de-france-salue-une-chance-extraordinaire-pour-le-val-d-oise_8160533.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T07:16:16+00:00",
+      "titre": "« Au terme d’un été marqué par les canicules répétées et les incendies ravageurs, la prise de conscience est encore faible et l’impréparation totale »",
+      "dek": "Judith Rainhorn, spécialiste de l’histoire environnementale, déplore, dans une tribune au « Monde », l’incapacité des responsables politiques à faire face à l’urgence climatique et appelle à « politiser les désastres ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/08/25/au-terme-d-un-ete-marque-par-les-canicules-repetees-et-les-incendies-ravageurs-la-prise-de-conscience-est-encore-faible-et-l-impreparation-totale_6756364_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T06:51:30+00:00",
+      "titre": "Emmanuel Macron et le prince saoudien Mohammed Ben Salmane signent un accord pour créer trois parcs d'attractions aux portes de Paris",
+      "dek": "Lundi 24 août, la France et l'Arabie saoudite ont signé un accord pour un investissement de 6 milliards d'euros, avec à la clé 22 000 emplois potentiels dans le Val-d'Oise, où doivent être construits trois parcs d'attractions.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/france/ile-de-france/val-d-oise/emmanuel-macron-et-le-prince-saoudien-mohammed-ben-salmane-signent-un-accord-pour-creer-trois-parcs-d-attractions-aux-portes-de-paris_8160491.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T06:44:54+00:00",
+      "titre": "EDITO. Budget, déficit et présidentielle : l'échec du macronisme et des \"raisonnables\" ?",
+      "dek": "Le macronisme était censé incarner le camp de la rationalité économique et de la crédibilité européenne. Mais avec le creusement de la dette, ce sont les extrêmes qui sortent renforcés.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-budget-deficit-et-presidentielle-l-echec-du-macronisme-et-des-raisonnables_8076317.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T06:44:17+00:00",
+      "titre": "Aude: un village quasiment détruit par une tornade",
+      "dek": "La tornade qui a touché l’Aude lundi après-midi a provoqué d’énormes dégâts dans le village de Pomas, où 41 personnes ont été blessées, dont 15 sont hospitalisées, et 300 maisons endommagées.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/250826/aude-un-village-quasiment-detruit-par-une-tornade"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T06:21:25+00:00",
+      "titre": "Budget 2027 : l'éternel débat autour de l'indexation des retraites",
+      "dek": "Le budget 2027 est déjà au centre des débats de la pré-rentrée, avec la confirmation de Roland Lescure, lundi, de suivre la piste d'une désindexation partielle des retraites l'an prochain. Mais qui serait concerné ?",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/budget-2027-l-eternel-debat-autour-de-l-indexation-des-retraites_8134154.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T06:16:54+00:00",
+      "titre": "Les feux de forêt, un puissant carburant pour les complotistes et l’extrême droite",
+      "dek": "En parallèle des débats sur la responsabilité des autorités ou sur le lien avec le dérèglement climatique, les feux de forêt de cet été ont suscité de nombreuses théories complotistes. Entre discours antisystème et propos racistes, elles ont tout pour faire le jeu de l’extrême dr…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/250826/les-feux-de-foret-un-puissant-carburant-pour-les-complotistes-et-l-extreme-droite"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T06:03:31+00:00",
+      "titre": "\"Une Union qui prend la responsabilité de sa défense\" : les alliés de l'Ukraine affichent leur solidarité",
+      "dek": "Le nouveau Premier ministre britannique, Andy Burnham, a choisi l'Ukraine pour son premier déplacement à l'étranger. Avec Emmanuel Macron et une trentaine de dirigeants de la coalition des volontaires, il a promis de renforcer le soutien militaire à Kiev.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-union-qui-prend-la-responsabilite-de-sa-defense-les-allies-de-l-ukraine-affichent-leur-solidarite_8160437.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -30,9 +162,20 @@
       "date": "25 Aug 2026",
       "date_iso": "2026-08-25T04:00:02+00:00",
       "titre": "Gabriel Attal : « Je souhaite une loi de programmation pour l’école et un ministre de l’éducation qui restera en poste cinq ans »",
-      "dek": "Rétablissement du certificat d’études, fermeture de collèges ghettos, augmentations salariales… A quelques jours de la rentrée des classes, le candidat de Renaissance à la présidentielle dévoile ses mesures pour l’éducation, dans un entretien au « Monde ».",
+      "dek": "Rétablissement du certificat d’études, fermeture de « collèges ghettos », augmentations salariales… A quelques jours de la rentrée des classes, le candidat de Renaissance à la présidentielle dévoile ses mesures pour l’éducation, dans un entretien au « Monde ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/article/2026/08/25/gabriel-attal-je-souhaite-une-loi-de-programmation-pour-l-ecole-et-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans_6756157_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T04:00:02+00:00",
+      "titre": "David Lisnard, président du parti Nouvelle Energie : « Sans une grande primaire ouverte à tous, la droite et le centre ne seront pas en mesure de l’emporter »",
+      "dek": "Pour éviter la division, la compromission programmatique et la multiplication des candidatures, le maire de Cannes, ex-LR et candidat à la présidentielle, appelle, dans une tribune au « Monde », ses concurrents de la droite et du centre à accepter l’organisation d’une primaire.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/08/25/david-lisnard-pour-la-presidentielle-2027-sans-une-grande-primaire-ouverte-a-tous-la-droite-et-le-centre-ne-seront-pas-en-mesure-de-l-emporter_6756156_3232.html"
     },
     {
       "tag": "Politique",
@@ -77,6 +220,17 @@
       "dek": "Parmi les pistes du gouvernement, figure l'idée d'une moindre revalorisation des pensions de retraite pour les plus aisés.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/direct-budget-2027-le-gouvernement-travaille-a-une-reconduction-des-aides-pour-les-secteurs-les-plus-exposes-a-la-hausse-des-prix-du-carburant_8159252.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "24 Aug 2026",
+      "date_iso": "2026-08-24T20:07:27+00:00",
+      "titre": "Présidentielle 2027 : Edouard Philippe veut augmenter de « 20 % la rémunération moyenne des enseignants » sur un quinquennat",
+      "dek": "L’ancien premier ministre et candidat Horizons à l’élection présidentielle souhaite par ailleurs instaurer une « amende de responsabilisation scolaire, sur le modèle de ce qui existe au Royaume-Uni », pour les « parents d’enfants harceleurs, perturbateurs ou absentéistes et les p…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/24/presidentielle-2027-edouard-philippe-veut-augmenter-de-20-la-remuneration-moyenne-des-enseignants-sur-un-quinquennat_6755790_6205049.html"
     },
     {
       "tag": "Politique",
@@ -204,7 +358,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T16:43:57+00:00",
+      "date_iso": "2026-08-24T16:43:55+00:00",
       "titre": "Présidentielle 2027 : L’Après saisit la main tendue de l’écologiste Marine Tondelier pour une union de la gauche",
       "dek": "La secrétaire nationale des Ecologistes avait de nouveau appelé vendredi à des rencontres bilatérales avec les partis de gauche. Si le parti des ex-élus de La France insoumise a répondu favorablement, la formation mélenchoniste a rejeté la proposition.",
       "avis": null,
@@ -396,160 +550,6 @@
       "dek": "Le leader de Place publique, Raphaël Glucksmann, est officiellement candidat à la présidentielle. Il précise qu'il participera à la primaire organisée avec les socialistes.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/ps/primaire-socialiste/deux-tours-cotisation-de-15-euros-quatre-candidats-une-primaire-sociale-democrate-pour-departager-le-ps-et-place-publique_8159525.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T13:04:14+00:00",
-      "titre": "Éducation à la sexualité: à Montpellier, des écoles en demande se heurtent à l’intransigeance du rectorat",
-      "dek": "Les interventions d’associations pour assurer les programmes d’éducation à la vie affective et relationnelle dans le premier degré ont été interdites. Pour s’être formés sur leur temps libre, des enseignants d’une école rurale ont même été rappelés à l’ordre. Des parents d’élèves…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/240826/education-la-sexualite-montpellier-des-ecoles-en-demande-se-heurtent-l-intransigeance-du-rectorat"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T12:58:11+00:00",
-      "titre": "Le Canada se rebelle contre le diktat commercial de Donald Trump",
-      "dek": "Ottawa a décidé de rompre les discussions avec Washington, au motif que «les États-Unis ont demandé trop et offert trop peu». Alors qu’une nouvelle escalade est à prévoir entre les deux voisins, le premier ministre canadien, Mark Carney, en fait un test de souveraineté.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/240826/le-canada-se-rebelle-contre-le-diktat-commercial-de-donald-trump"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T12:43:10+00:00",
-      "titre": "La région Paca passe un marché allant jusqu’à 2,5 millions d’euros avec des «influenceurs»",
-      "dek": "Malgré un budget présenté comme contraint, la région Provence-Alpes-Côte d’Azur fait le choix de s’associer avec trois «agences d’influence» pour vanter son action sur les réseaux. L’enveloppe annuelle est de 625 000 euros et pourra être renouvelée trois fois.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/240826/la-region-paca-passe-un-marche-allant-jusqu-25-millions-d-euros-avec-des-influenceurs"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T12:15:53+00:00",
-      "titre": "Présidentielle 2027 : vous aussi, portez-vous « officiellement candidat »",
-      "dek": "L’annonce de la candidature de Francis Lalanne à la présidentielle pose une question aux médias : comment traiter les candidatures plus ou moins susceptibles d’aboutir « officiellement », c’est-à-dire avec la possibilité de voter pour la personne concernée ?",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=500857"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T12:09:28+00:00",
-      "titre": "Raphaël Glucksmann, Ségolène Royal... Qui sont (à ce stade) les candidats à la primaire socialiste pour la présidentielle 2027 ?",
-      "dek": "Le cofondateur de Place publique a officialisé dimanche sa participation. Il n'est pas le seul sur la ligne de départ, tandis que d'autres, à gauche, ne souhaitent pas prendre part à ce scrutin.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-segolene-royal-qui-sont-a-ce-stade-les-candidats-a-la-primaire-socialiste-pour-la-presidentielle-2027_8159171.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T11:52:47+00:00",
-      "titre": "Présidentielle 2027 : se rallier à Jean-Luc Mélenchon ou Raphaël Glucksmann, \"c'est acter les gauches irréconciliables\", souligne l'écologiste David Cormand",
-      "dek": "\"Accepter les gauches irréconciliables, c'est garantir la victoire des autres\", estime aussi l'eurodéputé écologiste David Cormand.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-se-rallier-a-jean-luc-melenchon-ou-raphael-glucksmann-c-est-acter-les-gauches-irreconciliables-souligne-l-ecologiste-david-cormand_8159594.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T11:31:35+00:00",
-      "titre": "Rentrée politique de la gauche : le bilan des universités d’été",
-      "dek": "Les universités d’été sont toujours des moments de conscientisation et de préparation aux luttes à venir. Encore plus après un été incendiaire et avant une élection en 2027 de tous les dangers. D’une même voix, communistes, insoumis et écologistes ont appelé ce week-end à rompre …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/gauche/rentree-politique-de-la-gauche-le-bilan-des-universites-dete"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T11:09:07+00:00",
-      "titre": "Budget, canicules, cyberattaques… Sébastien Lecornu va organiser un séminaire gouvernemental dans une rentrée agitée",
-      "dek": "Le Premier ministre convoquera ses ministres le 31 août afin de poursuivre la préparation du prochain budget et de se montrer actifs sur les sujets qui ont agité l’été.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/budget-canicules-cyberattaques-sebastien-lecornu-va-organiser-un-seminaire-gouvernemental-dans-une-rentree-agitee-20260824_GCQKLYBPINCHBED4BX5YTZGTJU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T10:58:33+00:00",
-      "titre": "«Le débat peut commencer entre plusieurs lignes politiques» : la candidature de Raphaël Glucksmann lance la primaire",
-      "dek": "L’annonce du président de Place publique a fait réagir ses adversaires directs  au sein de l’espace social-démocrate, qui demandent désormais l’éclaircissement des positions de chacun par le débat.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/le-debat-peut-commencer-entre-plusieurs-lignes-politiques-la-candidature-de-raphael-glucksmann-lance-la-primaire-20260824_VSTLPOOKFJEOBOS5LAJDOC5S2Q/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T10:43:54+00:00",
-      "titre": "Budget 2027 : le gouvernement promet « beaucoup de rigueur » et appelle à un effort partagé",
-      "dek": "Réunis lundi à l’Elysée pour le premier conseil des ministres de la rentrée, les membres du gouvernement ont engagé la préparation du budget 2027, avec l’objectif affiché de réduire le déficit.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/24/budget-2027-le-gouvernement-veut-ouvrir-le-debat-a-une-contribution-raisonnable-des-retraites_6755332_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T09:52:18+00:00",
-      "titre": "Propos de Jean-Luc Mélenchon sur les préfets : l'association du corps préfectoral apporte son \"plein soutien\" aux préfets",
-      "dek": "Les préfets doivent cesser \"de faire des procès aux députés Insoumis\", avait lancé Jean-Luc Mélenchon, lors des universités d'été de LFI.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/melenchon/propos-de-jean-luc-melenchon-sur-les-prefets-l-association-du-corps-prefectoral-apporte-son-plein-soutien-aux-prefets_8159432.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T09:41:30+00:00",
-      "titre": "Les Pays-Bas absents de la prochaine édition de l'Eurovision jugeant le concours pas assez \"neutre\"",
-      "dek": "L'édition 2027 du concours européen de la chanson se déboulera le 15 mai en Bulgarie, suite à la victoire cette année de la chanteuse bulgare Darina Yotova,",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/culture/musique/les-pays-bas-absents-de-la-prochaine-edition-de-l-eurovision-jugeant-le-concours-pas-assez-neutre_8159360.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T09:35:43+00:00",
-      "titre": "Marseille : l’élu d’extrême droite Antoine Baudino poursuivi en diffamation pour avoir surnommé une association « Addap DZ »",
-      "dek": "Addap 13 a déposé plainte pour diffamation contre l’élu d’extrême droite Antoine Baudino, qui a qualifié l’association d'« Addap DZ », lors d’un conseil municipal en avril dernier, annonce Marsactu. Une première audience au tribunal est prévue pour le 1er septembre prochain.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/algerie/marseille-lelu-dextreme-droite-antoine-baudino-poursuivi-en-diffamation-pour-avoir-surnomme-une-association-addap-dz"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "24 Aug 2026",
-      "date_iso": "2026-08-24T09:30:06+00:00",
-      "titre": "Présidentielle 2027 : la transition écologique, combat commun de la gauche",
-      "dek": "Même s’il demeure des divergences profondes sur certains sujets, comme celui du nucléaire, toutes les formations de gauche considèrent, à raison, ce sujet comme une urgence.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/08/24/presidentielle-2027-la-transition-ecologique-combat-commun-de-la-gauche_6755229_3232.html"
     }
   ]
 }
