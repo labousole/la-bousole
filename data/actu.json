@@ -1,13 +1,68 @@
 {
-  "generated_at": "2026-08-26T03:34:42+00:00",
+  "generated_at": "2026-08-26T05:20:18+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T04:35:22+00:00",
+      "titre": "Sébastien Lecornu à Mayotte : \"On doit donner de l'espérance à une population dans la souffrance\", plaide le maire de Mamoudzou",
+      "dek": "Plus d'un an et demi après le passage du cyclone Chido, le Premier ministre se rend à Mayotte pour faire avancer les projets de reconstruction, mais sans argent supplémentaire.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/france/mayotte/sebastien-lecornu-a-mayotte-on-doit-donner-de-l-esperance-a-une-population-dans-la-souffrance-plaide-le-maire-de-mamoudzou_8161784.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T04:30:00+00:00",
+      "titre": "Infographies : le Sénat est-il vraiment une assemblée non représentative ?",
+      "dek": "La chambre haute du parlement français souffre de plusieurs incohérences démocratiques. Rarement réformé, ce système représentatif particulier pose question à un mois du renouvellement de la moitié de l’hémicycle du palais du Luxembourg.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/droite/infographies-le-senat-est-il-vraiment-une-assemblee-non-representative"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T04:19:00+00:00",
+      "titre": "Présidentielle 2027 : le dérèglement politique engendre le politico-scepticisme, par Denis Pingaud",
+      "dek": "Durant la trêve estivale, la déraison ambiante qui caractérise la course vers 2027 a donné lieu à un florilège de propositions aussi surprenantes qu’inapplicables et de postures aussi inattendues qu’incompréhensibles, relève le politiste.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/presidentielle-2027-le-dereglement-politique-engendre-le-politico-scepticisme-par-denis-pingaud-20260826_F3SKMA62MND6FC6LX7QMIU75N4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T04:09:00+00:00",
+      "titre": "Entre Gabriel Attal et Edouard Philippe, la surenchère droitière",
+      "dek": "A huit mois de l’élection suprême, alors que le candidat Renaissance croit pouvoir rattraper son rival Horizons, les deux héritiers du chef de l’Etat multiplient les propositions, à droite toute, sur l’immigration ou l’éducation.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/entre-gabriel-attal-et-edouard-philippe-la-surenchere-droitiere-20260826_YSENIDOJXFHT5KLPMRQEKNSHSE/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T04:06:34+00:00",
+      "titre": "Le PS et Place publique se mettent d’accord sur les modalités de leur primaire",
+      "dek": "La primaire de la gauche socialiste et démocratique, qui se tiendra en octobre, sera ouverte à de nouveaux adhérents via une structure ad hoc, avec un tarif d’inscription de 15 euros.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/26/le-ps-et-place-publique-ratifient-se-mettent-d-accord-sur-les-modalites-de-leur-primaire_6756875_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "26 Aug 2026",
       "date_iso": "2026-08-26T03:31:33+00:00",
-      "titre": "Raphaël Glucksmann : « J’invite Les Ecologistes à faire campagne, avec nous, à la présidentielle » »",
+      "titre": "Raphaël Glucksmann : « J’invite Les Ecologistes à faire campagne, avec nous, à la présidentielle »",
       "dek": "Le candidat à la présidentielle de 2027 revient dans un entretien au « Monde » sur la « République écologique » qu’il propose et les raisons qui devraient inciter Les Ecologistes à le rejoindre. Il souhaite aussi taxer les « méga-héritages » pour financer une augmentation des sal…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/26/raphael-glucksmann-l-europe-est-cruciale-pour-mener-a-bien-la-transformation-ecologique_6756834_823448.html"
@@ -17,7 +72,7 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T03:30:12+00:00",
+      "date_iso": "2026-08-26T03:30:06+00:00",
       "titre": "Dans l’éducation nationale, une drôle de rentrée politique, coincée entre une fin de quinquennat atone et une élection présidentielle majeure",
       "dek": "Alors que les candidats au scrutin présidentiel rivalisent déjà d’annonces sur l’école, le ministre de l’éducation nationale, Edouard Geffray, a tenu sa conférence de rentrée, mardi 25 août. A l’aube de cette année charnière, les personnels de l’éducation, en proie à un malaise t…",
       "avis": null,
@@ -84,6 +139,17 @@
       "source": "Le Monde – Politique",
       "date": "25 Aug 2026",
       "date_iso": "2026-08-25T19:27:26+00:00",
+      "titre": "Présidentielle 2027 : le duo Raphaël Glucksmann-Yannick Jadot se pose en défenseur de l’écologie lors d’un déplacement en Charente-Maritime",
+      "dek": "Sortie des énergies fossiles, électrification de la société, rénovation des bâtiments, etc. Le fondateur de Place publique a égrené mardi 25 août ses objectifs pour l’écologie accompagné de l’ancien candidat des Verts Yannick Jadot.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/25/presidentielle-2027-en-charente-maritime-le-duo-glucksmann-jadot-se-pose-en-defenseur-de-l-ecologie_6756624_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T19:27:26+00:00",
       "titre": "Présidentielle 2027 : en Charente-Maritime, le duo Glucksmann-Jadot se pose en défenseur de l’écologie",
       "dek": "Sortie des énergies fossiles, électrification de la société, rénovation des bâtiments, etc. Le fondateur de Place publique a égrené mardi 25 août ses objectifs pour l’écologie accompagné de l’ancien candidat des Verts Yannick Jadot. Une manière de donner des marqueurs à gauche, m…",
       "avis": null,
@@ -96,7 +162,7 @@
       "date": "25 Aug 2026",
       "date_iso": "2026-08-25T19:26:54+00:00",
       "titre": "«Alléluia, pas de nouvelles réformes!»: la rentrée à pas comptés d’Édouard Geffray",
-      "dek": "Gérer l’arrivée des profs et des élèves, en pleine crise des cyberattaques, capitaliser sur les bonnes nouvelles, et espérer que ça passe au niveau budgétaire: le ministre de l’éducation nationale fait une rentrée sans annonce majeure, à un an de la présidentielle.",
+      "dek": "Gérer l’arrivée des profs et des élèves en pleine crise des cyberattaques, capitaliser sur les bonnes nouvelles et espérer que ça passera au niveau budgétaire: le ministre de l’éducation nationale fait une rentrée sans annonce majeure, à un an de la présidentielle.",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/250826/alleluia-pas-de-nouvelles-reformes-la-rentree-pas-comptes-d-edouard-geffray"
     },
@@ -484,72 +550,6 @@
       "dek": "Le budget 2027 est déjà au centre des débats de la pré-rentrée, avec la confirmation de Roland Lescure, lundi, de suivre la piste d'une désindexation partielle des retraites l'an prochain. Mais qui serait concerné ?",
       "avis": null,
       "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/budget-2027-l-eternel-debat-autour-de-l-indexation-des-retraites_8134154.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T06:16:54+00:00",
-      "titre": "Les feux de forêt, un puissant carburant pour les complotistes et l’extrême droite",
-      "dek": "En parallèle des débats sur la responsabilité des autorités ou sur le lien avec le dérèglement climatique, les feux de forêt de cet été ont suscité de nombreuses théories complotistes. Entre discours antisystème et propos racistes, elles ont tout pour faire le jeu de l’extrême dr…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/250826/les-feux-de-foret-un-puissant-carburant-pour-les-complotistes-et-l-extreme-droite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T06:03:31+00:00",
-      "titre": "\"Une Union qui prend la responsabilité de sa défense\" : les alliés de l'Ukraine affichent leur solidarité",
-      "dek": "Le nouveau Premier ministre britannique, Andy Burnham, a choisi l'Ukraine pour son premier déplacement à l'étranger. Avec Emmanuel Macron et une trentaine de dirigeants de la coalition des volontaires, il a promis de renforcer le soutien militaire à Kiev.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-union-qui-prend-la-responsabilite-de-sa-defense-les-allies-de-l-ukraine-affichent-leur-solidarite_8160437.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T04:30:00+00:00",
-      "titre": "Une responsable de la CFDT écrit à Laurent Nuñez pour élargir la loi « permis de tuer » aux policiers municipaux",
-      "dek": "Deux semaines après le vote de la loi «&nbsp;permis de tuer&nbsp;», la secrétaire générale de la fédération Interco de la CFDT a pris la plume pour suggérer à Laurent Nuñez d’élargir la présomption de légitime défense aux policiers municipaux. Une position qui tranche radicalemen…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/cfdt/une-responsable-de-la-cfdt-ecrit-a-laurent-nunez-pour-elargir-la-loi-permis-de-tuer-aux-policiers-municipaux"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T04:00:06+00:00",
-      "titre": "David Lisnard : pour la présidentielle 2027, « sans une grande primaire ouverte à tous, la droite et le centre ne seront pas en mesure de l’emporter »",
-      "dek": "Pour éviter la division, la compromission programmatique et la multiplication des candidatures, le maire de Cannes, ex-LR et candidat à la présidentielle, appelle, dans une tribune au « Monde », ses concurrents de la droite et du centre à accepter l’organisation d’une primaire.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/08/25/david-lisnard-pour-la-presidentielle-2027-sans-une-grande-primaire-ouverte-a-tous-la-droite-et-le-centre-ne-seront-pas-en-mesure-de-l-emporter_6756156_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T04:00:02+00:00",
-      "titre": "Gabriel Attal : « Je souhaite une loi de programmation pour l’école et un ministre de l’éducation qui restera en poste cinq ans »",
-      "dek": "Rétablissement du certificat d’études, fermeture de « collèges ghettos », augmentations salariales… A quelques jours de la rentrée des classes, le candidat de Renaissance à la présidentielle dévoile ses mesures pour l’éducation, dans un entretien au « Monde ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/08/25/gabriel-attal-je-souhaite-une-loi-de-programmation-pour-l-ecole-et-un-ministre-de-l-education-qui-restera-en-poste-cinq-ans_6756157_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T04:00:02+00:00",
-      "titre": "David Lisnard, président du parti Nouvelle Energie : « Sans une grande primaire ouverte à tous, la droite et le centre ne seront pas en mesure de l’emporter »",
-      "dek": "Pour éviter la division, la compromission programmatique et la multiplication des candidatures, le maire de Cannes, ex-LR et candidat à la présidentielle, appelle, dans une tribune au « Monde », ses concurrents de la droite et du centre à accepter l’organisation d’une primaire.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/08/25/david-lisnard-pour-la-presidentielle-2027-sans-une-grande-primaire-ouverte-a-tous-la-droite-et-le-centre-ne-seront-pas-en-mesure-de-l-emporter_6756156_3232.html"
     }
   ]
 }
