@@ -1,6 +1,171 @@
 {
-  "generated_at": "2026-08-26T10:05:41+00:00",
+  "generated_at": "2026-08-26T14:25:29+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T16:15:00+00:00",
+      "titre": "Les Pyrénées-Orientales, laboratoire de la bataille de l’eau",
+      "dek": "Après plusieurs années de sécheresse particulièrement intense, le département est le premier du pays à devoir faire face à une forte tension d’approvisionnement hydrique. Associations environnementales, agriculteurs et politiques s’y livrent une guerre sans merci.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=501637"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T14:12:05+00:00",
+      "titre": "Le Medef réclame un « programme présidentiel de libertés » à l’ouverture de la Rencontre des entrepreneurs de France",
+      "dek": "A huit mois de la présidentielle, le rendez-vous annuel de l’organisation patronale prend une dimension particulièrement politique. Jeudi, un débat avec les sept principaux candidats à l’élection, qui évoqueront leurs idées pour l’économie, doit clôturer la rencontre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/08/26/le-medef-reclame-un-programme-presidentiel-de-libertes-a-l-ouverture-de-la-rencontre-des-entrepreneurs-de-france_6757392_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T14:04:28+00:00",
+      "titre": "Après avoir recruté un membre du RN, une maire UDI de Loir-et-Cher indique qu'un nouveau recrutement est en cours",
+      "dek": "Catherine Lhéritier, également vice-présidente de l'AMF, annonce ce recrutement, mercredi, dans un communiqué. Elle avait assuré, samedi, ne pas avoir eu connaissance de l'orientation politique de Noa Lerosier.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/apres-avoir-recrute-un-membre-du-rn-une-maire-udi-de-loir-et-cher-indique-qu-un-nouveau-recrutement-est-en-cours_8163326.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T14:03:11+00:00",
+      "titre": "Mayotte : Sébastien Lecornu veut conditionner l’aide au développement pour les Comores à une meilleure collaboration dans la lutte contre l’immigration clandestine",
+      "dek": "En visite dans le département ultramarin, le premier ministre a annoncé mercredi un durcissement du dispositif de lutte contre l’immigration illégale avec davantage de moyens de surveillance et d’interception. Le gouvernement veut notamment renforcer la pression sur les pays d’or…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/outre-mer/article/2026/08/26/mayotte-sebastien-lecornu-veut-conditionner-l-aide-au-developpement-pour-les-comores-a-une-meilleure-collaboration-dans-la-lutte-contre-l-immigration-clandestine_6757390_1840826.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T13:36:00+00:00",
+      "titre": "Le mari de la députée RN Tiffany Joncour condamné pour avoir agressé son assistant parlementaire",
+      "dek": "L’ancien hooligan identitaire Maxime Gaucher a été condamné à de la prison ferme pour avoir violemment tabassé Tim Bouzon, conseiller de la métropole de Lyon et collaborateur parlementaire de son épouse, la députée RN du Rhône Tiffany Joncour.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/260826/le-mari-de-la-deputee-rn-tiffany-joncour-condamne-pour-avoir-agresse-son-assistant-parlementaire"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T13:33:48+00:00",
+      "titre": "«Libé 2027» : suivez le premier débat entre François Ruffin et Dominique de Villepin",
+      "dek": "«Libération» vous donne rendez-vous le 2 septembre à l’Académie du Climat, à Paris, pour une soirée de débat entre François Ruffin, député de la Somme, président de Debout ! et candidat à la présidentielle et Dominique de Villepin, ancien Premier ministre et fondateur de la Franc…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/forums/libe-2027-suivez-le-premier-debat-entre-francois-ruffin-et-dominique-de-villepin-20260826_7NJJJ5VN2RHY7A7COALPZXL2KE/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T13:16:49+00:00",
+      "titre": "«Je ne suis pas candidat»… pour l’instant: Bruno Le Maire attend son heure pour 2027",
+      "dek": "L’ancien ministre de l’Économie assure que la présidentielle n’est «pas du tout [son] calendrier». Mais ses déclarations équivoques, son manifeste aux allures programmatiques et sa volonté affichée de départager les prétendants du bloc central d’ici à Noël dessinent le scénario d…",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/je-ne-suis-pas-candidat-pour-l-instant-bruno-le-maire-attend-son-heure-pour-2027-20260826"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T13:00:52+00:00",
+      "titre": "Présidentielle 2027 : le parti du député Emmanuel Maurel participera à la primaire du PS et de Place publique",
+      "dek": "A ce stade, quatre candidats ont déjà annoncé qu’ils souhaitaient participer à cette primaire : le leader de Place publique, Raphaël Glucksmann, et trois socialistes, les députés Philippe Brun et Jérôme Guedj, ainsi que l’ex-candidate à la présidentielle Ségolène Royal.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/26/presidentielle-2027-le-parti-du-depute-emmanuel-maurel-participera-a-la-primaire-du-ps-et-de-place-publique_6757377_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T12:40:17+00:00",
+      "titre": "Le député LFI Sébastien Delogu visé par une plainte de trois policiers pour outrage, à Marseille",
+      "dek": "Les trois policiers impliqués dans cette affaire ont déposé plainte contre Sébastien Delogu, a indiqué le parquet de Marseille. Le ministre de l'Intérieur indique mercredi soutenir les agents.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/police/laurent-nunez-apporte-son-soutien-aux-forces-de-l-ordre-apres-l-altercation-entre-le-depute-lfi-sebastien-delogu-et-des-policiers_8162432.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T12:05:18+00:00",
+      "titre": "Sébastien Scarpinato, adjoint au maire d’Ivry-sur-Seine, victime de cyberharcèlement par l’extrême droite",
+      "dek": "Sébastien Scarpinato, adjoint au maire communiste d’Ivry-sur-Seine, est la cible d’une vague de cyberharcèlement depuis plusieurs jours mêlant insultes homophobes et menaces de mort, qui visent aussi son conjoint et sa famille.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/homophobie/lhomma-du-jour-sebastien-scarpinato"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T11:16:14+00:00",
+      "titre": "Aux obsèques du « fidèle » François Patriat, Emmanuel Macron tacle ceux qui veulent faire « l’inventaire »",
+      "dek": "REPORTAGE - La cérémonie en hommage à ce grognard du chef de l’État a largement rassemblé les troupes historiques de la macronie, alors que le camp présidentiel se disloque à l’approche de 2027.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/aux-obseques-du-fidele-francois-patriat-emmanuel-macron-tacle-ceux-qui-veulent-faire-l-inventaire-20260825"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T11:09:27+00:00",
+      "titre": "Budget 2027: le gouvernement lance sa rentrée austéritaire",
+      "dek": "Qui dit rentrée, dit budget. Et déjà, les premières annonces et ballons d’essai sont lancés pour la version 2027. Hausse des franchises médicales, désindexation de certaines pensions de retraite: sans surprise, le gouvernement prépare l’austérité budgétaire.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/economie-et-social/260826/budget-2027-le-gouvernement-lance-sa-rentree-austeritaire"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T10:31:17+00:00",
+      "titre": "La défense du français, invitée surprise dans la guerre commerciale entre le Canada et les États-Unis",
+      "dek": "Les exigences de l’administration Trump contre l’étiquetage bilingue des produits auraient pu conduire à une crise constitutionnelle avec le Québec. Dans la province francophone, le gouvernement est cependant critiqué pour son inaction en la matière.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/260826/la-defense-du-francais-invitee-surprise-dans-la-guerre-commerciale-entre-le-canada-et-les-etats-uni"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T10:02:28+00:00",
+      "titre": "« Il n’y aura pas d’économies faites sur le dos de la lutte contre les violences faites aux femmes ou aux enfants », assure la ministre Aurore Bergé",
+      "dek": "Au lendemain du lancement d’une campagne contre les violences sexistes et sexuelles sur les aires d’autoroute, Aurore Bergé a assuré mercredi que les moyens consacrés à cette lutte continueraient d’augmenter. Au micro de Franceinfo, la ministre a notamment promis qu’il n’y aurait…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/08/26/il-n-y-aura-pas-d-economies-faites-sur-le-dos-de-la-lutte-contre-les-violences-faites-aux-femmes-ou-aux-enfants-assure-aurore-berge_6757360_3224.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T09:52:34+00:00",
+      "titre": "Jean-Marc Jancovici veut peser sur la présidentielle 2027 avec 150 Français tirés au sort",
+      "dek": "Face à une présidentielle qu’il juge trop centrée sur les «&nbsp;sujets d’intendance&nbsp;», Jean-Marc Jancovici veut faire entendre une autre voix. Son initiative «&nbsp;Un accord commun&nbsp;» réunira 150 citoyens tirés au sort pour réfléchir aux choix imposés par le réchauffem…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/climat/presidentielle-2027-jean-marc-jancovici-lance-un-accord-commun-son-assemblee-citoyenne-pour-le-climat"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -11,6 +176,17 @@
       "dek": "Face à une présidentielle qu’il juge trop centrée sur les «&nbsp;sujets d’intendance&nbsp;», Jean-Marc Jancovici veut faire entendre une autre voix. Son initiative «&nbsp;Un accord commun&nbsp;» réunira 150 citoyens tirés au sort pour réfléchir aux choix imposés par le réchauffem…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/climat/presidentielle-2027-jean-marc-jancovici-lance-un-accord-commun-son-assemblee-citoyenne-pour-le-climat"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T09:43:18+00:00",
+      "titre": "Budget 2027 : Bruno Le Maire, ex-ministre de l’économie, se dit favorable à une taxation des « plus grosses fortunes »",
+      "dek": "Interrogé sur BFM-TV à propos de la situation économique du pays, l’ancien ministre de l’économie d’Emmanuel Macron a réclamé « de l’efficacité pour lutter contre la dérive des comptes ». Il a aussi estimé nécessaire de désindexer de l’inflation les pensions de retraite, le barèm…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/26/budget-2027-bruno-lemaire-se-dit-favorable-a-une-taxation-des-plus-grosses-fortunes_6757357_823448.html"
     },
     {
       "tag": "Politique",
@@ -132,6 +308,17 @@
       "dek": "Sans majorité pour adopter le budget et confronté à des oppositions lancées dans la campagne présidentielle, le premier ministre n’a aucune garantie d’avancer sur d’autres chantiers importants. Il craint qu’une crise politique donne du carburant à La France insoumise et au Rassem…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/26/le-gouvernement-lecornu-aborde-la-rentree-sans-aucune-marge-de-man-uvre_6757180_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T06:46:06+00:00",
+      "titre": "Présidentielle 2027 : Edouard Philippe, en campagne à La Réunion, met au point sa « mécanique de rassemblement » de la droite et du centre",
+      "dek": "Le candidat Horizons, en visite sur l’île pendant trois jours, a longuement rencontré les différents acteurs politiques du centre et de la droite, espérant les fédérer autour de lui. La majorité des élus est cependant restée attentiste, entretenant le flou sur son éventuel soutie…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/26/presidentielle-2027-a-la-reunion-edouard-philippe-met-au-point-sa-mecanique-de-rassemblement-de-la-droite-et-du-centre_6757179_6205049.html"
     },
     {
       "tag": "Politique",
@@ -363,193 +550,6 @@
       "dek": "Sortie des énergies fossiles, électrification de la société, rénovation des bâtiments, etc. Le fondateur de Place publique a égrené mardi 25 août ses objectifs pour l’écologie accompagné de l’ancien candidat des Verts Yannick Jadot. Une manière de donner des marqueurs à gauche, m…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/25/presidentielle-2027-en-charente-maritime-le-duo-glucksmann-jadot-se-pose-en-defenseur-de-l-ecologie_6756624_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T19:26:54+00:00",
-      "titre": "«Alléluia, pas de nouvelles réformes!»: la rentrée à pas comptés d’Édouard Geffray",
-      "dek": "Gérer l’arrivée des profs et des élèves en pleine crise des cyberattaques, capitaliser sur les bonnes nouvelles et espérer que ça passera au niveau budgétaire: le ministre de l’éducation nationale fait une rentrée sans annonce majeure, à un an de la présidentielle.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/250826/alleluia-pas-de-nouvelles-reformes-la-rentree-pas-comptes-d-edouard-geffray"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T18:53:28+00:00",
-      "titre": "Aux obsèques de François Patriat, Emmanuel Macron rend hommage à un fidèle « grognard » et met en garde Edouard Philippe et Gabriel Attal",
-      "dek": "Les macronistes de la première heure étaient présents en nombre aux funérailles du sénateur, mort le 19 août. Dans l’oraison funèbre qu’il a prononcée, le président de la République a salué un élu « qui assumait bravement » et défendait son bilan, une critique en creux des candid…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/25/aux-obseques-de-francois-patriat-emmanuel-macron-rend-hommage-a-un-fidele-grognard-et-met-en-garde-edouard-philippe-et-gabriel-attal_6756622_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T18:00:16+00:00",
-      "titre": "Dans le Marais poitevin, Raphaël Glucksmann s’affiche avec Yannick Jadot et sort la carte verte",
-      "dek": "Pour son premier déplacement de candidat à la présidentielle, ce mardi 25 août, l’eurodéputé a envoyé un message aux Ecologistes en défendant le renouvelable et les zones humides.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/dans-le-marais-poitevin-raphael-glucksmann-saffiche-avec-yannick-jadot-et-sort-la-carte-verte-20260825_45QKKN4ONRECPAFPXY3QDASDDE/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T17:45:00+00:00",
-      "titre": "Présidentielle : le PS définit les modalités de la primaire sociale-démocrate",
-      "dek": "Une circulaire encadrant le scrutin commun à Place publique et au PS pour choisir leur candidat à la présidentielle mi-octobre a été adoptée lors d’un conseil national des socialistes, ce mardi 25 août.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/quelles-sont-les-conditions-dorganisation-de-la-primaire-sociale-democrate-20260825_BFVQ6SDAPZALNOLZW7WCSSRBUY/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T17:20:25+00:00",
-      "titre": "Pour un boycott politique d’Israël",
-      "dek": "Les discours sur l’extrême droite israélienne sont devenus la forme ultime de soutien au gouvernement Netanyahou.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=501354"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T17:13:48+00:00",
-      "titre": "Attal, Philippe et la fiction délétère du «lui c’est lui, et moi c’est moi»",
-      "dek": "Soucieux de se détacher du macronisme et de souligner leurs différences, les deux candidats à la présidentielle se ressemblent sur l’essentiel : ni l’un ni l’autre ne remet en cause la politique de l’offre, l’injustice fiscale ou l’inaction écologique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/attal-philippe-et-la-fiction-deletere-du-lui-cest-lui-et-moi-cest-moi-20260825_36D5JVVPFZANTK4U7FORAATWZQ/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T16:57:04+00:00",
-      "titre": "Tornade dans l’Aude: «Des vents probablement supérieurs à 200 km/h»",
-      "dek": "La tornade qui a dévasté le village de Pomas le 24 août est «l’une des plus fortes qu’a pu connaître le sud de la France», selon Predict Services, filiale de Météo-France spécialisée dans la gestion des risques climatiques. Plusieurs départements sont davantage exposés à ces phén…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/250826/tornade-dans-l-aude-des-vents-probablement-superieurs-200-kmh"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T16:33:04+00:00",
-      "titre": "Vos séances de kiné bientôt moins remboursées ?",
-      "dek": "Le gouvernement a confirmé son intention d’augmenter les franchises médicales : de 100 euros, elles passeront à 140 euros par an et par assuré. Les kinésithérapeutes sont également dans le viseur. Certaines séances pourraient bientôt être moins remboursées.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/vos-seances-de-kine-bientot-moins-remboursees_8160872.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T16:15:11+00:00",
-      "titre": "Après l’annonce d’un parc d’attraction Dragon Ball financé par l’Arabie saoudite, la gauche dénonce le tapis rouge déroulé à MBS",
-      "dek": "En marge de la visite du prince héritier d'Arabie saoudite Mohammed ben Salmane à Paris, Emmanuel Macron a annoncé la création de trois parcs d’attractions sur l’ancien site de Mirapolis, entièrement financé par Riyad. Le maître de l'Elysée a déroulé le tapis rouge à un homme vis…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/arabie-saoudite/apres-lannonce-dun-parc-dattraction-dragon-ball-finance-par-larabie-saoudite-la-gauche-denonce-le-tapis-rouge-deroule-a-mbs"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T16:15:00+00:00",
-      "titre": "Stéphane Delpeyrat-Vincent : « Aujourd’hui, l’habitabilité du pays n’est pas garantie »",
-      "dek": "Le maire de Saint-Médard-en-Jalles, en Gironde, qui a dû évacuer sa commune fin juillet, dénonce l’inaction et l’irresponsabilité du gouvernement après les ravages causés par les incendies. L’édile repense l’idée d’habitabilité du territoire et appelle à étendre le domaine juridi…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=501298"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T16:12:21+00:00",
-      "titre": "Un militant d'extrême droite fiché S condamné pour l'agression, dans la Sarthe, d'un élu RN qu'il soupçonnait d'être l'amant de sa femme députée",
-      "dek": "Dans la nuit du 19 au 20 août, Maxime Gaucher a frappé et volé Tim Bouzon, qui s'est vu prescrire cinq jours d'ITT. Le militant d'extrême droite écope de 15 mois de prison ferme, a appris mardi franceinfo et ICI Maine.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/un-militant-d-extreme-droite-fiche-s-condamne-pour-l-agression-dans-la-sarthe-d-un-elu-rn-qu-il-soupconnait-d-etre-l-amant-de-sa-femme-deputee_8161175.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T15:30:01+00:00",
-      "titre": "\"En marche\" : le mouvement lancé par Emmanuel Macron",
-      "dek": "Cet été, Fabrice d'Almeida sonde les slogans des élections présidentielles sous la Ve République. De quoi se rafraîchir la mémoire avant l'élection de 2027. Aujourd'hui, retour sur les élections de 2017, avec Emmanuel Macron et le nom de son mouvement : \"En marche !\"",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/en-marche-le-mouvement-lance-par-emmanuel-macron_8076761.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T15:30:00+00:00",
-      "titre": "Présidentielle 2027 : tiraillés entre Raphaël Glucksmann et Jean-Luc Mélenchon, les Verts au bord de l’implosion",
-      "dek": "RÉCIT - Les Écologistes de Marine Tondelier sont pris en étau entre les partisans d’une alliance avec la social-démocratie, emmenés par Yannick Jadot, et ceux qui défendent un rapprochement avec les Insoumis, comme Sandrine Rousseau.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-tirailles-entre-raphael-glucksmann-et-jean-luc-melenchon-les-verts-au-bord-de-l-implosion-20260825"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T15:00:06+00:00",
-      "titre": "L’avenir de la tour Montparnasse suspendu à la fin de la zizanie entre ses copropriétaires : enquête sur un interminable Monopoly",
-      "dek": "A trois mois de l’expiration du permis de construire de la transformation du gratte-ciel parisien, des rebondissements en cascade font vaciller le projet lancé il y a dix ans. En juillet, le maire de la capitale a enjoint aux copropriétaires de régler leurs différends. « Le Monde…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/08/25/l-avenir-de-la-tour-montparnasse-suspendu-a-la-fin-de-la-zizanie-entre-ses-coproprietaires-enquete-sur-une-interminable-partie-de-monopoly_6756594_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T14:51:13+00:00",
-      "titre": "Le gouvernement lance une campagne contre les violences intrafamiliales et sexuelles sur les aires d'autoroute et de repos",
-      "dek": "Affiches dans les sanitaires pour femmes, agents formés, messages sur la radio 107.7... Le dispositif vise à profiter de ces lieux de passage où les victimes peuvent momentanément se retrouver seules pour leur permettre de demander de l'aide.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-gouvernement-lance-une-campagne-contre-les-violences-intrafamiliales-et-sexuelles-sur-les-aires-d-autoroute-et-de-repos_8161013.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T14:32:40+00:00",
-      "titre": "Un parc DBZ sous parrainage saoudien : à quoi joue Macron ?",
-      "dek": "Un parc Dragon Ball Z dans le Val-d'Oise d'ici cinq ou six ans, c'est ce qu'a annoncé Emmanuel Macron ce 24 août dans le cadre d'un partenariat financier avec l'Arabie saoudite. On fait le point sur cette annonce et surtout sur ce qu'elle cache avec Aurélien Soucheyre, Cyprien Ca…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/monde/arabie-saoudite/un-parc-dbz-sous-parrainage-saoudien-a-quoi-joue-macron"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T14:15:54+00:00",
-      "titre": "Le patronat et les syndicats tentent de relancer le dialogue pour faire avancer leur « agenda social autonome »",
-      "dek": "Les organisations d’employeurs et de salariés se sont réunies lundi pour essayer de définir leur propre programme de négociations, sans directives gouvernementales. Alors qu’ils ne s’étaient pas revus dans une telle configuration depuis la fin janvier, les différents partenaires …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/25/le-patronat-et-les-syndicats-tentent-de-relancer-le-dialogue-pour-faire-avancer-leur-agenda-social-autonome_6756592_823448.html"
     }
   ]
 }
