@@ -1,6 +1,182 @@
 {
-  "generated_at": "2026-08-26T05:20:18+00:00",
+  "generated_at": "2026-08-26T10:05:41+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T09:52:34+00:00",
+      "titre": "Présidentielle 2027 : Jean-Marc Jancovici lance « Un accord commun », son assemblée citoyenne pour le climat",
+      "dek": "Face à une présidentielle qu’il juge trop centrée sur les «&nbsp;sujets d’intendance&nbsp;», Jean-Marc Jancovici veut faire entendre une autre voix. Son initiative «&nbsp;Un accord commun&nbsp;» réunira 150 citoyens tirés au sort pour réfléchir aux choix imposés par le réchauffem…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/climat/presidentielle-2027-jean-marc-jancovici-lance-un-accord-commun-son-assemblee-citoyenne-pour-le-climat"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T09:43:18+00:00",
+      "titre": "Budget 2027 : Bruno Le Maire se dit favorable à une taxation des « plus grosses fortunes »",
+      "dek": "Interrogé sur BFM-TV à propos de la situation économique du pays, l’ancien ministre de l’économie d’Emmanuel Macron a réclamé « de l’efficacité pour lutter contre la dérive des comptes ». Il a aussi estimé nécessaire de désindexer de l’inflation les pensions de retraite, le barèm…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/26/budget-2027-bruno-lemaire-se-dit-favorable-a-une-taxation-des-plus-grosses-fortunes_6757357_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T08:59:26+00:00",
+      "titre": "Présidentielle 2027 : Karim Bouamrane ne participera pas à la primaire mais reste candidat",
+      "dek": "Le maire socialiste de Saint-Ouen refuse de participer à un processus de désignation «fermé» qui «coûte cher». Mais compte sur l’argent du PS pour faire campagne.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-karim-bouamrane-ne-participera-pas-a-la-primaire-mais-reste-candidat-20260826_IBOSNTUHNFCADDORHDN5KUUAMM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T08:41:10+00:00",
+      "titre": "\"En 2027, c’est le sursaut ou la crise\" : les patrons alertent les candidats à la présidentielle",
+      "dek": "À l’approche de 2027, les chefs d’entreprise français affichent leur inquiétude face à la situation économique du pays. Réunis à Roland-Garros, candidats à la présidentielle et dirigeants de PME ont échangé sur les priorités économiques et les risques qui pèsent sur la France.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/en-2027-c-est-le-sursaut-ou-la-crise-les-patrons-alertent-les-candidats-a-la-presidentielle_8162102.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T08:29:08+00:00",
+      "titre": "\"Je soutiendrai Edouard Philippe dans cette élection présidentielle\", déclare Benjamin Haddad, ministre délégué chargé de l'Europe",
+      "dek": "Invité des \"4 Vérités\", le ministre a défendu la poursuite des efforts budgétaires pour réduire les déficits et préserver la crédibilité de la France. Il a également critiqué les propositions de Jean-Luc Mélenchon et du Rassemblement national sur la dette et le budget européen.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/on-doit-faire-passer-ce-budget-c-est-aussi-la-credibilite-de-notre-pays-en-europe-qui-en-depend-declare-benjamin-haddad-ministre-delegue-charge-de-l-europe_8161961.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T08:14:17+00:00",
+      "titre": "Pour gagner les élections, Nétanyahou frappe les territoires palestiniens",
+      "dek": "La coalition du premier ministre israélien a ouvert sa campagne en vue des législatives d’octobre en redoublant les attaques dans la bande de Gaza et en Cisjordanie. Frappes aériennes, siège, menaces: les colons et les soldats font office de propagande électorale.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/260826/pour-gagner-les-elections-netanyahou-frappe-les-territoires-palestiniens"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T07:51:22+00:00",
+      "titre": "\"Jamais le RN n'a enregistré de tels scores\" dans les sondages, constate William Thay, président du think tank gaulliste et indépendant Le Millénaire",
+      "dek": "\"L'autre paramètre, c'est qu'en fait, la gauche se maintient et, surtout, c'est le bloc central qui s'effondre\", a expliqué l'expert, mercredi, sur franceinfo.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/jamais-le-rn-n-a-enregistre-de-tels-scores-l-autre-parametre-c-est-que-la-gauche-se-maintient-et-surtout-c-est-le-bloc-central-qui-s-effondre-decrypte-william-thay-president-du-think-tank-gaulliste-et-independant-le-millenaire_8161994.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T07:28:56+00:00",
+      "titre": "Présidentielle 2027 : Jean-Marc Jancovici lance une «assemblée citoyenne» sur le réchauffement climatique",
+      "dek": "150 citoyens tirés au sort devraient débattre et échanger avec des experts dès le 19 septembre à Paris, avant d’exposer leurs conclusions en février. Baptisée «Un commun accord», l’initiative a été annoncée ce mercredi 26 août par le fondateur du Shift Project.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/environnement/climat/presidentielle-2027-jean-marc-jancovici-lance-une-assemblee-citoyenne-sur-le-rechauffement-climatique-20260826_UNJPE4WRYBDB3KO3GPGIXOUPGQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T07:25:55+00:00",
+      "titre": "EDITO. Marine Le Pen fait sa rentrée devant le Medef, qui a invité sept candidats à la présidentielle",
+      "dek": "Jeudi, la candidate du Rassemblement national est attendue pour un débat organisé par le syndicat patronal entre sept prétendants à l'Élysée.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-marine-le-pen-fait-sa-rentree-devant-le-medef-qui-a-invite-sept-candidats-a-la-presidentielle_8078210.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T07:18:21+00:00",
+      "titre": "Annuler une partie de la dette : \"Beaucoup de pays européens y ont intérêt\", assure Clémence Guetté, députée LFI du Val-de-Marne",
+      "dek": "Le leader de la France insoumise et candidat à la présidentielle, Jean-Luc Mélenchon, propose d'annuler une partie de la dette française.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/annuler-une-partie-de-la-dette-beaucoup-de-pays-europeens-y-ont-interet-assure-clemence-guette-deputee-lfi-du-val-de-marne_8161979.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T07:00:02+00:00",
+      "titre": "ENTRETIEN. \"L'adaptation est devenue notre gymnastique quotidienne\" : Matthieu Ducos, directeur de Rock en Seine, à l'approche du festival",
+      "dek": "Pour cette nouvelle édition, Rock en Seine accueille, de mercredi à dimanche, des artistes de renommée internationale comme The Cure, Deftones, Lorde ou Tyler, The Creator.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/culture/musique/rock-en-seine/entretien-l-adaptation-est-devenue-notre-gymnastique-quotidienne-matthieu-ducos-directeur-de-rock-en-seine-a-l-approche-du-festival_8147234.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T06:55:26+00:00",
+      "titre": "Le gouvernement de Sébastien Lecornu aborde la rentrée sans aucune marge de manœuvre",
+      "dek": "Sans majorité pour adopter le budget et confronté à des oppositions lancées dans la campagne présidentielle, le premier ministre n’a aucune garantie d’avancer sur d’autres chantiers importants. Il craint qu’une crise politique donne du carburant à La France insoumise et au Rassem…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/26/le-gouvernement-lecornu-aborde-la-rentree-sans-aucune-marge-de-man-uvre_6757180_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T06:46:06+00:00",
+      "titre": "Présidentielle 2027 : Edouard Philippe, en campagne à La Réunion, met au point sa « mécanique de rassemblement » de la droite et du centre",
+      "dek": "Le candidat Horizons, en visite sur l’île pendant trois jours, a longuement rencontré les différents acteurs politiques du centre et de la droite, espérant fédérer autour de lui. La majorité des élus est cependant restée attentiste, entretenant le flou sur son éventuel soutien.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/26/presidentielle-2027-a-la-reunion-edouard-philippe-met-au-point-sa-mecanique-de-rassemblement-de-la-droite-et-du-centre_6757179_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T06:24:33+00:00",
+      "titre": "Jean-Marc Jancovici lance une assemblée citoyenne pour « donner de la voix aux citoyens » sur le réchauffement climatique en 2027",
+      "dek": "Soutenue par des personnalités, l’initiative « Un commun accord » veut replacer les citoyens au cœur du débat climatique à travers une assemblée tirée au sort et une plateforme participative.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/planete/article/2026/08/26/climat-l-expert-jean-marc-jancovici-lance-une-assemblee-citoyenne-pour-peser-sur-la-presidentielle-2027_6757079_3244.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T06:22:37+00:00",
+      "titre": "Sébastien Lecornu à Mayotte pour accélérer la reconstruction «trop lente» plus d’un an après le cyclone Chido",
+      "dek": "Le Premier ministre regrette «des retards dans la livraison d’équipements publics» et des «difficultés persistantes» dans de nombreux domaines dans le département le plus pauvre de France.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/sebastien-lecornu-a-mayotte-pour-accelerer-la-reconstruction-trop-lente-un-an-apres-le-cyclone-chido-20260826_P7BWEA45SRGWDPXVHOBUKA4SMI/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T05:46:00+00:00",
+      "titre": "Le patronat à la recherche du candidat idéal pour la présidentielle 2027",
+      "dek": "Face à la multiplication des candidatures, dont aucune ne les convainc vraiment, les milieux patronaux redoutent l’effacement de la droite au second tour. Estimant la France «en faillite», ils cherchent la personne qui pourrait rassembler et parler au RN pour appliquer leur progr…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/260826/le-patronat-la-recherche-du-candidat-ideal-pour-la-presidentielle-2027"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -51,10 +227,21 @@
       "source": "Le Monde – Politique",
       "date": "26 Aug 2026",
       "date_iso": "2026-08-26T04:06:34+00:00",
-      "titre": "Le PS et Place publique se mettent d’accord sur les modalités de leur primaire",
-      "dek": "La primaire de la gauche socialiste et démocratique, qui se tiendra en octobre, sera ouverte à de nouveaux adhérents via une structure ad hoc, avec un tarif d’inscription de 15 euros.",
+      "titre": "Le PS et Place publique se mettent d’accord sur les modalités de leur primaire",
+      "dek": "La primaire de la gauche socialiste et démocratique, qui se tiendra en octobre, sera ouverte à de nouveaux adhérents grâce à une structure ad hoc, avec un tarif d’inscription de 15 euros.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/26/le-ps-et-place-publique-ratifient-se-mettent-d-accord-sur-les-modalites-de-leur-primaire_6756875_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T03:31:33+00:00",
+      "titre": "Raphaël Glucksmann : « L’Europe est cruciale pour mener à bien la transformation écologique »",
+      "dek": "Le candidat à la présidentielle de 2027 revient, dans un entretien au « Monde », sur la « République écologique » qu’il propose et sur les raisons qui devraient inciter Les Ecologistes à le rejoindre. Il souhaite aussi taxer les « méga-héritages » pour financer une augmentation d…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/26/raphael-glucksmann-l-europe-est-cruciale-pour-mener-a-bien-la-transformation-ecologique_6756834_823448.html"
     },
     {
       "tag": "Politique",
@@ -73,10 +260,32 @@
       "source": "Le Monde – Politique",
       "date": "26 Aug 2026",
       "date_iso": "2026-08-26T03:30:06+00:00",
+      "titre": "Le ministre de l’éducation promet de terminer les réformes engagées, face à la surenchère d’annonces sur l’école par les candidats à la présidentielle",
+      "dek": "Alors que les personnels éducatifs oscillent entre attentes et inquiétudes, Edouard Geffray a tenu sa conférence de rentrée, mardi 25 août. Face aux échéances électorales limitant la capacité d’action du ministre, les syndicats espèrent qu’il saura « préserver le budget de l’éduc…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/08/26/dans-l-education-nationale-une-drole-de-rentree-politique-coincee-entre-une-fin-de-quinquennat-atone-et-une-election-presidentielle-majeure_6756831_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "26 Aug 2026",
+      "date_iso": "2026-08-26T03:30:06+00:00",
       "titre": "Dans l’éducation nationale, une drôle de rentrée politique, coincée entre une fin de quinquennat atone et une élection présidentielle majeure",
       "dek": "Alors que les candidats au scrutin présidentiel rivalisent déjà d’annonces sur l’école, le ministre de l’éducation nationale, Edouard Geffray, a tenu sa conférence de rentrée, mardi 25 août. A l’aube de cette année charnière, les personnels de l’éducation, en proie à un malaise t…",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/article/2026/08/26/dans-l-education-nationale-une-drole-de-rentree-politique-coincee-entre-une-fin-de-quinquennat-atone-et-une-election-presidentielle-majeure_6756831_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "25 Aug 2026",
+      "date_iso": "2026-08-25T21:19:55+00:00",
+      "titre": "La hausse du ticket modérateur et celle des plafonds des franchises médicales, des décisions critiquées par les mutuelles, les professionnels de santé et les associations de patients",
+      "dek": "Le gouvernement cible les usagers pour combler le déficit de l’Assurance-maladie. Un choix qui écorne le principe de solidarité, regrettent nombre d’acteurs de la santé.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/08/25/assurance-maladie-mutuelles-professionnels-de-sante-et-associations-de-patients-inquiets-de-la-hausse-du-ticket-moderateur-et-des-plafonds-des-franchises_6756628_3224.html"
     },
     {
       "tag": "Politique",
@@ -95,8 +304,8 @@
       "source": "franceinfo – Politique",
       "date": "25 Aug 2026",
       "date_iso": "2026-08-25T21:15:24+00:00",
-      "titre": "Le Parti socialiste et Place Publique valident l'accord sur les modalités de la primaire à laquelle participera Raphaël Glucksmann",
-      "dek": "Quatre candidats, dont le leader de Place Publique, sont sur la ligne de départ. Participer au vote coûtera au minimum 15 euros.",
+      "titre": "Le Parti socialiste et Place publique valident l'accord sur les modalités de la primaire pour la présidentielle",
+      "dek": "Le vote pour désigner la personnalité qui représentera l'arc social-démocrate en 2027 sera un scrutin électronique uninominal. Les deux tours sont prévus les 9-10 et 16-17 octobre.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/ps/le-parti-socialiste-valide-l-accord-sur-les-modalites-de-la-primaire-a-laquelle-participera-raphael-glucksmann_8161388.html#xtor=RSS-3-%5Bgeneral%5D"
     },
@@ -341,215 +550,6 @@
       "dek": "Les organisations d’employeurs et de salariés se sont réunies lundi pour essayer de définir leur propre programme de négociations, sans directives gouvernementales. Alors qu’ils ne s’étaient pas revus dans une telle configuration depuis la fin janvier, les différents partenaires …",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/25/le-patronat-et-les-syndicats-tentent-de-relancer-le-dialogue-pour-faire-avancer-leur-agenda-social-autonome_6756592_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T14:11:24+00:00",
-      "titre": "Transparence salariale : le projet de loi présenté en Conseil des ministres le 9 septembre",
-      "dek": "Initialement, la France avait jusqu’au 7 juin pour transposer la directive européenne. Mais face à des divergences marquées entre syndicats et patronat, l’échéance n’avait pas pu être tenue.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/transparence-salariale-le-projet-de-loi-presente-en-conseil-des-ministres-le-9-septembre-20260825_SBLS4WNLSRCAPNWHH77VZK3AAA/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T14:08:25+00:00",
-      "titre": "Aux obsèques du «fidèle» François Patriat, Emmanuel Macron tacle ceux qui veulent faire «l’inventaire»",
-      "dek": "REPORTAGE - La cérémonie en hommage à ce grognard du chef de l’État a largement rassemblé les troupes historiques de la macronie, alors que le camp présidentiel se disloque à l’approche de 2027.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/aux-obseques-du-fidele-francois-patriat-emmanuel-macron-tacle-ceux-qui-veulent-faire-l-inventaire-20260825"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T13:30:09+00:00",
-      "titre": "Pourquoi le gouvernement veut exclure certains fonds du PEA",
-      "dek": "Le ministère des finances pourrait profiter du budget 2027 pour suspendre l’éligibilité de certains ETF, des fonds indiciels cotés, au plan d’épargne en actions. Des fonds auxquels on reproche de contourner les règles du dispositif.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/argent/article/2026/08/25/pourquoi-le-gouvernement-veut-exclure-certains-fonds-du-pea_6756588_1657007.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T13:02:45+00:00",
-      "titre": "Face à la sécheresse, le président de la région Grand Est réclame \"un plan européen massif\" pour l'agriculture",
-      "dek": "Après un été marqué par des canicules à répétition et d'importantes pertes agricoles, Franck Leroy appelle Bruxelles à débloquer des aides d'urgence et à préparer les exploitations aux effets du changement climatique.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/face-a-la-secheresse-le-president-de-la-region-grand-est-reclame-un-plan-europeen-massif-pour-l-agriculture_8160908.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T12:51:33+00:00",
-      "titre": "Raphaël Glucksmann promet une « révolution écologique » en cent jours s’il est élu président de la République",
-      "dek": "Pour son premier déplacement de campagne, le cofondateur du parti Place publique a choisi le thème de l’éolien. Aux côtés du sénateur Yannick Jadot, il a promis d’engager, dès sa victoire, cent jours de transformation pour « libérer la France » de « son addiction au gaz et au pét…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/25/raphael-glucksmann-promet-une-revolution-ecologique-en-cent-jours-s-il-est-elu-president-de-la-republique_6756579_6205049.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T12:12:12+00:00",
-      "titre": "Rémunération, promesse d'autorité… L'école se retrouve au cœur de la campagne présidentielle",
-      "dek": "Les deux anciens Premiers ministres, Édouard Philippe et Gabriel Attal, ont récemment proposé plusieurs mesures pour l'école et les enseignants.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/remuneration-promesse-d-autorite-l-ecole-se-retrouve-au-c-ur-de-la-campagne-presidentielle_8160707.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T12:00:06+00:00",
-      "titre": "Présidentielle 2027 : le bilan d’Emmanuel Macron, un lourd héritage à porter pour Gabriel Attal et Edouard Philippe",
-      "dek": "Si l’ancien secrétaire général de l’Elysée, Alexis Kohler, s’est exprimé pour défendre le chef de l’Etat, les candidats issus du bloc central critiquent sa pratique du pouvoir tout en essayant de ne pas froisser son électorat.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/25/presidentielle-2027-le-bilan-d-emmanuel-macron-un-lourd-heritage-a-porter-pour-gabriel-attal-et-edouard-philippe_6756575_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T10:32:21+00:00",
-      "titre": "Aux obsèques de François Patriat, Emmanuel Macron célèbre un homme « entier », « dans des temps où beaucoup pensent que l’inventaire vaut mieux que d’assumer bravement »",
-      "dek": "« Là où beaucoup pensent que l’esprit de défaite a déjà gagné, lui, il se battait », a notamment dit le président de la République, en hommage à l’ancien président du groupe macroniste au Sénat, à Semur-en-Auxois (Côte-d’Or), mort le 19 août.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/25/aux-obseques-de-francois-patriat-emmanuel-macron-celebre-un-homme-entier-dans-des-temps-ou-beaucoup-pensent-que-l-inventaire-vaut-mieux-que-d-assumer-bravement_6756571_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T10:30:32+00:00",
-      "titre": "David Lisnard, candidat à la présidentielle, relance l'idée d'une primaire ouverte de la droite et du centre pour 2027",
-      "dek": "Le maire de Cannes, qui estime qu'\"aucun candidat naturel ne s'impose\", appelle ses concurrents à regarder la situation \"avec lucidité\" et à \"éviter la division qui fait perdre les élections\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/david-lisnard-relance-l-idee-d-une-primaire-ouverte-de-la-droite-et-du-centre-pour-la-presidentielle_8160758.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T09:27:36+00:00",
-      "titre": "Présidentielle 2027 : qui sont les candidats déclarés à la primaire sociale-démocrate ?",
-      "dek": "Le Parti socialiste et Place publique doivent valider ce mardi 25 août les modalités du scrutin, réservé aux adhérents des deux partis de gauche, et qui doit se tenir en octobre.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-2027-qui-sont-les-candidats-declares-a-la-primaire-sociale-democrate-20260825_QQADNI5M5RAV5JAXOHILWCS5OA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T08:53:28+00:00",
-      "titre": "Non, «Libération» n’a pas supprimé de commentaire de Rima Hassan sur Instagram",
-      "dek": "Alors que l’eurodéputée insoumise avait accusé publiquement notre journal de «censure» et de «mensonge», Meta a reconnu que son système de modération automatisé avait masqué «par erreur» un de ses commentaires.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/checknews/non-liberation-na-pas-supprime-de-commentaire-de-rima-hassan-sur-instagram-20260825_GERDURYNPJCBJB56D4THSTDCJU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T08:31:33+00:00",
-      "titre": "Groupes de niveau, uniforme, pacte enseignant… Gabriel Attal, le grand pschitt de l’éducation",
-      "dek": "Le candidat à la présidentielle fut un furtif mais hyperactif ministre de l’Education nationale. Alors qu’il place l’école comme l’une de ses priorités, passage en revue de ses réformes qui se sont dégonflées.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/education/groupes-de-niveau-uniforme-pacte-enseignant-gabriel-attal-le-grand-pschitt-de-leducation-20260825_4O4OZCKYGJC3TJGOTYMSR4GD6Q/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T08:12:20+00:00",
-      "titre": "Arabie saoudite, budget, programme économique du RN... Le \"8h30 franceinfo\" d'Aleksandar Nikolic",
-      "dek": "Le député européen et porte-parole du Rassemblement national était l'invité du \"8h30 franceinfo\", mardi 25 août 2026.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/arabie-saoudite-budget-programme-economique-du-rn-le-8h30-franceinfo-d-aleksandar-nikolic_8076371.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T08:02:08+00:00",
-      "titre": "Parcs d’attractions à Cergy-Pontoise : Florence Portelli, présidente déléguée LR de la région Île-de-France, salue \"une chance extraordinaire\" pour le Val-d’Oise",
-      "dek": "Emmanuel Macron a reçu le prince héritier saoudien pour une visite consacrée aux crises du Moyen-Orient et aussi au rapprochement économique, avec un projet \"colossal\" financé par Riyad pour créer trois parcs d'attractions près de Paris.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/emmanuel-macron/parcs-d-attractions-a-cergy-pontoise-florence-portelli-presidente-deleguee-lr-de-la-region-ile-de-france-salue-une-chance-extraordinaire-pour-le-val-d-oise_8160533.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T07:16:16+00:00",
-      "titre": "« Au terme d’un été marqué par les canicules répétées et les incendies ravageurs, la prise de conscience est encore faible et l’impréparation totale »",
-      "dek": "Judith Rainhorn, spécialiste de l’histoire environnementale, déplore, dans une tribune au « Monde », l’incapacité des responsables politiques à faire face à l’urgence climatique et appelle à « politiser les désastres ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/08/25/au-terme-d-un-ete-marque-par-les-canicules-repetees-et-les-incendies-ravageurs-la-prise-de-conscience-est-encore-faible-et-l-impreparation-totale_6756364_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T06:51:30+00:00",
-      "titre": "Emmanuel Macron et le prince saoudien Mohammed Ben Salmane signent un accord pour créer trois parcs d'attractions aux portes de Paris",
-      "dek": "Lundi 24 août, la France et l'Arabie saoudite ont signé un accord pour un investissement de 6 milliards d'euros, avec à la clé 22 000 emplois potentiels dans le Val-d'Oise, où doivent être construits trois parcs d'attractions.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/france/ile-de-france/val-d-oise/emmanuel-macron-et-le-prince-saoudien-mohammed-ben-salmane-signent-un-accord-pour-creer-trois-parcs-d-attractions-aux-portes-de-paris_8160491.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T06:44:54+00:00",
-      "titre": "EDITO. Budget, déficit et présidentielle : l'échec du macronisme et des \"raisonnables\" ?",
-      "dek": "Le macronisme était censé incarner le camp de la rationalité économique et de la crédibilité européenne. Mais avec le creusement de la dette, ce sont les extrêmes qui sortent renforcés.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-budget-deficit-et-presidentielle-l-echec-du-macronisme-et-des-raisonnables_8076317.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T06:44:17+00:00",
-      "titre": "Aude: un village quasiment détruit par une tornade",
-      "dek": "La tornade qui a touché l’Aude lundi après-midi a provoqué d’énormes dégâts dans le village de Pomas, où 41 personnes ont été blessées, dont 15 sont hospitalisées, et 300 maisons endommagées.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/ecologie/250826/aude-un-village-quasiment-detruit-par-une-tornade"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "25 Aug 2026",
-      "date_iso": "2026-08-25T06:21:25+00:00",
-      "titre": "Budget 2027 : l'éternel débat autour de l'indexation des retraites",
-      "dek": "Le budget 2027 est déjà au centre des débats de la pré-rentrée, avec la confirmation de Roland Lescure, lundi, de suivre la piste d'une désindexation partielle des retraites l'an prochain. Mais qui serait concerné ?",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/budget-2027-l-eternel-debat-autour-de-l-indexation-des-retraites_8134154.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
