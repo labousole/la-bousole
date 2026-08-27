@@ -85,6 +85,12 @@ const CANDIDATS = [
 ];
 
 const DOSSIERS = [
+    {
+    titre: "L'hôpital français est-il en train de s'effondrer ?",
+    dek: "D'un côté : « notre système de santé s'effondre ». De l'autre : « la France a l'un des meilleurs systèmes de santé au monde ».",
+    date: "Dossier de vérification",
+    lien: "dossiers/lhopital_français.html",
+  },
   {
     titre: "Le travail paie-t-il encore en France ?",
     dek: "Salaires, inflation, pouvoir d'achat : ce dossier confronte les affirmations les plus courantes du débat aux données Insee, sans nier que les salaires progressent, sans avaler l'idée que tout irait donc bien.",
