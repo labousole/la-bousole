@@ -71,6 +71,7 @@ const CANDIDATS = [
   { nom: "Gabriel Attal", parti: "Renaissance", bloc: "c", statut: "déclaré", note: "Président du parti présidentiel." },
   { nom: "Édouard Philippe", parti: "Horizons", bloc: "c", statut: "déclaré", note: "L'un des candidats les plus précoces de cette élection." },
   { nom: "Bruno Retailleau", parti: "LR", bloc: "d", statut: "déclaré", note: "Peine encore à rassembler toute sa famille politique." },
+  { nom: "Xavier Bertrand", parti: "LR", bloc: "d", statut: "pressenti", note: "Se prépare, se prépare." },
   { nom: "David Lisnard", parti: "Nouvelle Énergie", bloc: "d", statut: "déclaré", note: "Appelle à une primaire de toute la droite." },
   { nom: "Nicolas Dupont-Aignan", parti: "DLF", bloc: "d", statut: "déclaré", note: "Prêt à se retirer pour l'union nationaliste." },
   { nom: "Marine Le Pen", parti: "RN", bloc: "ed", statut: "déclarée", note: "Candidate malgré la peine prononcée en première instance." },
