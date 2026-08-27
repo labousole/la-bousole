@@ -75,7 +75,7 @@ const CANDIDATS = [
   { nom: "Nicolas Dupont-Aignan", parti: "DLF", bloc: "d", statut: "déclaré", note: "Prêt à se retirer pour l'union nationaliste." },
   { nom: "Marine Le Pen", parti: "RN", bloc: "ed", statut: "déclarée", note: "Candidate malgré la peine prononcée en première instance." },
   { nom: "François Asselineau", parti: "UPR", bloc: "ed", statut: "déclaré", note: "Candidat sans interruption depuis 2012." },
-  { nom: "Raphaël Glucksmann", parti: "Place Publique", bloc: "g", statut: "pressenti", note: "Pas encore officialisé sa candidature." },
+  { nom: "Raphaël Glucksmann", parti: "Place Publique", bloc: "g", statut: "déclaré", note: "Candidate à la primaire socialiste, Vive la Fraaaaaaance." },
   { nom: "François Hollande", parti: "PS", bloc: "g", statut: "pressenti", note: "Prépare son retour en coulisses, sans passer par la primaire." },
   { nom: "Olivier Faure", parti: "PS", bloc: "g", statut: "pressenti", note: "En désaccord ouvert avec Boris Vallaud sur la stratégie." },
   { nom: "Boris Vallaud", parti: "PS", bloc: "g", statut: "pressenti", note: "Président du groupe socialiste à l'Assemblée." },
