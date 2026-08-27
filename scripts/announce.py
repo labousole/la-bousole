@@ -21,6 +21,7 @@ MESSAGE_BODY = (
     "Retrouvez-nous sur La Boussole : actualité politique, panorama des "
     "partis et des candidats en vue de la présidentielle 2027 — ligne "
     "éditoriale assumée à gauche, sans exclure personne du paysage."
+    "Retrouver nos dossiers Enquêtes & vérification sur https://labousole.github.io/la-bousole/, immigration, l'hôpital, les salaires..."
 )
 
 
