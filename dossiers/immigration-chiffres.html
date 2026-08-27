@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>La Boussole — Dossier : Immigration, ce que disent vraiment les chiffres</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;600;700;900&family=Source+Sans+3:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#E9E5D9;
+    --paper-deep:#DFDACB;
+    --ink:#1E2A33;
+    --ink-soft:#4A5560;
+    --line:#C7C0AC;
+    --verified:#2F6D4F;
+    --caution:#B8792B;
+    --red:#A3312B;
+    --blue:#2F4858;
+    --card:#F4F2EA;
+    --shadow: 0 1px 0 rgba(30,42,51,0.06);
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Source Sans 3', sans-serif;
+    font-size:17px;
+    line-height:1.6;
+  }
+  ::selection{background:var(--caution); color:#fff;}
+  h1,h2,h3,h4{font-family:'Zilla Slab', serif; margin:0; color:var(--ink);}
+  .mono{font-family:'IBM Plex Mono', monospace;}
+  a{color:var(--blue);}
+
+  /* ---------- HERO ---------- */
+  .hero{
+    position:relative;
+    min-height:92vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    padding:6vw 8vw;
+    background:
+      radial-gradient(1200px 600px at 85% -10%, rgba(163,49,43,0.06), transparent 60%),
+      var(--paper);
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+  }
+  .hero::before{
+    content:"";
+    position:absolute; inset:14px;
+    border:1px solid var(--line);
+    pointer-events:none;
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    font-size:.78rem;
+    color:var(--ink-soft);
+    display:flex; align-items:center; gap:.6em;
+    margin-bottom:1.6rem;
+  }
+  .eyebrow .dot{width:7px;height:7px;border-radius:50%;background:var(--red);display:inline-block;}
+  .hero h1{
+    font-size:clamp(2.4rem, 6vw, 5rem);
+    font-weight:900;
+    line-height:0.98;
+    letter-spacing:-0.01em;
+    max-width:16ch;
+  }
+  .hero .sub{
+    margin-top:1.6rem;
+    max-width:52ch;
+    font-size:1.15rem;
+    color:var(--ink-soft);
+  }
+  .stamp{
+    position:absolute;
+    top:8vw; right:9vw;
+    border:3px solid var(--red);
+    color:var(--red);
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:700;
+    text-transform:uppercase;
+    padding:.5em .9em;
+    transform:rotate(9deg);
+    font-size:.85rem;
+    letter-spacing:.08em;
+    border-radius:3px;
+    opacity:.85;
+  }
+  .hero-meta{
+    margin-top:3rem;
+    display:flex; gap:2.5rem; flex-wrap:wrap;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.8rem;
+    color:var(--ink-soft);
+    border-top:1px solid var(--line);
+    padding-top:1.2rem;
+    max-width:640px;
+  }
+  .hero-meta span b{color:var(--ink); display:block; font-size:.95rem; margin-top:.2rem;}
+
+  /* ---------- NAV ---------- */
+  nav.tabs{
+    position:sticky; top:0; z-index:50;
+    display:flex; overflow-x:auto;
+    background:var(--paper-deep);
+    border-bottom:1px solid var(--line);
+    padding:0 2vw;
+    scrollbar-width:thin;
+  }
+  nav.tabs a{
+    flex:0 0 auto;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.78rem;
+    color:var(--ink-soft);
+    text-decoration:none;
+    padding:.9em 1em;
+    border-right:1px solid var(--line);
+    white-space:nowrap;
+  }
+  nav.tabs a:hover{color:var(--ink); background:var(--card);}
+
+  /* ---------- SECTIONS ---------- */
+  section{padding:5rem 8vw; max-width:1100px; margin:0 auto;}
+  section.wide{max-width:1300px;}
+  .section-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.78rem; letter-spacing:.12em; text-transform:uppercase;
+    color:var(--ink-soft); margin-bottom:.8rem; display:block;
+  }
+  .lede{font-size:1.25rem; max-width:64ch; color:var(--ink-soft); font-weight:400;}
+  .lede strong{color:var(--ink);}
+
+  /* ---------- CLAIM CARDS ---------- */
+  .claim{
+    position:relative;
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:2px;
+    margin-top:3rem;
+    box-shadow:var(--shadow);
+  }
+  .claim-head{
+    padding:2rem 2.2rem 1.4rem;
+    border-bottom:1px dashed var(--line);
+    display:flex; gap:1.2rem; align-items:baseline;
+  }
+  .claim-num{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.95rem; color:var(--ink-soft); flex:0 0 auto;
+    padding-top:.3rem;
+  }
+  .claim-head h3{
+    font-size:clamp(1.3rem,2.4vw,1.7rem);
+    font-style:italic;
+    font-weight:600;
+    line-height:1.25;
+  }
+  .claim-body{padding:1.6rem 2.2rem 2.2rem; display:grid; gap:1.4rem;}
+  .box{
+    padding:1.3rem 1.5rem;
+    border-left:3px solid var(--line);
+    background:rgba(30,42,51,0.02);
+  }
+  .box .box-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.72rem; letter-spacing:.1em; text-transform:uppercase;
+    color:var(--ink-soft); margin-bottom:.5rem; display:block;
+  }
+  .box.data{border-left-color:var(--blue);}
+  .box.rn{border-left-color:var(--red);}
+  .box ul{margin:.4rem 0 0; padding-left:1.2rem;}
+  .box li{margin-bottom:.25rem;}
+
+  .verdict{
+    display:flex; align-items:center; gap:1rem; flex-wrap:wrap;
+    padding-top:.3rem;
+  }
+  .badge{
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:700; text-transform:uppercase; font-size:.75rem;
+    letter-spacing:.08em;
+    border:2px solid currentColor;
+    padding:.45em .8em;
+    border-radius:3px;
+    transform:rotate(-3deg);
+    display:inline-block;
+  }
+  .badge.caution{color:var(--caution);}
+  .badge.red{color:var(--red);}
+  .badge.blue{color:var(--blue);}
+  .verdict p{margin:0; color:var(--ink-soft); font-size:.98rem;}
+
+  /* ---------- IDEOLOGY / QUOTE BLOCKS ---------- */
+  .twocol{display:grid; grid-template-columns:1fr 1fr; gap:2.5rem; margin-top:2.5rem;}
+  @media (max-width:760px){.twocol{grid-template-columns:1fr;}}
+  .speech-card{
+    padding:1.8rem; border:1px solid var(--line); background:var(--card);
+  }
+  .speech-card .who{
+    font-family:'IBM Plex Mono', monospace; font-size:.75rem; text-transform:uppercase;
+    letter-spacing:.1em; color:var(--ink-soft); margin-bottom:.8rem; display:block;
+  }
+  .speech-card p{font-style:italic; font-size:1.08rem; margin:0;}
+
+  blockquote.pull{
+    font-family:'Zilla Slab', serif;
+    font-weight:700;
+    font-size:clamp(1.4rem,3vw,2.1rem);
+    line-height:1.35;
+    margin:2.5rem 0;
+    padding-left:1.5rem;
+    border-left:4px solid var(--red);
+  }
+
+  /* ---------- CHARTS ---------- */
+  .chart-grid{display:grid; grid-template-columns:1fr 1fr; gap:3rem; margin-top:2.5rem;}
+  @media (max-width:800px){.chart-grid{grid-template-columns:1fr;}}
+  .chart{border:1px solid var(--line); background:var(--card); padding:1.6rem 1.8rem;}
+  .chart h4{font-size:1.02rem; margin-bottom:.2rem;}
+  .chart .src{font-family:'IBM Plex Mono', monospace; font-size:.7rem; color:var(--ink-soft); margin-bottom:1.2rem; display:block;}
+  .bar-row{display:grid; grid-template-columns:11rem 1fr 3.4rem; align-items:center; gap:.7rem; margin-bottom:.65rem;}
+  .bar-row .lbl{font-size:.85rem; color:var(--ink-soft);}
+  .bar-track{background:rgba(30,42,51,0.07); height:14px; border-radius:2px; overflow:hidden;}
+  .bar-fill{height:100%; background:var(--blue);}
+  .bar-fill.alt{background:var(--red);}
+  .bar-row .val{font-family:'IBM Plex Mono', monospace; font-size:.82rem; text-align:right;}
+
+  /* ---------- POSITION COLUMNS ---------- */
+  .cols3{display:grid; grid-template-columns:repeat(3,1fr); gap:1.6rem; margin-top:2.5rem;}
+  @media (max-width:840px){.cols3{grid-template-columns:1fr;}}
+  .col{border:1px solid var(--line); background:var(--card); padding:1.6rem;}
+  .col h4{font-family:'IBM Plex Mono', monospace; font-size:.85rem; text-transform:uppercase; letter-spacing:.08em; color:var(--verified); margin-bottom:1rem;}
+  .col ul{margin:0; padding-left:1.1rem;}
+  .col li{margin-bottom:.4rem; font-size:.95rem;}
+
+  /* ---------- SOURCES / FOOTER ---------- */
+  .sources ul{list-style:none; margin:2rem 0 0; padding:0; display:grid; gap:.9rem;}
+  .sources li{border-bottom:1px dashed var(--line); padding-bottom:.9rem;}
+  .sources .src-name{font-weight:600;}
+  .sources .src-detail{color:var(--ink-soft); font-size:.92rem;}
+
+  footer{
+    padding:3rem 8vw; border-top:1px solid var(--line);
+    font-family:'IBM Plex Mono', monospace; font-size:.78rem; color:var(--ink-soft);
+    display:flex; justify-content:space-between; flex-wrap:wrap; gap:1rem;
+  }
+
+  .note{
+    font-size:.9rem; color:var(--ink-soft); margin-top:1.2rem;
+    padding:.9rem 1.1rem; border:1px dashed var(--line); background:rgba(30,42,51,0.02);
+  }
+
+  @media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto;} }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="stamp">Dossier n°01</div>
+  <div class="eyebrow"><span class="dot"></span> La Boussole — Vérification</div>
+  <h1>Immigration : ce que disent vraiment les chiffres</h1>
+  <p class="sub">Le discours du RN sur l'immigration prend au sérieux, affirmation par affirmation, avec les données disponibles — sans nier les problèmes réels, sans avaler les raccourcis.</p>
+  <div class="hero-meta">
+    <span>Méthode <b>10 affirmations, vérifiées une à une</b></span>
+    <span>Sources <b>Insee · SSMSI · Institut Montaigne · Public Sénat</b></span>
+    <span>Verdicts <b>À nuancer / Caricature / Problème réel</b></span>
+  </div>
+</header>
+
+<nav class="tabs">
+  <a href="#intro">Édito</a>
+  <a href="#c1">01</a>
+  <a href="#c2">02</a>
+  <a href="#c3">03</a>
+  <a href="#c4">04</a>
+  <a href="#c5">05</a>
+  <a href="#c6">06</a>
+  <a href="#c7">07</a>
+  <a href="#c8">08</a>
+  <a href="#c9">09</a>
+  <a href="#c10">10</a>
+  <a href="#synthese">Synthèse</a>
+  <a href="#ideologie">Le cœur idéologique</a>
+  <a href="#vote">Vote &amp; déclassement</a>
+  <a href="#position">Notre position</a>
+  <a href="#sources">Sources</a>
+</nav>
+
+<section id="intro">
+  <span class="section-label">Éditorial</span>
+  <p class="lede">Ce dossier n'est pas un article qui affirme que <strong>le RN ment</strong>. C'est un dossier qui prend son discours sur l'immigration <strong>au sérieux</strong>, vérifie chaque affirmation avec les données disponibles, reconnaît les problèmes lorsqu'ils existent, puis montre ce que ces chiffres permettent — ou ne permettent pas — réellement de conclure.</p>
+  <p class="lede" style="margin-top:1rem;">Les difficultés des classes populaires méritent des réponses. Mais expliquer ces difficultés principalement par l'immigration risque de détourner le débat des questions de salaires, de logement, de redistribution, de services publics et de partage de la richesse.</p>
+</section>
+
+<section id="c1">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">01 / 10</span>
+      <h3>« La France est submergée par l'immigration »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box rn">
+        <span class="box-label">🗣️ Ce que dit le RN</span>
+        Le RN parle régulièrement de « submersion migratoire » et propose une réduction drastique de l'immigration légale et illégale. Lors des législatives de 2024, Jordan Bardella proposait notamment de réduire drastiquement l'immigration et d'expulser les délinquants étrangers.
+      </div>
+      <div class="box data">
+        <span class="box-label">📊 Ce que disent les données — Insee, 2025</span>
+        La France compte 7,97 millions d'immigrés, soit 11,6 % de la population. 6,30 millions de personnes sont étrangères, soit 9,1 %.
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 Réalité + exagération</span>
+        <p>L'immigration est importante et sa proportion augmente. Mais « submersion » n'est pas une catégorie statistique — 11,6 % ne permet pas de qualifier la France de pays « submergé ».</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c2">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">02 / 10</span>
+      <h3>« L'immigration explose »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Entrées d'immigrés en France — Insee, flux migratoires</span>
+        <div class="bar-row"><span class="lbl">2019</span><div class="bar-track"><div class="bar-fill" style="width:76%"></div></div><span class="val">307 000</span></div>
+        <div class="bar-row"><span class="lbl">2020</span><div class="bar-track"><div class="bar-fill" style="width:61%"></div></div><span class="val">246 000</span></div>
+        <div class="bar-row"><span class="lbl">2021</span><div class="bar-track"><div class="bar-fill" style="width:70%"></div></div><span class="val">283 000</span></div>
+        <div class="bar-row"><span class="lbl">2022</span><div class="bar-track"><div class="bar-fill alt" style="width:93%"></div></div><span class="val">375 000</span></div>
+        <div class="bar-row"><span class="lbl">2023</span><div class="bar-track"><div class="bar-fill" style="width:86%"></div></div><span class="val">347 000</span></div>
+        <div class="bar-row"><span class="lbl">2024</span><div class="bar-track"><div class="bar-fill" style="width:78%"></div></div><span class="val">313 000</span></div>
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 Hausse réelle, formulation trompeuse</span>
+        <p>Les flux sont importants et supérieurs à ceux d'il y a vingt ans. Mais « explosion continue » ne correspond pas à la série : 2024 revient à un niveau proche de 2019, après un pic en 2022.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c3">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">03 / 10</span>
+      <h3>« Les immigrés viennent profiter des aides »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box rn">
+        <span class="box-label">🗣️ Ce que dit le RN</span>
+        La « priorité nationale » prévoit de réserver certaines prestations aux Français et de conditionner l'accès à certaines prestations sociales pour les étrangers à plusieurs années de travail en France. L'Institut Montaigne estime que ces mesures pourraient représenter plusieurs milliards d'euros d'économies annuelles.
+      </div>
+      <div class="box data">
+        <span class="box-label">📊 Ce que disent les données — Insee, 2025</span>
+        La population immigrée est extrêmement diverse : travailleurs, étudiants, personnes rejoignant leur famille, réfugiés, diplômés, personnes peu qualifiées. <strong>33 % des immigrés ont acquis la nationalité française</strong> — ils sont donc juridiquement français. L'immigration de travail contribue par ailleurs aux cotisations et aux impôts.
+        <ul>
+          <li>Travailleurs</li><li>Étudiants</li><li>Regroupement familial</li><li>Réfugiés</li><li>Diplômés et peu qualifiés, sans distinction unique</li>
+        </ul>
+      </div>
+      <div class="verdict">
+        <span class="badge red">🔴 Caricature</span>
+        <p>Il existe des immigrés bénéficiaires de prestations, mais « immigré = personne vivant des aides » n'est pas une description statistique sérieuse.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c4">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">04 / 10</span>
+      <h3>« Les étrangers prennent les emplois des Français »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Ce que disent les données</span>
+        Les immigrés travaillent dans l'industrie, la santé, le bâtiment, la restauration, les services, l'informatique, la recherche. Des phénomènes de concurrence existent dans certains métiers, mais le marché du travail ne se résume pas à « Français contre étrangers » — il faut aussi parler de qualification, de salaire, de pénuries de main-d'œuvre, de conditions de travail, de chômage et de désindustrialisation.
+      </div>
+      <div class="verdict">
+        <span class="badge red">🔴 Simplification</span>
+        <p>Un raccourci qui écrase des dynamiques sectorielles bien plus complexes.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c5">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">05 / 10</span>
+      <h3>« Immigration = insécurité »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Ce que disent les données — Ministère de l'Intérieur, 2025</span>
+        Les étrangers représentent environ 9 % de la population résidente, mais environ 37 % des mis en cause pour vols dans les véhicules, 36 % pour les cambriolages, 33 % pour les vols violents sans arme.
+      </div>
+      <div class="box">
+        <span class="box-label">Ce qu'il faut garder en tête</span>
+        <strong>Mis en cause ≠ condamné</strong>, et <strong>étranger ≠ immigré</strong>. Il faut aussi tenir compte de l'âge, du sexe, de la situation sociale, du territoire et de la structure démographique.
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 Fait réel, conclusion excessive</span>
+        <p>La surreprésentation existe dans certaines statistiques ; elle ne permet pas de conclure que l'immigration est la cause générale de l'insécurité.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c6">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">06 / 10</span>
+      <h3>« L'immigration coûte des milliards »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="twocol" style="margin-top:0;">
+        <div class="box">
+          <span class="box-label">Dépenses</span>
+          <ul><li>Prestations</li><li>Santé</li><li>École</li><li>Logement</li><li>Administration, accueil, asile</li></ul>
+        </div>
+        <div class="box data">
+          <span class="box-label">Mais aussi recettes</span>
+          <ul><li>Impôts, cotisations, TVA</li><li>Activité économique</li><li>Consommation</li><li>Entreprises et travail</li></ul>
+        </div>
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 À contextualiser</span>
+        <p>Un chiffre unique doit toujours préciser la définition du coût, la période, la population étudiée, les recettes prises en compte et la méthode de calcul.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c7">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">07 / 10</span>
+      <h3>« Les immigrés sont majoritairement peu qualifiés »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Ce que disent les données — Insee, 2025</span>
+        Les profils sont extrêmement variés : étudiants, ingénieurs, chercheurs, médecins, cadres, ouvriers, employés, personnes sans qualification. Les immigrés représentent 11,6 % de la population française, mais leur structure démographique diffère de l'ensemble de la population : les 25-54 ans représentent 51,5 % des immigrés, contre 47,9 % des étrangers. Les flux d'entrée comprennent notamment des étudiants et des personnes diplômées.
+      </div>
+      <div class="verdict">
+        <span class="badge red">🔴 Faux comme généralisation</span>
+        <p>Il existe une immigration peu qualifiée. Il existe aussi une immigration fortement diplômée. Les deux réalités coexistent.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c8">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">08 / 10</span>
+      <h3>« Les immigrés ne s'intègrent pas »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Ce que disent les données — 2024</span>
+        Chômage des immigrés : environ 11,6 %. Chômage des personnes sans ascendance migratoire directe : environ 6,3 %. Un écart réel existe.
+      </div>
+      <div class="box">
+        <span class="box-label">Causes à analyser</span>
+        <ul><li>Qualification, langue</li><li>Reconnaissance des diplômes</li><li>Discriminations</li><li>Âge, sexe, territoire</li><li>Réseaux professionnels, origine sociale</li></ul>
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 Problème réel, généralisation abusive</span>
+        <p>Et surtout : les descendants d'immigrés ne sont pas des immigrés.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c9">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">09 / 10</span>
+      <h3>« Il faut donner la priorité aux Français »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box">
+        <span class="box-label">À interroger, pas à trancher par les chiffres</span>
+        La priorité nationale est un choix politique et juridique — pas une simple conséquence des statistiques. Une personne peut être née à l'étranger, devenir française, vivre en France depuis 30 ans, travailler et cotiser depuis 20 ans, avoir des enfants français. En 2025, <strong>2,625 millions d'immigrés ont acquis la nationalité française</strong> : la distinction « Français / immigré » devient alors beaucoup moins nette que le débat politique ne le laisse parfois entendre.
+      </div>
+      <div class="verdict">
+        <span class="badge blue">🔵 Question politique</span>
+        <p>À partir de quel moment devient-on pleinement français ?</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c10">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">10 / 10</span>
+      <h3>« L'immigration explique le déclassement »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Chômage par catégorie professionnelle — 2024</span>
+        Cadres 3,9 % · Professions intermédiaires 5 % · Employés 8,8 % · Ouvriers 10,8 % · Ouvriers peu qualifiés 16,8 %. La position sociale et le niveau de qualification jouent déjà un rôle considérable dans les difficultés économiques.
+      </div>
+      <div class="verdict">
+        <span class="badge red">🔴 Réduction excessive</span>
+        <p>Quand un ouvrier est mal payé, est-ce uniquement l'immigration — ou faut-il aussi parler de salaires, désindustrialisation, logement, mondialisation, automatisation, fiscalité et rapport de force entre salariés et employeurs ?</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="synthese">
+  <span class="section-label">Synthèse</span>
+  <h2 style="font-size:clamp(1.5rem,2.8vw,2rem); max-width:26ch;">Ce que les chiffres permettent réellement de dire</h2>
+  <div class="box" style="margin-top:2rem; overflow-x:auto;">
+    <table style="width:100%; border-collapse:collapse; font-size:.92rem;">
+      <thead>
+        <tr style="text-align:left; border-bottom:1px solid var(--line);">
+          <th style="padding:.6rem .8rem .6rem 0;">Affirmation</th>
+          <th style="padding:.6rem .8rem;">Données</th>
+          <th style="padding:.6rem 0 .6rem .8rem;">Notre lecture</th>
+        </tr>
+      </thead>
+      <tbody class="mono" style="font-family:'IBM Plex Mono', monospace; font-size:.82rem;">
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« L'immigration augmente »</td><td style="padding:.6rem .8rem;">✅ Oui</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--verified);">VRAI</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« La France est submergée »</td><td style="padding:.6rem .8rem;">⚠️ 11,6 % d'immigrés</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--caution);">Formulation politique, pas statistique</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« Les étrangers sont surreprésentés dans certaines infractions »</td><td style="padding:.6rem .8rem;">✅ Oui</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--verified);">VRAI</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« Immigration = insécurité »</td><td style="padding:.6rem .8rem;">❌ Causalité non démontrée</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--red);">Raccourci</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« Les immigrés vivent principalement des aides »</td><td style="padding:.6rem .8rem;">❌ Population très diverse</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--red);">Caricature</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« Les immigrés sont tous peu qualifiés »</td><td style="padding:.6rem .8rem;">❌ Profils très différents</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--red);">Faux</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« L'immigration coûte X milliards »</td><td style="padding:.6rem .8rem;">⚠️ Dépend du calcul</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--caution);">À contextualiser</td></tr>
+        <tr><td style="padding:.6rem .8rem .6rem 0;">« L'immigration explique le déclassement populaire »</td><td style="padding:.6rem .8rem;">❌ Causes multiples</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--red);">Réduction excessive</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="wide" id="charts">
+  <span class="section-label">En chiffres</span>
+  <h2 style="font-size:clamp(1.6rem,3vw,2.2rem); max-width:20ch;">Les données citées dans ce dossier</h2>
+  <div class="chart-grid">
+    <div class="chart">
+      <h4>Taux de chômage par catégorie professionnelle</h4>
+      <span class="src mono">Insee, 2024</span>
+      <div class="bar-row"><span class="lbl">Cadres</span><div class="bar-track"><div class="bar-fill" style="width:23%"></div></div><span class="val">3,9 %</span></div>
+      <div class="bar-row"><span class="lbl">Prof. intermédiaires</span><div class="bar-track"><div class="bar-fill" style="width:30%"></div></div><span class="val">5,0 %</span></div>
+      <div class="bar-row"><span class="lbl">Employés</span><div class="bar-track"><div class="bar-fill" style="width:52%"></div></div><span class="val">8,8 %</span></div>
+      <div class="bar-row"><span class="lbl">Ouvriers</span><div class="bar-track"><div class="bar-fill" style="width:64%"></div></div><span class="val">10,8 %</span></div>
+      <div class="bar-row"><span class="lbl">Ouvriers peu qualifiés</span><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="val">16,8 %</span></div>
+    </div>
+    <div class="chart">
+      <h4>Chômage : immigrés vs sans ascendance migratoire</h4>
+      <span class="src mono">Insee, 2024</span>
+      <div class="bar-row"><span class="lbl">Immigrés</span><div class="bar-track"><div class="bar-fill alt" style="width:100%"></div></div><span class="val">11,6 %</span></div>
+      <div class="bar-row"><span class="lbl">Sans ascendance migratoire</span><div class="bar-track"><div class="bar-fill" style="width:54%"></div></div><span class="val">6,3 %</span></div>
+      <p class="note">Écart réel — dont les causes restent à décomposer (qualification, discrimination, territoire…).</p>
+    </div>
+    <div class="chart">
+      <h4>Part des étrangers parmi les mis en cause</h4>
+      <span class="src mono">Ministère de l'Intérieur / SSMSI, 2025</span>
+      <div class="bar-row"><span class="lbl">Population résidente</span><div class="bar-track"><div class="bar-fill" style="width:24%"></div></div><span class="val">9 %</span></div>
+      <div class="bar-row"><span class="lbl">Vols dans véhicules</span><div class="bar-track"><div class="bar-fill alt" style="width:100%"></div></div><span class="val">37 %</span></div>
+      <div class="bar-row"><span class="lbl">Cambriolages</span><div class="bar-track"><div class="bar-fill alt" style="width:97%"></div></div><span class="val">36 %</span></div>
+      <div class="bar-row"><span class="lbl">Vols violents sans arme</span><div class="bar-track"><div class="bar-fill alt" style="width:89%"></div></div><span class="val">33 %</span></div>
+      <p class="note">Mis en cause ≠ condamné. Étranger ≠ immigré. Lecture à croiser avec âge, sexe et territoire.</p>
+    </div>
+    <div class="chart">
+      <h4>D'autres graphiques à intégrer</h4>
+      <span class="src mono">Prochaine itération</span>
+      <p style="font-size:.92rem; color:var(--ink-soft); margin-top:.5rem;">Répartition par motif d'arrivée, évolution des titres de séjour, vote RN selon diplôme et catégorie sociale — dès que les séries de données correspondantes sont réunies (Insee, Ipsos, Ifop, Cevipof).</p>
+    </div>
+  </div>
+</section>
+
+<section id="ideologie">
+  <span class="section-label">Le cœur idéologique</span>
+  <h2 style="font-size:clamp(1.6rem,3vw,2.2rem); max-width:22ch;">Transformer une question économique en question identitaire</h2>
+  <div class="twocol">
+    <div class="speech-card">
+      <span class="who">Ce que dit un salarié</span>
+      <p>« Je travaille mais je n'arrive plus à vivre correctement. »</p>
+    </div>
+    <div class="speech-card">
+      <span class="who">Lecture économique</span>
+      <p>Pourquoi son salaire est-il faible, pourquoi le logement est-il cher, pourquoi les services publics se dégradent-ils, comment les richesses sont-elles réparties ?</p>
+    </div>
+  </div>
+  <blockquote class="pull">« Les élites vous ont abandonnés, et l'immigration prend une partie des ressources qui devraient vous revenir. »</blockquote>
+  <p class="lede">Les deux discours répondent au même sentiment de déclassement, mais désignent des responsables différents. Le discours du RN sélectionne des phénomènes réels, les généralise, les relie entre eux, puis propose une explication centrée sur l'immigration et l'identité — ce qui mérite d'être pris au sérieux intellectuellement, plutôt que balayé comme simple mensonge.</p>
+</section>
+
+<section id="vote">
+  <span class="section-label">Vote &amp; déclassement</span>
+  <h2 style="font-size:clamp(1.6rem,3vw,2.2rem); max-width:24ch;">Le paradoxe du vote populaire</h2>
+  <p class="lede">Une partie des classes populaires vote davantage pour l'extrême droite alors que la gauche défend historiquement redistribution, services publics, protection sociale, droits des travailleurs, hausse des salaires et réduction des inégalités. Un vote n'est pas un calcul : il se joue aussi sur l'identité, le sentiment d'appartenance, la sécurité, les valeurs, le ressentiment et la confiance dans les institutions.</p>
+  <div class="box" style="margin-top:2rem; max-width:70ch;">
+    <span class="box-label">Niveau d'éducation et vote</span>
+    La bonne question n'est pas « les gens de droite sont-ils moins intelligents » — intellectuellement faible et politiquement contre-productif. Elle est : pourquoi le diplôme, la profession, le milieu social et le territoire sont-ils associés à des comportements électoraux différents ? À documenter avec des données Insee, Ipsos, Ifop et Cevipof.
+  </div>
+</section>
+
+<section id="position" class="wide">
+  <span class="section-label">Notre position</span>
+  <h2 style="font-size:clamp(1.6rem,3vw,2.2rem); max-width:26ch;">Une gauche qui ne nie pas les problèmes</h2>
+  <p class="lede">Une politique migratoire ne remplacera jamais une politique sociale.</p>
+  <div class="cols3">
+    <div class="col">
+      <h4>Immigration</h4>
+      <ul>
+        <li>Contrôle des frontières</li>
+        <li>Lutte contre les filières clandestines</li>
+        <li>Politique d'asile fonctionnelle</li>
+        <li>Intégration, apprentissage du français</li>
+        <li>Respect des lois</li>
+      </ul>
+    </div>
+    <div class="col">
+      <h4>Sécurité</h4>
+      <ul>
+        <li>Lutte contre la délinquance</li>
+        <li>Moyens pour la police</li>
+        <li>Justice efficace</li>
+        <li>Prévention</li>
+        <li>Présence de l'État dans les territoires</li>
+      </ul>
+    </div>
+    <div class="col">
+      <h4>Économie</h4>
+      <ul>
+        <li>Meilleurs salaires</li>
+        <li>Logement accessible</li>
+        <li>Services publics, école, santé</li>
+        <li>Réindustrialisation</li>
+        <li>Redistribution, pouvoir des travailleurs</li>
+      </ul>
+    </div>
+  </div>
+  <blockquote class="pull">« Lutter contre l'extrême droite ne signifie pas nier les problèmes qu'elle met en avant. Cela signifie refuser qu'elle transforme tous les problèmes en un seul : l'immigration. »</blockquote>
+  <p class="lede">Pourquoi un travailleur qui produit de la richesse ne peut-il plus toujours vivre correctement de son travail ? Qui possède la richesse ? Qui la produit ? Comment est-elle partagée ?</p>
+</section>
+
+<section id="sources" class="sources">
+  <span class="section-label">Sources envisagées</span>
+  <h2 style="font-size:clamp(1.4rem,2.6vw,1.8rem);">Privilégier les sources primaires</h2>
+  <ul>
+    <li><span class="src-name">Insee</span><br><span class="src-detail">Population immigrée et étrangère · flux migratoires · emploi/chômage · immigrés et descendants d'immigrés</span></li>
+    <li><span class="src-name">Ministère de l'Intérieur / SSMSI</span><br><span class="src-detail">Délinquance 2025 · personnes mises en cause · données par nationalité</span></li>
+    <li><span class="src-name">Institut Montaigne</span><br><span class="src-detail">Programme économique et migratoire du RN</span></li>
+    <li><span class="src-name">Public Sénat</span><br><span class="src-detail">Programme du RN aux législatives 2024</span></li>
+  </ul>
+</section>
+
+<footer>
+  <span>La Boussole — Dossier de vérification, version de travail</span>
+  <span>Prochaine étape : graphiques manquants (motif d'arrivée, diplôme, titres de séjour, vote par diplôme/CSP) + mise en page PDF 15–25 pages</span>
+</footer>
+
+</body>
+</html>
