@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>La Boussole — Dossier : L'hôpital français est-il en train de s'effondrer ?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;600;700;900&family=Source+Sans+3:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#E9E5D9;
+    --paper-deep:#DFDACB;
+    --ink:#1E2A33;
+    --ink-soft:#4A5560;
+    --line:#C7C0AC;
+    --verified:#2F6D4F;
+    --caution:#B8792B;
+    --red:#A3312B;
+    --blue:#2F4858;
+    --card:#F4F2EA;
+    --shadow: 0 1px 0 rgba(30,42,51,0.06);
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Source Sans 3', sans-serif;
+    font-size:17px;
+    line-height:1.6;
+  }
+  ::selection{background:var(--caution); color:#fff;}
+  h1,h2,h3,h4{font-family:'Zilla Slab', serif; margin:0; color:var(--ink);}
+  .mono{font-family:'IBM Plex Mono', monospace;}
+  a{color:var(--blue);}
+
+  .hero{
+    position:relative;
+    min-height:92vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    padding:6vw 8vw;
+    background:
+      radial-gradient(1200px 600px at 85% -10%, rgba(163,49,43,0.06), transparent 60%),
+      var(--paper);
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+  }
+  .hero::before{
+    content:"";
+    position:absolute; inset:14px;
+    border:1px solid var(--line);
+    pointer-events:none;
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    font-size:.78rem;
+    color:var(--ink-soft);
+    display:flex; align-items:center; gap:.6em;
+    margin-bottom:1.6rem;
+  }
+  .eyebrow .dot{width:7px;height:7px;border-radius:50%;background:var(--red);display:inline-block;}
+  .hero h1{
+    font-size:clamp(2.2rem, 5.4vw, 4.6rem);
+    font-weight:900;
+    line-height:1.02;
+    letter-spacing:-0.01em;
+    max-width:20ch;
+  }
+  .hero .sub{
+    margin-top:1.6rem;
+    max-width:56ch;
+    font-size:1.15rem;
+    color:var(--ink-soft);
+  }
+  .stamp{
+    position:absolute;
+    top:8vw; right:9vw;
+    border:3px solid var(--red);
+    color:var(--red);
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:700;
+    text-transform:uppercase;
+    padding:.5em .9em;
+    transform:rotate(9deg);
+    font-size:.85rem;
+    letter-spacing:.08em;
+    border-radius:3px;
+    opacity:.85;
+  }
+  .hero-meta{
+    margin-top:3rem;
+    display:flex; gap:2.5rem; flex-wrap:wrap;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.8rem;
+    color:var(--ink-soft);
+    border-top:1px solid var(--line);
+    padding-top:1.2rem;
+    max-width:640px;
+  }
+  .hero-meta span b{color:var(--ink); display:block; font-size:.95rem; margin-top:.2rem;}
+
+  nav.tabs{
+    position:sticky; top:0; z-index:50;
+    display:flex; overflow-x:auto;
+    background:var(--paper-deep);
+    border-bottom:1px solid var(--line);
+    padding:0 2vw;
+    scrollbar-width:thin;
+  }
+  nav.tabs a{
+    flex:0 0 auto;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.78rem;
+    color:var(--ink-soft);
+    text-decoration:none;
+    padding:.9em 1em;
+    border-right:1px solid var(--line);
+    white-space:nowrap;
+  }
+  nav.tabs a:hover{color:var(--ink); background:var(--card);}
+
+  section{padding:5rem 8vw; max-width:1100px; margin:0 auto;}
+  section.wide{max-width:1300px;}
+  .section-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.78rem; letter-spacing:.12em; text-transform:uppercase;
+    color:var(--ink-soft); margin-bottom:.8rem; display:block;
+  }
+  .lede{font-size:1.25rem; max-width:64ch; color:var(--ink-soft); font-weight:400;}
+  .lede strong{color:var(--ink);}
+
+  .claim{
+    position:relative;
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:2px;
+    margin-top:3rem;
+    box-shadow:var(--shadow);
+  }
+  .claim-head{
+    padding:2rem 2.2rem 1.4rem;
+    border-bottom:1px dashed var(--line);
+    display:flex; gap:1.2rem; align-items:baseline;
+  }
+  .claim-num{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.95rem; color:var(--ink-soft); flex:0 0 auto;
+    padding-top:.3rem;
+  }
+  .claim-head h3{
+    font-size:clamp(1.3rem,2.4vw,1.7rem);
+    font-style:italic;
+    font-weight:600;
+    line-height:1.25;
+  }
+  .claim-body{padding:1.6rem 2.2rem 2.2rem; display:grid; gap:1.4rem;}
+  .box{
+    padding:1.3rem 1.5rem;
+    border-left:3px solid var(--line);
+    background:rgba(30,42,51,0.02);
+  }
+  .box .box-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.72rem; letter-spacing:.1em; text-transform:uppercase;
+    color:var(--ink-soft); margin-bottom:.5rem; display:block;
+  }
+  .box.data{border-left-color:var(--blue);}
+  .box.rn{border-left-color:var(--red);}
+  .box ul{margin:.4rem 0 0; padding-left:1.2rem;}
+  .box li{margin-bottom:.25rem;}
+
+  .verdict{
+    display:flex; align-items:center; gap:1rem; flex-wrap:wrap;
+    padding-top:.3rem;
+  }
+  .badge{
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:700; text-transform:uppercase; font-size:.75rem;
+    letter-spacing:.08em;
+    border:2px solid currentColor;
+    padding:.45em .8em;
+    border-radius:3px;
+    transform:rotate(-3deg);
+    display:inline-block;
+  }
+  .badge.caution{color:var(--caution);}
+  .badge.red{color:var(--red);}
+  .badge.blue{color:var(--blue);}
+  .badge.verified{color:var(--verified);}
+  .verdict p{margin:0; color:var(--ink-soft); font-size:.98rem;}
+
+  .twocol{display:grid; grid-template-columns:1fr 1fr; gap:2.5rem; margin-top:2.5rem;}
+  @media (max-width:760px){.twocol{grid-template-columns:1fr;}}
+  .speech-card{
+    padding:1.8rem; border:1px solid var(--line); background:var(--card);
+  }
+  .speech-card .who{
+    font-family:'IBM Plex Mono', monospace; font-size:.75rem; text-transform:uppercase;
+    letter-spacing:.1em; color:var(--ink-soft); margin-bottom:.8rem; display:block;
+  }
+  .speech-card p{font-style:italic; font-size:1.08rem; margin:0;}
+
+  blockquote.pull{
+    font-family:'Zilla Slab', serif;
+    font-weight:700;
+    font-size:clamp(1.4rem,3vw,2.1rem);
+    line-height:1.35;
+    margin:2.5rem 0;
+    padding-left:1.5rem;
+    border-left:4px solid var(--red);
+  }
+
+  .chart-grid{display:grid; grid-template-columns:1fr 1fr; gap:3rem; margin-top:2.5rem;}
+  @media (max-width:800px){.chart-grid{grid-template-columns:1fr;}}
+  .chart{border:1px solid var(--line); background:var(--card); padding:1.6rem 1.8rem;}
+  .chart h4{font-size:1.02rem; margin-bottom:.2rem;}
+  .chart .src{font-family:'IBM Plex Mono', monospace; font-size:.7rem; color:var(--ink-soft); margin-bottom:1.2rem; display:block;}
+  .bar-row{display:grid; grid-template-columns:11rem 1fr 4.4rem; align-items:center; gap:.7rem; margin-bottom:.65rem;}
+  .bar-row .lbl{font-size:.85rem; color:var(--ink-soft);}
+  .bar-track{background:rgba(30,42,51,0.07); height:14px; border-radius:2px; overflow:hidden;}
+  .bar-fill{height:100%; background:var(--blue);}
+  .bar-fill.alt{background:var(--red);}
+  .bar-fill.ok{background:var(--verified);}
+  .bar-row .val{font-family:'IBM Plex Mono', monospace; font-size:.8rem; text-align:right;}
+
+  .year-row{display:grid; grid-template-columns:4rem 1fr 4rem; align-items:center; gap:.7rem; margin-bottom:.5rem; font-size:.88rem;}
+  .year-row .yr{font-family:'IBM Plex Mono', monospace; color:var(--ink-soft);}
+  .year-track{position:relative; height:14px; background:rgba(30,42,51,0.07); border-radius:2px;}
+  .year-fill{position:absolute; top:0; bottom:0; left:0; border-radius:2px; background:var(--blue);}
+  .year-row .val{font-family:'IBM Plex Mono', monospace; font-size:.82rem; text-align:right;}
+
+  .cols3{display:grid; grid-template-columns:repeat(3,1fr); gap:1.6rem; margin-top:2.5rem;}
+  @media (max-width:840px){.cols3{grid-template-columns:1fr;}}
+  .col{border:1px solid var(--line); background:var(--card); padding:1.6rem;}
+  .col h4{font-family:'IBM Plex Mono', monospace; font-size:.85rem; text-transform:uppercase; letter-spacing:.08em; color:var(--verified); margin-bottom:1rem;}
+  .col ul{margin:0; padding-left:1.1rem;}
+  .col li{margin-bottom:.4rem; font-size:.95rem;}
+
+  .sources ul{list-style:none; margin:2rem 0 0; padding:0; display:grid; gap:.9rem;}
+  .sources li{border-bottom:1px dashed var(--line); padding-bottom:.9rem;}
+  .sources .src-name{font-weight:600;}
+  .sources .src-detail{color:var(--ink-soft); font-size:.92rem;}
+
+  footer{
+    padding:3rem 8vw; border-top:1px solid var(--line);
+    font-family:'IBM Plex Mono', monospace; font-size:.78rem; color:var(--ink-soft);
+    display:flex; justify-content:space-between; flex-wrap:wrap; gap:1rem;
+  }
+
+  .note{
+    font-size:.9rem; color:var(--ink-soft); margin-top:1.2rem;
+    padding:.9rem 1.1rem; border:1px dashed var(--line); background:rgba(30,42,51,0.02);
+  }
+
+  table.compare{width:100%; border-collapse:collapse; font-size:.9rem;}
+  table.compare th{text-align:left; padding:.6rem .8rem; border-bottom:1px solid var(--line); font-family:'IBM Plex Mono', monospace; font-size:.75rem; text-transform:uppercase; letter-spacing:.06em; color:var(--ink-soft);}
+  table.compare td{padding:.55rem .8rem; border-bottom:1px dashed var(--line);}
+  table.compare tr:last-child td{border-bottom:none;}
+
+  @media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto;} }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="stamp">Dossier n°03</div>
+  <div class="eyebrow"><span class="dot"></span> La Boussole — Vérification</div>
+  <h1>L'hôpital français est-il vraiment en train de s'effondrer ?</h1>
+  <p class="sub">Fermetures de lits, déserts médicaux, manque de soignants, salaires et dépenses de santé : ce que disent réellement les chiffres DREES et OCDE — entre le récit de l'effondrement total et celui du déni complet.</p>
+  <div class="hero-meta">
+    <span>Méthode <b>Affirmations vérifiées une à une</b></span>
+    <span>Sources <b>DREES — établissements, urgences, effectifs, dépenses</b></span>
+    <span>Verdicts <b>Vrai / Trop simple / Faux / À nuancer</b></span>
+  </div>
+</header>
+
+<nav class="tabs">
+  <a href="#intro">Édito</a>
+  <a href="#c1">01</a>
+  <a href="#c2">02</a>
+  <a href="#c3">03</a>
+  <a href="#c4">04</a>
+  <a href="#c5">05</a>
+  <a href="#c6">06</a>
+  <a href="#charts">En chiffres</a>
+  <a href="#synthese">Synthèse</a>
+  <a href="#vrai-debat">Le vrai débat</a>
+  <a href="#position">Notre position</a>
+  <a href="#sources">Sources</a>
+</nav>
+
+<section id="intro">
+  <span class="section-label">Éditorial</span>
+  <p class="lede">D'un côté : « notre système de santé s'effondre ». De l'autre : « la France a l'un des meilleurs systèmes de santé au monde ». <strong>Les deux affirmations s'appuient sur des faits réels</strong> — la France dépense 11,4 % de son PIB en santé, davantage que la moyenne OCDE, tout en voyant ses urgences se dégrader année après année.</p>
+  <p class="lede" style="margin-top:1rem;">Ce dossier tient les deux bouts : reconnaître que l'hôpital n'est pas à l'abandon, sans pour autant nier une fragilisation réelle et mesurable de l'accès aux soins.</p>
+</section>
+
+<section id="c1">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">01</span>
+      <h3>« L'hôpital français s'effondre »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Ce que disent les données</span>
+        En 2024, 13,6 millions de patients ont eu un séjour hospitalier ou une séance de dialyse, radiothérapie ou chimiothérapie. La France compte toujours 2 962 établissements de santé, environ 367 100 lits d'hospitalisation complète, 91 000 places d'hospitalisation partielle et 25 400 capacités d'hospitalisation à domicile.
+      </div>
+      <div class="box">
+        <span class="box-label">⚠️ Mais la nuance compte</span>
+        Si « effondrement » veut dire que le système ne fonctionne plus, c'est faux. S'il veut dire que le système fonctionne de plus en plus difficilement dans certaines situations, le constat devient beaucoup plus sérieux.
+      </div>
+      <div class="verdict">
+        <span class="badge red">🔴 Excessif tel quel</span>
+        <p>Le système continue de prendre en charge des millions de patients chaque année — mais « pas effondré » ne veut pas dire « en bonne santé ».</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c2">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">02</span>
+      <h3>« On ferme des lits » — vrai, mais pas pour la raison qu'on croit</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Le chiffre</span>
+        Depuis 2013, la DREES estime que le nombre de lits d'hospitalisation complète a diminué d'environ 11 %, soit environ 43 000 lits. Sur la seule année 2024, environ 2 300 lits ont disparu (-0,6 %).
+      </div>
+      <div class="box">
+        <span class="box-label">🔄 Le virage ambulatoire</span>
+        Une partie de cette baisse correspond à une transformation de la médecine : certaines interventions ne nécessitent plus de nuitée. En 2024, les places d'hospitalisation partielle ont progressé de 2,9 % et les capacités d'hospitalisation à domicile de 5,5 %.
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 Vrai, mais incomplet</span>
+        <p>« On ferme des lits » est vrai. « Chaque lit fermé, c'est de l'offre médicale en moins » est faux — mais le virage ambulatoire a une limite : le problème des lits d'aval (voir claim suivant).</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c3">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">03</span>
+      <h3>Les urgences : le meilleur thermomètre de la crise</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Ce que dit la DREES</span>
+        En 2013, la moitié des patients passaient moins de 2 h 15 aux urgences. En 2023, la moitié y passait plus de 3 h 10. Pour les 75 ans et plus, 36 % passaient plus de huit heures aux urgences en 2023, contre 24 % en 2013.
+      </div>
+      <div class="box rn">
+        <span class="box-label">🚑 Le problème des « lits d'aval »</span>
+        Pour 10 % des patients devant être hospitalisés après leur passage aux urgences, la recherche d'un lit prenait plus de 6 h 10 en 2023, contre 3 h 45 en 2013. Le patient est décidé pour l'hospitalisation, mais le service concerné n'a pas de place.
+      </div>
+      <div class="box">
+        <span class="box-label">🩺 Une partie du problème vient d'en amont</span>
+        21 % des patients interrogés en 2023 déclaraient avoir rencontré des difficultés d'accès aux soins de ville avant leur venue aux urgences. Quand la médecine de ville ne peut pas absorber la demande rapidement, les urgences deviennent le recours par défaut.
+      </div>
+      <div class="verdict">
+        <span class="badge red">🔴 Dégradation mesurable</span>
+        <p>Ce n'est pas une impression médiatique : la durée médiane aux urgences a augmenté de près d'une heure en dix ans.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c4">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">04</span>
+      <h3>« Il n'y a plus de médecins » / déserts médicaux</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Le chiffre national</span>
+        La France compte 3,9 médecins en exercice pour 1 000 habitants — exactement la moyenne OCDE. À l'échelle nationale, la France n'est pas un désert médical.
+      </div>
+      <div class="box">
+        <span class="box-label">🗺️ Le vrai problème : la répartition</span>
+        Un médecin de plus à Paris ne résout rien pour un patient en zone rurale. En 2024, environ 82 500 médecins généralistes exerçaient en France ; leurs effectifs avaient reculé de 3,3 % entre 2014 et 2023, avant une quasi-stabilisation en 2024 (+0,1 %).
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 Faux au global, vrai localement</span>
+        <p>La question n'est pas « combien de médecins la France a-t-elle ? » mais « où sont-ils ? ».</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c5">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">05</span>
+      <h3>« Il n'y a plus de personnel hospitalier »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Le chiffre qui surprend</span>
+        Fin 2024, les établissements de santé employaient environ 1,4 million de personnes, dont 77 % dans le public. Entre 2004 et 2024, les effectifs hospitaliers ont augmenté de 16 %.
+      </div>
+      <div class="box">
+        <span class="box-label">⚠️ Mais le rythme ralentit</span>
+        La croissance des effectifs est passée de +1,1 % par an entre 2004 et 2014 à seulement +0,4 % par an entre 2014 et 2024 — alors que les besoins, eux, augmentent avec le vieillissement de la population et la complexité croissante des patients.
+      </div>
+      <div class="verdict">
+        <span class="badge red">🔴 Faux sur le fond</span>
+        <p>Les effectifs augmentent, mais moins vite que les besoins — et un poste théorique n'est pas toujours un professionnel disponible à 3 heures du matin.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c6">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">06</span>
+      <h3>« On ne donne pas assez d'argent à la santé »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Le chiffre</span>
+        En 2024, la France a consacré 333 milliards d'euros aux dépenses courantes de santé, soit 11,4 % du PIB — davantage que la moyenne OCDE (9,3 %), et plus que le Royaume-Uni (11,1 %) ou la Suède (11,3 %).
+      </div>
+      <div class="box">
+        <span class="box-label">🇩🇪 Comparaison utile : l'Allemagne</span>
+        L'Allemagne dépense 12,3 % de son PIB — mais compte aussi 4,7 médecins et 12,2 infirmiers pour 1 000 habitants, contre 3,9 et 8,8 en France. Le niveau de dépense seul ne dit pas tout : l'Allemagne convertit sa dépense en davantage de personnel soignant.
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 À nuancer fortement</span>
+        <p>« Il faut plus d'argent » est insuffisant : la France dépense déjà énormément. La vraie question est comment cet argent est dépensé, et pour quels effectifs.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="wide" id="charts">
+  <span class="section-label">En chiffres</span>
+  <h2 style="font-size:clamp(1.6rem,3vw,2.2rem); max-width:26ch;">La France comparée à l'OCDE</h2>
+  <div class="chart-grid">
+    <div class="chart">
+      <h4>Dépenses de santé (% du PIB)</h4>
+      <span class="src mono">OCDE, Panorama de la santé 2025</span>
+      <div class="bar-row"><span class="lbl">Allemagne</span><div class="bar-track"><div class="bar-fill alt" style="width:100%"></div></div><span class="val">12,3 %</span></div>
+      <div class="bar-row"><span class="lbl">Autriche / Suisse</span><div class="bar-track"><div class="bar-fill" style="width:96%"></div></div><span class="val">11,8 %</span></div>
+      <div class="bar-row"><span class="lbl">France</span><div class="bar-track"><div class="bar-fill ok" style="width:93%"></div></div><span class="val">11,5 %</span></div>
+      <div class="bar-row"><span class="lbl">Suède</span><div class="bar-track"><div class="bar-fill" style="width:92%"></div></div><span class="val">11,3 %</span></div>
+      <div class="bar-row"><span class="lbl">Royaume-Uni</span><div class="bar-track"><div class="bar-fill" style="width:90%"></div></div><span class="val">11,1 %</span></div>
+      <div class="bar-row"><span class="lbl">Moyenne OCDE</span><div class="bar-track"><div class="bar-fill" style="width:76%"></div></div><span class="val">9,3 %</span></div>
+    </div>
+    <div class="chart">
+      <h4>Médecins &amp; infirmiers pour 1 000 habitants</h4>
+      <span class="src mono">OCDE, 2023–2025 — France vs Allemagne</span>
+      <div class="bar-row"><span class="lbl">Médecins — France</span><div class="bar-track"><div class="bar-fill ok" style="width:83%"></div></div><span class="val">3,9</span></div>
+      <div class="bar-row"><span class="lbl">Médecins — Allemagne</span><div class="bar-track"><div class="bar-fill alt" style="width:100%"></div></div><span class="val">4,7</span></div>
+      <div class="bar-row"><span class="lbl">Infirmiers — France</span><div class="bar-track"><div class="bar-fill ok" style="width:72%"></div></div><span class="val">8,8</span></div>
+      <div class="bar-row"><span class="lbl">Infirmiers — Allemagne</span><div class="bar-track"><div class="bar-fill alt" style="width:100%"></div></div><span class="val">12,2</span></div>
+      <p class="note">La France dépense presque autant que l'Allemagne, mais compte nettement moins de personnel soignant par habitant.</p>
+    </div>
+    <div class="chart">
+      <h4>Durée médiane de passage aux urgences</h4>
+      <span class="src mono">DREES, 2013 vs 2023</span>
+      <div class="year-row"><span class="yr">2013</span><div class="year-track"><div class="year-fill" style="width:42%"></div></div><span class="val">2 h 15</span></div>
+      <div class="year-row"><span class="yr">2023</span><div class="year-track"><div class="year-fill" style="width:58%"></div></div><span class="val">3 h 10</span></div>
+      <p class="note">Pour les 10 % de patients devant être hospitalisés après un passage aux urgences, l'attente d'un lit est passée de 3 h 45 (2013) à plus de 6 h 10 (2023).</p>
+    </div>
+    <div class="chart">
+      <h4>Lits d'hôpital pour 1 000 habitants</h4>
+      <span class="src mono">OCDE, 2024</span>
+      <div class="bar-row"><span class="lbl">Allemagne</span><div class="bar-track"><div class="bar-fill alt" style="width:100%"></div></div><span class="val">7,7</span></div>
+      <div class="bar-row"><span class="lbl">France</span><div class="bar-track"><div class="bar-fill ok" style="width:70%"></div></div><span class="val">5,4</span></div>
+      <div class="bar-row"><span class="lbl">Moyenne OCDE</span><div class="bar-track"><div class="bar-fill" style="width:55%"></div></div><span class="val">4,2</span></div>
+      <p class="note">La France a davantage de lits que la moyenne OCDE — mais moins que l'Allemagne, et le nombre de lits ne dit rien de leur disponibilité réelle.</p>
+    </div>
+  </div>
+</section>
+
+<section id="synthese">
+  <span class="section-label">Synthèse</span>
+  <h2 style="font-size:clamp(1.5rem,2.8vw,2rem); max-width:28ch;">Ce que les chiffres permettent réellement de dire</h2>
+  <div class="box" style="margin-top:2rem; overflow-x:auto;">
+    <table class="compare">
+      <thead>
+        <tr><th>Affirmation</th><th>Données</th><th>Verdict</th></tr>
+      </thead>
+      <tbody class="mono" style="font-family:'IBM Plex Mono', monospace; font-size:.82rem;">
+        <tr><td>« L'hôpital français est totalement à l'abandon »</td><td>1,4 M de salariés, 333 Md€ de dépenses</td><td style="color:var(--red);">EXCESSIF</td></tr>
+        <tr><td>« Les lits ferment »</td><td>-11 % environ entre 2013 et 2023</td><td style="color:var(--verified);">VRAI</td></tr>
+        <tr><td>« Tous les lits fermés sont des économies inutiles »</td><td>Développement de l'ambulatoire</td><td style="color:var(--red);">FAUX</td></tr>
+        <tr><td>« Les urgences vont de mieux en mieux »</td><td>Temps de passage en hausse</td><td style="color:var(--red);">FAUX</td></tr>
+        <tr><td>« La France manque totalement de médecins »</td><td>3,9/1 000, moyenne OCDE</td><td style="color:var(--red);">FAUX</td></tr>
+        <tr><td>« Il n'y a plus de personnel hospitalier »</td><td>1,4 M, +16 % depuis 2004</td><td style="color:var(--red);">FAUX</td></tr>
+        <tr><td>« La France ne dépense pas assez pour la santé »</td><td>11,5 % du PIB vs 9,3 % OCDE</td><td style="color:var(--caution);">À NUANCER</td></tr>
+        <tr><td>« Plus d'argent suffira à résoudre le problème »</td><td>Problèmes d'organisation et de répartition</td><td style="color:var(--caution);">TROP SIMPLE</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section id="vrai-debat">
+  <span class="section-label">Le cœur du débat</span>
+  <h2 style="font-size:clamp(1.6rem,3vw,2.2rem); max-width:26ch;">L'hôpital, variable d'ajustement de tout le système</h2>
+  <div class="twocol">
+    <div class="speech-card">
+      <span class="who">Ce que dit la droite</span>
+      <p>« Le système coûte trop cher, il faut mieux l'organiser, réduire la bureaucratie et responsabiliser davantage. »</p>
+    </div>
+    <div class="speech-card">
+      <span class="who">Ce que répond la gauche</span>
+      <p>« Il manque des moyens humains, des salaires et une présence de proximité — la France n'a pas les mêmes ressources que ses voisins les mieux dotés. »</p>
+    </div>
+  </div>
+  <blockquote class="pull">« Un patient ne trouvant ni généraliste, ni spécialiste, ni place en soins de suite ou en EHPAD peut finir aux urgences — l'hôpital devient la variable d'ajustement de tout le système de santé. »</blockquote>
+  <p class="lede">Désengorger les urgences ne se joue donc pas qu'aux urgences : il faut agir en amont (médecine de ville, prévention) et en aval (lits, soins de suite, gériatrie, psychiatrie, domicile).</p>
+</section>
+
+<section id="position" class="wide">
+  <span class="section-label">Notre position</span>
+  <h2 style="font-size:clamp(1.6rem,3vw,2.2rem); max-width:30ch;">Plus de moyens, mieux répartis — pas seulement plus de moyens</h2>
+  <p class="lede">Une gauche crédible ne doit pas dire « tout manque de moyens » — la France dépense déjà énormément. Elle doit défendre plus de ressources là où elles sont réellement nécessaires.</p>
+  <div class="cols3">
+    <div class="col">
+      <h4>Répartition territoriale</h4>
+      <ul>
+        <li>Attractivité des zones sous-dotées</li>
+        <li>Maisons de santé pluriprofessionnelles</li>
+        <li>Régulation de l'installation des médecins</li>
+        <li>Maintien des maternités de proximité</li>
+      </ul>
+    </div>
+    <div class="col">
+      <h4>Conditions de travail</h4>
+      <ul>
+        <li>Revalorisation au-delà du seul salaire</li>
+        <li>Charge administrative allégée</li>
+        <li>Temps de repos et effectifs suffisants</li>
+        <li>Formation accélérée mais sérieuse</li>
+      </ul>
+    </div>
+    <div class="col">
+      <h4>Organisation du parcours</h4>
+      <ul>
+        <li>Renforcer la médecine de ville en amont</li>
+        <li>Lits d'aval, soins de suite, gériatrie</li>
+        <li>Prévention (2,3 % des dépenses vs 3,4 % OCDE)</li>
+        <li>Coordination ville-hôpital</li>
+      </ul>
+    </div>
+  </div>
+  <blockquote class="pull">« La santé ne doit pas être organisée uniquement autour de ce qui est rentable, mais autour de ce qui est nécessaire. »</blockquote>
+  <p class="lede">Un hôpital public peut être déficitaire tout en étant socialement indispensable — évaluer une maternité rurale ou une petite urgence uniquement à travers son déficit comptable est trompeur.</p>
+</section>
+
+<section id="sources" class="sources">
+  <span class="section-label">Sources principales</span>
+  <h2 style="font-size:clamp(1.4rem,2.6vw,1.8rem);">Privilégier les sources primaires</h2>
+  <ul>
+    <li><span class="src-name">DREES</span><br><span class="src-detail">Les établissements de santé en 2024 — capacités, lits, places, activité hospitalière</span></li>
+    <li><span class="src-name">DREES</span><br><span class="src-detail">Les effectifs salariés du secteur hospitalier de 2004 à 2024</span></li>
+    <li><span class="src-name">DREES</span><br><span class="src-detail">Urgences : la moitié des patients y restent plus de 3 heures en 2023</span></li>
+    <li><span class="src-name">DREES</span><br><span class="src-detail">Les dépenses de santé en 2024 — 333 milliards d'euros et 11,4 % du PIB</span></li>
+    <li><span class="src-name">DREES</span><br><span class="src-detail">Salaires dans la fonction publique hospitalière en 2024</span></li>
+    <li><span class="src-name">DREES</span><br><span class="src-detail">Accessibilité aux soins de premier recours en 2024 — données territoriales</span></li>
+    <li><span class="src-name">OCDE</span><br><span class="src-detail">Panorama de la santé 2025 : France — comparaison internationale des dépenses, médecins, infirmiers et lits</span></li>
+  </ul>
+  <div class="note">Précaution méthodologique : les comparaisons internationales OCDE reposent sur des définitions harmonisées qui peuvent différer légèrement des statistiques nationales françaises (DREES) citées par ailleurs dans ce dossier.</div>
+</section>
+
+<footer>
+  <span>La Boussole — Dossier de vérification, version de travail</span>
+  <span>Prochaine étape : zoom territorial par région, comparaison ville/hôpital plus détaillée</span>
+</footer>
+
+</body>
+</html>
