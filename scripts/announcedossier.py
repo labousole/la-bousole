@@ -18,8 +18,8 @@ SITE_URL = "https://labousole.github.io/la-bousole/"
 HASHTAGS = ["#Politique", "#France2027", "#Gauche", "#Présidentielle2027"]
 
 MESSAGE_BODY = (
-    "Retrouvez-nous sur La Boussole : actualité politique, panorama des "
-    "est nos dossiers Enquêtes & vérification sur https://labousole.github.io/la-bousole/"
+    "Retrouvez-nous sur La Boussole : actualité politique est nos dossiers "
+    "Enquêtes & vérification sur https://labousole.github.io/la-bousole/ "
     "Immigration, l'hôpital Français, les salaires..."
 )
 
@@ -38,7 +38,7 @@ def main():
     bsky_text = build_announcement(max_len=300)
     masto_text = build_announcement(max_len=480)
 
-    bsky_result = post_to_bluesky(bsky_text, lien=SITE_URL, hashtag_list=HASHTAGS)
+    bsky_result = post_to_bluesky(bsky_text, hashtag_list=HASHTAGS)
     masto_result = post_to_mastodon(masto_text)
 
     print(f"[announce] Bluesky: {bsky_result} — Mastodon: {masto_result}")
