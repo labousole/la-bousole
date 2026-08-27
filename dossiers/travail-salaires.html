@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>La Boussole — Dossier : Le travail paie-t-il encore en France ?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@400;600;700;900&family=Source+Sans+3:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#E9E5D9;
+    --paper-deep:#DFDACB;
+    --ink:#1E2A33;
+    --ink-soft:#4A5560;
+    --line:#C7C0AC;
+    --verified:#2F6D4F;
+    --caution:#B8792B;
+    --red:#A3312B;
+    --blue:#2F4858;
+    --card:#F4F2EA;
+    --shadow: 0 1px 0 rgba(30,42,51,0.06);
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Source Sans 3', sans-serif;
+    font-size:17px;
+    line-height:1.6;
+  }
+  ::selection{background:var(--caution); color:#fff;}
+  h1,h2,h3,h4{font-family:'Zilla Slab', serif; margin:0; color:var(--ink);}
+  .mono{font-family:'IBM Plex Mono', monospace;}
+  a{color:var(--blue);}
+
+  /* ---------- HERO ---------- */
+  .hero{
+    position:relative;
+    min-height:92vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    padding:6vw 8vw;
+    background:
+      radial-gradient(1200px 600px at 85% -10%, rgba(163,49,43,0.06), transparent 60%),
+      var(--paper);
+    border-bottom:1px solid var(--line);
+    overflow:hidden;
+  }
+  .hero::before{
+    content:"";
+    position:absolute; inset:14px;
+    border:1px solid var(--line);
+    pointer-events:none;
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    font-size:.78rem;
+    color:var(--ink-soft);
+    display:flex; align-items:center; gap:.6em;
+    margin-bottom:1.6rem;
+  }
+  .eyebrow .dot{width:7px;height:7px;border-radius:50%;background:var(--red);display:inline-block;}
+  .hero h1{
+    font-size:clamp(2.4rem, 6vw, 5rem);
+    font-weight:900;
+    line-height:0.98;
+    letter-spacing:-0.01em;
+    max-width:18ch;
+  }
+  .hero .sub{
+    margin-top:1.6rem;
+    max-width:52ch;
+    font-size:1.15rem;
+    color:var(--ink-soft);
+  }
+  .stamp{
+    position:absolute;
+    top:8vw; right:9vw;
+    border:3px solid var(--red);
+    color:var(--red);
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:700;
+    text-transform:uppercase;
+    padding:.5em .9em;
+    transform:rotate(9deg);
+    font-size:.85rem;
+    letter-spacing:.08em;
+    border-radius:3px;
+    opacity:.85;
+  }
+  .hero-meta{
+    margin-top:3rem;
+    display:flex; gap:2.5rem; flex-wrap:wrap;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.8rem;
+    color:var(--ink-soft);
+    border-top:1px solid var(--line);
+    padding-top:1.2rem;
+    max-width:640px;
+  }
+  .hero-meta span b{color:var(--ink); display:block; font-size:.95rem; margin-top:.2rem;}
+
+  /* ---------- NAV ---------- */
+  nav.tabs{
+    position:sticky; top:0; z-index:50;
+    display:flex; overflow-x:auto;
+    background:var(--paper-deep);
+    border-bottom:1px solid var(--line);
+    padding:0 2vw;
+    scrollbar-width:thin;
+  }
+  nav.tabs a{
+    flex:0 0 auto;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.78rem;
+    color:var(--ink-soft);
+    text-decoration:none;
+    padding:.9em 1em;
+    border-right:1px solid var(--line);
+    white-space:nowrap;
+  }
+  nav.tabs a:hover{color:var(--ink); background:var(--card);}
+
+  /* ---------- SECTIONS ---------- */
+  section{padding:5rem 8vw; max-width:1100px; margin:0 auto;}
+  section.wide{max-width:1300px;}
+  .section-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.78rem; letter-spacing:.12em; text-transform:uppercase;
+    color:var(--ink-soft); margin-bottom:.8rem; display:block;
+  }
+  .lede{font-size:1.25rem; max-width:64ch; color:var(--ink-soft); font-weight:400;}
+  .lede strong{color:var(--ink);}
+
+  /* ---------- CLAIM CARDS ---------- */
+  .claim{
+    position:relative;
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:2px;
+    margin-top:3rem;
+    box-shadow:var(--shadow);
+  }
+  .claim-head{
+    padding:2rem 2.2rem 1.4rem;
+    border-bottom:1px dashed var(--line);
+    display:flex; gap:1.2rem; align-items:baseline;
+  }
+  .claim-num{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.95rem; color:var(--ink-soft); flex:0 0 auto;
+    padding-top:.3rem;
+  }
+  .claim-head h3{
+    font-size:clamp(1.3rem,2.4vw,1.7rem);
+    font-style:italic;
+    font-weight:600;
+    line-height:1.25;
+  }
+  .claim-body{padding:1.6rem 2.2rem 2.2rem; display:grid; gap:1.4rem;}
+  .box{
+    padding:1.3rem 1.5rem;
+    border-left:3px solid var(--line);
+    background:rgba(30,42,51,0.02);
+  }
+  .box .box-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.72rem; letter-spacing:.1em; text-transform:uppercase;
+    color:var(--ink-soft); margin-bottom:.5rem; display:block;
+  }
+  .box.data{border-left-color:var(--blue);}
+  .box.rn{border-left-color:var(--red);}
+  .box ul{margin:.4rem 0 0; padding-left:1.2rem;}
+  .box li{margin-bottom:.25rem;}
+
+  .verdict{
+    display:flex; align-items:center; gap:1rem; flex-wrap:wrap;
+    padding-top:.3rem;
+  }
+  .badge{
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:700; text-transform:uppercase; font-size:.75rem;
+    letter-spacing:.08em;
+    border:2px solid currentColor;
+    padding:.45em .8em;
+    border-radius:3px;
+    transform:rotate(-3deg);
+    display:inline-block;
+  }
+  .badge.caution{color:var(--caution);}
+  .badge.red{color:var(--red);}
+  .badge.blue{color:var(--blue);}
+  .badge.verified{color:var(--verified);}
+  .verdict p{margin:0; color:var(--ink-soft); font-size:.98rem;}
+
+  /* ---------- IDEOLOGY / QUOTE BLOCKS ---------- */
+  .twocol{display:grid; grid-template-columns:1fr 1fr; gap:2.5rem; margin-top:2.5rem;}
+  @media (max-width:760px){.twocol{grid-template-columns:1fr;}}
+  .speech-card{
+    padding:1.8rem; border:1px solid var(--line); background:var(--card);
+  }
+  .speech-card .who{
+    font-family:'IBM Plex Mono', monospace; font-size:.75rem; text-transform:uppercase;
+    letter-spacing:.1em; color:var(--ink-soft); margin-bottom:.8rem; display:block;
+  }
+  .speech-card p{font-style:italic; font-size:1.08rem; margin:0;}
+
+  blockquote.pull{
+    font-family:'Zilla Slab', serif;
+    font-weight:700;
+    font-size:clamp(1.4rem,3vw,2.1rem);
+    line-height:1.35;
+    margin:2.5rem 0;
+    padding-left:1.5rem;
+    border-left:4px solid var(--red);
+  }
+
+  /* ---------- CHARTS ---------- */
+  .chart-grid{display:grid; grid-template-columns:1fr 1fr; gap:3rem; margin-top:2.5rem;}
+  @media (max-width:800px){.chart-grid{grid-template-columns:1fr;}}
+  .chart{border:1px solid var(--line); background:var(--card); padding:1.6rem 1.8rem;}
+  .chart h4{font-size:1.02rem; margin-bottom:.2rem;}
+  .chart .src{font-family:'IBM Plex Mono', monospace; font-size:.7rem; color:var(--ink-soft); margin-bottom:1.2rem; display:block;}
+  .bar-row{display:grid; grid-template-columns:11rem 1fr 3.4rem; align-items:center; gap:.7rem; margin-bottom:.65rem;}
+  .bar-row .lbl{font-size:.85rem; color:var(--ink-soft);}
+  .bar-track{background:rgba(30,42,51,0.07); height:14px; border-radius:2px; overflow:hidden;}
+  .bar-fill{height:100%; background:var(--blue);}
+  .bar-fill.alt{background:var(--red);}
+  .bar-row .val{font-family:'IBM Plex Mono', monospace; font-size:.82rem; text-align:right;}
+
+  .year-row{display:grid; grid-template-columns:4rem 1fr 4rem; align-items:center; gap:.7rem; margin-bottom:.5rem; font-size:.88rem;}
+  .year-row .yr{font-family:'IBM Plex Mono', monospace; color:var(--ink-soft);}
+  .year-track{position:relative; height:14px; background:rgba(30,42,51,0.07); border-radius:2px;}
+  .year-track .zero{position:absolute; left:50%; top:-3px; bottom:-3px; width:1px; background:var(--ink-soft); opacity:.4;}
+  .year-fill{position:absolute; top:0; bottom:0; border-radius:2px;}
+  .year-fill.pos{background:var(--verified); left:50%;}
+  .year-fill.neg{background:var(--red); right:50%;}
+  .year-row .val{font-family:'IBM Plex Mono', monospace; font-size:.82rem; text-align:right;}
+
+  /* ---------- POSITION COLUMNS ---------- */
+  .cols3{display:grid; grid-template-columns:repeat(3,1fr); gap:1.6rem; margin-top:2.5rem;}
+  @media (max-width:840px){.cols3{grid-template-columns:1fr;}}
+  .col{border:1px solid var(--line); background:var(--card); padding:1.6rem;}
+  .col h4{font-family:'IBM Plex Mono', monospace; font-size:.85rem; text-transform:uppercase; letter-spacing:.08em; color:var(--verified); margin-bottom:1rem;}
+  .col ul{margin:0; padding-left:1.1rem;}
+  .col li{margin-bottom:.4rem; font-size:.95rem;}
+
+  /* ---------- SOURCES / FOOTER ---------- */
+  .sources ul{list-style:none; margin:2rem 0 0; padding:0; display:grid; gap:.9rem;}
+  .sources li{border-bottom:1px dashed var(--line); padding-bottom:.9rem;}
+  .sources .src-name{font-weight:600;}
+  .sources .src-detail{color:var(--ink-soft); font-size:.92rem;}
+
+  footer{
+    padding:3rem 8vw; border-top:1px solid var(--line);
+    font-family:'IBM Plex Mono', monospace; font-size:.78rem; color:var(--ink-soft);
+    display:flex; justify-content:space-between; flex-wrap:wrap; gap:1rem;
+  }
+
+  .note{
+    font-size:.9rem; color:var(--ink-soft); margin-top:1.2rem;
+    padding:.9rem 1.1rem; border:1px dashed var(--line); background:rgba(30,42,51,0.02);
+  }
+
+  @media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto;} }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="stamp">Dossier n°02</div>
+  <div class="eyebrow"><span class="dot"></span> La Boussole — Vérification</div>
+  <h1>Le travail paie-t-il encore en France ?</h1>
+  <p class="sub">Salaires, inflation, pouvoir d'achat, partage de la richesse : les affirmations les plus courantes du débat, confrontées aux données Insee — sans nier que les salaires progressent, sans avaler l'idée que tout irait donc bien.</p>
+  <div class="hero-meta">
+    <span>Méthode <b>Affirmations vérifiées une à une</b></span>
+    <span>Sources <b>Insee — salaires, pouvoir d'achat, consommation</b></span>
+    <span>Verdicts <b>Vrai / Trop simple / Faux / À nuancer</b></span>
+  </div>
+</header>
+
+<nav class="tabs">
+  <a href="#intro">Édito</a>
+  <a href="#c1">01</a>
+  <a href="#c2">02</a>
+  <a href="#c3">03</a>
+  <a href="#c4">04</a>
+  <a href="#c5">05</a>
+  <a href="#c6">06</a>
+  <a href="#c7">07</a>
+  <a href="#charts">En chiffres</a>
+  <a href="#synthese">Synthèse</a>
+  <a href="#prix-travail">Qui fixe le prix du travail ?</a>
+  <a href="#position">Notre position</a>
+  <a href="#sources">Sources</a>
+</nav>
+
+<section id="intro">
+  <span class="section-label">Éditorial</span>
+  <p class="lede">Lorsqu'une personne travaille à temps plein en France, son travail lui permet-il encore de vivre correctement ? La réponse n'est <strong>ni totalement oui, ni totalement non</strong>. Les salaires progressent bel et bien — mais cela ne signifie pas que chaque travailleur en bénéficie suffisamment.</p>
+  <p class="lede" style="margin-top:1rem;">Ce dossier prend au sérieux les deux discours qui s'affrontent sur le travail — « il faut travailler davantage » à droite, « le travail ne paie plus » à gauche — et regarde ce que les chiffres de l'Insee permettent réellement d'en dire.</p>
+</section>
+
+<section id="c1">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">01</span>
+      <h3>« Les Français ne veulent plus travailler »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box rn">
+        <span class="box-label">🗣️ L'argument</span>
+        Certaines entreprises déclarent avoir des difficultés à recruter alors que la France compte toujours plusieurs millions de personnes sans emploi. L'explication avancée serait comportementale : les Français préféreraient les aides au travail.
+      </div>
+      <div class="box data">
+        <span class="box-label">📊 Ce que disent les données</span>
+        Il faut distinguer chômage, inactivité, temps partiel subi, contrats courts, emplois précaires, personnes découragées et personnes empêchées de travailler pour raisons de santé ou de garde d'enfants. Il faut aussi regarder la qualité des emplois proposés : un temps plein au SMIC n'est pas économiquement équivalent à un emploi qualifié à 3 500 €.
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 Réalité partielle, conclusion trop simple</span>
+        <p>Il existe des difficultés de recrutement réelles. Mais passer de « certaines entreprises ont du mal à recruter » à « les Français ne veulent plus travailler » est un raccourci.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c2">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">02</span>
+      <h3>« Les salaires augmentent, donc le pouvoir d'achat progresse »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Ce qui est vrai</span>
+        En 2024, le salaire net moyen du secteur privé atteignait 2 733 € par mois en équivalent temps plein (EQTP), en hausse de 2,8 % en euros courants et de 0,8 % en euros constants.
+      </div>
+      <div class="box">
+        <span class="box-label">⚠️ Ce que la moyenne cache</span>
+        La moitié des salariés du privé gagnait moins de 2 190 € nets par mois en 2024. Un salarié sur dix gagnait moins de 1 492 €, tandis que le décile supérieur dépassait 4 334 €. Si une personne gagne 1 600 € et une autre 6 000 €, leur moyenne est 3 800 € — mais aucune des deux ne gagne 3 800 €.
+      </div>
+      <div class="verdict">
+        <span class="badge verified">🟢 Vrai sur les salaires</span>
+        <span class="badge red">🔴 Insuffisant sur le pouvoir d'achat</span>
+        <p>Les salaires augmentent, c'est incontestable. Mais cela ne suffit pas à conclure que les travailleurs vivent mieux : il faut compter le logement, l'énergie, l'alimentation, les transports et la composition familiale.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c3">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">03</span>
+      <h3>« L'inflation est terminée, donc le problème du pouvoir d'achat est réglé »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Ce que disent les données — Insee</span>
+        L'inflation des prix à la consommation était de 4,9 % en 2023, 2,2 % en 2024 et 0,8 % en 2025 : la décélération est spectaculaire.
+      </div>
+      <div class="box">
+        <span class="box-label">⚠️ La confusion à éviter</span>
+        Inflation faible ne veut pas dire retour des prix à leur niveau antérieur. Si un produit passe de 100 € à 120 €, puis que l'inflation retombe à 1 %, le prix continue d'augmenter — juste plus lentement. Il ne revient pas à 100 €.
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 À nuancer</span>
+        <p>Les prix ont déjà fortement augmenté les années précédentes ; leur ralentissement ne compense pas le choc initial ressenti par les ménages.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c4">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">04</span>
+      <h3>« Il faut travailler davantage » / « il faut réduire les charges »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box rn">
+        <span class="box-label">🗣️ L'argument de droite</span>
+        Davantage de travail entraînerait davantage de production, donc davantage de revenus ; et des cotisations plus faibles rendraient le travail moins coûteux pour l'employeur, donc plus accessible.
+      </div>
+      <div class="box">
+        <span class="box-label">❓ La question qui manque</span>
+        Qui récupère la richesse supplémentaire produite ? Travailler davantage n'est pas nécessairement la même chose que mieux rémunérer le travail. Et rien n'empêche d'utiliser une partie de la richesse supplémentaire pour augmenter directement les salaires plutôt que de seulement baisser le coût du travail.
+      </div>
+      <div class="box data">
+        <span class="box-label">📊 Un rappel utile</span>
+        Les cotisations financent retraites, assurance maladie, chômage et famille : ce n'est pas de « l'argent perdu », c'est de la rémunération socialisée.
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 Part de vérité, mais incomplet</span>
+        <p>La vraie question n'est pas seulement « travailler plus » ou « réduire les charges », mais comment la valeur créée est répartie entre salariés, investissement, État et actionnaires.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c5">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">05</span>
+      <h3>« Les entreprises ne peuvent pas augmenter les salaires »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box">
+        <span class="box-label">🏭 Vrai pour certaines, faux en général</span>
+        Une petite entreprise à faibles marges n'a pas les mêmes capacités qu'un grand groupe très rentable. Généraliser à toute l'économie serait faux : TPE, PME, ETI, multinationales, industrie, banques, services et commerce sont des réalités très différentes.
+      </div>
+      <div class="box data">
+        <span class="box-label">📊 Le débat sur les dividendes</span>
+        Quand une entreprise fait des bénéfices, elle peut investir, conserver des réserves, rembourser des dettes, augmenter les salaires ou distribuer des dividendes. Il n'existe pas d'opposition mécanique entre dividendes et salaires — mais il existe bien un choix politique de répartition.
+      </div>
+      <div class="verdict">
+        <span class="badge red">🔴 Généralisation abusive</span>
+        <p>La vraie question n'est pas « les entreprises font-elles des bénéfices ? » mais « que fait-on de ces bénéfices ? ».</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c6">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">06</span>
+      <h3>« La France est championne de la redistribution » / « les aides rendent le travail moins intéressant »</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Ce qui est vrai</span>
+        La France a un système de protection sociale et de redistribution important. Cela ne signifie pas que toutes les personnes modestes vivent confortablement — la redistribution existe justement parce que le revenu du travail ne suffit pas toujours à déterminer le niveau de vie final.
+      </div>
+      <div class="box">
+        <span class="box-label">⚠️ Les effets de seuil, une vraie question</span>
+        Une hausse de revenu du travail peut être partiellement compensée par la baisse de certaines prestations. La prime d'activité existe justement pour soutenir les revenus d'activité modestes — mais la question de savoir si une hausse de salaire se traduit toujours par un gain suffisamment perceptible reste une vraie question de politique publique.
+      </div>
+      <div class="verdict">
+        <span class="badge caution">🟠 À nuancer dans les deux sens</span>
+        <p>Ni « la redistribution suffit », ni « travailler ne rapporte rien » ne résistent à l'examen des chiffres.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="c7">
+  <div class="claim">
+    <div class="claim-head">
+      <span class="claim-num">07</span>
+      <h3>Le paradoxe français : tout progresse, et pourtant ça ne suffit pas</h3>
+    </div>
+    <div class="claim-body">
+      <div class="box data">
+        <span class="box-label">📊 Le revenu arbitrable</span>
+        L'Insee distingue le revenu disponible du revenu « arbitrable » — ce qui reste après les dépenses pré-engagées (logement, énergie, assurances…). En 2025, le pouvoir d'achat du revenu arbitrable a reculé de 1,1 %, et de 1,4 % par unité de consommation — un recul plus marqué que celui du revenu disponible brut.
+      </div>
+      <div class="box">
+        <span class="box-label">🏠 Le logement change tout</span>
+        Deux personnes gagnant 2 200 € nets peuvent avoir un niveau de vie très différent selon qu'elles paient 600 € ou 1 000 € de loyer. Le salaire seul ne suffit pas à mesurer le niveau de vie.
+      </div>
+      <div class="verdict">
+        <span class="badge blue">🔵 Le cœur du paradoxe</span>
+        <p>La France peut être un pays relativement riche, avec des salaires qui augmentent et un système social développé, et avoir simultanément des travailleurs qui ont le sentiment de ne plus réussir à vivre correctement. Ce n'est pas contradictoire : la croissance moyenne ne dit rien de sa répartition.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="wide" id="charts">
+  <span class="section-label">En chiffres</span>
+  <h2 style="font-size:clamp(1.6rem,3vw,2.2rem); max-width:22ch;">Les données citées dans ce dossier</h2>
+  <div class="chart-grid">
+    <div class="chart">
+      <h4>Salaire net mensuel (EQTP), secteur privé</h4>
+      <span class="src mono">Insee, 2024</span>
+      <div class="bar-row"><span class="lbl">10 % les moins rémunérés</span><div class="bar-track"><div class="bar-fill" style="width:34%"></div></div><span class="val">&lt; 1 492 €</span></div>
+      <div class="bar-row"><span class="lbl">Médiane</span><div class="bar-track"><div class="bar-fill" style="width:50%"></div></div><span class="val">2 190 €</span></div>
+      <div class="bar-row"><span class="lbl">Moyenne</span><div class="bar-track"><div class="bar-fill alt" style="width:63%"></div></div><span class="val">2 733 €</span></div>
+      <div class="bar-row"><span class="lbl">10 % les mieux rémunérés</span><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="val">&gt; 4 334 €</span></div>
+      <p class="note">La moitié des salariés du privé gagne moins que la moyenne affichée dans le débat public.</p>
+    </div>
+    <div class="chart">
+      <h4>Pouvoir d'achat du revenu disponible, par personne</h4>
+      <span class="src mono">Insee, 2021–2025</span>
+      <div class="year-row"><span class="yr">2021</span><div class="year-track"><div class="zero"></div><div class="year-fill pos" style="width:15.5%"></div></div><span class="val">+3,1 %</span></div>
+      <div class="year-row"><span class="yr">2022</span><div class="year-track"><div class="zero"></div><div class="year-fill neg" style="width:0.5%"></div></div><span class="val">-0,1 %</span></div>
+      <div class="year-row"><span class="yr">2023</span><div class="year-track"><div class="zero"></div><div class="year-fill pos" style="width:3%"></div></div><span class="val">+0,6 %</span></div>
+      <div class="year-row"><span class="yr">2024</span><div class="year-track"><div class="zero"></div><div class="year-fill pos" style="width:12%"></div></div><span class="val">+2,4 %</span></div>
+      <div class="year-row"><span class="yr">2025</span><div class="year-track"><div class="zero"></div><div class="year-fill neg" style="width:3.5%"></div></div><span class="val">-0,7 %</span></div>
+      <p class="note">Cinq années en dents de scie — l'idée d'un pouvoir d'achat qui « ne fait que progresser » ou « s'effondre » sont toutes les deux fausses.</p>
+    </div>
+    <div class="chart">
+      <h4>Écart de rémunération femmes / hommes</h4>
+      <span class="src mono">Insee, secteur privé, EQTP, 2024</span>
+      <div class="bar-row"><span class="lbl">Hommes</span><div class="bar-track"><div class="bar-fill" style="width:100%"></div></div><span class="val">100</span></div>
+      <div class="bar-row"><span class="lbl">Femmes</span><div class="bar-track"><div class="bar-fill alt" style="width:87%"></div></div><span class="val">-13,0 %</span></div>
+      <p class="note">Écart réduit de 0,3 point en un an — mais toujours substantiel, à composition d'emploi équivalente non contrôlée ici.</p>
+    </div>
+    <div class="chart">
+      <h4>D'autres graphiques à intégrer</h4>
+      <span class="src mono">Prochaine itération</span>
+      <p style="font-size:.92rem; color:var(--ink-soft); margin-top:.5rem;">Décomposition du revenu arbitrable par poste de dépense, évolution du salaire médian par secteur, taux de chômage par catégorie professionnelle — dès que les séries correspondantes sont réunies (Insee, Dares).</p>
+    </div>
+  </div>
+</section>
+
+<section id="synthese">
+  <span class="section-label">Synthèse</span>
+  <h2 style="font-size:clamp(1.5rem,2.8vw,2rem); max-width:28ch;">Ce que les chiffres permettent réellement de dire</h2>
+  <div class="box" style="margin-top:2rem; overflow-x:auto;">
+    <table style="width:100%; border-collapse:collapse; font-size:.92rem;">
+      <thead>
+        <tr style="text-align:left; border-bottom:1px solid var(--line);">
+          <th style="padding:.6rem .8rem .6rem 0;">Affirmation</th>
+          <th style="padding:.6rem .8rem;">Données</th>
+          <th style="padding:.6rem 0 .6rem .8rem;">Notre lecture</th>
+        </tr>
+      </thead>
+      <tbody class="mono" style="font-family:'IBM Plex Mono', monospace; font-size:.82rem;">
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« Les salaires n'augmentent plus »</td><td style="padding:.6rem .8rem;">Progression réelle en 2024</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--red);">FAUX</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« Les salaires augmentent donc tout va mieux »</td><td style="padding:.6rem .8rem;">Pouvoir d'achat -0,7 % en 2025</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--caution);">TROP SIMPLE</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« Le salaire moyen est élevé »</td><td style="padding:.6rem .8rem;">2 733 € nets en 2024</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--verified);">VRAI</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« Le salarié typique gagne 2 733 € »</td><td style="padding:.6rem .8rem;">Médiane : 2 190 €</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--red);">FAUX</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« L'inflation est terminée »</td><td style="padding:.6rem .8rem;">Fortement ralentie, pas nulle</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--caution);">À NUANCER</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« Les prix sont revenus à leur niveau d'avant-crise »</td><td style="padding:.6rem .8rem;">Non, ils continuent d'augmenter</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--red);">FAUX</td></tr>
+        <tr style="border-bottom:1px dashed var(--line);"><td style="padding:.6rem .8rem .6rem 0;">« Il suffit de travailler davantage »</td><td style="padding:.6rem .8rem;">Effets variables selon fiscalité</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--caution);">TROP SIMPLE</td></tr>
+        <tr><td style="padding:.6rem .8rem .6rem 0;">« Les entreprises ne peuvent jamais augmenter les salaires »</td><td style="padding:.6rem .8rem;">Situation très variable selon l'entreprise</td><td style="padding:.6rem 0 .6rem .8rem; color:var(--red);">GÉNÉRALISATION</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section id="prix-travail">
+  <span class="section-label">Le cœur du débat</span>
+  <h2 style="font-size:clamp(1.6rem,3vw,2.2rem); max-width:24ch;">Qui fixe le prix du travail ?</h2>
+  <div class="twocol">
+    <div class="speech-card">
+      <span class="who">Ce que dit un salarié</span>
+      <p>« Je travaille autant que mes parents, mais je ne peux pas acheter un logement dans la même région. »</p>
+    </div>
+    <div class="speech-card">
+      <span class="who">Lecture économique</span>
+      <p>Le salaire résulte du marché du travail, de la qualification, des conventions collectives, du rapport de force et de la négociation — pas uniquement d'une mesure objective de la « valeur » d'une personne.</p>
+    </div>
+  </div>
+  <blockquote class="pull">« Pourquoi certains travailleurs indispensables à la société — infirmiers, aides-soignants, agents d'entretien, chauffeurs, agriculteurs — sont-ils si mal rémunérés ? »</blockquote>
+  <p class="lede">La question n'est pas de savoir si leur travail est utile : il l'est. La question est pourquoi son utilité sociale ne se traduit pas toujours par une rémunération élevée — et c'est une question de rapport de force autant que d'économie.</p>
+</section>
+
+<section id="position" class="wide">
+  <span class="section-label">Notre position</span>
+  <h2 style="font-size:clamp(1.6rem,3vw,2.2rem); max-width:28ch;">Une gauche sociale, mais économiquement sérieuse</h2>
+  <p class="lede">La droite a raison de rappeler qu'une économie doit produire de la richesse. La gauche a raison de rappeler que cette richesse doit être partagée. Le véritable enjeu est entre les deux.</p>
+  <div class="cols3">
+    <div class="col">
+      <h4>Salaires</h4>
+      <ul>
+        <li>Hausse des bas salaires</li>
+        <li>Partage des gains de productivité</li>
+        <li>Négociations collectives renforcées</li>
+        <li>Réduction des écarts femmes-hommes</li>
+      </ul>
+    </div>
+    <div class="col">
+      <h4>Logement &amp; dépenses contraintes</h4>
+      <ul>
+        <li>Construction de logements accessibles</li>
+        <li>Encadrement dans les zones tendues</li>
+        <li>Lutte contre les effets de seuil</li>
+        <li>Protection face à l'énergie et aux transports</li>
+      </ul>
+    </div>
+    <div class="col">
+      <h4>Partage de la valeur</h4>
+      <ul>
+        <li>Conditionnalité des aides aux entreprises</li>
+        <li>Transparence sur les dividendes</li>
+        <li>Services publics, école, santé</li>
+        <li>Pouvoir de négociation des travailleurs</li>
+      </ul>
+    </div>
+  </div>
+  <blockquote class="pull">« Vous avez raison d'attendre davantage de votre travail. »</blockquote>
+  <p class="lede">Une gauche crédible ne doit pas dire aux travailleurs « vous êtes pauvres parce que les riches sont riches » — trop simpliste. Elle doit dire que produire de la richesse et la partager équitablement ne sont pas deux politiques opposées, mais les deux moitiés d'une même politique.</p>
+</section>
+
+<section id="sources" class="sources">
+  <span class="section-label">Sources principales</span>
+  <h2 style="font-size:clamp(1.4rem,2.6vw,1.8rem);">Privilégier les sources primaires</h2>
+  <ul>
+    <li><span class="src-name">Insee</span><br><span class="src-detail">Les salaires dans le secteur privé en 2024 — salaire moyen, médiane, déciles, évolution du salaire réel</span></li>
+    <li><span class="src-name">Insee</span><br><span class="src-detail">Revenu et pouvoir d'achat des ménages en 2025 — revenu disponible, pouvoir d'achat, revenu arbitrable</span></li>
+    <li><span class="src-name">Insee</span><br><span class="src-detail">Données annuelles sur le pouvoir d'achat, 1960–2025</span></li>
+    <li><span class="src-name">Insee</span><br><span class="src-detail">La consommation des ménages en 2025 — inflation, consommation, dépenses pré-engagées</span></li>
+  </ul>
+  <div class="note">Précaution méthodologique : les données salariales 2024 de l'Insee ont un champ élargi aux apprentis, stagiaires rémunérés et à Mayotte — elles ne sont pas directement comparables à certaines publications antérieures.</div>
+</section>
+
+<footer>
+  <span>La Boussole — Dossier de vérification, version de travail</span>
+  <span>Prochaine étape : décomposition du revenu arbitrable, salaire médian par secteur, mise en page PDF</span>
+</footer>
+
+</body>
+</html>
