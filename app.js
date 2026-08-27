@@ -86,6 +86,12 @@ const CANDIDATS = [
 
 const DOSSIERS = [
   {
+    titre: "Le travail paie-t-il encore en France ?",
+    dek: "Salaires, inflation, pouvoir d'achat : ce dossier confronte les affirmations les plus courantes du débat aux données Insee, sans nier que les salaires progressent, sans avaler l'idée que tout irait donc bien.",
+    date: "Dossier de vérification",
+    lien: "dossiers/travail-salaires.html",
+  },
+  {
     titre: "Immigration : ce que disent vraiment les chiffres",
     dek: "Un dossier de vérification qui reprend les affirmations les plus courantes sur l'immigration, les confronte aux données Insee et SSMSI, et explique pourquoi la gauche ne doit ni les nier ni les laisser au RN.",
     date: "Dossier de vérification",
