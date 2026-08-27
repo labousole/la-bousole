@@ -84,10 +84,20 @@ const CANDIDATS = [
   { nom: "Gérald Darmanin", parti: "sans étiquette", bloc: "d", statut: "pressenti", note: "Avance vers 2027 « d'une manière ou d'une autre »." },
 ];
 
+const DOSSIERS = [
+  {
+    titre: "Immigration : ce que disent vraiment les chiffres",
+    dek: "Un dossier de vérification qui reprend les affirmations les plus courantes sur l'immigration, les confronte aux données Insee et SSMSI, et explique pourquoi la gauche ne doit ni les nier ni les laisser au RN.",
+    date: "Dossier de vérification",
+    lien: "dossiers/immigration-chiffres.html",
+  },
+];
+
 const NAV = [
   { id: "accueil", label: "Accueil" },
   { id: "partis", label: "Partis" },
   { id: "candidats", label: "Candidats 2027" },
+  { id: "dossiers", label: "Dossiers" },
   { id: "edito", label: "Édito" },
 ];
 
@@ -341,6 +351,44 @@ function Candidats() {
   );
 }
 
+function Dossiers() {
+  return (
+    <div className="px-5 md:px-10 py-10 max-w-4xl mx-auto">
+      <Eyebrow>Enquêtes &amp; vérification</Eyebrow>
+      <h2 className="mt-3 uppercase" style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 700, fontSize: "clamp(1.8rem, 4vw, 2.6rem)", color: "var(--ink)" }}>
+        Dossiers
+      </h2>
+      <p className="mt-3 max-w-2xl text-[0.98rem] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif", color: "#332f27" }}>
+        Des formats longs, sourcés, pour aller au-delà de l'actu au jour le jour.
+      </p>
+
+      <div className="mt-8 grid gap-5">
+        {DOSSIERS.map((d, i) => (
+          <a
+            key={i}
+            href={d.lien}
+            className="block p-5 transition-colors"
+            style={{ border: "1px solid var(--line)", background: "#fff" }}
+          >
+            <span className="text-[11px] uppercase tracking-wide" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "var(--red)" }}>
+              {d.date}
+            </span>
+            <h3 className="mt-2 text-xl leading-snug" style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, color: "var(--ink)" }}>
+              {d.titre}
+            </h3>
+            <p className="mt-2 text-[0.95rem] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif", color: "#332f27" }}>
+              {d.dek}
+            </p>
+            <span className="inline-block mt-3 text-[0.85rem] font-medium" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "var(--red)" }}>
+              Lire le dossier →
+            </span>
+          </a>
+        ))}
+      </div>
+    </div>
+  );
+}
+
 function Edito() {
   return (
     <div className="px-5 md:px-10 py-10 max-w-3xl mx-auto">
@@ -407,6 +455,7 @@ function App() {
         {tab === "accueil" && <Accueil />}
         {tab === "partis" && <Partis />}
         {tab === "candidats" && <Candidats />}
+        {tab === "dossiers" && <Dossiers />}
         {tab === "edito" && <Edito />}
       </main>
 
