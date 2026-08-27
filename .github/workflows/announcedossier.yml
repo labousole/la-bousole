@@ -1,4 +1,4 @@
-name: Poster une annonce ponctuelle
+name: Poster une annonce ponctuelle - Dossier
 
 on:
   workflow_dispatch: {} # bouton "Run workflow" uniquement, jamais de cron
