@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-08-27T16:55:26+00:00",
+  "generated_at": "2026-08-28T01:10:13+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T01:07:00+00:00",
+      "titre": "REPLAY. Revivez le premier débat de la présidentielle 2027, organisé par le Medef, qui a opposé sept candidats pendant trois heures",
+      "dek": "Jean-Luc Mélenchon, Marine Le Pen, Bruno Retailleau, Raphaël Glucksmann, Marine Tondelier, Gabriel Attal et Edouard Philippe étaient conviés à répondre à des patrons en clôture de l'université d'été de l'organisation, qui entend imposer ses thèmes dans la campagne.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T21:11:33+00:00",
+      "titre": "Devant le Medef, dans le bourbier des droites, les gauches s’épargnent",
+      "dek": "Invités par le Medef, Raphaël Glucksmann, Jean-Luc Mélenchon et Marine Tondelier ont débattu face à Gabriel Attal, Marine Le Pen, Édouard Philippe et Bruno Retailleau sur la dette, la fiscalité ou les salaires. Ils ont tenté de remporter quelques points sur des sujets chers aux l…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=502057"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T20:27:48+00:00",
+      "titre": "Pour leur premier débat, les candidats à la présidentielle sommés par le Medef de faire des économies",
+      "dek": "Sept candidats, pas tous investis ou certains d’aller jusqu’au bout, ont répondu aux questions d’un parterre de patrons décidés à peser sur le scrutin de 2027. Droite et extrême droite ont donné des gages, tandis que les gauches se sont rebiffées.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/270826/pour-leur-premier-debat-les-candidats-la-presidentielle-sommes-par-le-medef-de-faire-des-economies"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T19:56:43+00:00",
+      "titre": "De Bruno Retailleau à Jean-Luc Mélenchon, un premier débat et de premières passes d'armes entre sept candidats à la présidentielle face au Medef",
+      "dek": "Un match de plus de trois heures sur le court central de Roland-Garros, mais cette fois, politique. Les sept principaux candidats à l’élection présidentielle ont débattu devant les entrepreneurs, réunis par le Medef jeudi 27 août. Une première confrontation très attendue, et parf…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/de-bruno-retailleau-a-jean-luc-melenchon-un-premier-debat-et-de-premieres-passes-d-armes-entre-sept-candidats-a-la-presidentielle-face-au-medef_8165666.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T19:30:12+00:00",
+      "titre": "Marine Le Pen maintient le retour à la retraite à 62 ans, en rupture avec la ligne de Jordan Bardella",
+      "dek": "La candidate du Rassemblement national a officialisé jeudi 27 août, lors du débat avec les candidats putatifs à la présidentielle organisé par le Medef, son souhait de conserver l’un de ses derniers marqueurs « sociaux », la retraite à 62 ans, voire 60 ans. Elle prévoit d’y ajout…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/27/marine-le-pen-maintient-le-retour-a-la-retraite-a-62-ans-en-rupture-avec-la-ligne-de-jordan-bardella_6758537_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T19:26:08+00:00",
+      "titre": "Rentrée du Medef : un « paradis » patronal sans travailleurs",
+      "dek": "Si le syndicat patronal a tenté, ces dernières semaines, de faire entendre que les salarié·es sont aussi les « partenaires » des patrons, ses adhérent·es ont eu droit, sans surprise, à un show contre l’État social lors de « La REF », son événement de rentrée à Roland-Garros. Réci…",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=502016"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T18:48:33+00:00",
+      "titre": "Au débat du Medef, les candidats à la présidentielle roulent leur boss",
+      "dek": "Dette, retraites, rôles de l’Etat… Pour le traditionnel raout estival de l’organisation patronale, sept candidats à la présidentielle se sont affrontés, ce jeudi 27 août, à coups de piques et de bons mots. Une performance que «Libé» a choisi de départager avec un seul outil : l’a…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/au-medef-les-candidats-roulent-leur-boss-20260827_7MRVVV354JAFZL7JQ77MOKM5OI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T18:36:05+00:00",
+      "titre": "Débat de la présidentielle 2027 : fiscalité, réforme des retraites, pouvoir d’achat… Sept candidats se sont affrontés devant les chefs d’entreprise",
+      "dek": "Les sept candidats à l’élection présidentielle ont été interrogés, jeudi, par des chefs d’entreprise sur leur programme économique, à l’occasion de la Rencontre des entrepreneurs de France, organisée par le Medef.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/live/2026/08/27/en-direct-debat-de-la-presidentielle-2027-fiscalite-reforme-des-retraites-pouvoir-d-achat-sept-candidats-se-sont-affrontes-devant-les-chefs-d-entreprise_6758467_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T18:11:21+00:00",
+      "titre": "Débat présidentiel du Medef : salaires, retraites, économies, dette… Revivez les échanges entre candidats à Roland-Garros",
+      "dek": "De Jean-Luc Mélenchon à Marine Le Pen, en passant par Raphaël Glucksmann et Édouard Philippe, sept prétendants à l’élection de 2027 ont été interrogés par des patrons sur des thèmes économiques ce jeudi après-midi.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/en-direct-debat-presidentiel-du-medef-suivez-en-direct-les-echanges-entre-les-principaux-candidats-a-roland-garros-20260827_7L2F6JXE6BHYXA4PF34BYSPV7E/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T17:55:39+00:00",
+      "titre": "Présidentielle 2027 : la course à l’Élysée débute devant les patrons du Medef",
+      "dek": "Sept candidats déclarés pour 2027 ont répondu aux questions d’un panel de chefs d’entreprise, à l’occasion de l'université d’été de la centrale patronale. Au menu : dette, souveraineté économique, salaires.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/presidentielle-2027/presidentielle-2027-la-course-a-lelysee-debute-devant-les-patrons-du-medef"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -11,6 +121,28 @@
       "dek": "L’actuel ministre de la Justice fait sa rentrée politique à Tourcoing, dans le Nord, ce 31 août, où il doit revêtir son meilleur costume pour soutenir le candidat de Horizons : celui de l’homme politique de droite à la fibre sociale. Un déguisement, avant tout.",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=501986"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T17:16:09+00:00",
+      "titre": "Jean-Marc Jancovici, avec le projet « Un commun accord », veut réinstaller l’enjeu climatique dans la campagne pour la présidentielle 2027",
+      "dek": "Le fondateur du Shift Project, groupe de réflexion axé sur la décarbonation de l’économie, a choisi de réunir 150 citoyens tirés au sort pour travailler sur l’environnement et des thématiques sociétales et économiques pendant six week-ends.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/27/jean-marc-jancovici-avec-le-projet-d-un-commun-accord-veut-reinstaller-l-enjeu-climatique-dans-la-campagne-pour-la-presidentielle-2027_6758496_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T17:06:04+00:00",
+      "titre": "Incendies, tornades, inondations : du Népal à la France, le dérèglement climatique frappe le monde",
+      "dek": "Les images sont impressionnantes, glaçantes. L’écroulement d’un glacier entre le Népal et la Chine a provoqué une coulée de boue qui a tout ravagé sur son passage. Les morts se comptent par centaines, les disparus dépassent le millier. Ce qui frappe, c’est la brutalité, la soudai…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/climat/incendies-tornades-innondations-du-nepal-a-la-france-le-changement-climatique-frappe-le-monde"
     },
     {
       "tag": "Gauche",
@@ -52,7 +184,7 @@
       "date": "27 Aug 2026",
       "date_iso": "2026-08-27T16:36:44+00:00",
       "titre": "«100% Frontières»: sur CNews, on prend les mêmes obsessions et on recommence",
-      "dek": "Le magazine d’extrême droite a fait sa rentrée pour une nouvelle saison de son émission, critiqué y compris à CNews, sur la chaîne de Vincent Bolloré. La veille, une enquête a révélé des dizaines de publications racistes et antisémites sur un groupe Facebook que «Frontières» est …",
+      "dek": "Le magazine d’extrême droite a fait sa rentrée pour une nouvelle saison de son émission, critiquée y compris à CNews, sur la chaîne de Vincent Bolloré. La veille, une enquête a révélé des dizaines de publications racistes et antisémites sur un groupe Facebook que «Frontières» est…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/culture-et-idees/270826/100-frontieres-sur-cnews-prend-les-memes-obsessions-et-recommence"
     },
@@ -106,10 +238,32 @@
       "source": "Le Monde – Politique",
       "date": "27 Aug 2026",
       "date_iso": "2026-08-27T14:03:07+00:00",
+      "titre": "Altercation avec des policiers : le député LFI Sébastien Delogu gardé à vue puis convoqué pour outrage",
+      "dek": "Le parlementaire s’était présenté jeudi, en début d’après-midi, au commissariat central de Marseille pour une audition portant sur une altercation qui s’est produite lundi avec trois policiers.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/08/27/le-depute-lfi-sebastien-delogu-place-en-garde-a-vue-a-marseille-apres-une-altercation-avec-des-policiers_6758475_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T14:03:07+00:00",
       "titre": "Le député LFI Sébastien Delogu placé en garde à vue à Marseille après une altercation avec des policiers",
       "dek": "Le parlementaire s’était présenté jeudi, en début d’après-midi, au commissariat de l’Evêché pour une audition portant sur cette altercation qui s’est produite lundi avec trois policiers.",
       "avis": null,
       "lien": "https://www.lemonde.fr/societe/article/2026/08/27/le-depute-lfi-sebastien-delogu-place-en-garde-a-vue-a-marseille-apres-une-altercation-avec-des-policiers_6758475_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "27 Aug 2026",
+      "date_iso": "2026-08-27T14:02:27+00:00",
+      "titre": "Rima Hassan : des centaines de tweets, des dizaines de plaintes et un procès pour « apologie du terrorisme »",
+      "dek": "La députée européenne de LFI doit être jugée en octobre pour un tweet citant l’un des auteurs de l’attentat de l’aéroport de Tel-Aviv en 1972. « Le Monde » retrace deux années et demie de polémiques et de procédures judiciaires associées à la principale figure de la cause palesti…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/27/rima-hassan-des-centaines-de-tweets-des-dizaines-de-plaintes-et-un-proces-pour-apologie-du-terrorisme_6758474_823448.html"
     },
     {
       "tag": "Droite",
@@ -160,22 +314,22 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T13:00:09+00:00",
-      "titre": "« C’est la révolution le ventre plein » : dans les cités de Lyon et de Saint-Etienne, la Sécurité sociale est alimentaire",
-      "dek": "« Permis d’espérer » (4/6). Au pied d’immeubles HLM, des cantines et des épiceries solidaires expérimentent la Sécurité sociale de l’alimentation, une innovation que de nombreux élus veulent placer au cœur de la campagne pour la présidentielle de 2027.",
+      "date_iso": "2026-08-27T13:00:08+00:00",
+      "titre": "Sénatoriales 2026 : dans les Alpes-Maritimes, LR en ordre dispersé face à l’alliance RN-UDR",
+      "dek": "Si le parti de droite a remporté tous les sièges maralpins en 2020, la présence de deux listes Les Républicains et les scores du Rassemblement national, allié à l’Union des droites pour la République aux municipales de mars, pourraient bénéficier à l’extrême droite.",
       "avis": null,
-      "lien": "https://www.lemonde.fr/series-d-ete/article/2026/08/27/c-est-la-revolution-le-ventre-plein-dans-les-cites-de-lyon-et-de-saint-etienne-la-securite-sociale-est-alimentaire_6758465_3451060.html"
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/27/senatoriales-2026-dans-les-alpes-maritimes-lr-en-ordre-disperse-face-a-l-alliance-rn-udr_6758464_823448.html"
     },
     {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T13:00:08+00:00",
-      "titre": "Sénatoriales 2026 : dans les Alpes-Maritimes, LR en ordre dispersé face à l’alliance RN-UDR",
-      "dek": "Si le parti de droite a remporté tous les sièges maralpins en 2020, la présence de deux listes Les Républicains et les scores du Rassemblement national, allié à l’Union des droites pour la République aux municipales de mars, pourraient bénéficier à l’extrême droite.",
+      "date_iso": "2026-08-27T13:00:01+00:00",
+      "titre": "« C’est la révolution le ventre plein » : dans les cités de Lyon et de Saint-Etienne, la Sécurité sociale est alimentaire",
+      "dek": "« Permis d’espérer » (4/6). Au pied d’immeubles HLM, des cantines et des épiceries solidaires expérimentent la Sécurité sociale de l’alimentation, une innovation que de nombreux élus veulent placer au cœur de la campagne pour la présidentielle de 2027.",
       "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/27/senatoriales-2026-dans-les-alpes-maritimes-lr-en-ordre-disperse-face-a-l-alliance-rn-udr_6758464_823448.html"
+      "lien": "https://www.lemonde.fr/series-d-ete/article/2026/08/27/c-est-la-revolution-le-ventre-plein-dans-les-cites-de-lyon-et-de-saint-etienne-la-securite-sociale-est-alimentaire_6758465_3451060.html"
     },
     {
       "tag": "Gauche",
@@ -396,160 +550,6 @@
       "dek": "Le patron du PS n'a pas encore fait part de ses intentions sur ce scrutin interne, pour lequel plusieurs de ses soutiens l'encouragent à se présenter. Avec, s'il relève ce défi, la nécessité de mener une campagne efficace pour contrer le leader de Place publique.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/ps/il-va-se-presenter-a-99-apres-raphael-glucksmann-olivier-faure-en-passe-de-se-lancer-dans-la-bataille-de-la-primaire-socialiste_8162189.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T04:02:50+00:00",
-      "titre": "Cinq questions sur la proposition de Jean-Luc Mélenchon de geler une partie de la dette française",
-      "dek": "Le leader insoumis défend l'idée d'une annulation de dettes nationales pour redonner aux Etats européens une marge de manœuvre budgétaire. Mais les obstacles juridiques et politiques sont nombreux et les bienfaits économiques incertains.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/cinq-questions-sur-la-proposition-de-jean-luc-melenchon-de-geler-une-partie-de-la-dette-francaise_8160833.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T04:00:12+00:00",
-      "titre": "Présidentielle 2027 : Bruno Retailleau réaffirme sa détermination après un été discret, malgré une campagne qui peine à décoller",
-      "dek": "En cette rentrée politique, le candidat du parti Les Républicains reste à la peine dans les sondages et fait douter sa propre formation. Il dit refuser le moindre rapprochement avec Edouard Philippe et les héritiers du macronisme.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/27/presidentielle-2027-apres-un-ete-discret-bruno-retailleau-reaffirme-sa-determination-malgre-une-campagne-qui-peine-a-decoller_6757906_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T03:00:06+00:00",
-      "titre": "A Mayotte, Sébastien Lecornu annonce des renforts humains et technologiques contre l’immigration clandestine",
-      "dek": "Le premier ministre, en visite sur l’archipel, souhaite aussi conditionner l’aide au développement fournie aux Comores et à six pays africains à leur coopération avec la France dans la lutte migratoire.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/27/a-mayotte-sebastien-lecornu-annonce-des-renforts-humains-et-technologiques-contre-l-immigration-clandestine_6757797_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T21:51:05+00:00",
-      "titre": "Bruno Retailleau accuse La France insoumise d’être un « parti de collabos » avec l’islamisme",
-      "dek": "Invité de BFM-TV pour sa première interview de la rentrée, mercredi 26 août, le candidat des Républicains à la présidentielle de 2027 a également exclu tout rapprochement avec Edouard Philippe et Gabriel Attal, assurant qu’ils ne parviendront pas à se « décontaminer » du macronis…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/26/bruno-retailleau-accuse-la-france-insoumise-d-etre-un-parti-de-collabos-avec-l-islamisme_6757530_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T20:14:29+00:00",
-      "titre": "Bruno Retailleau accuse La France insoumise d'être un \"parti de collabos\" avec l'islamisme",
-      "dek": "Le candidat à la présidentielle du parti Les Républicains a également attaqué Marine Le Pen, accusée \"d'entraîner la France à sa perte\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-accuse-la-france-insoumise-d-etre-un-parti-de-collabos-avec-l-islamisme_8164196.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T19:39:18+00:00",
-      "titre": "Zizanie dans un meeting de LFI : des militants d’extrême droite répondent de leurs actes au tribunal",
-      "dek": "Dix-huit mois de prison avec sursis probatoire ont été requis, ce mercredi 26 août, à Lille, contre huit membres du groupe identitaire Nouvelle droite qui avaient interrompu, en mars, une réunion sur les élections municipales des insoumis, avec faux sang, bousculades et enfarinag…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/zizanie-dans-un-meeting-de-lfi-des-militants-dextreme-droite-repondent-de-leurs-actes-au-tribunal-20260826_GM5FBZBOAJD43HDJUWELUL6JTI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T19:13:55+00:00",
-      "titre": "A huit mois de la présidentielle, les patrons français inquiets du début de la campagne",
-      "dek": "Un sondage réalisé par le Medef à l’occasion de la Rencontre des entrepreneurs de France, qui se tient mercredi 26 et jeudi 27 août, montre le pessimisme des chefs d’entreprise quant à la politique économique du futur président, quel qu’il soit.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/08/26/a-huit-mois-de-la-presidentielle-les-patrons-francais-inquiets-par-le-debut-de-la-campagne_6757464_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T18:58:34+00:00",
-      "titre": "Les Ecologistes proposent de taxer davantage les héritages des plus fortunés pour financer la transition écologique",
-      "dek": "Le parti propose d'instaurer une contribution de 10% sur les héritages de plus de 4 millions d'euros, et de 10% supplémentaires sur ceux dépassant les 13 millions d'euros.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/eelv/les-ecologistes-proposent-de-taxer-davantage-les-heritages-des-plus-fortunes-pour-financer-la-transition-ecologique_8164142.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T18:49:26+00:00",
-      "titre": "La rentrée du Medef, théâtre du premier grand débat de la présidentielle",
-      "dek": "Le 27 août, sept candidats à la fonction suprême  tenteront de séduire la principale organisation patronale lors de la Rencontre des entrepreneurs de France, à Roland Garros. Certains débats risquent de faire des étincelles, tant les projets divergent…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/la-rentree-du-medef-theatre-du-premier-grand-debat-de-la-presidentielle-20260826_6QON7GAZKRH5HB3VGU3QRVC6UE/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T18:39:23+00:00",
-      "titre": "Droit de réponse de Xavier Daban",
-      "dek": "À la suite de l’article «Un bédéiste et professeur d’histoire visé par une plainte pour des dessins à caractère «pédopornographique», publié sur «Mediapart» le 13 août 2026, nous avons reçu un droit de réponse Xavier Daban.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/260826/droit-de-reponse-de-xavier-daban"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T18:15:13+00:00",
-      "titre": "Présidentielle 2027 : plus de 200 élus de droite et du centre appellent à une « primaire ouverte »",
-      "dek": "Les signataires alertent sur la possibilité d’un second tour entre la candidate du Rassemblement national, Marine Le Pen, et celui de La France insoumise, Jean-Luc Mélenchon, fustigeant « l’hypocrisie des discours » des quatre candidats de la droite et du centre, qui attendent qu…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/26/presidentielle-2027-plus-de-200-elus-de-droite-et-du-centre-appellent-a-une-primaire-ouverte_6757430_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T17:45:39+00:00",
-      "titre": "Plus de 200 élus, dont Hervé Morin, appellent à une \"primaire ouverte\" de la droite et du centre à l'approche de l'élection présidentielle de 2027",
-      "dek": "Les signataires alertent sur la possibilité d'un second tour entre la RN Marine Le Pen et le LFI Jean-Luc Mélenchon.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/plus-de-200-elus-dont-herve-morin-appellent-a-une-primaire-ouverte-de-la-droite-et-du-centre-a-l-approche-de-l-election-presidentielle-de-2027_8164085.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T17:37:07+00:00",
-      "titre": "Rivalité Mélenchon-Glucksmann : une logique perdante pour les électeurs de gauche",
-      "dek": "Si les leaders de LFI et de Place publique se détachent dans les sondages, leur posture de rejet réciproque ne peut que nuire à leurs dynamiques pour l’élection présidentielle.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/rivalite-melenchon-glucksmann-une-logique-perdante-pour-les-electeurs-de-gauche-20260826_7G5U6VGNCZEODIQSJOGS65GBRU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "26 Aug 2026",
-      "date_iso": "2026-08-26T17:15:46+00:00",
-      "titre": "Budget : la gauche repart à la charge pour taxer davantage l’héritage",
-      "dek": "De la CFDT à Raphaël Glucksmann et à Marine Tondelier, l’idée de mieux imposer les successions revient sur la table. Le RN y est hostile. Le premier ministre, Sébastien Lecornu, a évoqué une autre piste, un mécénat forcé lors des grandes successions.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/26/budget-la-gauche-repart-a-la-charge-pour-taxer-davantage-l-heritage_6757421_823448.html"
     }
   ]
 }
