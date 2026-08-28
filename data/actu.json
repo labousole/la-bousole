@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-08-28T15:13:16+00:00",
+  "generated_at": "2026-08-28T22:00:32+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T21:27:59+00:00",
+      "titre": "L’agence Fitch maintient la note de la dette de la France à A+ assortie d’une perspective stable",
+      "dek": "Cette décision survient dans un contexte économique tendu, à quelques semaines de la présentation du dernier budget du gouvernement avant l’élection présidentielle, et au moment où la question de la dette revient au cœur des débats.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/08/28/l-agence-fitch-maintient-la-note-de-la-dette-de-la-france-a-a-assortie-d-une-perspective-stable_6759168_3234.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T21:12:50+00:00",
+      "titre": "Au Parti socialiste, une rentrée sous le signe de la primaire",
+      "dek": "C'est la rentrée au Parti socialiste qui se réunit à Blois vendredi 28 et samedi 29 août pour ses universités d'été. Des échanges ont eu lieu au sujet de la \"primaire de la gauche socialiste et démocratique\" pour désigner le candidat à l'élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/ps/au-parti-socialiste-une-rentree-sous-le-signe-de-la-primaire_8167238.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T20:49:55+00:00",
+      "titre": "Présidentielle 2027 : à Blois, le grand favori Glucksmann sous la pression du «recours» Hollande",
+      "dek": "REPORTAGE - L’eurodéputé et candidat a été accueilli ce vendredi sous les applaudissements aux universités d’été du PS, pendant que l’ancien président donnait, au même moment, rendez-vous à ses soutiens dans un bar de la ville.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-a-blois-le-grand-favori-glucksmann-sous-la-pression-du-recours-hollande-20260828"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T19:00:46+00:00",
+      "titre": "A Blois, les socialistes n’ont que la primaire en tête",
+      "dek": "Même si Olivier Faure refuse pour l’heure d’officialiser sa candidature, le scrutin qui aura lieu les 10 et 16 octobre était au cœur de toutes les discussions, ce vendredi 28 août, dans les allées des universités d’été du PS.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/a-blois-les-socialistes-nont-que-la-primaire-en-tete-20260828_5EOHNP4MFFENROPPXXLOVK753A/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T18:12:49+00:00",
+      "titre": "Dans les campagnes, ces bistrots qui résistent",
+      "dek": "Dans les villages, ces ultimes lieux de sociabilité sont un précieux rempart au sentiment d’abandon qui profite au RN. Des Côtes-d’Armor au Gard, en passant par le Loiret, «Libé» a fait son tour de France.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/editorial/dans-les-campagnes-ces-bistrots-qui-resistent-20260828_TAOGDXXNNNAJLBTRWPWHFIYVW4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T18:03:16+00:00",
+      "titre": "A la foire de Châlons-en-Champagne, Bruno Retailleau doit déjà lever les doutes sur sa candidature",
+      "dek": "Dans la Marne ce 28 août après un été discret en Vendée, le candidat Les Républicains à la présidentielle veut convaincre de la pertinence de sa présence à droite aux côtés de Gabriel Attal et Edouard Philippe.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/a-la-foire-de-chalons-en-champagne-bruno-retailleau-doit-deja-lever-les-doutes-sur-sa-candidature-20260828_FA45KQGZJZATJOVQXIGDHZ3QDI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T17:25:59+00:00",
+      "titre": "Marine Le Pen « voit l’économie à travers l’électeur d’Hénin-Beaumont » : les réserves du patronat après la rentrée du Medef",
+      "dek": "Une partie des chefs d’entreprise, qui trouvaient Jordan Bardella plus malléable et sensible au discours libéral, ne se font pas d’illusions sur le programme de la candidate RN pour la présidentielle de 2027, décrit comme populiste. Mais Jean-Luc Mélenchon fait toujours figure de…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/28/marine-le-pen-voit-l-economie-a-travers-l-electeur-d-henin-beaumont-les-reserves-du-patronat-apres-la-rentree-du-medef_6759065_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T17:18:48+00:00",
+      "titre": "Marseille : le voisin de Sébastien Delogu, soupçonné de vol de montre de luxe, est-il «ressorti libre» ?",
+      "dek": "Dans un tweet publié vendredi 28 août, le député LFI évoque une «supercherie». A l’issue de l’audience de comparution immédiate qui a eu lieu jeudi, le parquet indique à «CheckNews» que le voisin de l’élu a été relaxé.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/checknews/marseille-le-voisin-de-sebastien-delogu-soupconne-de-vol-de-montre-de-luxe-est-il-ressorti-libre-20260828_WK3R4IDETVH33JXDKZRXJTKELI/"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -22,6 +110,61 @@
       "dek": "Ils sont souvent décrits comme des élèves en difficulté, peu investis ou dépendants des aides sociales. Pourtant, dans les salles de classe d’un lycée de Villiers-le-Bel, Victoire Fagon, prof d’histoire-géo, a rencontré des adolescents qui, chaque soir, travaillent, entreprennent…",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=501280"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T16:32:38+00:00",
+      "titre": "BFMTV et Le Figaro donnent le coup d’envoi de leur nouveau rendez-vous politique « Le Grand Oral 2027 »",
+      "dek": "Chaque semaine, de 18 heures à 19 heures, cette nouvelle émission politique dominicale prendra la forme d’une interview d’une heure, diffusée simultanément sur les chaînes des deux médias.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/medias/bfmtv-et-le-figaro-donnent-le-coup-d-envoi-de-leur-nouveau-rendez-vous-politique-le-grand-oral-2027-20260828"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T16:28:16+00:00",
+      "titre": "Marine Le Pen lance sa campagne en évinçant un proche de Jordan Bardella",
+      "dek": "Cinq mois après avoir été nommé conseiller spécial du président du parti, François Durvye quitte déjà ses fonctions. Cet ancien bras droit de Pierre-Édouard Stérin, en désaccord avec la ligne économique de Marine Le Pen, paie surtout son lobbying pour une candidature de Jordan Ba…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/280826/marine-le-pen-lance-sa-campagne-en-evincant-un-proche-de-jordan-bardella"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T15:51:48+00:00",
+      "titre": "Vrai ou faux. Les arrêts de travail courts sont-ils prescrits en \"open bar\" comme l'affirme Edouard Philippe ?",
+      "dek": "Face au coût des arrêts maladies, le candidat dans la course pour l'Elysée Édouard Philippe a affirmé vouloir \"mettre fin\" à ce qu'il qualifie \"d'open bar des arrêts de travail\". Les contours de leur délivrance sont-ils aussi flous qu'il l'affirme ? Les téléconsultations posent-e…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/sante/les-arrets-de-travail-courts-sont-ils-prescrits-en-open-bar-comme-l-affirme-edouard-philippe_8166740.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T15:46:15+00:00",
+      "titre": "« Le cœur à gauche, le portefeuille à droite » : dès 2018, un élu communiste épinglait la confortable rémunération de Bally Bagayoko",
+      "dek": "À la fin de la période 2011-2014, l’actuel maire de Saint-Denis cumulait un revenu annuel de 112.769 euros, soit environ 9400 euros par mois.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/faits-divers/le-coeur-a-gauche-le-portefeuille-a-droite-des-2018-un-elu-communiste-epinglait-la-confortable-remuneration-de-bally-bagayoko-20260828"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T15:28:24+00:00",
+      "titre": "On vous résume l'affaire qui implique le député LFI Sébastien Delogu, poursuivi pour \"outrage\" envers des policiers marseillais",
+      "dek": "Le parlementaire est convoqué en novembre pour des faits \"d'outrage sur personne dépositaire de l'autorité publique\". De son côté, le député de La France insoumise a porté plainte contre X pour injures et violences physiques.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/faits-divers/police/on-vous-resume-l-affaire-qui-implique-le-depute-lfi-sebastien-delogu-poursuivi-pour-outrage-envers-des-policiers-marseillais_8166260.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -407,149 +550,6 @@
       "dek": "Les sept candidats à l’élection présidentielle ont été interrogés, jeudi, par des chefs d’entreprise sur leur programme économique, à l’occasion de la Rencontre des entrepreneurs de France, organisée par le Medef.",
       "avis": null,
       "lien": "https://www.lemonde.fr/economie/live/2026/08/27/en-direct-debat-de-la-presidentielle-2027-fiscalite-reforme-des-retraites-pouvoir-d-achat-sept-candidats-se-sont-affrontes-devant-les-chefs-d-entreprise_6758467_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T18:11:21+00:00",
-      "titre": "Débat présidentiel du Medef : salaires, retraites, économies, dette… Revivez les échanges entre candidats à Roland-Garros",
-      "dek": "De Jean-Luc Mélenchon à Marine Le Pen, en passant par Raphaël Glucksmann et Édouard Philippe, sept prétendants à l’élection de 2027 ont été interrogés par des patrons sur des thèmes économiques ce jeudi après-midi.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/en-direct-debat-presidentiel-du-medef-suivez-en-direct-les-echanges-entre-les-principaux-candidats-a-roland-garros-20260827_7L2F6JXE6BHYXA4PF34BYSPV7E/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T17:55:39+00:00",
-      "titre": "Présidentielle 2027 : la course à l’Élysée débute devant les patrons du Medef",
-      "dek": "Sept candidats déclarés pour 2027 ont répondu aux questions d’un panel de chefs d’entreprise, à l’occasion de l'université d’été de la centrale patronale. Au menu : dette, souveraineté économique, salaires.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/presidentielle-2027/presidentielle-2027-la-course-a-lelysee-debute-devant-les-patrons-du-medef"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T17:49:48+00:00",
-      "titre": "Gérald Darmanin, un imposteur social au service du candidat Édouard Philippe",
-      "dek": "L’actuel ministre de la Justice fait sa rentrée politique à Tourcoing, dans le Nord, ce 31 août, où il doit revêtir son meilleur costume pour soutenir le candidat de Horizons : celui de l’homme politique de droite à la fibre sociale. Un déguisement, avant tout.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=501986"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T17:16:09+00:00",
-      "titre": "Jean-Marc Jancovici, avec le projet « Un commun accord », veut réinstaller l’enjeu climatique dans la campagne pour la présidentielle 2027",
-      "dek": "Le fondateur du Shift Project, groupe de réflexion axé sur la décarbonation de l’économie, a choisi de réunir 150 citoyens tirés au sort pour travailler sur l’environnement et des thématiques sociétales et économiques pendant six week-ends.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/27/jean-marc-jancovici-avec-le-projet-d-un-commun-accord-veut-reinstaller-l-enjeu-climatique-dans-la-campagne-pour-la-presidentielle-2027_6758496_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T17:06:04+00:00",
-      "titre": "Incendies, tornades, inondations : du Népal à la France, le dérèglement climatique frappe le monde",
-      "dek": "Les images sont impressionnantes, glaçantes. L’écroulement d’un glacier entre le Népal et la Chine a provoqué une coulée de boue qui a tout ravagé sur son passage. Les morts se comptent par centaines, les disparus dépassent le millier. Ce qui frappe, c’est la brutalité, la soudai…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/climat/incendies-tornades-innondations-du-nepal-a-la-france-le-changement-climatique-frappe-le-monde"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T16:52:18+00:00",
-      "titre": "« Un Pacs amélioré » : les propositions de Clémence Guetté pour faire reconnaître légalement l’amitié",
-      "dek": "La députée LFI vient de publier Pour une politique de l’amitié, dans lequel elle plaide pour étendre certains droits familiaux aux amis. Elle vient également de déposer un texte de loi pour traduire ses propositions en actes.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/clemence-guette/un-pacs-ameliore-les-propositions-de-clemence-guette-pour-faire-reconnaitre-legalement-lamitie"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T16:50:55+00:00",
-      "titre": "DIRECT. Premier débat de la présidentielle 2027 : \"Je ne parlerai plus de simplification, il faut assumer la dérèglementation\", lance Bruno Retailleau",
-      "dek": "Jean-Luc Mélenchon, Marine Le Pen, Bruno Retailleau, Raphaël Glucksmann, Marine Tondelier, Gabriel Attal et Edouard Philippe sont conviés à un échange jeudi en clôture de l'université d'été de l'organisation patronale, qui entend ainsi imposer ses thèmes dans la campagne.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T16:43:04+00:00",
-      "titre": "EN DIRECT - Débat présidentiel du Medef : «Vous rirez jaune si vous ne partagez pas davantage», lance Mélenchon aux patrons",
-      "dek": "De Jean-Luc Mélenchon à Marine Le Pen, en passant par Raphaël Glucksmann et Édouard Philippe, sept prétendants à l’élection de 2027 sont interrogés par des patrons sur des thèmes économiques ce jeudi après-midi.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/en-direct-debat-presidentiel-du-medef-suivez-en-direct-les-echanges-entre-les-principaux-candidats-a-roland-garros-20260827_7L2F6JXE6BHYXA4PF34BYSPV7E/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T16:36:44+00:00",
-      "titre": "«100% Frontières»: sur CNews, on prend les mêmes obsessions et on recommence",
-      "dek": "Le magazine d’extrême droite a fait sa rentrée pour une nouvelle saison de son émission, critiquée y compris à CNews, sur la chaîne de Vincent Bolloré. La veille, une enquête a révélé des dizaines de publications racistes et antisémites sur un groupe Facebook que «Frontières» est…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/270826/100-frontieres-sur-cnews-prend-les-memes-obsessions-et-recommence"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T16:33:04+00:00",
-      "titre": "« Le Premier ministre ne souhaitait pas se confronter à nous » : le syndicaliste arrêté en marge de la visite de Sébastien Lecornu à Mayotte témoigne",
-      "dek": "Lors de son déplacement à Mayotte ce mercredi 26 août 2026, le Premier ministre est resté sourd aux revendications des syndicats. Ces derniers dénoncent même d’avoir été réduits au silence dans la rue, déplacés et parqués pendant des heures. Entretien avec Rivo Rakotondravelo, se…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/chido/le-premier-ministre-ne-souhaitait-pas-se-confronter-a-nous-le-syndicaliste-arrete-en-marge-de-la-visite-de-sebastien-lecornu-a-mayotte-temoigne"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T15:30:02+00:00",
-      "titre": "\"Femme d'État\" : la campagne de Marine Le Pen sous la pression d'Éric Zemmour",
-      "dek": "Cet été, Fabrice d'Almeida sonde les slogans des élections présidentielles sous la Ve République. De quoi se rafraîchir la mémoire avant l'élection de 2027. Aujourd'hui, retour sur les élections de 2022, avec Marine Le Pen et son affiche : \"Femme d'État\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-info-de-l-histoire/femme-d-etat-la-campagne-de-marine-le-pen-sous-la-pression-d-eric-zemmour_8080289.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T14:52:33+00:00",
-      "titre": "Censure et autocensure dans la culture: le cas Paca",
-      "dek": "Un courrier menaçant de Renaud Muselier, président de la région Provence-Alpes-Côte d’Azur, que révèle «Mediapart», met à nu les mécanismes de censure, d’habitude invisibles, qui étouffent le monde culturel par temps de disette budgétaire.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/270826/censure-et-autocensure-dans-la-culture-le-cas-paca"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T14:51:27+00:00",
-      "titre": "\"C'est le lancement de la campagne\" : pourquoi le débat organisé par le Medef avec sept candidats à la présidentielle s'annonce stratégique pour chaque camp",
-      "dek": "Les principaux prétendants déclarés à l'Elysée vont se retrouver à Roland-Garros, jeudi, pour évoquer les sujets économiques. Certains se présenteront \"en position de force\", tandis que d'autres voudront faire bouger les lignes.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/c-est-le-lancement-de-la-campagne-pourquoi-le-debat-organise-par-le-medef-avec-sept-candidats-a-la-presidentielle-s-annonce-strategique-pour-chaque-camp_8162018.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
