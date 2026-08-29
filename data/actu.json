@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-08-29T05:03:34+00:00",
+  "generated_at": "2026-08-29T10:03:36+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T10:00:05+00:00",
+      "titre": "DIRECT. Présidentielle 2027 : \"Nous pouvons gagner cette élection\", assure Jordan Bardella à son arrivée à la Foire de Châlons-en-Champagne",
+      "dek": "\"Nous avons beaucoup travaillé cet été sur le programme de redressement du pays\" et la \"campagne présidentielle\", a déclaré le président du Rassemblement national devant la presse samedi.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T09:45:57+00:00",
+      "titre": "«Pour le Medef, il n’y a que l’argent qui compte» : Sophie Binet accuse une partie du patronat de faire «la courte échelle à l’extrême droite»",
+      "dek": "La leader de la CGT estime dans une interview au «Monde» samedi 29 août que le patronat normalise le Rassemblement national en ne considérant que son programme économique.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/social/pour-le-medef-il-ny-a-que-largent-qui-compte-sophie-binet-accuse-une-partie-du-patronat-de-faire-la-courte-echelle-a-lextreme-droite-20260829_3T2QEWHBXFABTGD23MRLKF4PEY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T09:37:26+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : Jordan Bardella et Gabriel Attal à la Foire de Châlons, le PS réuni à Blois… Suivez la rentrée politique",
+      "dek": "L’ancien président François Hollande et l’ex-premier ministre Edouard Philippe débattront à Sens,  pour l’université d’été du Laboratoire de la République, le cercle de réflexion de l’ancien ministre de l’éducation Jean-Michel Blanquer.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/08/29/en-direct-presidentielle-2027-le-ps-reuni-a-blois-jordan-bardella-et-gabriel-attal-a-la-foire-de-chalons-suivez-la-rentree-politique_6759921_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T09:21:13+00:00",
+      "titre": "\"Il faut protéger notre culture\" : des Japonais surpris de ne pas avoir été consultés sur le futur parc français \"Dragon Ball Z\"",
+      "dek": "Emmanuel Macron a annoncé un futur parc à thème Dragon Ball en région parisienne, financé par l'Arabie saoudite. Ce projet interroge au Japon, notamment sur les terres natales du créateur de Dragon Ball.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/japon/il-faut-proteger-notre-culture-des-japonais-surpris-de-ne-pas-avoir-ete-consultes-sur-le-futur-parc-francais-dragon-ball-z_8167955.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T08:47:29+00:00",
+      "titre": "Le PS fait sa rentrée à Blois avec des débats sans risque dans l’attente de la primaire",
+      "dek": "Toujours divisé à l’approche de la présidentielle de 2027, le Parti socialiste a organisé pour son université d’été à Blois (Loir-et-Cher) une série de débats et de tables rondes consensuels, destinés à ne surtout pas cliver davantage à l’approche d’une primaire sous haute tensio…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/290826/le-ps-fait-sa-rentree-blois-avec-des-debats-sans-risque-dans-l-attente-de-la-primaire"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T08:37:41+00:00",
+      "titre": "Présidentielle 2027 : les incompréhensibles divisions du bloc central",
+      "dek": "Davantage motivé par des inimitiés personnelles que par des divergences de fond, le maintien des candidatures de Gabriel Attal et d’Edouard Philippe contribue à la dispersion des voix de cette famille politique. Marine Le Pen ne peut que profiter de ces divisions qui lui permette…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/08/29/presidentielle-2027-les-incomprehensibles-divisions-du-bloc-central_6759816_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T07:46:37+00:00",
+      "titre": "Appels à une primaire droite-centre : il faut \"avoir un candidat avant Noël\", réclame l'ancien ministre Hervé Morin",
+      "dek": "\"Ceux qui refusent la primaire porteront une immense responsabilité\", estime Hervé Morin, ancien ministre centriste de la Défense et actuel président de la région Normandie.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/appels-a-une-primaire-droite-centre-il-faut-avoir-un-candidat-avant-noel-reclame-l-ancien-ministre-herve-morin_8168135.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T06:42:24+00:00",
+      "titre": "\"J'aimais bien Jordan Bardella\" : des électeurs RN déçus de ne pas recevoir \"le candidat\" Bardella sur la Foire de Châlons-en-Champagne",
+      "dek": "Le président du Rassemblement national se rend samedi 29 août sur la Foire de Châlons-en-Champagne, comme bien d'autres politiques. Sur place, des sympathisants du RN regrettent qu'il ne soit pas candidat à la prochaine présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/j-aimais-bien-jordan-bardella-des-electeurs-rn-decus-de-ne-pas-recevoir-le-candidat-bardella-sur-la-foire-de-chalons-en-champagne_8168051.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T05:39:48+00:00",
+      "titre": "Le PS fait sa rentrée et met le cap sur la primaire",
+      "dek": "Samedi 29 août, à Blois (Loir-et-Cher), le Parti socialiste fait sa rentrée politique. À quelques mois de l'élection présidentielle, les candidats ne pensent, pour l'heure, qu'à la primaire, sur fond de tensions internes incessantes.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/le-ps-fait-sa-rentree-et-met-le-cap-sur-la-primaire_8168039.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T05:26:51+00:00",
+      "titre": "Le pass Sport reconduit pour la saison 2026-2027 avec une aide ramenée à 50 euros",
+      "dek": "Lors de la saison 2025-2026, le montant du pass Sport était de 70 euros, il est désormais ramené à 50 euros.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-pass-sport-reconduit-pour-la-saison-2026-2027-avec-une-aide-ramenee-a-50-euros_8168036.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -19,9 +129,20 @@
       "date": "29 Aug 2026",
       "date_iso": "2026-08-29T04:00:45+00:00",
       "titre": "Sophie Binet, secrétaire générale de la CGT : « Une partie du patronat est en train de faire la courte échelle à l’extrême droite en la normalisant »",
-      "dek": "Dans un entretien au « Monde », la dirigeante de la CGT revient sur le premier débat présidentiel organisé, jeudi 27 août, par le Medef et regrette que désormais, face au RN, « le seul critère d’appréciation du patronat, c’est son intérêt financier ».",
+      "dek": "La dirigeante syndicale revient sur le premier débat présidentiel organisé, jeudi, par le Medef, et regrette que désormais, face au RN, le seul critère d’appréciation du patronat soit son intérêt financier.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/29/sophie-binet-secretaire-generale-de-la-cgt-une-partie-du-patronat-est-en-train-de-faire-la-courte-echelle-a-l-extreme-droite-en-la-normalisant_6759540_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T04:00:34+00:00",
+      "titre": "Présidentielle 2027 : contenter les retraités ou préparer l’avenir de la jeunesse, la difficile équation des candidats face au conflit de générations",
+      "dek": "La démographie aidant, les plus de 65 ans pèsent de plus en plus lourd dans l’économie, le budget de l’Etat et l’électorat. Une réalité qui complique la tenue d’un débat sur l’équité entre les générations, à huit mois de la prochaine élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-le-piege-du-choc-generationnel-entre-promesses-aux-jeunes-et-peur-d-irriter-les-retraites_6759541_823448.html"
     },
     {
       "tag": "Politique",
@@ -62,7 +183,7 @@
       "source": "Le Monde – Politique",
       "date": "28 Aug 2026",
       "date_iso": "2026-08-28T23:51:48+00:00",
-      "titre": "Le polémiste britannique d’extrême droite Milo Yiannopoulos arrêté par l’ICE, la police de l’immigration américaine",
+      "titre": "Le polémiste britannique d’extrême droite Milo Yiannopoulos arrêté par l’ICE, la police de l’immigration américaine",
       "dek": "Arrivé légalement sur le sol américain en 2019, le Britannique avait dépassé sa durée de séjour autorisée et s’était vu délivrer un ordre final d’expulsion, faute de s’être présenté à une audience sur son statut, selon le ministère de la sécurité intérieure.",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/08/29/le-polemiste-d-extreme-droite-britannique-milo-yiannopoulos-arrete-par-l-ice-la-police-de-l-immigration-americaine_6759302_3210.html"
@@ -73,7 +194,7 @@
       "source": "Le Monde – Politique",
       "date": "28 Aug 2026",
       "date_iso": "2026-08-28T22:40:58+00:00",
-      "titre": "Le député LFI Sébastien Delogu dénonce une « campagne de dénigrement » après sa garde à vue suivant son altercation avec des policiers",
+      "titre": "Le député LFI Sébastien Delogu dénonce une « campagne de dénigrement » à la suite de sa garde à vue après son altercation avec des policiers",
       "dek": "L’élu marseillais « réfute absolument les accusations relayées dans la presse [lui] reprochant d’être intervenu pour faire obstacle à une intervention policière dans [son] immeuble », lundi. Il comparaîtra devant le tribunal correctionnel, pour outrage, le 13 novembre.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/29/le-depute-lfi-sebastien-delogu-denonce-une-campagne-de-denigrement-apres-sa-garde-a-vue-suivant-son-altercation-avec-des-policiers_6759201_823448.html"
@@ -429,127 +550,6 @@
       "dek": "La réforme des retraites sera un sujet central de la prochaine campagne présidentielle. Pour Jean-Pierre Farandou, ministre du Travail et des Solidarités, il y a un élément clé à prendre en compte : la pénibilité du travail.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-et-penibilite-du-travail_8166362.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T09:38:00+00:00",
-      "titre": "EDITO. Le premier débat présidentiel organisé par le Medef a donné le ton de la campagne 2027",
-      "dek": "Jeudi avait lieu le premier grand débat de la présidentielle entre les principaux candidats actuels. Portant sur l'économie et les entreprises, il était organisé par le Medef, sur le court central de Roland Garros, à l’occasion de leur université de rentrée.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-le-premier-debat-presidentiel-organise-par-le-medef-a-donne-le-ton-de-la-campagne-2027_8081753.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T09:33:44+00:00",
-      "titre": "2027 : la course à l’Élysée débute devant les patrons du Medef",
-      "dek": "La campagne présidentielle a officiellement démarré. Ce jeudi 27 août s'est tenu le débat du MEDEF aux Rencontres des entreprises de France (REF). Sept candidats étaient invités à débattre de leur programme économique : Jean-Luc Mélenchon, Gabriel Attal, Marine Tondelier, Bruno R…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/edouard-philippe/2027-la-course-a-lelysee-debute-devant-les-patrons-du-medef"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T09:30:13+00:00",
-      "titre": "Présidentielle 2027 : le devoir de responsabilité du Medef",
-      "dek": "L’organisation patronale entend être un acteur de la campagne présidentielle de 2027. Si plusieurs de ses griefs sont légitimes, le Medef doit sortir de son intransigeance sur la question des retraites et s’opposer fermement au Rasssemblement national.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/08/28/presidentielle-2027-le-devoir-de-responsabilite-du-medef_6758980_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T09:10:25+00:00",
-      "titre": "Présidentielle 2027 : Bruno Retailleau s’apparente au \"candidat des patrons\" pour Pascal de Lima, économiste",
-      "dek": "Pascal de Lima, économiste et chef économiste de BKMC, était l’invité de La matinale de franceinfo vendredi 28 août.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-bruno-retailleau-s-apparente-au-candidat-des-patrons-pour-pascal-de-lima-economiste_8166206.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T09:00:34+00:00",
-      "titre": "Pierre Jouvet appelle François Hollande à se présenter à la primaire de la gauche « s’il a vraiment envie de jouer les premiers rôles »",
-      "dek": "Le secrétaire général du PS a appelé vendredi l’ancien président à participer à la primaire organisée avec Place publique, car, a-t-il expliqué, « attendre de l’extérieur qu’il puisse être une forme de recours… vous savez, je crois que lui-même n’y croit qu’assez peu ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/28/pierre-jouvet-appelle-francois-hollande-a-se-presenter-a-la-primaire-de-la-gauche-s-il-a-vraiment-envie-de-jouer-les-premiers-roles_6758977_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T09:00:00+00:00",
-      "titre": "« Rouges-Truites », éternelle fuite en avant",
-      "dek": "Dans ce roman à suspense, l’auteur Pierric Bailly explore l’effet des traumatismes sur les parcours de vie, qu’ils soient destructeurs ou surmontés.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=501053"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T08:51:02+00:00",
-      "titre": "REPORTAGE. \"Vous n'êtes pas obligée de raconter n'importe quoi !\" : à Roland-Garros, un premier débat offensif sur l'économie entre les sept principaux candidats à la présidentielle",
-      "dek": "Pendant trois heures, les prétendants à l'Elysée ont débattu des sujets économiques lors de l'université d'été du Medef. Entre deux grondements de tonnerre, les passes d'armes et petites piques n'ont pas manqué, dans une ambiance restée cordiale.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/reportage-vous-n-etes-pas-obligee-de-raconter-n-importe-quoi-a-roland-garros-un-premier-debat-offensif-sur-l-economie-entre-les-sept-principaux-candidats-a-la-presidentielle_8164652.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T08:00:00+00:00",
-      "titre": "Au Caire, le silence devient un privilège de classe",
-      "dek": "Dans la mégalopole où le bruit fait partie de l’identité collective, les plus riches achètent désormais ce que la ville offre de plus rare : du calme.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=501723"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T07:54:54+00:00",
-      "titre": "\"S'il y a une primaire\" de la droite et du centre, \"je l'affronterai\", assure Bruno Retailleau, candidat à l'élection présidentielle",
-      "dek": "Le président des Républicains a affirmé vendredi dans les \"4 V\" sur France 2 qu'il n'avait \"peur d'aucune compétition\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/s-il-y-a-une-primaire-de-la-droite-et-du-centre-je-l-affronterai-assure-bruno-retailleau-candidat-a-l-election-presidentielle_8166113.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T07:51:59+00:00",
-      "titre": "Retraites : \"Contrairement à beaucoup d'autres, j'assumerai le fait de repousser l'âge légal\", lance Bruno Retailleau, candidat LR à l’élection présidentielle",
-      "dek": "Bruno Retailleau, président des Républicains et candidat LR à l’élection présidentielle de 2027, était l’invité des 4V sur France 2, vendredi 28 août.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/retraites-contrairement-a-beaucoup-d-autres-j-assumerai-le-fait-de-repousser-l-age-legal-lance-bruno-retailleau-candidat-lr-a-l-election-presidentielle_8166161.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T07:50:54+00:00",
-      "titre": "Une croissance en panne et un déficit qui stagne compliquent encore un peu plus l’équation budgétaire du gouvernement",
-      "dek": "La France a connu une croissance nulle au deuxième trimestre, après un recul au premier, a annoncé l’Insee, vendredi 28 août. Le déficit public fait du surplace, tandis que les taux d’intérêt grimpent. Le budget 2026 s’annonce très difficile à tenir, et le suivant ardu à boucler.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/28/la-panne-de-croissance-menace-le-budget_6758967_823448.html"
     }
   ]
 }
