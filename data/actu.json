@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-08-29T00:03:39+00:00",
+  "generated_at": "2026-08-29T05:03:34+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T04:00:58+00:00",
+      "titre": "Pourquoi l’avenir de la tour Montparnasse est-il en jeu dans les prochaines semaines ? Comprendre en trois minutes",
+      "dek": "Si le bâtiment parisien a été vidé de ses occupants en mars 2026, le démarrage du chantier de rénovation est retardé par de nombreux conflits entre copropriétaires.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/29/pourquoi-l-avenir-de-la-tour-montparnasse-est-il-en-jeu-dans-les-prochaines-semaines-comprendre-en-trois-minutes_6759543_6176282.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T04:00:45+00:00",
+      "titre": "Sophie Binet, secrétaire générale de la CGT : « Une partie du patronat est en train de faire la courte échelle à l’extrême droite en la normalisant »",
+      "dek": "Dans un entretien au « Monde », la dirigeante de la CGT revient sur le premier débat présidentiel organisé, jeudi 27 août, par le Medef et regrette que désormais, face au RN, « le seul critère d’appréciation du patronat, c’est son intérêt financier ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/sophie-binet-secretaire-generale-de-la-cgt-une-partie-du-patronat-est-en-train-de-faire-la-courte-echelle-a-l-extreme-droite-en-la-normalisant_6759540_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T04:00:34+00:00",
+      "titre": "Présidentielle 2027 : le piège du choc générationnel, entre promesses aux jeunes et peur d’irriter les retraités",
+      "dek": "La démographie aidant, les plus de 65 ans pèsent de plus en plus lourd dans l’économie, le budget de l’Etat et l’électorat. Une réalité qui complique la tenue d’un débat sur l’équité entre les générations, à huit mois de la prochaine élection présidentielle.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-le-piege-du-choc-generationnel-entre-promesses-aux-jeunes-et-peur-d-irriter-les-retraites_6759541_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T04:00:00+00:00",
+      "titre": "La Fête de l’Humanité en solidarité avec la Palestine",
+      "dek": "Les dernières déclarations d’Itamar Ben Gvir sont d’une ignominie sans nom. Le ministre israélien de la Sécurité nationale, figure de l’extrême droite au sein du gouvernement de Benyamin Netanyahou, revendique publiquement la mise à mort quotidienne de dizaines de Palestiniens à …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/monde/etat-palestinien/la-fete-de-lhumanite-en-solidarite-avec-la-palestine"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -17,11 +61,33 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T23:51:48+00:00",
+      "titre": "Le polémiste britannique d’extrême droite Milo Yiannopoulos arrêté par l’ICE, la police de l’immigration américaine",
+      "dek": "Arrivé légalement sur le sol américain en 2019, le Britannique avait dépassé sa durée de séjour autorisée et s’était vu délivrer un ordre final d’expulsion, faute de s’être présenté à une audience sur son statut, selon le ministère de la sécurité intérieure.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/08/29/le-polemiste-d-extreme-droite-britannique-milo-yiannopoulos-arrete-par-l-ice-la-police-de-l-immigration-americaine_6759302_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "28 Aug 2026",
       "date_iso": "2026-08-28T22:40:58+00:00",
       "titre": "Le député LFI Sébastien Delogu dénonce une « campagne de dénigrement » après sa garde à vue suivant son altercation avec des policiers",
       "dek": "L’élu marseillais « réfute absolument les accusations relayées dans la presse [lui] reprochant d’être intervenu pour faire obstacle à une intervention policière dans [son] immeuble », lundi. Il comparaîtra devant le tribunal correctionnel, pour outrage, le 13 novembre.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/29/le-depute-lfi-sebastien-delogu-denonce-une-campagne-de-denigrement-apres-sa-garde-a-vue-suivant-son-altercation-avec-des-policiers_6759201_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T21:27:59+00:00",
+      "titre": "L’agence Fitch maintient la note de la dette de la France à A+ assortie d’une perspective stable",
+      "dek": "Cette décision survient dans un contexte économique tendu, à quelques semaines de la présentation du dernier budget du gouvernement avant l’élection présidentielle, et au moment où la question de la dette revient au cœur des débats.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/08/28/l-agence-fitch-maintient-la-note-de-la-dette-de-la-france-a-a-assortie-d-une-perspective-stable_6759168_3234.html"
     },
     {
       "tag": "Politique",
@@ -484,72 +550,6 @@
       "dek": "La France a connu une croissance nulle au deuxième trimestre, après un recul au premier, a annoncé l’Insee, vendredi 28 août. Le déficit public fait du surplace, tandis que les taux d’intérêt grimpent. Le budget 2026 s’annonce très difficile à tenir, et le suivant ardu à boucler.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/28/la-panne-de-croissance-menace-le-budget_6758967_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T06:54:23+00:00",
-      "titre": "Réduire la durée d'indemnisation du chômage, comme le propose Édouard Philippe, permet-il vraiment de retrouver plus vite un emploi ?",
-      "dek": "Les candidats à la présidentielle ont débattu de la durée d'indemnisation du chômage lors du premier grand débat organisé par le Medef. Alors qu'Édouard Philippe propose de la réduire, l'Unédic montre que la mesure accélère surtout le retour à l'emploi des plus employables.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/reduire-la-duree-d-indemnisation-du-chomage-comme-le-propose-edouard-philippe-permet-il-vraiment-de-retrouver-plus-vite-un-emploi_8138270.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T21:11:33+00:00",
-      "titre": "Devant le Medef, dans le bourbier des droites, les gauches s’épargnent",
-      "dek": "Invités par le Medef, Raphaël Glucksmann, Jean-Luc Mélenchon et Marine Tondelier ont débattu face à Gabriel Attal, Marine Le Pen, Édouard Philippe et Bruno Retailleau sur la dette, la fiscalité ou les salaires. Ils ont tenté de remporter quelques points sur des sujets chers aux l…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=502057"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T20:27:48+00:00",
-      "titre": "Pour leur premier débat, les candidats à la présidentielle sommés par le Medef de faire des économies",
-      "dek": "Sept candidats, pas tous investis ou certains d’aller jusqu’au bout, ont répondu aux questions d’un parterre de patrons décidés à peser sur le scrutin de 2027. Droite et extrême droite ont donné des gages, tandis que les gauches se sont rebiffées.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/270826/pour-leur-premier-debat-les-candidats-la-presidentielle-sommes-par-le-medef-de-faire-des-economies"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T19:56:43+00:00",
-      "titre": "De Bruno Retailleau à Jean-Luc Mélenchon, un premier débat et de premières passes d'armes entre sept candidats à la présidentielle face au Medef",
-      "dek": "Un match de plus de trois heures sur le court central de Roland-Garros, mais cette fois, politique. Les sept principaux candidats à l’élection présidentielle ont débattu devant les entrepreneurs, réunis par le Medef jeudi 27 août. Une première confrontation très attendue, et parf…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/de-bruno-retailleau-a-jean-luc-melenchon-un-premier-debat-et-de-premieres-passes-d-armes-entre-sept-candidats-a-la-presidentielle-face-au-medef_8165666.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T19:30:12+00:00",
-      "titre": "Marine Le Pen maintient le retour à la retraite à 62 ans, en rupture avec la ligne de Jordan Bardella",
-      "dek": "La candidate du Rassemblement national a officialisé jeudi 27 août, lors du débat avec les candidats putatifs à la présidentielle organisé par le Medef, son souhait de conserver l’un de ses derniers marqueurs « sociaux », la retraite à 62 ans, voire 60 ans. Elle prévoit d’y ajout…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/27/marine-le-pen-maintient-le-retour-a-la-retraite-a-62-ans-en-rupture-avec-la-ligne-de-jordan-bardella_6758537_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T19:26:08+00:00",
-      "titre": "Rentrée du Medef : un « paradis » patronal sans travailleurs",
-      "dek": "Si le syndicat patronal a tenté, ces dernières semaines, de faire entendre que les salarié·es sont aussi les « partenaires » des patrons, ses adhérent·es ont eu droit, sans surprise, à un show contre l’État social lors de « La REF », son événement de rentrée à Roland-Garros. Réci…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=502016"
     }
   ]
 }
