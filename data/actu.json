@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-08-29T10:03:36+00:00",
+  "generated_at": "2026-08-29T15:03:37+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T14:51:09+00:00",
+      "titre": "DIRECT. Présidentielle 2027 : \"L'heure du socialisme écologique a sonné\", lance Olivier Faure devant les socialistes réunis à Blois",
+      "dek": "Le Premier secrétaire du PS, qui laisse planer le doute sur sa participation à la primaire de la gauche, s'exprime samedi lors des journées d'été de son parti.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T14:03:33+00:00",
+      "titre": "Sébastien Lecornu réaffirme ne pas être candidat à la présidentielle et esquisse un budget 2027 « réversible »",
+      "dek": "Faute de majorité et à moins de huit mois du premier tour de la présidentielle, le premier ministre promet « un budget de premier semestre ». Il annonce notamment un plan de soutien pour aider les agriculteurs après un été de sécheresse, puis « un plan de relance pour 2027 ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/sebastien-lecornu-reaffirme-ne-pas-etre-candidat-a-la-presidentielle-et-esquisse-un-budget-reversible_6760030_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T14:00:56+00:00",
+      "titre": "\"Compliqué de changer la donne quand vous êtes un revenant\" : à Blois, François Hollande tente toujours de se poser en recours en marge de la primaire socialiste",
+      "dek": "En se tenant loin du scrutin d'octobre, l'ancien chef de l'Etat veut s'imposer comme une alternative si le processus échoue à lancer un candidat vers l'Elysée. Une stratégie \"hasardeuse\", dénoncent ses opposants socialistes, qui ne croient pas en ses chances.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/francois-hollande/complique-de-changer-la-donne-quand-vous-etes-un-revenant-a-blois-francois-hollande-tente-toujours-de-se-poser-en-recours-en-marge-de-la-primaire-socialiste_8168333.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T13:37:15+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : Olivier Faure appelle la gauche à « dresser la digue » contre l’alliance entre « l’extrême droite » et « l’extrême argent »",
+      "dek": "Dans son discours aux journées d’été du PS, le premier secrétaire socialiste a appelé à « créer un grand fonds national et européen » pour investir dans « la bifurcation écologique », et mis en garde contre « un autre feu », celui « qui vient de l’extrême droite ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/08/29/en-direct-presidentielle-2027-sebastien-lecornu-repete-qu-il-n-est-pas-candidat-a-la-presidentielle-francois-ruffin-critique-la-primaire-sociale-democrate-a-gauche_6759921_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T13:16:48+00:00",
+      "titre": "Présidentielle 2027 : Sébastien Lecornu n'est \"pas candidat\" et ne se \"mêle pas de la campagne\" électorale",
+      "dek": "Le Premier ministre a affirmé, samedi, être en \"mission\" pour faire adopter un budget pour l'année prochaine. Dans cette optique, il a demandé aux prétendants à l'Elysée de \"ne pas entraver davantage l'action du gouvernement\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-sebastien-lecornu-n-est-pas-candidat-et-ne-se-mele-pas-de-la-campagne-electorale_8168519.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T12:34:20+00:00",
+      "titre": "«Un suffrage censitaire» : à Blois, Ruffin critique la primaire du PS et du camp Glucksmann",
+      "dek": "Présent à Blois aux universités d’été du PS samedi 29 août, l’ex-insoumis a comparé le prix mis en place pour pouvoir voter au suffrage interne des sociaux-démocrates à une politique discriminatoire de boîte de nuit.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/un-suffrage-censitaire-a-blois-ruffin-critique-la-primaire-du-ps-et-du-camp-glucksmann-20260829_ZNNCURWF5FEFPNEFWWQ3SUBJOI/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T11:55:19+00:00",
+      "titre": "« Le cœur à gauche, le portefeuille à droite » : dès 2018, un élu communiste épinglait la confortable rémunération de Bally Bagayoko",
+      "dek": "À la fin de la période 2011-2014, l’actuel maire de Saint-Denis cumulait un revenu annuel de 112.769 euros, soit environ 9400 euros par mois.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/faits-divers/le-coeur-a-gauche-le-portefeuille-a-droite-des-2018-un-elu-communiste-epinglait-la-confortable-remuneration-de-bally-bagayoko-20260828"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T11:00:16+00:00",
+      "titre": "Présidentielle : le PDG de TotalEnergies, Patrick Pouyanné, \"inquiet\" face aux programmes économiques de Marine Le Pen et Jean-Luc Mélenchon",
+      "dek": "Sur France Inter, Patrick Pouyanné estime que si l'un de ces deux candidats est élu chef de l'État en 2027, \"ça fera courir un risque à la France\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-pdg-de-totalenergies-patrick-pouyanne-inquiet-face-aux-programmes-economiques-de-marine-le-pen-et-jean-luc-melenchon_8168474.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T10:24:00+00:00",
+      "titre": "Des funérailles de Jean-Marie Le Pen au dossier Aramburu : Jean-Philippe Husté, un mystérieux et omniprésent parrain de l’extrême droite",
+      "dek": "Costume impeccable, montre de luxe et cheveux gominés : l’homme cultive la discrétion. Mais on le croise où l’extrême droite radicale se montre : auprès des gudards violents, au parloir de l’assassin présumé du rugbyman argentin, ou aux obsèques du père de Marine Le Pen.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/des-funerailles-de-jean-marie-le-pen-au-dossier-aramburu-jean-philippe-huste-un-mysterieux-et-omnipresent-parrain-de-lextreme-droite-20260829_JM6XZYHK7ZDGXEQP5IYNSVBCSI/"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -354,17 +453,6 @@
       "lien": "https://www.franceinfo.fr/sante/les-arrets-de-travail-courts-sont-ils-prescrits-en-open-bar-comme-l-affirme-edouard-philippe_8166740.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T15:46:15+00:00",
-      "titre": "« Le cœur à gauche, le portefeuille à droite » : dès 2018, un élu communiste épinglait la confortable rémunération de Bally Bagayoko",
-      "dek": "À la fin de la période 2011-2014, l’actuel maire de Saint-Denis cumulait un revenu annuel de 112.769 euros, soit environ 9400 euros par mois.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/faits-divers/le-coeur-a-gauche-le-portefeuille-a-droite-des-2018-un-elu-communiste-epinglait-la-confortable-remuneration-de-bally-bagayoko-20260828"
-    },
-    {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
@@ -462,94 +550,6 @@
       "dek": "«Libération» vous donne rendez-vous le 2 septembre à l’Académie du Climat, à Paris, pour une soirée de débat entre François Ruffin, député de la Somme, président de Debout ! et candidat à la présidentielle, et Dominique de Villepin, ancien Premier ministre et fondateur de la Fran…",
       "avis": null,
       "lien": "https://www.liberation.fr/forums/libe-2027-suivez-le-premier-debat-entre-francois-ruffin-et-dominique-de-villepin-20260826_7NJJJ5VN2RHY7A7COALPZXL2KE/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T12:00:00+00:00",
-      "titre": "Par delà le Bien et le Mal… la politique !",
-      "dek": "Dans un premier essai bientôt disponible, dont Politis publie ici un extrait en exclusivité, la journaliste et militante féministe Arya Meroni appelle à reprendre l’offensive contre le capitalisme néolibéral, au lieu de tout miser sur la fameuse « bataille culturelle ».",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=501209"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T11:20:42+00:00",
-      "titre": "Tapisserie de Bayeux : Emmanuel Macron sera à Londres mercredi pour inaugurer l’exposition au British Museum",
-      "dek": "L’œuvre est parvenue le 10 juillet au célèbre musée londonien pour un prêt d’un an décidé en juillet 2025. Elle y sera exposée de septembre au 11 juillet 2027.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/culture/article/2026/08/28/tapisserie-de-bayeux-emmanuel-macron-sera-a-londres-mercredi-pour-inaugurer-l-exposition-au-british-museum_6758996_3246.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T11:14:35+00:00",
-      "titre": "Les Comores dénoncent les propos de Sébastien Lecornu sur l’aide migratoire, jugés « d’une condescendance insupportable »",
-      "dek": "Les propos de M. Lecornu ont suscité des condamnations dans l’ensemble de l’échiquier politique comorien. Le parti d’opposition Us a dénoncé « un chantage scandaleux », tandis que l’ONG Comité Maore a qualifié cette mesure de « chantage inacceptable » et accusé Paris de mener une…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/outre-mer/article/2026/08/28/les-comores-denoncent-les-propos-de-sebastien-lecornu-sur-l-aide-migratoire-juges-d-une-condescendance-insupportable_6758994_1840826.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T11:07:48+00:00",
-      "titre": "Des librairies indépendantes font leur rentrée sous la pression des extrêmes droites",
-      "dek": "Depuis deux ans, partout en France, elles ont été prises pour cibles, physiquement ou symboliquement. Dans un contexte financier déjà très fragile pour le livre indépendant, les librairies tentent de se protéger, sans rien céder sur le fond.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/030826/rentree-litteraire-des-librairies-independantes-font-leur-rentree-sous-la-pression-des-extremes"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T11:00:00+00:00",
-      "titre": "« Retour au goudron », au bout de l’univers",
-      "dek": "Sous le nom d’Infernus lohannes, Antoine Volodine publie onze livres sous le titre général de Retour au goudron chez onze éditeurs différents, pour conclure son entreprise du post-exotisme. Un véritable événement littéraire.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=501101"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T10:53:12+00:00",
-      "titre": "Budget 2027 : RSA et minimum vieillesse seront bien indexés sur l’inflation, assure Jean-Pierre Farandou",
-      "dek": "Egalement interrogé sur la question sensible d’une possible désindexation des pensions de retraite, le ministre du travail a laissé entendre qu’il y était favorable. « L’indexation à 100 % sur l’inflation [des pensions de retraite], vous l’appliquez à 400 milliards, ça va vite »,…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/28/budget-2027-rsa-et-minimum-vieillesse-seront-bien-indexes-sur-l-inflation-assure-jean-pierre-farandou_6758992_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T10:31:12+00:00",
-      "titre": "Marine Le Pen se sépare de son conseiller économique dans la course pour l'élection présidentielle",
-      "dek": "Le top départ de la campagne pour l'élection présidentielle de 2027 a été donné avec le débat entre sept candidats jeudi. Le même jour, le conseiller spécial et économique du RN est écarté.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/marine-le-pen-se-separe-de-son-conseiller-economique-dans-la-course-pour-l-election-presidentielle_8166386.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T09:55:42+00:00",
-      "titre": "Réforme des retraites et pénibilité du travail",
-      "dek": "La réforme des retraites sera un sujet central de la prochaine campagne présidentielle. Pour Jean-Pierre Farandou, ministre du Travail et des Solidarités, il y a un élément clé à prendre en compte : la pénibilité du travail.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-et-penibilite-du-travail_8166362.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
