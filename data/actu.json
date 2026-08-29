@@ -1,6 +1,160 @@
 {
-  "generated_at": "2026-08-29T15:03:37+00:00",
+  "generated_at": "2026-08-29T20:03:30+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T20:02:20+00:00",
+      "titre": "DIRECT. Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella",
+      "dek": "Le chef du RN a tendu la main, samedi, aux électeurs de LR qui se sentent \"orphelins d'un leader, d'un projet et d'une incarnation\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T19:27:41+00:00",
+      "titre": "\"C'est le signe du retour\" : François Hollande en embuscade lors des universités d’été de la gauche",
+      "dek": "La rentrée politique a débuté sur les chapeaux de roue, à huit mois de l’élection présidentielle. À gauche, les socialistes étaient réunis à Blois (Loir-et-Cher) pour leurs universités d’été. Au menu : la primaire, des candidats plus ou moins déclarés qui tentent de se faire ente…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/c-est-le-signe-du-retour-francois-hollande-en-embuscade-lors-des-universites-d-ete-de-la-gauche_8168870.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T19:12:54+00:00",
+      "titre": "Présidentielle 2027 : à Sens, Edouard Philippe et François Hollande font campagne pour le rassemblement de leurs camps",
+      "dek": "L’ancien chef de l’Etat et l’ancien Premier ministre ont débattu ce samedi 29 août en clôture de l’université d’été du «Laboratoire de la République» de Jean-Michel Blanquer, fustigeant la primaire socialiste et sociale-démocrate d’un côté et appelant à l’union de la droite et du…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-a-sens-edouard-philippe-et-francois-hollande-font-campagne-pour-le-rassemblement-de-leurs-camps-20260829_4B2ZOTJSQNE6BCRNDJ7DARTQW4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T19:10:06+00:00",
+      "titre": "Présidentielle 2027 : le « trou de fourmi » de François Hollande, déjà en campagne",
+      "dek": "L’ancien président de la République a réuni à Blois soutiens et curieux venus écouter son discours de quasi-candidat. Excluant de participer à la primaire socialiste, il donne rendez-vous en décembre pour « déterminer la meilleure façon de gagner ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-le-trou-de-fourmi-de-francois-hollande-deja-en-campagne_6760400_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T18:45:29+00:00",
+      "titre": "Édouard Philippe et François Hollande, un débat cordial entre « ex »",
+      "dek": "François Hollande et Édouard Philippe ont débattu pendant environ 1&nbsp;h&nbsp;30 ce samedi 29&nbsp;août à Sens (Yonne). Invités des universités d’été du Laboratoire de la République, think tank présidé par Jean-Michel Blanquer, les deux hommes ont pris position sur l’économie, …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/debats/edouard-philippe-et-francois-hollande-un-debat-cordial-entre-ex"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T18:14:31+00:00",
+      "titre": "A Blois, Olivier Faure élude la primaire socialiste et tente de «se placer au-dessus de la mêlée»",
+      "dek": "En clôture de l’université d’été du PS, samedi 29 août, le patron du parti n’a accordé que quelques secondes de son discours au processus auquel il devrait être prochainement candidat. Il a insisté sur la nécessaire transformation écologique et mentionné que le socialisme était r…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/a-blois-olivier-faure-elude-la-primaire-socialiste-et-tente-de-se-placer-au-dessus-de-la-melee-20260829_DN6GFTRXMZFWRADAJZDWVAKMVM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T17:58:43+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : Olivier Faure promet que le PS sera « au rendez-vous », estimant que le « bloc central va s’effondrer »",
+      "dek": "Le premier secrétaire du parti socialiste a assuré qu’un « autre futur » était « possible » après dix ans de macronisme, en clôture des journées d’été du mouvement à Blois. Le dirigeant socialiste devrait rapidement se déclarer à la primaire de la gauche socialiste et démocratiqu…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/08/29/en-direct-presidentielle-2027-olivier-faure-promet-que-le-ps-sera-au-rendez-vous-estimant-que-le-bloc-central-va-s-effondrer_6759921_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T17:29:31+00:00",
+      "titre": "Présidentielle 2027 : le RN se fixe une « règle d’or » budgétaire limitant le déficit à 3 % du PIB, moyen de rassurer les marchés",
+      "dek": "Le Rassemblement national devrait inscrire dans son programme une règle budgétaire autorisant un déficit maximum de 3 % du produit intérieur brut, soit celui fixé par l’Union européenne. Un retournement historique pour le parti, qui prévoirait aussi l’obligation de présenter un b…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-la-regle-d-or-budgetaire-de-marine-le-pen-limiterait-le-deficit-a-3-du-pib_6760267_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T16:11:22+00:00",
+      "titre": "Soutien aux agriculteurs, surtaxe des grandes entreprises, indemnisation des arrêts maladie... Sébastien Lecornu prépare un dernier budget «réversible»",
+      "dek": "Pour sa rentrée, le Premier ministre écarte toute candidature à la présidentielle et esquisse ce dimanche 29 août dans «le Parisien» quelques mesures du prochain projet de loi de finances.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/soutien-aux-agriculteurs-surtaxe-des-grandes-entreprises-indemnisation-des-arrets-maladie-sebastien-lecornu-prepare-un-dernier-budget-reversible-20260829_JF3D34GZORAMLBILKUXOGCQXRY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T16:07:02+00:00",
+      "titre": "Présidentielle 2027 : Sébastien Lecornu n'est \"pas candidat\" et ne se \"mêle pas de la campagne\" électorale",
+      "dek": "Le Premier ministre a affirmé, samedi, être en \"mission\" pour faire adopter un budget pour l'année prochaine. Dans cette optique, il a demandé aux prétendants à l'Elysée de \"ne pas entraver davantage l'action du gouvernement\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-sebastien-lecornu-n-est-pas-candidat-et-ne-se-mele-pas-de-la-campagne-electorale_8168519.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T16:05:11+00:00",
+      "titre": "Pas de hausse d'impôts, un \"plan de sauvetage\" agricole et une réforme des arrêts maladie : Sébastien Lecornu fait plusieurs annonces pour la rentrée",
+      "dek": "Dans une interview au journal \"Le Parisien\", samedi, le chef du gouvernement écarte toute candidature à l'Elysée et évoque les discussions budgétaires à venir au Parlement.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/pas-de-hausse-d-impots-un-plan-de-sauvetage-agricole-et-une-reforme-des-arrets-maladie-sebastien-lecornu-fait-plusieurs-annonces-pour-la-rentree_8168540.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T15:58:06+00:00",
+      "titre": "Le député RN Julien Odoul s’invite à la rentrée politique des amis de Jean-Michel Blanquer",
+      "dek": "Le think tank de l’ancien ministre de l’éducation nationale s’est réuni pendant deux jours à Sens, en Bourgogne, autour de personnalités issues du camp présidentiel, de la droite et du Parti socialiste. Samedi, l’élu d’extrême droite de la circonscription a profité de la venue du…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/290826/le-depute-rn-julien-odoul-s-invite-la-rentree-politique-des-amis-de-jean-michel-blanquer"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T15:57:50+00:00",
+      "titre": "Le maire de Toulouse s’entête dans son refus de dénoncer la venue de Patrick Bruel",
+      "dek": "Invoquant la défense de «l’État de droit», Jean-Luc Moudenc est l’un des rares maires d’une grande ville de France à ne pas déplorer la tournée du chanteur mis en examen pour des violences sexuelles. Provoquant les critiques de l’opposition municipale et la colère, exprimée avec …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/290826/le-maire-de-toulouse-s-entete-dans-son-refus-de-denoncer-la-venue-de-patrick-bruel"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T15:57:42+00:00",
+      "titre": "À Mayotte, Sébastien Lecornu déclare la guerre aux exilés",
+      "dek": "En déplacement dans le département, le premier ministre a annoncé la «militarisation» de la lutte contre l’immigration clandestine. Drones, ballons statiques ou encore postes avancés de la Légion étrangère: le gouvernement veut mobiliser l’armée face aux personnes présentées comm…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/290826/mayotte-sebastien-lecornu-declare-la-guerre-aux-exiles"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -35,6 +189,17 @@
       "lien": "https://www.franceinfo.fr/politique/francois-hollande/complique-de-changer-la-donne-quand-vous-etes-un-revenant-a-blois-francois-hollande-tente-toujours-de-se-poser-en-recours-en-marge-de-la-primaire-socialiste_8168333.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T13:38:17+00:00",
+      "titre": "Présidentielle 2027. Un Olivier Faure offensif pour son discours de rentrée… avant son entrée en campagne",
+      "dek": "Le premier secrétaire du PS a fixé son territoire en clôture du Campus PS de Blois avant une très probable entrée en campagne dimanche soir dans la primaire présidentielle des socialistes",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/olivier-faure/presidentielle-2027-un-olivier-faure-offensif-pour-son-discours-de-rentree-avant-son-entree-en-campagne"
+    },
+    {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
@@ -44,17 +209,6 @@
       "dek": "Dans son discours aux journées d’été du PS, le premier secrétaire socialiste a appelé à « créer un grand fonds national et européen » pour investir dans « la bifurcation écologique », et mis en garde contre « un autre feu », celui « qui vient de l’extrême droite ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/live/2026/08/29/en-direct-presidentielle-2027-sebastien-lecornu-repete-qu-il-n-est-pas-candidat-a-la-presidentielle-francois-ruffin-critique-la-primaire-sociale-democrate-a-gauche_6759921_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T13:16:48+00:00",
-      "titre": "Présidentielle 2027 : Sébastien Lecornu n'est \"pas candidat\" et ne se \"mêle pas de la campagne\" électorale",
-      "dek": "Le Premier ministre a affirmé, samedi, être en \"mission\" pour faire adopter un budget pour l'année prochaine. Dans cette optique, il a demandé aux prétendants à l'Elysée de \"ne pas entraver davantage l'action du gouvernement\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-sebastien-lecornu-n-est-pas-candidat-et-ne-se-mele-pas-de-la-campagne-electorale_8168519.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -396,160 +550,6 @@
       "dek": "Dans un tweet publié vendredi 28 août, le député LFI évoque une «supercherie». A l’issue de l’audience de comparution immédiate qui a eu lieu jeudi, le parquet indique à «CheckNews» que le voisin de l’élu a été relaxé.",
       "avis": null,
       "lien": "https://www.liberation.fr/checknews/marseille-le-voisin-de-sebastien-delogu-soupconne-de-vol-de-montre-de-luxe-est-il-ressorti-libre-20260828_WK3R4IDETVH33JXDKZRXJTKELI/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T17:00:46+00:00",
-      "titre": "Influenceurs : « N’appeler qu’à voter contre l’extrême droite, c’est le niveau zéro de l’engagement »",
-      "dek": "De nouveaux visages ont émergé lors des dernières élections municipales. Parmi eux, Mouna Benamar, à Montreuil. À travers ses réseaux sociaux, elle entend faire entendre une nouvelle génération dans la perspective de 2027.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=502292"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T17:00:00+00:00",
-      "titre": "« Certains de mes élèves de lycée cumulent les cours, le travail, les responsabilités »",
-      "dek": "Ils sont souvent décrits comme des élèves en difficulté, peu investis ou dépendants des aides sociales. Pourtant, dans les salles de classe d’un lycée de Villiers-le-Bel, Victoire Fagon, prof d’histoire-géo, a rencontré des adolescents qui, chaque soir, travaillent, entreprennent…",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=501280"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T16:32:38+00:00",
-      "titre": "BFMTV et Le Figaro donnent le coup d’envoi de leur nouveau rendez-vous politique « Le Grand Oral 2027 »",
-      "dek": "Chaque semaine, de 18 heures à 19 heures, cette nouvelle émission politique dominicale prendra la forme d’une interview d’une heure, diffusée simultanément sur les chaînes des deux médias.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/medias/bfmtv-et-le-figaro-donnent-le-coup-d-envoi-de-leur-nouveau-rendez-vous-politique-le-grand-oral-2027-20260828"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T16:28:16+00:00",
-      "titre": "Marine Le Pen lance sa campagne en évinçant un proche de Jordan Bardella",
-      "dek": "Cinq mois après avoir été nommé conseiller spécial du président du parti, François Durvye quitte déjà ses fonctions. Cet ancien bras droit de Pierre-Édouard Stérin, en désaccord avec la ligne économique de Marine Le Pen, paie surtout son lobbying pour une candidature de Jordan Ba…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/280826/marine-le-pen-lance-sa-campagne-en-evincant-un-proche-de-jordan-bardella"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T15:51:48+00:00",
-      "titre": "Vrai ou faux. Les arrêts de travail courts sont-ils prescrits en \"open bar\" comme l'affirme Edouard Philippe ?",
-      "dek": "Face au coût des arrêts maladies, le candidat dans la course pour l'Elysée Édouard Philippe a affirmé vouloir \"mettre fin\" à ce qu'il qualifie \"d'open bar des arrêts de travail\". Les contours de leur délivrance sont-ils aussi flous qu'il l'affirme ? Les téléconsultations posent-e…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/sante/les-arrets-de-travail-courts-sont-ils-prescrits-en-open-bar-comme-l-affirme-edouard-philippe_8166740.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T15:28:24+00:00",
-      "titre": "On vous résume l'affaire qui implique le député LFI Sébastien Delogu, poursuivi pour \"outrage\" envers des policiers marseillais",
-      "dek": "Le parlementaire est convoqué en novembre pour des faits \"d'outrage sur personne dépositaire de l'autorité publique\". De son côté, le député de La France insoumise a porté plainte contre X pour injures et violences physiques.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/police/on-vous-resume-l-affaire-qui-implique-le-depute-lfi-sebastien-delogu-poursuivi-pour-outrage-envers-des-policiers-marseillais_8166260.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T15:09:03+00:00",
-      "titre": "REPLAY. Revivez le premier débat de la présidentielle 2027, organisé par le Medef, qui a opposé sept candidats pendant trois heures",
-      "dek": "Jean-Luc Mélenchon, Marine Le Pen, Bruno Retailleau, Raphaël Glucksmann, Marine Tondelier, Gabriel Attal et Edouard Philippe étaient conviés à répondre à des patrons en clôture de l'université d'été de l'organisation, qui entend imposer ses thèmes dans la campagne.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-attal-le-pen-melenchon-philippe-suivez-le-premier-debat-de-la-presidentielle-organise-par-le-medef-entre-sept-candidats-declares_8162033.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T15:02:59+00:00",
-      "titre": "Les sapeurs-pompiers professionnels annoncent déposer un préavis de grève du 8 septembre au 20 octobre",
-      "dek": "Après un été marqué par les incendies, l'intersyndicale compte maintenir \"la pression\" sur le gouvernement pour obtenir davantage de moyens.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/les-sapeurs-pompiers-professionnels-annoncent-deposer-un-preavis-de-greve-du-8-septembre-au-20-octobre_8166761.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T14:30:31+00:00",
-      "titre": "\"Franc-Jeu\". Avec Raphaël Glucksmann",
-      "dek": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 30 août 2026, il reçoit le candidat Raphaël Glucksmann, cofondateu…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-raphael-glucksmann_8163872.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T14:22:50+00:00",
-      "titre": "A la Réunion, polémique après de nouveaux propos d’Edouard Philippe sur la colonisation",
-      "dek": "Récemment sur place, le candidat à la présidentielle avait, comme en 2025, refusé de qualifier la colonisation de «crime». La gauche locale dénonce «un profond aveuglement historique».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/a-la-reunion-polemique-apres-de-nouveaux-propos-dedouard-philippe-sur-la-colonisation-20260828_2ZV2T6T6KFEIDCPQWFS64ROHRU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T13:43:47+00:00",
-      "titre": "Faire appel à la solidarité des seniors lors du budget 2027 est une \"mesure discriminatoire\", dénonce le président de l'Union française des retraités",
-      "dek": "Selon le ministre du Travail et des Solidarités Jean-Pierre Farandou, l'indexation des retraites sur l'inflation \"à 100%\" pose \"un problème économique\", à l'heure de la rigueur budgétaire et en appelle à la \"solidarité des seniors\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/retraite/faire-appel-a-la-solidarite-des-seniors-lors-du-budget-2027-est-une-mesure-discriminatoire-denonce-le-president-de-l-union-francaise-des-retraites_8166656.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T13:40:56+00:00",
-      "titre": "Patrons et trahisons : les coulisses du départ du conseiller économique de Marine Le Pen",
-      "dek": "Le retrait de François Durvye, annoncé jeudi 27 août tandis que la candidate s’exprimait devant le Medef, ajoute une note dissonante à la rentrée du RN. Selon nos informations, le conseiller avait incité son favori Jordan Bardella à imposer sa candidature à la présidentielle.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/patrons-et-trahisons-les-coulisses-du-depart-du-conseiller-economique-de-marine-le-pen-20260828_NGKSI6ISLZGQTJHJAPWWN7OMYU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T13:18:00+00:00",
-      "titre": "La gauche ne se dispute pas trop, elle se dispute mal",
-      "dek": "Pour sortir de la division entre les «gauches irréconciliables», l’enjeu n’est pas de refaire bloc, mais de fabriquer de l’unité sans exiger de l’uniformité. Et, pour cela, des procédures innovantes existent, analyse la sociologue Guénaëlle Gault.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/la-gauche-ne-se-dispute-pas-trop-elle-se-dispute-mal-20260828_KZNLYCQYWJAYFBEQQVGGUULZ7M/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T12:05:00+00:00",
-      "titre": "«Libé 2027» : suivez le premier débat entre François Ruffin et Dominique de Villepin",
-      "dek": "«Libération» vous donne rendez-vous le 2 septembre à l’Académie du Climat, à Paris, pour une soirée de débat entre François Ruffin, député de la Somme, président de Debout ! et candidat à la présidentielle, et Dominique de Villepin, ancien Premier ministre et fondateur de la Fran…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/forums/libe-2027-suivez-le-premier-debat-entre-francois-ruffin-et-dominique-de-villepin-20260826_7NJJJ5VN2RHY7A7COALPZXL2KE/"
     }
   ]
 }
