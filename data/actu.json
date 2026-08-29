@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-08-28T22:00:32+00:00",
+  "generated_at": "2026-08-29T00:03:39+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T23:51:49+00:00",
+      "titre": "Le polémiste d’extrême droite britannique Milo Yiannopoulos arrêté par l’ICE, la police de l’immigration américaine",
+      "dek": "Arrivé légalement sur le sol américain en 2019, le Britannique avait dépassé sa durée de séjour autorisée et s’était vu délivrer un ordre final d’expulsion, faute de s’être présenté à une audience sur son statut, selon le ministère de la sécurité intérieure.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/08/29/le-polemiste-d-extreme-droite-britannique-milo-yiannopoulos-arrete-par-l-ice-la-police-de-l-immigration-americaine_6759302_3210.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "28 Aug 2026",
+      "date_iso": "2026-08-28T22:40:58+00:00",
+      "titre": "Le député LFI Sébastien Delogu dénonce une « campagne de dénigrement » après sa garde à vue suivant son altercation avec des policiers",
+      "dek": "L’élu marseillais « réfute absolument les accusations relayées dans la presse [lui] reprochant d’être intervenu pour faire obstacle à une intervention policière dans [son] immeuble », lundi. Il comparaîtra devant le tribunal correctionnel, pour outrage, le 13 novembre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/le-depute-lfi-sebastien-delogu-denonce-une-campagne-de-denigrement-apres-sa-garde-a-vue-suivant-son-altercation-avec-des-policiers_6759201_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -528,28 +550,6 @@
       "dek": "Si le syndicat patronal a tenté, ces dernières semaines, de faire entendre que les salarié·es sont aussi les « partenaires » des patrons, ses adhérent·es ont eu droit, sans surprise, à un show contre l’État social lors de « La REF », son événement de rentrée à Roland-Garros. Réci…",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=502016"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T18:48:33+00:00",
-      "titre": "Au débat du Medef, les candidats à la présidentielle roulent leur boss",
-      "dek": "Dette, retraites, rôles de l’Etat… Pour le traditionnel raout estival de l’organisation patronale, sept candidats à la présidentielle se sont affrontés, ce jeudi 27 août, à coups de piques et de bons mots. Une performance que «Libé» a choisi de départager avec un seul outil : l’a…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/au-medef-les-candidats-roulent-leur-boss-20260827_7MRVVV354JAFZL7JQ77MOKM5OI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "27 Aug 2026",
-      "date_iso": "2026-08-27T18:36:05+00:00",
-      "titre": "Débat de la présidentielle 2027 : fiscalité, réforme des retraites, pouvoir d’achat… Sept candidats se sont affrontés devant les chefs d’entreprise",
-      "dek": "Les sept candidats à l’élection présidentielle ont été interrogés, jeudi, par des chefs d’entreprise sur leur programme économique, à l’occasion de la Rencontre des entrepreneurs de France, organisée par le Medef.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/live/2026/08/27/en-direct-debat-de-la-presidentielle-2027-fiscalite-reforme-des-retraites-pouvoir-d-achat-sept-candidats-se-sont-affrontes-devant-les-chefs-d-entreprise_6758467_3234.html"
     }
   ]
 }
