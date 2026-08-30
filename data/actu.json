@@ -1,16 +1,148 @@
 {
-  "generated_at": "2026-08-30T15:03:29+00:00",
+  "generated_at": "2026-08-30T20:03:35+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T15:02:38+00:00",
+      "date_iso": "2026-08-30T19:58:36+00:00",
       "titre": "Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella",
       "dek": "Le chef du RN a tendu la main, samedi, aux électeurs de LR qui se sentent \"orphelins d'un leader, d'un projet et d'une incarnation\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T19:17:47+00:00",
+      "titre": "Présidentielle : Olivier Faure, nouveau candidat à la primaire",
+      "dek": "Le Premier secrétaire du Parti socialiste a attendu la fin des universités d’été de son parti à Blois pour se déclarer candidat à la primaire sociale-démocrate.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-olivier-faure-nouveau-candidat-a-la-primaire-20260830_G4RZYREKVBGMNELYXA4FVMVBQI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T19:00:59+00:00",
+      "titre": "A Tourcoing, Edouard Philippe promet à Gérald Darmanin un «rôle central» dans la «recomposition» politique",
+      "dek": "Lors de la mise en scène du ralliement du garde des Sceaux à sa candidature à la présidentielle dans le Nord dimanche, le maire du Havre a annoncé vouloir créer une plateforme de la droite et du centre pour présenter des candidats uniques aux législatives.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/a-tourcoing-edouard-philippe-promet-a-gerald-darmanin-un-role-central-dans-la-recomposition-politique-20260830_TM73LGMKTJHDZFDF2JHRGNDIMI/"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T18:58:56+00:00",
+      "titre": "Présidentielle 2027 : Olivier Faure officialise sa candidature à la primaire socialiste et lance son match face à Glucksmann",
+      "dek": "Au lendemain des universités d’été de son parti à Blois, le premier secrétaire a annoncé ce dimanche soir se porter candidat à la primaire de la famille socialiste et social-démocrate, prévue en octobre prochain.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-olivier-faure-officialise-sa-candidature-a-la-primaire-et-lance-son-match-face-a-glucksmann-20260830"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T18:40:54+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : Olivier Faure officialise sa candidature à la primaire de la gauche",
+      "dek": "« Je suis candidat à la présidence de la république », a déclaré le premier secrétaire du Parti socialiste au journal de 20 heures de TF1, ce qu’il avait déjà annoncé dans la nuit aux députés de son groupe.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/08/30/en-direct-presidentielle-2027-olivier-faure-confirme-sa-candidature-a-la-primaire-de-la-gauche_6759921_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T18:25:29+00:00",
+      "titre": "Face à l’extrême droite, Bally Bagayoko et des élus LFI se lancent dans la lutte contre l’abstention",
+      "dek": "Devant 300 militants de gauche, l’édile de Saint-Denis (Seine-Saint-Denis), accompagné d’autres figures insoumises, a défendu ce dimanche l’idée d’une mobilisation des quartiers à quelques mois du scrutin présidentiel.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/face-a-lextreme-droite-bally-bagayoko-et-des-elus-lfi-se-lancent-dans-la-lutte-contre-labstention-20260830_RKQQXMQMDJGIZKOFHTX5G3ATMA/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T18:18:49+00:00",
+      "titre": "Olivier Faure officiellement candidat à la primaire  socialiste",
+      "dek": "Une semaine après Raphaël Glucksmann, le premier secrétaire du Parti socialiste s'est à son tour déclaré. Le vote doit avoir lieu en octobre.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/olivier-faure/olivier-faure-officiellement-candidat-a-la-primaire-socialiste"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T17:01:35+00:00",
+      "titre": "L’extrême droite «sociale» de Marine Le Pen, une supercherie efficace",
+      "dek": "Paradoxalement, le choix de cette ligne par le Rassemblement national peut s’avérer complémentaire avec la droite LR libérale et utile pour une victoire à la présidentielle.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/lextreme-droite-sociale-de-marine-le-pen-une-supercherie-efficace-20260830_FT6XI3JX7JDRFNM6TMZSLJUG4A/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T16:14:00+00:00",
+      "titre": "De Hollande à Darmanin, le week-end de faux-semblants d’Édouard Philippe",
+      "dek": "Après un débat avec François Hollande samedi, l’ancien premier ministre a retrouvé Gérald Darmanin dimanche, à Tourcoing, pour tenter de teinter sa campagne d’une «fibre sociale». Derrière un narratif rodé et l’errance d’une partie des sociaux-démocrates, le patron d’Horizons déf…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/300826/de-hollande-darmanin-le-week-end-de-faux-semblants-d-edouard-philippe"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T16:00:03+00:00",
+      "titre": "Salaires des enseignants : les candidats à la présidentielle multiplient les promesses, les intéressés s’interrogent sur les contreparties",
+      "dek": "Les professeurs restent dubitatifs devant à la surenchère de propositions autour d’une hausse de leur rémunération, dans le cadre de la campagne pour la présidentielle de 2027. La nécessité d’une revalorisation fait néanmoins consensus face au décrochage qu’a connu la profession.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/education/article/2026/08/30/salaires-des-professeurs-les-candidats-a-la-presidentielle-multiplient-les-promesses-les-interesses-s-interrogent-sur-les-contreparties_6761392_1473685.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T15:16:07+00:00",
+      "titre": "Présidentielle 2027 : l’UDI se rêve en fédératrice de la droite et du centre",
+      "dek": "Peu pressée de soutenir un candidat, l’Union des démocrates et indépendants (UDI) considère l’élection présidentielle avec distance. Le parti centriste désire y jouer un rôle de force d’appoint et rêve de créer une grande fédération du centre.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/30/presidentielle-2027-l-udi-se-reve-en-federatrice-de-la-droite-et-du-centre_6761355_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T15:07:48+00:00",
+      "titre": "Le PS à Blois pour son université d’été, l’Islande dit non à l’UE, les colons israéliens attaquent Qusra… Ce qu’il ne fallait pas manquer ce week-end",
+      "dek": "Pas de panique si vous avez décroché de l’actualité durant le week-end. «&nbsp;L’Humanité&nbsp;» vous fait le récap' de ce qu’il ne fallait pas manquer ces 29 et 30&nbsp;août.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/monde/cisjordanie/le-ps-a-blois-pour-son-universite-dete-lislande-dit-non-a-lue-les-colons-israeliens-attaquent-qusra-ce-quil-ne-fallait-pas-manquer-ce-week-end"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T14:58:40+00:00",
+      "titre": "Chez Darmanin, Edouard Philippe annonce vouloir créer «un nouveau parti» avec des «candidats uniques» pour les législatives",
+      "dek": "S’il assure ne pas vouloir rééditer l’expérience de l’UMP, qui avait réuni les sensibilités du centre et de la droite pour donner une majorité à Jacques Chirac en 2002, Edouard Philippe entend en suivre le modèle en investissant des «candidats uniques dans chaque circonscription»…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/chez-darmanin-edouard-philippe-annonce-vouloir-creer-un-nouveau-parti-avec-des-candidats-uniques-pour-les-legislatives-20260830_HRMTB5NM3FAJJPY7GPGNR5K6LQ/"
     },
     {
       "tag": "Gauche",
@@ -418,138 +550,6 @@
       "dek": "Invoquant la défense de «l’État de droit», Jean-Luc Moudenc est l’un des rares maires d’une grande ville de France à ne pas déplorer la tournée du chanteur mis en examen pour des violences sexuelles. Provoquant les critiques de l’opposition municipale et la colère, exprimée avec …",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/290826/le-maire-de-toulouse-s-entete-dans-son-refus-de-denoncer-la-venue-de-patrick-bruel"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T15:57:42+00:00",
-      "titre": "À Mayotte, Sébastien Lecornu déclare la guerre aux exilés",
-      "dek": "En déplacement dans le département, le premier ministre a annoncé la «militarisation» de la lutte contre l’immigration clandestine. Drones, ballons statiques ou encore postes avancés de la Légion étrangère: le gouvernement veut mobiliser l’armée face aux personnes présentées comm…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/290826/mayotte-sebastien-lecornu-declare-la-guerre-aux-exiles"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T14:51:09+00:00",
-      "titre": "DIRECT. Présidentielle 2027 : \"L'heure du socialisme écologique a sonné\", lance Olivier Faure devant les socialistes réunis à Blois",
-      "dek": "Le Premier secrétaire du PS, qui laisse planer le doute sur sa participation à la primaire de la gauche, s'exprime samedi lors des journées d'été de son parti.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T14:03:33+00:00",
-      "titre": "Sébastien Lecornu réaffirme ne pas être candidat à la présidentielle et esquisse un budget 2027 « réversible »",
-      "dek": "Faute de majorité et à moins de huit mois du premier tour de la présidentielle, le premier ministre promet « un budget de premier semestre ». Il annonce notamment un plan de soutien pour aider les agriculteurs après un été de sécheresse, puis « un plan de relance pour 2027 ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/sebastien-lecornu-reaffirme-ne-pas-etre-candidat-a-la-presidentielle-et-esquisse-un-budget-reversible_6760030_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T14:00:56+00:00",
-      "titre": "\"Compliqué de changer la donne quand vous êtes un revenant\" : à Blois, François Hollande tente toujours de se poser en recours en marge de la primaire socialiste",
-      "dek": "En se tenant loin du scrutin d'octobre, l'ancien chef de l'Etat veut s'imposer comme une alternative si le processus échoue à lancer un candidat vers l'Elysée. Une stratégie \"hasardeuse\", dénoncent ses opposants socialistes, qui ne croient pas en ses chances.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/francois-hollande/complique-de-changer-la-donne-quand-vous-etes-un-revenant-a-blois-francois-hollande-tente-toujours-de-se-poser-en-recours-en-marge-de-la-primaire-socialiste_8168333.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T13:38:17+00:00",
-      "titre": "Présidentielle 2027. Un Olivier Faure offensif pour son discours de rentrée… avant son entrée en campagne",
-      "dek": "Le premier secrétaire du PS a fixé son territoire en clôture du Campus PS de Blois avant une très probable entrée en campagne dimanche soir dans la primaire présidentielle des socialistes",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/olivier-faure/presidentielle-2027-un-olivier-faure-offensif-pour-son-discours-de-rentree-avant-son-entree-en-campagne"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T13:37:15+00:00",
-      "titre": "EN DIRECT, présidentielle 2027 : Olivier Faure appelle la gauche à « dresser la digue » contre l’alliance entre « l’extrême droite » et « l’extrême argent »",
-      "dek": "Dans son discours aux journées d’été du PS, le premier secrétaire socialiste a appelé à « créer un grand fonds national et européen » pour investir dans « la bifurcation écologique », et mis en garde contre « un autre feu », celui « qui vient de l’extrême droite ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/08/29/en-direct-presidentielle-2027-sebastien-lecornu-repete-qu-il-n-est-pas-candidat-a-la-presidentielle-francois-ruffin-critique-la-primaire-sociale-democrate-a-gauche_6759921_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T12:34:20+00:00",
-      "titre": "«Un suffrage censitaire» : à Blois, Ruffin critique la primaire du PS et du camp Glucksmann",
-      "dek": "Présent à Blois aux universités d’été du PS samedi 29 août, l’ex-insoumis a comparé le prix mis en place pour pouvoir voter au suffrage interne des sociaux-démocrates à une politique discriminatoire de boîte de nuit.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/un-suffrage-censitaire-a-blois-ruffin-critique-la-primaire-du-ps-et-du-camp-glucksmann-20260829_ZNNCURWF5FEFPNEFWWQ3SUBJOI/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T11:55:19+00:00",
-      "titre": "« Le cœur à gauche, le portefeuille à droite » : dès 2018, un élu communiste épinglait la confortable rémunération de Bally Bagayoko",
-      "dek": "À la fin de la période 2011-2014, l’actuel maire de Saint-Denis cumulait un revenu annuel de 112.769 euros, soit environ 9400 euros par mois.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/faits-divers/le-coeur-a-gauche-le-portefeuille-a-droite-des-2018-un-elu-communiste-epinglait-la-confortable-remuneration-de-bally-bagayoko-20260828"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T11:00:16+00:00",
-      "titre": "Présidentielle : le PDG de TotalEnergies, Patrick Pouyanné, \"inquiet\" face aux programmes économiques de Marine Le Pen et Jean-Luc Mélenchon",
-      "dek": "Sur France Inter, Patrick Pouyanné estime que si l'un de ces deux candidats est élu chef de l'État en 2027, \"ça fera courir un risque à la France\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-le-pdg-de-totalenergies-patrick-pouyanne-inquiet-face-aux-programmes-economiques-de-marine-le-pen-et-jean-luc-melenchon_8168474.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T10:24:00+00:00",
-      "titre": "Des funérailles de Jean-Marie Le Pen au dossier Aramburu : Jean-Philippe Husté, un mystérieux et omniprésent parrain de l’extrême droite",
-      "dek": "Costume impeccable, montre de luxe et cheveux gominés : l’homme cultive la discrétion. Mais on le croise où l’extrême droite radicale se montre : auprès des gudards violents, au parloir du suspect du meurtre du rugbyman argentin, ou aux obsèques du père de Marine Le Pen.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/des-funerailles-de-jean-marie-le-pen-au-dossier-aramburu-jean-philippe-huste-un-mysterieux-et-omnipresent-parrain-de-lextreme-droite-20260829_JM6XZYHK7ZDGXEQP5IYNSVBCSI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T10:00:05+00:00",
-      "titre": "DIRECT. Présidentielle 2027 : \"Nous pouvons gagner cette élection\", assure Jordan Bardella à son arrivée à la Foire de Châlons-en-Champagne",
-      "dek": "\"Nous avons beaucoup travaillé cet été sur le programme de redressement du pays\" et la \"campagne présidentielle\", a déclaré le président du Rassemblement national devant la presse samedi.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T09:45:57+00:00",
-      "titre": "«Pour le Medef, il n’y a que l’argent qui compte» : Sophie Binet accuse une partie du patronat de faire «la courte échelle à l’extrême droite»",
-      "dek": "La leader de la CGT estime dans une interview au «Monde» samedi 29 août que le patronat normalise le Rassemblement national en ne considérant que son programme économique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/economie/social/pour-le-medef-il-ny-a-que-largent-qui-compte-sophie-binet-accuse-une-partie-du-patronat-de-faire-la-courte-echelle-a-lextreme-droite-20260829_3T2QEWHBXFABTGD23MRLKF4PEY/"
     }
   ]
 }
