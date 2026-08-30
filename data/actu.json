@@ -1,27 +1,181 @@
 {
-  "generated_at": "2026-08-30T10:03:21+00:00",
+  "generated_at": "2026-08-30T15:03:29+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T09:56:23+00:00",
+      "date_iso": "2026-08-30T15:02:38+00:00",
       "titre": "Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella",
       "dek": "Le chef du RN a tendu la main, samedi, aux électeurs de LR qui se sentent \"orphelins d'un leader, d'un projet et d'une incarnation\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T14:12:27+00:00",
+      "titre": "« La charia à Paris » : le maire Emmanuel Grégoire dénonce la nouvelle fake news raciste de Donald Trump",
+      "dek": "Le maire socialiste de Paris, Emmanuel Grégoire, a vertement répliqué aux propos délirants du président états-unien, qui affirme que la loi islamique s’appliquerait dans les capitales française et anglaise.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/cest-un-monde/la-charia-a-paris-le-maire-emmanuel-gregoire-denonce-la-nouvelle-fake-news-raciste-de-donald-trump"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T14:06:57+00:00",
+      "titre": "Université d’été du PS : à Blois, le duel Glucksmann-Faure se met en place",
+      "dek": "Le premier secrétaire du PS est officiellement candidat à la primaire socialiste, où il affrontera l’eurodéputé, donné favori. La campagne a démarré à Blois, où avait lieu la rentrée politique du parti.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/olivier-faure/universite-dete-du-ps-a-blois-le-duel-glucksmann-faure-se-met-en-place"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T13:45:00+00:00",
+      "titre": "Au RN, la bataille entre Marine Le Pen et Jordan Bardella se joue aussi sur l’économie",
+      "dek": "Bien qu’il assure soutenir pleinement Marine Le Pen, Jordan Bardella s’est mis en scène en solo, pour sa rentrée politique dans la Marne. Et ce, alors qu’un de ses proches vient de quitter la campagne de la candidate.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/jordan-bardella/au-rn-la-bataille-entre-marine-le-pen-et-jordan-bardella-se-joue-aussi-sur-leconomie"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T13:28:50+00:00",
+      "titre": "Présidentielle 2027 : avec son « Big Bang » fiscal, Dominique de Villepin se rêve en coupeur de dettes",
+      "dek": "Dominique de Villepin dévoile un plan pour ramener le déficit à 3&nbsp;% du PIB en 2031, entre suppression des niches «&nbsp;fiscales et sociales&nbsp;», nouveaux impôts et refonte de la CSG. Habillé de mots de gauche, ce «&nbsp;Big Bang&nbsp;» fiscal risque surtout de faire port…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/dominique-de-villepin/presidentielle-2027-avec-son-big-bang-fiscal-dominique-de-villepin-se-reve-en-coupeur-de-dettes"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T13:27:42+00:00",
+      "titre": "Le candidat à l'élection présidentielle Raphaël Glucksmann veut augmenter de 10% les salaires de tous les enseignants",
+      "dek": "L'eurodéputé a évoqué dimanche plusieurs mesures de son \"Plan école\" qui sera présenté au cours de la semaine du 31 août.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-candidat-a-l-election-presidentielle-raphael-glucksmann-veut-augmenter-de-10-les-salaires-de-tous-les-enseignants_8169542.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T13:04:31+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : Edouard Philippe veut créer un « parti » ou une « confédération de partis » avec des « candidats uniques » aux législatives de 2027",
+      "dek": "L’ancien premier ministre, invité à Tourcoing par Gérald Darmanin, promet de « construire le contrat de gouvernement (…) qui permettra à tous ceux qui veulent unir leurs forces au service du pays de gouverner ensemble », en vue des législatives qui devraient suivre la présidentie…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/08/30/en-direct-presidentielle-2027-la-primaire-socialiste-sera-le-moment-de-refondation-de-la-gauche-predit-raphael-glucksmann_6759921_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T12:50:27+00:00",
+      "titre": "Pour Raphaël Glucksmann, la candidature d'Olivier Faure à la présidentielle permet \"enfin de tout clarifier\"",
+      "dek": "Olivier Faure, le premier secrétaire du PS, a annoncé aux députés de son groupe sa candidature à la primaire de la gauche en vue de la présidentielle. Le député européen, Raphaël Glucksmann, participera aussi à cette primaire.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/pour-raphael-glucksmann-la-candidature-d-olivier-faure-a-la-presidentielle-permet-enfin-de-tout-clarifier_8169500.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T12:42:24+00:00",
+      "titre": "Raphaël Glucksmann soutiendra la censure du gouvernement en cas de \"régression sociale et écologique\" du budget 2027",
+      "dek": "Le député européen insiste sur la nécessité d'un \"rapport de force et d'une négociation\" lors des débats en fin d'année pour le budget 2027 à l'Assemblée nationale.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/raphael-glucksmann-soutiendra-la-censure-du-gouvernement-en-cas-de-regression-sociale-et-ecologique-lors-du-budget-2027_8169527.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Libération – Politique",
       "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T09:13:55+00:00",
-      "titre": "Présidentielle 2027 : Olivier Faure candidat à la primaire du PS et de Place publique",
-      "dek": "Le patron du PS l’a annoncé dans un message envoyé dans la nuit de samedi à ce dimanche aux députés de son groupe parlementaire.",
+      "date_iso": "2026-08-30T12:34:32+00:00",
+      "titre": "Présidentielle 2027 : Olivier Faure candidat à la primaire du PS et de Place publique, Glucksmann attend un moment de «clarification»",
+      "dek": "Le patron du PS l’a annoncé dans un message envoyé dans la nuit de samedi à ce dimanche aux députés de son groupe parlementaire. Invité de France Inter, Raphaël Glucksmann s’est réjoui d’une «clarification».",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/presidentielle-2027-olivier-faure-candidat-a-la-primaire-de-la-gauche-20260830_SIH5N4WSGRCTLFJHDU3HXOJQUU/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T12:06:08+00:00",
+      "titre": "Au Népal, une terreur de boue et de glace",
+      "dek": "Des milliers de personnes sont toujours portées disparues après un effondrement glaciaire qui a transformé, le 26 août, une vallée de l’Himalaya en couloir de la mort. Une muraille de boue a déferlé sur une région investie par les routes, barrages, mines, tunnels et hôtels, malgr…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/300826/au-nepal-une-terreur-de-boue-et-de-glace"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T10:37:38+00:00",
+      "titre": "Université d’été du PS : Coco croque la rentrée des socialistes",
+      "dek": "Notre dessinatrice a déambulé à Blois ce samedi 29 août où les socialistes étaient réunis pour leur université d’été. Choses vues et dessinées.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/universite-dete-du-ps-coco-croque-la-rentree-des-socialistes-20260830_DLYDIRNUG5EHBLPC6DELWXOCNM/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T10:18:01+00:00",
+      "titre": "Charles Sapin de Valeurs Actuelles sur France Inter : une rentrée à droite toute",
+      "dek": "Dimanche matin, café, tartines. Sur France Inter, un nouveau chroniqueur hebdomadaire, Charles Sapin, directeur adjoint de la rédaction de l’hebdomadaire Valeurs actuelles. Le pluralisme et l’ouverture, c’est à l’extrême droite. Dans le Journal du dimanche de Vincent Bolloré, on …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/le-billet-de-maurice-ulrich/charles-sapin-de-valeurs-actuelles-sur-france-inter-une-rentree-a-droite-toute"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T10:11:12+00:00",
+      "titre": "À Hayange, le maire RN supprime les navettes scolaires et laisse parents et enfants désemparés avant la rentrée",
+      "dek": "Selon les informations de MoselleTV, la mairie RN de Hayange a supprimé en catimini le service de ramassage scolaire. Une décision prise au cœur de l’été laissant les parents inquiets pour la sécurité de leurs enfants et sans solutions pour la rentrée.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/hayange/a-hayange-le-maire-rn-supprime-les-navettes-scolaires-et-laisse-parents-et-enfants-desempares-avant-la-rentree"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T10:07:04+00:00",
+      "titre": "«Nous avons peur»: à la Maison de l’Argentine de Paris, le directeur d’extrême droite nommé par Javier Milei est de plus en plus décrié",
+      "dek": "Plusieurs ex-résidents contraints de plier bagage en cette rentrée dénoncent une décision «politique» du directeur de l’établissement, Santiago Muzio. Ce proche de Marion Maréchal-Le Pen a transformé l’établissement en lieu de rencontre de l’extrême droite européenne. La mairie d…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/300826/nous-avons-peur-la-maison-de-l-argentine-de-paris-le-directeur-d-extreme-droite-nomme-par-javier-mi"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T10:05:01+00:00",
+      "titre": "Présidentielle 2027 : Olivier Faure annonce sa candidature à la primaire de la gauche",
+      "dek": "Olivier Faure, premier secrétaire du Parti socialiste va, dimanche 30 août, officialiser sa candidature à la primaire de la gauche\". J'ai pris la décision de me présenter à cette primaire. Je l'annoncerai [dimanche] au '20 Heures' de TF1\", a écrit le patron du PS aux députés de s…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-olivier-faure-annonce-sa-candidature-a-la-primaire-de-la-gauche_8169425.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -176,6 +330,17 @@
       "dek": "Le premier secrétaire du parti socialiste a assuré qu’un « autre futur » était « possible » après dix ans de macronisme, en clôture des journées d’été du mouvement à Blois. Le dirigeant socialiste devrait rapidement se déclarer à la primaire de la gauche socialiste et démocratiqu…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/live/2026/08/29/en-direct-presidentielle-2027-olivier-faure-promet-que-le-ps-sera-au-rendez-vous-estimant-que-le-bloc-central-va-s-effondrer_6759921_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T17:29:31+00:00",
+      "titre": "Présidentielle 2027 : le RN se fixe une règle d’or budgétaire limitant le déficit à 3 % du PIB, moyen de rassurer les marchés",
+      "dek": "Le Rassemblement national devrait inscrire dans son programme cette règle budgétaire fixée par l’Union européenne. Un retournement historique pour le parti, qui prévoirait aussi l’obligation de présenter un budget à l’équilibre sur le fonctionnement de l’Etat.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-la-regle-d-or-budgetaire-de-marine-le-pen-limiterait-le-deficit-a-3-du-pib_6760267_823448.html"
     },
     {
       "tag": "Politique",
@@ -385,171 +550,6 @@
       "dek": "La leader de la CGT estime dans une interview au «Monde» samedi 29 août que le patronat normalise le Rassemblement national en ne considérant que son programme économique.",
       "avis": null,
       "lien": "https://www.liberation.fr/economie/social/pour-le-medef-il-ny-a-que-largent-qui-compte-sophie-binet-accuse-une-partie-du-patronat-de-faire-la-courte-echelle-a-lextreme-droite-20260829_3T2QEWHBXFABTGD23MRLKF4PEY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T09:37:26+00:00",
-      "titre": "EN DIRECT, présidentielle 2027 : Jordan Bardella et Gabriel Attal à la Foire de Châlons, le PS réuni à Blois… Suivez la rentrée politique",
-      "dek": "L’ancien président François Hollande et l’ex-premier ministre Edouard Philippe débattront à Sens,  pour l’université d’été du Laboratoire de la République, le cercle de réflexion de l’ancien ministre de l’éducation Jean-Michel Blanquer.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/08/29/en-direct-presidentielle-2027-le-ps-reuni-a-blois-jordan-bardella-et-gabriel-attal-a-la-foire-de-chalons-suivez-la-rentree-politique_6759921_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T09:21:13+00:00",
-      "titre": "\"Il faut protéger notre culture\" : des Japonais surpris de ne pas avoir été consultés sur le futur parc français \"Dragon Ball Z\"",
-      "dek": "Emmanuel Macron a annoncé un futur parc à thème Dragon Ball en région parisienne, financé par l'Arabie saoudite. Ce projet interroge au Japon, notamment sur les terres natales du créateur de Dragon Ball.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/japon/il-faut-proteger-notre-culture-des-japonais-surpris-de-ne-pas-avoir-ete-consultes-sur-le-futur-parc-francais-dragon-ball-z_8167955.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T08:47:29+00:00",
-      "titre": "Le PS fait sa rentrée à Blois avec des débats sans risque dans l’attente de la primaire",
-      "dek": "Toujours divisé à l’approche de la présidentielle de 2027, le Parti socialiste a organisé pour son université d’été à Blois (Loir-et-Cher) une série de débats et de tables rondes consensuels, destinés à ne surtout pas cliver davantage à l’approche d’une primaire sous haute tensio…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/290826/le-ps-fait-sa-rentree-blois-avec-des-debats-sans-risque-dans-l-attente-de-la-primaire"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T08:37:41+00:00",
-      "titre": "Présidentielle 2027 : les incompréhensibles divisions du bloc central",
-      "dek": "Davantage motivé par des inimitiés personnelles que par des divergences de fond, le maintien des candidatures de Gabriel Attal et d’Edouard Philippe contribue à la dispersion des voix de cette famille politique. Marine Le Pen ne peut que profiter de ces divisions qui lui permette…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/08/29/presidentielle-2027-les-incomprehensibles-divisions-du-bloc-central_6759816_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T07:46:37+00:00",
-      "titre": "Appels à une primaire droite-centre : il faut \"avoir un candidat avant Noël\", réclame l'ancien ministre Hervé Morin",
-      "dek": "\"Ceux qui refusent la primaire porteront une immense responsabilité\", estime Hervé Morin, ancien ministre centriste de la Défense et actuel président de la région Normandie.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/appels-a-une-primaire-droite-centre-il-faut-avoir-un-candidat-avant-noel-reclame-l-ancien-ministre-herve-morin_8168135.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T06:42:24+00:00",
-      "titre": "\"J'aimais bien Jordan Bardella\" : des électeurs RN déçus de ne pas recevoir \"le candidat\" Bardella sur la Foire de Châlons-en-Champagne",
-      "dek": "Le président du Rassemblement national se rend samedi 29 août sur la Foire de Châlons-en-Champagne, comme bien d'autres politiques. Sur place, des sympathisants du RN regrettent qu'il ne soit pas candidat à la prochaine présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/j-aimais-bien-jordan-bardella-des-electeurs-rn-decus-de-ne-pas-recevoir-le-candidat-bardella-sur-la-foire-de-chalons-en-champagne_8168051.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T05:39:48+00:00",
-      "titre": "Le PS fait sa rentrée et met le cap sur la primaire",
-      "dek": "Samedi 29 août, à Blois (Loir-et-Cher), le Parti socialiste fait sa rentrée politique. À quelques mois de l'élection présidentielle, les candidats ne pensent, pour l'heure, qu'à la primaire, sur fond de tensions internes incessantes.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/le-ps-fait-sa-rentree-et-met-le-cap-sur-la-primaire_8168039.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T05:26:51+00:00",
-      "titre": "Le pass Sport reconduit pour la saison 2026-2027 avec une aide ramenée à 50 euros",
-      "dek": "Lors de la saison 2025-2026, le montant du pass Sport était de 70 euros, il est désormais ramené à 50 euros.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/le-pass-sport-reconduit-pour-la-saison-2026-2027-avec-une-aide-ramenee-a-50-euros_8168036.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T04:00:58+00:00",
-      "titre": "Pourquoi l’avenir de la tour Montparnasse est-il en jeu dans les prochaines semaines ? Comprendre en trois minutes",
-      "dek": "Si le bâtiment parisien a été vidé de ses occupants en mars 2026, le démarrage du chantier de rénovation est retardé par de nombreux conflits entre copropriétaires.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/29/pourquoi-l-avenir-de-la-tour-montparnasse-est-il-en-jeu-dans-les-prochaines-semaines-comprendre-en-trois-minutes_6759543_6176282.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T04:00:45+00:00",
-      "titre": "Sophie Binet, secrétaire générale de la CGT : « Une partie du patronat est en train de faire la courte échelle à l’extrême droite en la normalisant »",
-      "dek": "La dirigeante syndicale revient sur le premier débat présidentiel organisé, jeudi, par le Medef, et regrette que désormais, face au RN, le seul critère d’appréciation du patronat soit son intérêt financier.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/sophie-binet-secretaire-generale-de-la-cgt-une-partie-du-patronat-est-en-train-de-faire-la-courte-echelle-a-l-extreme-droite-en-la-normalisant_6759540_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T04:00:34+00:00",
-      "titre": "Présidentielle 2027 : contenter les retraités ou préparer l’avenir de la jeunesse, la difficile équation des candidats face au conflit de générations",
-      "dek": "La démographie aidant, les plus de 65 ans pèsent de plus en plus lourd dans l’économie, le budget de l’Etat et l’électorat. Une réalité qui complique la tenue d’un débat sur l’équité entre les générations, à huit mois de la prochaine élection présidentielle.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-le-piege-du-choc-generationnel-entre-promesses-aux-jeunes-et-peur-d-irriter-les-retraites_6759541_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T04:00:34+00:00",
-      "titre": "Présidentielle 2027 : le piège du choc générationnel, entre promesses aux jeunes et peur d’irriter les retraités",
-      "dek": "La démographie aidant, les plus de 65 ans pèsent de plus en plus lourd dans l’économie, le budget de l’Etat et l’électorat. Une réalité qui complique la tenue d’un débat sur l’équité entre les générations, à huit mois de la prochaine élection présidentielle.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-le-piege-du-choc-generationnel-entre-promesses-aux-jeunes-et-peur-d-irriter-les-retraites_6759541_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T04:00:00+00:00",
-      "titre": "La Fête de l’Humanité en solidarité avec la Palestine",
-      "dek": "Les dernières déclarations d’Itamar Ben Gvir sont d’une ignominie sans nom. Le ministre israélien de la Sécurité nationale, figure de l’extrême droite au sein du gouvernement de Benyamin Netanyahou, revendique publiquement la mise à mort quotidienne de dizaines de Palestiniens à …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/monde/etat-palestinien/la-fete-de-lhumanite-en-solidarite-avec-la-palestine"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T23:51:49+00:00",
-      "titre": "Le polémiste d’extrême droite britannique Milo Yiannopoulos arrêté par l’ICE, la police de l’immigration américaine",
-      "dek": "Arrivé légalement sur le sol américain en 2019, le Britannique avait dépassé sa durée de séjour autorisée et s’était vu délivrer un ordre final d’expulsion, faute de s’être présenté à une audience sur son statut, selon le ministère de la sécurité intérieure.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/08/29/le-polemiste-d-extreme-droite-britannique-milo-yiannopoulos-arrete-par-l-ice-la-police-de-l-immigration-americaine_6759302_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T23:51:48+00:00",
-      "titre": "Le polémiste britannique d’extrême droite Milo Yiannopoulos arrêté par l’ICE, la police de l’immigration américaine",
-      "dek": "Arrivé légalement sur le sol américain en 2019, le Britannique avait dépassé sa durée de séjour autorisée et s’était vu délivrer un ordre final d’expulsion, faute de s’être présenté à une audience sur son statut, selon le ministère de la sécurité intérieure.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/international/article/2026/08/29/le-polemiste-d-extreme-droite-britannique-milo-yiannopoulos-arrete-par-l-ice-la-police-de-l-immigration-americaine_6759302_3210.html"
     }
   ]
 }
