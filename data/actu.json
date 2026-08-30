@@ -1,16 +1,71 @@
 {
-  "generated_at": "2026-08-30T05:03:22+00:00",
+  "generated_at": "2026-08-30T10:03:21+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T04:56:03+00:00",
+      "date_iso": "2026-08-30T09:56:23+00:00",
       "titre": "Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella",
       "dek": "Le chef du RN a tendu la main, samedi, aux électeurs de LR qui se sentent \"orphelins d'un leader, d'un projet et d'une incarnation\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T09:13:55+00:00",
+      "titre": "Présidentielle 2027 : Olivier Faure candidat à la primaire du PS et de Place publique",
+      "dek": "Le patron du PS l’a annoncé dans un message envoyé dans la nuit de samedi à ce dimanche aux députés de son groupe parlementaire.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-olivier-faure-candidat-a-la-primaire-de-la-gauche-20260830_SIH5N4WSGRCTLFJHDU3HXOJQUU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T08:58:50+00:00",
+      "titre": "EN DIRECT, présidentielle 2027 : Olivier Faure a annoncé aux députés de son groupe être candidat à la primaire de la gauche",
+      "dek": "« Je l’annoncerai demain [dimanche] au 20 heures de TF1 », a écrit le premier secrétaire du PS, dans la nuit de samedi à dimanche aux députés de son groupe, dans un message consulté par « Le Monde ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/08/30/en-direct-presidentielle-2027-olivier-faure-a-annonce-aux-deputes-de-son-groupe-etre-candidat-a-la-primaire-de-la-gauche_6759921_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T07:31:20+00:00",
+      "titre": "Primaire du PS: derrière le favori Raphaël Glucksmann, Olivier Faure en embuscade",
+      "dek": "Donné gagnant pour la primaire de cet automne en vue de la présidentielle de 2027, l’eurodéputé Place publique est pourtant loin de faire le plein de soutiens au sein des troupes socialistes qui se sont réunies à Blois pour leur université d’été. De quoi relancer les espoirs des …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/300826/primaire-du-ps-derriere-le-favori-raphael-glucksmann-olivier-faure-en-embuscade"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T06:04:26+00:00",
+      "titre": "Après un été discret, Jordan Bardella a fait son retour",
+      "dek": "Quelques mois avant la présidentielle, Jordan Bardella ne compte pas porter le costume de figurant derrière Marine Le Pen. Au moment de faire sa rentrée, le président du RN a affiché ses objectifs pour l'année à venir.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/apres-un-ete-discret-jordan-bardella-a-fait-son-retour_8169215.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T05:53:21+00:00",
+      "titre": "Retraites, immigration... Le ralliement de Gérald Darmanin à Édouard Philippe pour la présidentielle assorti de conditions",
+      "dek": "Après le ralliement mi-août de Gérald Darmanin à Édouard Philippe, candidat Horizons à la présidentielle, les deux hommes se retrouvent dimanche à Tourcoing, dans le Nord.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/retraites-immigration-le-ralliement-de-gerald-darmanin-a-edouard-philippe-pour-la-presidentielle-assorti-de-conditions_8169110.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -30,7 +85,7 @@
       "date": "30 Aug 2026",
       "date_iso": "2026-08-30T04:15:09+00:00",
       "titre": "Présidentielle 2027 : à l’université d’été du PS, le duel à fleurets mouchetés d’Olivier Faure et Raphaël Glucksmann, favoris de la primaire de la gauche",
-      "dek": "A Blois, les 28 et 29 août, le premier secrétaire du Parti socialiste et le président de Place publique ont continué d’avancer leurs pions et leurs soutiens, en vue du scrutin qui doit départager le camp social-démocrate, tout en appelant à éviter les coups bas, afin que le vainq…",
+      "dek": "A Blois, les 28 et 29 août, le premier secrétaire du PS et le président de Place publique ont continué d’avancer leurs pions et leurs soutiens, en vue du scrutin qui doit départager le camp social-démocrate, tout en appelant à éviter les coups bas, afin que le vainqueur n’en sort…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/30/presidentielle-2027-a-l-universite-d-ete-du-ps-le-duel-a-fleurets-mouchetes-d-olivier-faure-et-raphael-glucksmann-favoris-de-la-primaire-de-la-gauche_6760741_823448.html"
     },
@@ -172,6 +227,17 @@
       "source": "Mediapart",
       "date": "29 Aug 2026",
       "date_iso": "2026-08-29T15:58:06+00:00",
+      "titre": "L’embarrassante présence du député RN Julien Odoul à la rentrée politique des amis de Jean-Michel Blanquer",
+      "dek": "Le think tank de l’ancien ministre s’est réuni pendant deux jours à Sens, en Bourgogne, autour de personnalités issues du camp présidentiel, de la droite et du Parti socialiste. Samedi, l’élu d’extrême droite de la circonscription a profité de la venue du premier ministre pour fa…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/290826/l-embarrassante-presence-du-depute-rn-julien-odoul-la-rentree-politique-des-amis-de-jean-michel-blanquer"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "29 Aug 2026",
+      "date_iso": "2026-08-29T15:58:06+00:00",
       "titre": "Le député RN Julien Odoul s’invite à la rentrée politique des amis de Jean-Michel Blanquer",
       "dek": "Le think tank de l’ancien ministre de l’éducation nationale s’est réuni pendant deux jours à Sens, en Bourgogne, autour de personnalités issues du camp présidentiel, de la droite et du Parti socialiste. Samedi, l’élu d’extrême droite de la circonscription a profité de la venue du…",
       "avis": null,
@@ -294,7 +360,7 @@
       "date": "29 Aug 2026",
       "date_iso": "2026-08-29T10:24:00+00:00",
       "titre": "Des funérailles de Jean-Marie Le Pen au dossier Aramburu : Jean-Philippe Husté, un mystérieux et omniprésent parrain de l’extrême droite",
-      "dek": "Costume impeccable, montre de luxe et cheveux gominés : l’homme cultive la discrétion. Mais on le croise où l’extrême droite radicale se montre : auprès des gudards violents, au parloir de l’assassin présumé du rugbyman argentin, ou aux obsèques du père de Marine Le Pen.",
+      "dek": "Costume impeccable, montre de luxe et cheveux gominés : l’homme cultive la discrétion. Mais on le croise où l’extrême droite radicale se montre : auprès des gudards violents, au parloir du suspect du meurtre du rugbyman argentin, ou aux obsèques du père de Marine Le Pen.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/des-funerailles-de-jean-marie-le-pen-au-dossier-aramburu-jean-philippe-huste-un-mysterieux-et-omnipresent-parrain-de-lextreme-droite-20260829_JM6XZYHK7ZDGXEQP5IYNSVBCSI/"
     },
@@ -484,72 +550,6 @@
       "dek": "Arrivé légalement sur le sol américain en 2019, le Britannique avait dépassé sa durée de séjour autorisée et s’était vu délivrer un ordre final d’expulsion, faute de s’être présenté à une audience sur son statut, selon le ministère de la sécurité intérieure.",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/08/29/le-polemiste-d-extreme-droite-britannique-milo-yiannopoulos-arrete-par-l-ice-la-police-de-l-immigration-americaine_6759302_3210.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T22:40:58+00:00",
-      "titre": "Le député LFI Sébastien Delogu dénonce une « campagne de dénigrement » à la suite de sa garde à vue après son altercation avec des policiers",
-      "dek": "L’élu marseillais « réfute absolument les accusations relayées dans la presse [lui] reprochant d’être intervenu pour faire obstacle à une intervention policière dans [son] immeuble », lundi. Il comparaîtra devant le tribunal correctionnel, pour outrage, le 13 novembre.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/le-depute-lfi-sebastien-delogu-denonce-une-campagne-de-denigrement-apres-sa-garde-a-vue-suivant-son-altercation-avec-des-policiers_6759201_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T21:27:59+00:00",
-      "titre": "L’agence Fitch maintient la note de la dette de la France à A+ assortie d’une perspective stable",
-      "dek": "Cette décision survient dans un contexte économique tendu, à quelques semaines de la présentation du dernier budget du gouvernement avant l’élection présidentielle, et au moment où la question de la dette revient au cœur des débats.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/08/28/l-agence-fitch-maintient-la-note-de-la-dette-de-la-france-a-a-assortie-d-une-perspective-stable_6759168_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T21:27:59+00:00",
-      "titre": "L’agence Fitch maintient la note de la dette de la France à A+ assortie d’une perspective stable",
-      "dek": "Cette décision survient dans un contexte économique tendu, à quelques semaines de la présentation du dernier budget du gouvernement avant l’élection présidentielle, et au moment où la question de la dette revient au cœur des débats.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/08/28/l-agence-fitch-maintient-la-note-de-la-dette-de-la-france-a-a-assortie-d-une-perspective-stable_6759168_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T21:12:50+00:00",
-      "titre": "Au Parti socialiste, une rentrée sous le signe de la primaire",
-      "dek": "C'est la rentrée au Parti socialiste qui se réunit à Blois vendredi 28 et samedi 29 août pour ses universités d'été. Des échanges ont eu lieu au sujet de la \"primaire de la gauche socialiste et démocratique\" pour désigner le candidat à l'élection présidentielle.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ps/au-parti-socialiste-une-rentree-sous-le-signe-de-la-primaire_8167238.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T20:49:55+00:00",
-      "titre": "Présidentielle 2027 : à Blois, le grand favori Glucksmann sous la pression du «recours» Hollande",
-      "dek": "REPORTAGE - L’eurodéputé et candidat a été accueilli ce vendredi sous les applaudissements aux universités d’été du PS, pendant que l’ancien président donnait, au même moment, rendez-vous à ses soutiens dans un bar de la ville.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-2027-a-blois-le-grand-favori-glucksmann-sous-la-pression-du-recours-hollande-20260828"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "28 Aug 2026",
-      "date_iso": "2026-08-28T19:00:46+00:00",
-      "titre": "A Blois, les socialistes n’ont que la primaire en tête",
-      "dek": "Même si Olivier Faure refuse pour l’heure d’officialiser sa candidature, le scrutin qui aura lieu les 10 et 16 octobre était au cœur de toutes les discussions, ce vendredi 28 août, dans les allées des universités d’été du PS.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/a-blois-les-socialistes-nont-que-la-primaire-en-tete-20260828_5EOHNP4MFFENROPPXXLOVK753A/"
     }
   ]
 }
