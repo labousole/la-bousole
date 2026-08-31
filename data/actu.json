@@ -1,6 +1,204 @@
 {
-  "generated_at": "2026-08-31T05:03:37+00:00",
+  "generated_at": "2026-08-31T10:03:35+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T11:57:56+00:00",
+      "titre": "Les médias de milliardaires outrés de la « chasse aux riches » proposée par LFI",
+      "dek": "Les médias de Bolloré, et d’autres détenus par des milliardaires, sont vent debout contre l’idée de LFI d’interdire les grosses fortunes. Leurs journalistes, bien que non concernés, ont même fait preuve d’un zèle à toute épreuve.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=502356"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T09:30:04+00:00",
+      "titre": "On connaît le tube de l’automne : la censure",
+      "dek": "Fin septembre, Sébastien Lecornu présentera son projet de loi de finances pour 2027. Cette fois, peu de chances de compromis avec le PS, et le gouvernement est sur la sellette.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/on-connait-le-tube-de-lautomne-la-censure-20260831_5JEUTJEU5ZHORH5EY7S6VAZIAI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T09:12:48+00:00",
+      "titre": "La journaliste Natacha Polony se lance en politique pour \"perturber l'entre-soi\"",
+      "dek": "\"Je n'exclus rien\", a-t-elle affirmé, interrogée au sujet d'une possible candidature à l'élection présidentielle de 2027.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/la-journaliste-natacha-polony-se-lance-en-politique-pour-perturber-l-entre-soi_8170427.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T08:40:31+00:00",
+      "titre": "\"Je ne pense pas que 98% de la rentrée scolaire a été préparée en amont\", affirme Carole Zerbib, membre du SNPDEN-UNSA, qui fait état d'un \"certain nombre d'applications qui dysfonctionnent\"",
+      "dek": "Invitée de \"La Matinale\" le 31 août, Carole Zerbib, proviseure adjointe au lycée Voltaire à Paris et membre du Syndicat des personnels de direction de l'Education nationale, répond aux propos du ministre Édouard Geffray, et revient sur les difficultés auxquels les enseignants son…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/france/rentree/je-ne-pense-pas-que-98-de-la-rentree-scolaire-a-ete-preparee-en-amont-affirme-carole-zerbib-membre-du-snpden-unsa-qui-fait-etat-d-un-certain-nombre-d-applications-qui-dysfonctionnent_8170385.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T08:15:24+00:00",
+      "titre": "EN DIRECT, rentrée politique : Edouard Philippe est « le seul à pouvoir se qualifier au second tour », selon Maud Bregeon",
+      "dek": "Alors que des appels à l’organisation d’une primaire dans le camp de la droite et du centre se multiplient, le candidat du parti Horizons « est de très loin le mieux placé », car « il fait le double de ses concurrents » dans les sondages, a insisté celle qui est toujours membre d…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/live/2026/08/31/en-direct-rentree-politique-si-on-n-equilibre-pas-les-retraites-en-travaillant-plus-longtemps-on-ne-pourra-plus-les-payer-estime-valerie-pecresse_6759921_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T08:10:31+00:00",
+      "titre": "Un duel Le Pen-Mélenchon au second tour de la présidentielle ? \"C'est déjà perdu si on en arrive à cette situation\", assure Jérôme Guedj, candidat à la primaire du pôle socialiste",
+      "dek": "Invité politique de \"La Matinale\" ce lundi 31 août, le député socialiste de l'Essonne, candidat à la primaire PS-Place publique pour la présidentielle, se refuse à imaginer un duel entre Marine Le Pen et Jean-Luc Mélenchon pour le second tour. Un \"piège mortifère\" et \"une impasse…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-lundi-31-aout-2026_8142563.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T08:08:11+00:00",
+      "titre": "Le RN propose de sanctionner le port du voile, Valérie Pécresse dénonce une mesure \"démagogique et impraticable\"",
+      "dek": "Invitée lundi de franceinfo, la présidente LR de la région d'Île-de-France estime que le voile \"n'est pas un vêtement comme les autres\" mais qu'une \"femme adulte est libre de croire ou de ne pas croire à la religion de son choix.\"",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/religion/le-rn-propose-de-sanctionner-le-port-du-voile-valerie-pecresse-denonce-une-mesure-demagogique-et-impraticable_8170352.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T08:00:00+00:00",
+      "titre": "Israël verrouille notre accès à la Palestine",
+      "dek": "Dans une tribune, des journalistes et universitaires dénoncent les obstacles systématiques mis en place par les autorités israéliennes pour documenter le quotidien du peuple palestinien. Depuis peu, même certains déplacements en Israël sont entravés.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=502299"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T07:54:56+00:00",
+      "titre": "Présidentielle 2027 : Edouard Philippe poursuit son pari du rassemblement de la droite et du centre face à la pression de ses challengers et aux appels à la primaire",
+      "dek": "A Tourcoing dimanche, où le garde des sceaux, Gérald Darmanin, s’est affiché en soutien à sa candidature, Edouard Philippe a affirmé sa volonté de créer un « nouveau parti » ou une « confédération » pour obtenir une majorité et gouverner.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/31/presidentielle-2027-edouard-philippe-poursuit-son-pari-du-rassemblement-de-la-droite-et-du-centre-face-a-la-pression-de-ses-challengers-et-aux-appels-a-la-primaire_6762138_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T07:32:03+00:00",
+      "titre": "Sébastien Lecornu réunit son équipe gouvernementale pour préparer la mission impossible du budget 2027",
+      "dek": "Le Premier ministre planche sur le délicat projet de loi de finances qu’il présentera fin septembre. Objectif : ajouter des dépenses indispensables et en réduire d’autres sans braquer les oppositions, dans un contexte économique tendu.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/sebastien-lecornu-reunit-son-equipe-gouvernementale-pour-preparer-la-mission-impossible-du-budget-2027-20260831_MVYZFHXX7NHN5L4OMZZMEPIFXQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T07:31:27+00:00",
+      "titre": "Retraites : \"Je refuse ce débat tant que la question du retour de l'ISF n'est pas posée\", affirme Ségolène Royal, candidate à la primaire du pôle socialiste",
+      "dek": "Candidate à la primaire organisée par le Parti socialiste en vue de l'élection présidentielle de 2027, Ségolène Royal, invitée des \"4 Vérités\" ce 31 août, livre sa position sur la question des retraites. \"Ceux qui menacent les retraites sont ceux qui ont supprimé l'Impôt sur la f…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/primaire-populaire-gauche/retraites-je-refuse-ce-debat-tant-que-la-question-du-retour-de-l-isf-n-est-pas-posee-affirme-segolene-royal-candidate-a-la-primaire-du-pole-socialiste_8170295.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T07:30:04+00:00",
+      "titre": "Présidentielle 2027 : Laurent Wauquiez charge Jean-Luc Mélenchon pour mieux défendre l’idée d’une primaire à droite",
+      "dek": "Lors de sa traditionnelle rentrée politique au mont Mézenc, en Haute-Loire, le président des députés Les Républicains a estimé qu’une droite divisée serait le « ticket » du candidat « insoumis » pour accéder au second tour de l’élection présidentielle. Lui préfère mettre ses ambi…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/31/presidentielle-2027-au-mont-mezenc-laurent-wauquiez-charge-jean-luc-melenchon-pour-mieux-defendre-l-idee-d-une-primaire-a-droite_6762070_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T07:08:48+00:00",
+      "titre": "Le Rassemblement national veut \"sanctionner le port du voile\" par \"une amende\" s'il arrive au pouvoir, affirme le député Jean-Philippe Tanguy",
+      "dek": "L'interdiction du port du voile dans l'espace public figurait déjà au programme de Marine Le Pen lors de ses trois premières candidatures à l'Elysée.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/le-rassemblement-national-veut-sanctionner-le-port-du-voile-par-une-amende-s-il-arrive-au-pouvoir-affirme-le-depute-jean-philippe-tanguy_8170307.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T07:08:04+00:00",
+      "titre": "Rentrée 2026 : les absences de professeurs seront \"marginales\", assure le ministre de l'Éducation nationale",
+      "dek": "Le taux de postes pourvus atteint 98,5% dans le premier degré, contre 92,1% l'an dernier et les absences de longue durée non-remplacées sont moins nombreuses, affirme Edouard Geffray, lundi sur France Inter.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/france/rentree/rentree-2026-les-absences-de-professeurs-au-college-et-au-lycee-seront-marginales-assure-le-ministre-de-l-education-nationale_8170304.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T06:54:06+00:00",
+      "titre": "Présidentielle 2027 : Olivier Faure officialise sa candidature à la primaire socialiste et lance son match face à Glucksmann",
+      "dek": "Au lendemain des universités d’été de son parti à Blois, le premier secrétaire a annoncé ce dimanche soir se porter candidat à la primaire de la famille socialiste et social-démocrate, prévue en octobre prochain.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-olivier-faure-officialise-sa-candidature-a-la-primaire-et-lance-son-match-face-a-glucksmann-20260830"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T06:28:04+00:00",
+      "titre": "Les pensions de retraite et les arrêts maladie dans le viseur des économies pour le budget 2027",
+      "dek": "Le premier ministre promet de ne pas augmenter les impôts pour boucler le budget 2027. Pour réduire le déficit, le gouvernement mise notamment sur des économies dans les dépenses sociales, avec les retraites et la santé dans le viseur.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-decryptage-eco/les-pensions-de-retraite-et-les-arrets-maladie-dans-le-viseur-des-economies-pour-le-budget-2027_8144957.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T06:25:11+00:00",
+      "titre": "Présidentielle 2027 : Édouard Philippe et Gérald Darmanin affichent leur unité",
+      "dek": "Édouard Philippe s'est rendu, dimanche 30 août, à Tourcoing (Nord), à l'invitation de Gérald Darmanin. Les deux hommes ont affiché leur unité.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/franceinfo/21h-minuit/23-heures/presidentielle-2027-edouard-philippe-et-gerald-darmanin-affichent-leur-unite_8170244.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T06:10:02+00:00",
+      "titre": "Édito. Le \"tout sauf Glucksmann\" va-t-il profiter à Olivier Faure lors de la primaire socialiste ?",
+      "dek": "La candidature du premier secrétaire du PS bouleverse une compétition déjà marquée par les rivalités internes et la question des alliances avec LFI. Largement distancé dans les intentions de vote, Olivier Faure joue aussi une partie de son avenir à la tête du parti.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-le-tout-sauf-glucksmann-va-t-il-profiter-a-olivier-faure-lors-de-la-primaire-socialiste_8145044.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -22,6 +220,17 @@
       "dek": "Crédité de 3,5 % des intentions de vote dans un sondage Elabe publié ce week-end, le premier secrétaire du Parti socialiste a assuré que « rien ne se passe jamais comme prévu », rappelant que François Hollande, surnommé « Monsieur 3 % », a finalement été élu en 2012.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/live/2026/08/31/en-direct-presidentielle-2027-battre-marine-le-pen-obsession-absolue-d-olivier-faure-officiellement-candidat-a-la-primaire-de-la-gauche_6759921_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T03:34:58+00:00",
+      "titre": "Présidentielle 2027 : du PS à LR, les partis tiraillés entre « bataille fratricide » et nécessité de l’union face au RN et à LFI",
+      "dek": "La question d’une candidature unique se pose à gauche comme dans le bloc central et à droite. Les électeurs modérés pourraient être tentés de voter utile dès le premier tour pour le candidat le plus à même de déjouer le duel redouté au second entre le Rassemblement national et La…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/08/31/presidentielle-2027-la-petite-musique-de-l-union-au-centre-pour-contrer-le-rn-et-lfi_6761864_823448.html"
     },
     {
       "tag": "Politique",
@@ -66,17 +275,6 @@
       "dek": "Lors de la mise en scène du ralliement du garde des Sceaux à sa candidature à la présidentielle dans le Nord dimanche, le maire du Havre a annoncé vouloir créer une plateforme de la droite et du centre pour présenter des candidats uniques aux législatives.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/elections/a-tourcoing-edouard-philippe-promet-a-gerald-darmanin-un-role-central-dans-la-recomposition-politique-20260830_TM73LGMKTJHDZFDF2JHRGNDIMI/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T18:58:56+00:00",
-      "titre": "Présidentielle 2027 : Olivier Faure officialise sa candidature à la primaire socialiste et lance son match face à Glucksmann",
-      "dek": "Au lendemain des universités d’été de son parti à Blois, le premier secrétaire a annoncé ce dimanche soir se porter candidat à la primaire de la famille socialiste et social-démocrate, prévue en octobre prochain.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-olivier-faure-officialise-sa-candidature-a-la-primaire-et-lance-son-match-face-a-glucksmann-20260830"
     },
     {
       "tag": "Politique",
@@ -131,7 +329,7 @@
       "titre": "De Hollande à Darmanin, le week-end de faux-semblants d’Édouard Philippe",
       "dek": "Après un débat avec François Hollande samedi, l’ancien premier ministre a retrouvé Gérald Darmanin dimanche, à Tourcoing, pour tenter de teinter sa campagne d’une «fibre sociale». Derrière un narratif rodé et l’errance d’une partie des sociaux-démocrates, le patron d’Horizons déf…",
       "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/300826/de-hollande-darmanin-le-week-end-de-faux-semblants-d-edouard-philippe"
+      "lien": "https://www.mediapart.fr/journal/politique/300826/de-hollande-darmanin-le-week-end-de-faux-semblants-d-edouard-philippe"
     },
     {
       "tag": "Politique",
@@ -151,7 +349,7 @@
       "date": "30 Aug 2026",
       "date_iso": "2026-08-30T15:16:07+00:00",
       "titre": "Présidentielle 2027 : l’UDI se rêve en fédératrice de la droite et du centre",
-      "dek": "Peu pressée de soutenir un candidat, l’Union des démocrates et indépendants (UDI) considère l’élection présidentielle avec distance. Le parti centriste désire y jouer un rôle de force d’appoint et rêve de créer une grande fédération du centre.",
+      "dek": "Peu pressée de soutenir un candidat, l’Union des démocrates et indépendants considère l’élection présidentielle avec distance. Le parti centriste désire y jouer un rôle de force d’appoint et rêve de créer une grande fédération du centre.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/08/30/presidentielle-2027-l-udi-se-reve-en-federatrice-de-la-droite-et-du-centre_6761355_823448.html"
     },
@@ -352,204 +550,6 @@
       "dek": "« Je l’annoncerai demain [dimanche] au 20 heures de TF1 », a écrit le premier secrétaire du PS, dans la nuit de samedi à dimanche aux députés de son groupe, dans un message consulté par « Le Monde ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/live/2026/08/30/en-direct-presidentielle-2027-olivier-faure-a-annonce-aux-deputes-de-son-groupe-etre-candidat-a-la-primaire-de-la-gauche_6759921_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T07:31:20+00:00",
-      "titre": "Primaire du PS: derrière le favori Raphaël Glucksmann, Olivier Faure en embuscade",
-      "dek": "Donné gagnant pour la primaire de cet automne en vue de la présidentielle de 2027, l’eurodéputé Place publique est pourtant loin de faire le plein de soutiens au sein des troupes socialistes qui se sont réunies à Blois pour leur université d’été. De quoi relancer les espoirs des …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/300826/primaire-du-ps-derriere-le-favori-raphael-glucksmann-olivier-faure-en-embuscade"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T06:04:26+00:00",
-      "titre": "Après un été discret, Jordan Bardella a fait son retour",
-      "dek": "Quelques mois avant la présidentielle, Jordan Bardella ne compte pas porter le costume de figurant derrière Marine Le Pen. Au moment de faire sa rentrée, le président du RN a affiché ses objectifs pour l'année à venir.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/apres-un-ete-discret-jordan-bardella-a-fait-son-retour_8169215.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T05:53:21+00:00",
-      "titre": "Retraites, immigration... Le ralliement de Gérald Darmanin à Édouard Philippe pour la présidentielle assorti de conditions",
-      "dek": "Après le ralliement mi-août de Gérald Darmanin à Édouard Philippe, candidat Horizons à la présidentielle, les deux hommes se retrouvent dimanche à Tourcoing, dans le Nord.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/retraites-immigration-le-ralliement-de-gerald-darmanin-a-edouard-philippe-pour-la-presidentielle-assorti-de-conditions_8169110.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T04:15:11+00:00",
-      "titre": "Présidentielle 2027 : à Cannes, David Lisnard bat la campagne pour une grande primaire de la droite",
-      "dek": "Le candidat libéral fait sa rentrée à domicile à l’occasion du campus de son parti, Nouvelle Energie. L’occasion pour le prétendant à l’Elysée d’appeler à une grande compétition pour, selon lui, éviter un second tour Le Pen-Mélenchon.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/30/presidentielle-2027-a-cannes-david-lisnard-bat-la-campagne-pour-une-grande-primaire-de-la-droite_6760742_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T04:15:09+00:00",
-      "titre": "Présidentielle 2027 : à l’université d’été du PS, le duel à fleurets mouchetés d’Olivier Faure et Raphaël Glucksmann, favoris de la primaire de la gauche",
-      "dek": "A Blois, les 28 et 29 août, le premier secrétaire du PS et le président de Place publique ont continué d’avancer leurs pions et leurs soutiens, en vue du scrutin qui doit départager le camp social-démocrate, tout en appelant à éviter les coups bas, afin que le vainqueur n’en sort…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/30/presidentielle-2027-a-l-universite-d-ete-du-ps-le-duel-a-fleurets-mouchetes-d-olivier-faure-et-raphael-glucksmann-favoris-de-la-primaire-de-la-gauche_6760741_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T04:00:11+00:00",
-      "titre": "« Pour réussir, l’Etat doit prendre une partie de la charge mentale de la transition écologique »",
-      "dek": "« Les entretiens de “Chaleur humaine” ». Ancienne conseillère à l’Elysée et à Matignon, Marine Braud décortiquait, en mars 2026 pour « Le Monde », les échecs des politiques publiques pour le climat.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/series-d-ete/article/2026/08/30/pour-reussir-l-etat-doit-prendre-une-partie-de-la-charge-mentale-de-la-transition-ecologique_6760668_3451060.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T20:02:20+00:00",
-      "titre": "DIRECT. Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella",
-      "dek": "Le chef du RN a tendu la main, samedi, aux électeurs de LR qui se sentent \"orphelins d'un leader, d'un projet et d'une incarnation\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T19:27:41+00:00",
-      "titre": "\"C'est le signe du retour\" : François Hollande en embuscade lors des universités d’été de la gauche",
-      "dek": "La rentrée politique a débuté sur les chapeaux de roue, à huit mois de l’élection présidentielle. À gauche, les socialistes étaient réunis à Blois (Loir-et-Cher) pour leurs universités d’été. Au menu : la primaire, des candidats plus ou moins déclarés qui tentent de se faire ente…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/c-est-le-signe-du-retour-francois-hollande-en-embuscade-lors-des-universites-d-ete-de-la-gauche_8168870.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T19:12:54+00:00",
-      "titre": "Présidentielle 2027 : à Sens, Edouard Philippe et François Hollande font campagne pour le rassemblement de leurs camps",
-      "dek": "L’ancien chef de l’Etat et l’ancien Premier ministre ont débattu ce samedi 29 août en clôture de l’université d’été du «Laboratoire de la République» de Jean-Michel Blanquer, fustigeant la primaire socialiste et sociale-démocrate d’un côté et appelant à l’union de la droite et du…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-2027-a-sens-edouard-philippe-et-francois-hollande-font-campagne-pour-le-rassemblement-de-leurs-camps-20260829_4B2ZOTJSQNE6BCRNDJ7DARTQW4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T19:10:06+00:00",
-      "titre": "Présidentielle 2027 : le « trou de fourmi » de François Hollande, déjà en campagne",
-      "dek": "L’ancien président de la République a réuni à Blois soutiens et curieux venus écouter son discours de quasi-candidat. Excluant de participer à la primaire socialiste, il donne rendez-vous en décembre pour « déterminer la meilleure façon de gagner ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-le-trou-de-fourmi-de-francois-hollande-deja-en-campagne_6760400_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T18:45:29+00:00",
-      "titre": "Édouard Philippe et François Hollande, un débat cordial entre « ex »",
-      "dek": "François Hollande et Édouard Philippe ont débattu pendant environ 1&nbsp;h&nbsp;30 ce samedi 29&nbsp;août à Sens (Yonne). Invités des universités d’été du Laboratoire de la République, think tank présidé par Jean-Michel Blanquer, les deux hommes ont pris position sur l’économie, …",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/debats/edouard-philippe-et-francois-hollande-un-debat-cordial-entre-ex"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T18:14:31+00:00",
-      "titre": "A Blois, Olivier Faure élude la primaire socialiste et tente de «se placer au-dessus de la mêlée»",
-      "dek": "En clôture de l’université d’été du PS, samedi 29 août, le patron du parti n’a accordé que quelques secondes de son discours au processus auquel il devrait être prochainement candidat. Il a insisté sur la nécessaire transformation écologique et mentionné que le socialisme était r…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/a-blois-olivier-faure-elude-la-primaire-socialiste-et-tente-de-se-placer-au-dessus-de-la-melee-20260829_DN6GFTRXMZFWRADAJZDWVAKMVM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T17:58:43+00:00",
-      "titre": "EN DIRECT, présidentielle 2027 : Olivier Faure promet que le PS sera « au rendez-vous », estimant que le « bloc central va s’effondrer »",
-      "dek": "Le premier secrétaire du parti socialiste a assuré qu’un « autre futur » était « possible » après dix ans de macronisme, en clôture des journées d’été du mouvement à Blois. Le dirigeant socialiste devrait rapidement se déclarer à la primaire de la gauche socialiste et démocratiqu…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/live/2026/08/29/en-direct-presidentielle-2027-olivier-faure-promet-que-le-ps-sera-au-rendez-vous-estimant-que-le-bloc-central-va-s-effondrer_6759921_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T17:29:31+00:00",
-      "titre": "Présidentielle 2027 : le RN se fixe une règle d’or budgétaire limitant le déficit à 3 % du PIB, moyen de rassurer les marchés",
-      "dek": "Le Rassemblement national devrait inscrire dans son programme cette règle budgétaire fixée par l’Union européenne. Un retournement historique pour le parti, qui prévoirait aussi l’obligation de présenter un budget à l’équilibre sur le fonctionnement de l’Etat.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-la-regle-d-or-budgetaire-de-marine-le-pen-limiterait-le-deficit-a-3-du-pib_6760267_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T17:29:31+00:00",
-      "titre": "Présidentielle 2027 : le RN se fixe une « règle d’or » budgétaire limitant le déficit à 3 % du PIB, moyen de rassurer les marchés",
-      "dek": "Le Rassemblement national devrait inscrire dans son programme une règle budgétaire autorisant un déficit maximum de 3 % du produit intérieur brut, soit celui fixé par l’Union européenne. Un retournement historique pour le parti, qui prévoirait aussi l’obligation de présenter un b…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/08/29/presidentielle-2027-la-regle-d-or-budgetaire-de-marine-le-pen-limiterait-le-deficit-a-3-du-pib_6760267_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T16:11:22+00:00",
-      "titre": "Soutien aux agriculteurs, surtaxe des grandes entreprises, indemnisation des arrêts maladie... Sébastien Lecornu prépare un dernier budget «réversible»",
-      "dek": "Pour sa rentrée, le Premier ministre écarte toute candidature à la présidentielle et esquisse ce dimanche 29 août dans «le Parisien» quelques mesures du prochain projet de loi de finances.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/soutien-aux-agriculteurs-surtaxe-des-grandes-entreprises-indemnisation-des-arrets-maladie-sebastien-lecornu-prepare-un-dernier-budget-reversible-20260829_JF3D34GZORAMLBILKUXOGCQXRY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T16:07:02+00:00",
-      "titre": "Présidentielle 2027 : Sébastien Lecornu n'est \"pas candidat\" et ne se \"mêle pas de la campagne\" électorale",
-      "dek": "Le Premier ministre a affirmé, samedi, être en \"mission\" pour faire adopter un budget pour l'année prochaine. Dans cette optique, il a demandé aux prétendants à l'Elysée de \"ne pas entraver davantage l'action du gouvernement\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-sebastien-lecornu-n-est-pas-candidat-et-ne-se-mele-pas-de-la-campagne-electorale_8168519.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T16:05:11+00:00",
-      "titre": "Pas de hausse d'impôts, un \"plan de sauvetage\" agricole et une réforme des arrêts maladie : Sébastien Lecornu fait plusieurs annonces pour la rentrée",
-      "dek": "Dans une interview au journal \"Le Parisien\", samedi, le chef du gouvernement écarte toute candidature à l'Elysée et évoque les discussions budgétaires à venir au Parlement.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/gouvernement-de-sebastien-lecornu/pas-de-hausse-d-impots-un-plan-de-sauvetage-agricole-et-une-reforme-des-arrets-maladie-sebastien-lecornu-fait-plusieurs-annonces-pour-la-rentree_8168540.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
