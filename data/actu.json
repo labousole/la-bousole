@@ -1,16 +1,27 @@
 {
-  "generated_at": "2026-08-30T20:03:35+00:00",
+  "generated_at": "2026-08-31T00:04:15+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "30 Aug 2026",
-      "date_iso": "2026-08-30T19:58:36+00:00",
+      "date_iso": "2026-08-30T23:59:16+00:00",
       "titre": "Présidentielle 2027 : Bruno Retailleau \"ne passera pas Noël\" et \"se retirera pour soutenir Edouard Philippe\", prédit Jordan Bardella",
       "dek": "Le chef du RN a tendu la main, samedi, aux électeurs de LR qui se sentent \"orphelins d'un leader, d'un projet et d'une incarnation\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-presidentielle-2027-jordan-bardella-attendu-a-la-foire-de-chalons-en-champagne-les-socialistes-debattront-de-la-primaire-a-blois_8168102.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "30 Aug 2026",
+      "date_iso": "2026-08-30T21:20:41+00:00",
+      "titre": "Le chef du Parti socialiste, Olivier Faure, confirme sa candidature à la primaire de son camp en vue de l'élection présidentielle",
+      "dek": "Le premier secrétaire du PS a officialisé cette annonce dimanche soir, au \"20 Heures\" de TF1.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-chef-du-parti-socialiste-olivier-faure-confirme-sa-candidature-a-la-primaire-de-son-camp-en-vue-de-l-election-presidentielle_8169896.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -539,17 +550,6 @@
       "dek": "Le think tank de l’ancien ministre de l’éducation nationale s’est réuni pendant deux jours à Sens, en Bourgogne, autour de personnalités issues du camp présidentiel, de la droite et du Parti socialiste. Samedi, l’élu d’extrême droite de la circonscription a profité de la venue du…",
       "avis": null,
       "lien": "https://www.mediapart.fr/journal/france/290826/le-depute-rn-julien-odoul-s-invite-la-rentree-politique-des-amis-de-jean-michel-blanquer"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "29 Aug 2026",
-      "date_iso": "2026-08-29T15:57:50+00:00",
-      "titre": "Le maire de Toulouse s’entête dans son refus de dénoncer la venue de Patrick Bruel",
-      "dek": "Invoquant la défense de «l’État de droit», Jean-Luc Moudenc est l’un des rares maires d’une grande ville de France à ne pas déplorer la tournée du chanteur mis en examen pour des violences sexuelles. Provoquant les critiques de l’opposition municipale et la colère, exprimée avec …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/290826/le-maire-de-toulouse-s-entete-dans-son-refus-de-denoncer-la-venue-de-patrick-bruel"
     }
   ]
 }
