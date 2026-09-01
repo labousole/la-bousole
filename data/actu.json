@@ -1,16 +1,82 @@
 {
-  "generated_at": "2026-09-01T00:09:58+00:00",
+  "generated_at": "2026-09-01T05:05:54+00:00",
   "articles": [
     {
       "tag": "Politique",
       "color": "#8C1327",
       "source": "franceinfo – Politique",
       "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T00:07:49+00:00",
+      "date_iso": "2026-09-01T05:03:44+00:00",
       "titre": "Mort d'Edouard Balladur : Nicolas Sarkozy salue un homme qui fut \"un exemple, un mentor et un ami\"",
       "dek": "L'ancien Premier ministre, entre 1993 et 1995, est mort, lundi, à l'âge de 97 ans, a annoncé sa famille.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/direct-mort-d-edouard-balladur-sebastien-lecornu-rend-hommage-a-une-figure-majeure-de-notre-vie-publique_8171216.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "01 Sep 2026",
+      "date_iso": "2026-09-01T04:20:00+00:00",
+      "titre": "Présidentielle 2027 : la droite essaie (encore) de se mettre à l’écologie",
+      "dek": "Avec le lancement du mouvement «Puissance verte» en octobre, des élus de droite espèrent pouvoir mobiliser dans leur camp les candidats à la présidentielle sur la question climatique. C’était déjà le cas il y a cinq ans.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-la-droite-essaie-encore-de-se-mettre-a-lecologie-20260901_EO5XRY2SGRF6PPUIPY5HIOZ4FQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Sep 2026",
+      "date_iso": "2026-09-01T04:03:05+00:00",
+      "titre": "EN IMAGES. Georges Pompidou, Français Mitterrand, Jacques Chirac… La carrière politique d'Edouard Balladur en photos",
+      "dek": "Celui qui fut le dernier Premier ministre de François Mitterrand de mars 1993 à mai 1995 a marqué durablement la vie politique française, avant de s'éteindre lundi à 97 ans.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/diaporama/en-images-georges-pompidou-francais-mitterrand-jacques-chirac-la-carriere-politique-d-edouard-balladur-en-photos_8171252.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "01 Sep 2026",
+      "date_iso": "2026-09-01T04:00:15+00:00",
+      "titre": "Présidentielle 2027 : « Sur l’école, on peut douter que les propositions des candidats soient à la hauteur des nouveaux défis »",
+      "dek": "A l’approche de l’élection, l’historien de l’éducation Claude Lelièvre déplore, dans une tribune au « Monde », la place secondaire accordée à l’éducation dans le débat et note que la question de l’opposition public-privé n’est plus un marqueur significatif entre la gauche et la d…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/01/presidentielle-2027-sur-l-ecole-on-peut-douter-que-les-propositions-des-candidats-soient-a-la-hauteur-des-nouveaux-defis_6763102_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Sep 2026",
+      "date_iso": "2026-09-01T03:54:06+00:00",
+      "titre": "VRAI OU FAUX. \"Absolument pas crédible juridiquement\" : le RN peut-il vraiment interdire le port du voile dans l'espace public ?",
+      "dek": "Le député Jean-Philippe Tanguy a affirmé dimanche que son parti comptait interdire le port du voile dans l'espace public. Selon les spécialistes du droit public, la mesure serait sans nul doute anticonstitutionnelle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-absolument-pas-credible-juridiquement-le-rn-peut-il-vraiment-interdire-le-port-du-voile-dans-l-espace-public_8170601.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "01 Sep 2026",
+      "date_iso": "2026-09-01T03:30:27+00:00",
+      "titre": "Comment Sébastien Lecornu espère faire adopter un budget minimaliste pour 2027",
+      "dek": "Le gouvernement a tenu un long séminaire, lundi 31 août, autour du prochain projet de loi de finances. En proposant un texte d’ampleur limitée, sans vraie baisse du déficit ni réforme majeure, le premier ministre espère obtenir le soutien décisif de certains députés socialistes.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/01/comment-sebastien-lecornu-espere-faire-adopter-un-budget-minimaliste-pour-2027_6763095_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "01 Sep 2026",
+      "date_iso": "2026-09-01T03:00:20+00:00",
+      "titre": "Ce qui change le 1ᵉʳ septembre pour votre budget : suspension de la réforme des retraites, hausse du prix du gaz, baisse de la durée des allocations chômage en cas de rupture conventionnelle",
+      "dek": "Le gel de la réforme des retraites de 2023 permet aux travailleurs nés en 1964 de partir dès 62 ans et 9 mois.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/argent/article/2026/09/01/ce-qui-change-le-1-septembre-pour-votre-budget-suspension-de-la-reforme-des-retraites-hausse-du-prix-du-gaz-baisse-de-la-duree-des-allocations-chomage-en-cas-de-rupture-conventionnelle_6763090_1657007.html"
     },
     {
       "tag": "Droite",
@@ -121,6 +187,17 @@
       "dek": "Un \"serviteur exigeant, mesuré, dévoué\" de la France, salue Emmanuel Macron. Engagé au Rassemblement pour la République (RPR), Edouard Balladur avait été le dernier Premier ministre du président socialiste François Mitterrand.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/l-ancien-premier-ministre-edouard-balladur-est-mort-a-97-ans_8171246.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "31 Aug 2026",
+      "date_iso": "2026-08-31T18:56:00+00:00",
+      "titre": "Mort d’Édouard Balladur, l’homme qui est « allé plus loin que Margaret Thatcher »",
+      "dek": "Figure de la droite et mentor de Nicolas Sarkozy, l’ancien premier ministre est décédé ce 31 août à l'âge de 97 ans. Sa carrière politique, du ministère de l’Économie (1986-1988) à son accession au poste de premier ministre (1993-1995) lors de la deuxième cohabitation, restera ma…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/droite/mort-dedouard-balladur-lhomme-qui-est-alle-plus-loin-que-margaret-thatcher-ne-pas-publier-marbre"
     },
     {
       "tag": "Politique",
@@ -473,83 +550,6 @@
       "dek": "Les médias de Bolloré, et d’autres détenus par des milliardaires, sont vent debout contre l’idée de LFI d’interdire les grosses fortunes. Leurs journalistes, bien que non concernés, ont même fait preuve d’un zèle à toute épreuve.",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=502356"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "31 Aug 2026",
-      "date_iso": "2026-08-31T11:39:57+00:00",
-      "titre": "Le RN prévoit un référendum sur l'interdiction du port du voile en cas de victoire à la présidentielle 2027",
-      "dek": "Selon l'entourage de Marine Le Pen, lundi auprès de France Inter, ce référendum serait une façon \"d'enjamber\" le Conseil constitutionnel, qui ne peut pas statuer sur des lois référendaires.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/le-rn-prevoit-un-referendum-sur-l-interdiction-du-port-du-voile-en-cas-de-victoire-a-la-presidentielle-2027_8170688.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "31 Aug 2026",
-      "date_iso": "2026-08-31T11:28:45+00:00",
-      "titre": "Ceuta et Melilla, d’enclaves espagnoles à territoires revendiqués par le Maroc",
-      "dek": "Un mois après l’arrivée à Ceuta de milliers de candidats à l’exil puis le retour de la grande majorité d’entre eux, les relations entre l’Espagne et le Maroc s’acheminent vers une crise territoriale durable.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/310826/ceuta-et-melilla-d-enclaves-espagnoles-territoires-revendiques-par-le-maroc"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "31 Aug 2026",
-      "date_iso": "2026-08-31T11:19:40+00:00",
-      "titre": "«Mon espoir de partir est resté là-bas»: le douloureux retour au réel des refoulés de Ceuta",
-      "dek": "Trois vingtenaires racontent à «Mediapart» leur retour au Maroc, à la suite de leur tentative de rejoindre l’enclave espagnole de Ceuta, fin juillet. Aux yeux de cette génération en proie au chômage, l’Europe incarne la promesse d’un projet de vie digne.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/310826/mon-espoir-de-partir-est-reste-la-bas-le-douloureux-retour-au-reel-des-refoules-de-ceuta"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "31 Aug 2026",
-      "date_iso": "2026-08-31T11:06:21+00:00",
-      "titre": "La primaire à gauche, le duel Attal-Philippe... Les informés du matin du lundi 31 août 2026",
-      "dek": "Tous les jours, les informés débattent de l'actualité autour d'Agathe Lambret et de Renaud Dély.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/la-primaire-a-gauche-le-duel-attal-philippe-les-informes-du-matin-du-lundi-31-aout-2026_8145017.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "31 Aug 2026",
-      "date_iso": "2026-08-31T10:20:01+00:00",
-      "titre": "À quoi va ressembler la primaire du PS ?",
-      "dek": "Le patron du PS Olivier Faure a annoncé dimanche qu’il se présente à la primaire socialiste. Est-ce que cette candidature rebat les cartes ? L'édito de Renaud Dély.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/ps/a-quoi-va-ressembler-la-primaire-du-ps_8170559.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "31 Aug 2026",
-      "date_iso": "2026-08-31T10:12:27+00:00",
-      "titre": "Incendies en Algérie : Emmanuel Macron apporte son soutien ; le président algérien veut faire appliquer la peine de mort contre les pyromanes",
-      "dek": "L’Algérie a décrété un deuil officiel de trois jours et l’annulation de toutes les festivités culturelles et compétitions sportives après les incendies meurtriers qui ont ravagé l’est et le nord du pays.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/afrique/article/2026/08/31/incendies-en-algerie-emmanuel-macron-apporte-son-soutien-le-president-algerien-veut-faire-appliquer-la-peine-de-mort-contre-les-pyromanes_6762312_3212.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "31 Aug 2026",
-      "date_iso": "2026-08-31T10:08:02+00:00",
-      "titre": "Valérie Pécresse met en garde contre \"la fragmentation\" de la droite lors de la présidentielle 2027, après sa défaite \"douloureusement vécue\" en 2022",
-      "dek": "Face au risque de voir le RN briguer l'Elysée, \"la droite est devant une responsabilité historique\", insiste la présidente LR de la région Île-de-France, invitée lundi du 8.30 franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/valerie-pecresse-met-en-garde-contre-la-fragmentation-de-la-droite-lors-de-la-presidentielle-2027-apres-sa-defaite-douloureusement-vecue-en-2022_8170487.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
