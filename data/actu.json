@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-09-01T20:06:30+00:00",
+  "generated_at": "2026-09-02T00:09:23+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Sep 2026",
+      "date_iso": "2026-09-01T21:34:26+00:00",
+      "titre": "\"Pour moi, l'école, ce n'est pas un sujet de campagne présidentielle. C'est juste le cœur de mon engagement en politique\", déclare Gabriel Attal, candidat de Renaissance à la présidentielle",
+      "dek": "Gabriel Attal, candidat de Renaissance à l'élection présidentielle, était l'invité du journal de 20 Heures, mardi 1er septembre sur France 2.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/gabriel-attal/pour-moi-l-ecole-ce-n-est-pas-un-sujet-de-campagne-presidentielle-c-est-juste-le-c-ur-de-mon-engagement-en-politique-declare-gabriel-attal-candidat-de-renaissance-a-la-presidentielle_8172782.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "01 Sep 2026",
+      "date_iso": "2026-09-01T21:28:02+00:00",
+      "titre": "«Je propose une véritable révolution culturelle pour l’école» : Bruno Retailleau dévoile son projet de rupture",
+      "dek": "Lundi soir à Boulogne, le président des Républicains a présenté les résultats d’une réflexion conduite avec un groupe de travail piloté par le sénateur Max Brisson. Il prône un changement de « philosophie », après des années de dérives « pédagogistes ».",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/je-propose-une-veritable-revolution-culturelle-pour-l-ecole-bruno-retailleau-devoile-un-projet-de-rupture-et-sa-vision-d-une-ecole-libre-20260831"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Sep 2026",
+      "date_iso": "2026-09-01T21:11:13+00:00",
+      "titre": "Présidentielle 2027 : Édouard Philippe et Gabriel Attal, les héritiers du président ?",
+      "dek": "Gabriel Attal et Édouard Philippe ont tous deux occupé la fonction de Premier ministre d’Emmanuel Macron. Une expérience qui peut être un atout, mais aussi un poids dans la campagne présidentielle. Comment défendre l'héritage d'un président qui est aujourd'hui contesté sans appar…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/presidentielle-2027-edouard-philippe-et-gabriel-attal-les-heritiers-du-president_8172767.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "01 Sep 2026",
+      "date_iso": "2026-09-01T20:44:36+00:00",
+      "titre": "La \"loi intégrale\" contre les violences sexuelles consécutive à l'affaire Lyhanna sera examinée début octobre à l'Assemblée, confirme Sébastien Lecornu",
+      "dek": "La proposition de loi déposée le 11 août comprend 69 articles, dont l'examen par une commission spéciale débutera le 7 septembre.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/la-loi-integrale-contre-les-violences-sexuelles-consecutive-a-l-affaire-lyhanna-sera-examinee-debut-octobre-a-l-assemblee-confirme-sebastien-lecornu_8172752.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -154,17 +198,6 @@
       "dek": "",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=503250"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T16:49:01+00:00",
-      "titre": "«Je propose une véritable révolution culturelle pour l’école» : Bruno Retailleau dévoile son projet de rupture",
-      "dek": "Lundi soir à Boulogne, le président des Républicains a présenté les résultats d’une réflexion conduite avec un groupe de travail piloté par le sénateur Max Brisson. Il prône un changement de « philosophie », après des années de dérives « pédagogistes ».",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/je-propose-une-veritable-revolution-culturelle-pour-l-ecole-bruno-retailleau-devoile-un-projet-de-rupture-et-sa-vision-d-une-ecole-libre-20260831"
     },
     {
       "tag": "Gauche",
@@ -517,39 +550,6 @@
       "dek": "A huit mois du scrutin, cette ultime session parlementaire sera l’occasion pour tous les députés candidats d’affirmer leur identité politique et de se différencier parfois jusqu’au sein même de leur famille. De quoi compliquer l’adoption du budget.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/01/presidentielle-2027-l-assemblee-nationale-futur-theatre-d-affrontement-des-candidats_6763387_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T08:50:35+00:00",
-      "titre": "Entretien avec F. Piquemal (LFI) : nos démocraties menacées par les ingérences étrangères",
-      "dek": "À l'heure de la démocratisation de l'intelligence artificielle, de la multiplication des fake news, notre démocratie est-elle prémunie contre les manipulations et les ingérences étrangères ? La question se pose pour 2027 de manière d'autant plus urgente qu'elle s'est déjà posée e…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/cyberattaque/entretien-avec-f-piquemal-lfi-nos-democraties-menacees-par-les-ingerences-etrangeres"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T08:47:21+00:00",
-      "titre": "\"Personne ne va mener la chasse aux femmes voilées\", affirme le député RN Jean-Philippe Tanguy, après sa proposition de sanctionner le port du voile",
-      "dek": "En cas de victoire à la présidentielle 2027, le Rassemblement national veut un référendum sur l'interdiction du port du voile. Cette mesure permettra de \"protéger\" les femmes \"en évitant que ce voile s'impose dans la civilisation française\", estime Jean-Philippe Tanguy, mardi sur…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/personne-ne-va-mener-la-chasse-aux-femmes-voilees-affirme-le-depute-rn-jean-philippe-tanguy-apres-sa-proposition-de-sanctionner-le-port-du-voile_8171825.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T08:46:35+00:00",
-      "titre": "Désindexation des retraites : \"Rien n'est tranché\", rappelle le ministre du Travail, qui confirme \"environ 2 milliards d'économies\" sur son enveloppe pour 2027",
-      "dek": "Invité politique de \"La Matinale\" mardi 1er septembre, Jean-Pierre Farandou confirme le chiffre de près de deux milliards d'euros en moins pour le ministère du Travail et des Solidarités dans la copie du prochain budget, sans trancher sur la question des retraites. \"Ce n'est pas …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mardi-01-septembre-2026_8143934.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
