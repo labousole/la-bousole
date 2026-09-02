@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://labousole.github.io/la-bousole/sitemap.xml
+Sitemap: https://labousole.github.io/la-boussole/sitemap.xml
