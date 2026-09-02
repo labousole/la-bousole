@@ -13,13 +13,13 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from post_social import post_to_bluesky, post_to_mastodon  # noqa: E402
 
-SITE_URL = "https://labousole.github.io/la-bousole/"
+SITE_URL = "https://labousole.github.io/la-boussole/"
 
 HASHTAGS = ["#Politique", "#France2027", "#Gauche", "#Présidentielle2027"]
 
 MESSAGE_BODY = (
     "Retrouvez-nous sur La Boussole : Pour consulter nos dossiers "
-    "Enquêtes & vérification :
+    "Enquêtes & vérification, rendez-vous sur https://labousole.github.io/la-boussole/"
     "Immigration, l'hôpital Français, les salaires..."
 )
 
