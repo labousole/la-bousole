@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-09-02T15:11:26+00:00",
+  "generated_at": "2026-09-02T20:06:19+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T19:39:40+00:00",
+      "titre": "Débat «Libé» : Un rapprochement Ruffin-Villepin en vue de 2027 ? «On se renifle» lâche le député de gauche",
+      "dek": "L’ex-journaliste déjà en campagne et l’ancien Premier ministre de droite qu’une entrée en lice démange échangeaient dans le cadre de «Libé 2027», une série de rencontres publiques pour ouvrir le débat le plus large possible.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/en-direct-presidentielle-2027-suivez-le-debat-entre-francois-ruffin-et-dominique-de-villepin-organise-par-liberation-20260902_6GTNL4KY4ZC6FF3C2BOGIQLNEA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T18:22:12+00:00",
+      "titre": "Emmanuel Macron inaugure l'exposition de la tapisserie de Bayeux à Londres et qualifie ce prêt de \"geste d’amitié\"",
+      "dek": "Le chef de l'Etat avait personnellement décidé de prêter la tapisserie pour un an lors de sa visite d'Etat au Royaume-Uni en juillet 2025, afin de \"revivifier la relation culturelle\" et marquer \"la confiance\" actuelle entre Paris et Londres.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/culture/emmanuel-macron-inaugure-l-exposition-de-la-tapisserie-de-bayeux-installee-a-londres-pour-un-an_8174294.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T18:19:14+00:00",
+      "titre": "Drone à Leipzig: l’Allemagne accuse la Russie et c’est une première",
+      "dek": "Un drone armé d’explosifs a été retrouvé, le 5 août, à proximité d’un avion ukrainien, à l’aéroport de Leipzig. Le 1er septembre, le gouvernement allemand a publiquement attribué l’attaque à Moscou, ce qu’il évitait jusqu’à présent. Mais sans aller jusqu’à saisir l’Otan.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/020926/drone-leipzig-l-allemagne-accuse-la-russie-et-c-est-une-premiere"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T18:08:07+00:00",
+      "titre": "Les lois de l’amitié, objet politique de la rentrée",
+      "dek": "Clémence Guetté, députée insoumise et vice-présidente de l’Assemblée nationale, veut définir les cadres d’une «politique de l’amitié» bouleversant notre édifice juridique et susceptible de contrer tant l’extrême droite que le patriarcat et les logiques capitalistes.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/020926/les-lois-de-l-amitie-objet-politique-de-la-rentree"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T17:59:17+00:00",
+      "titre": "Primaire du PS : pourquoi l'organisation de débats semble déjà poser problème",
+      "dek": "Alors que Raphaël Glucksmann se contente de la seule date prévue, le 6 octobre, ses adversaires souhaitent, eux, les multiplier.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/primaire-du-ps-pourquoi-l-organisation-de-debats-semble-deja-poser-probleme_8174093.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T17:40:16+00:00",
+      "titre": "Dans une défense de l’Etat de droit, Richard Ferrand rappelle les partis au respect de la Constitution",
+      "dek": "Alors que la campagne présidentielle est lancée, le président du Conseil constitutionnel a estimé, à la Sorbonne, que « les libertés ne sont pas les variables d’ajustement des émotions et des impatiences d’un moment ». Sans faire référence au voile, que le RN veut interdire dans …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/02/dans-une-defense-de-l-etat-de-droit-richard-ferrand-rappelle-les-partis-au-respect-de-la-constitution_6764491_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T17:30:10+00:00",
+      "titre": "A La Réunion, la construction d’un câble sous-marin « souverain » reliant l’Afrique du Sud à Singapour vise à renforcer le développement économique de l’île",
+      "dek": "L’installation débutera en 2027, pour une mise en service en 2028, afin de sécuriser les connexions numériques du département français.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/09/02/a-la-reunion-la-construction-d-un-cable-sous-marin-souverain-reliant-l-afrique-du-sud-a-singapour-vise-a-renforcer-le-developpement-economique-de-l-ile_6764489_3234.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T16:04:51+00:00",
+      "titre": "La Hongrie remet la main sur un patrimoine accaparé par le clan Orbán",
+      "dek": "Le gouvernement de Péter Magyar a liquidé une trentaine de fondations, créées par le Fidesz, et qui contrôlaient de multiples institutions et entreprises. Au cœur de la bataille, plus de 8 milliards d’euros d’actifs et le retour dans le giron de l’État de 21 universités.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/020926/la-hongrie-remet-la-main-sur-un-patrimoine-accapare-par-le-clan-orban"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T16:00:00+00:00",
+      "titre": "«Libé 2027» : le premier débat entre François Ruffin et Dominique de Villepin",
+      "dek": "«Libération» vous donne rendez-vous ce mercredi 2 septembre à l’Académie du Climat, à Paris, pour une soirée de débat entre François Ruffin, député de la Somme et candidat à la présidentielle, et Dominique de Villepin, ancien Premier ministre, en partenariat avec BFM.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/forums/libe-2027-suivez-le-premier-debat-entre-francois-ruffin-et-dominique-de-villepin-20260826_7NJJJ5VN2RHY7A7COALPZXL2KE/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T15:51:57+00:00",
+      "titre": "Interdiction du voile dans l’espace public : Le RN déteste toujours la laïcité",
+      "dek": "Le parti d’extrême droite a réaffirmé ces derniers jours son intention d’interdire le port du foulard islamique dans l’espace public.&nbsp;Les débats qui ont suivi ont rappelé l’idéologie profonde du mouvement, comme son incompétence en matière législative.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/port-du-voile/interdiction-du-voile-dans-lespace-public-le-rn-deteste-toujours-la-laicite"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T15:48:31+00:00",
+      "titre": "Primaire à gauche : Fabien Verdier, l’ancien maire qui se rêve candidat «des sous-préfectures»",
+      "dek": "Armé de son slogan «Nos terroirs au pouvoir», l’ancien édile de Châteaudun, déjà candidat en 2016 sans parvenir à réunir les parrainages nécessaires, espère se faire une place dans le processus de désignation du Parti socialiste et de Place publique pour 2027.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/primaire-a-gauche-fabien-verdier-lancien-maire-qui-se-reve-candidat-des-sous-prefectures-20260902_5KKOAMRBRVGYTIUGT3EU4UJXHY/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T15:47:50+00:00",
+      "titre": "Arrêt des bus scolaires, suppression des kits de matériel... mais levée des couleurs : la rentrée antisociale des mairies d’extrême droite",
+      "dek": "De nombreuses communes administrées par le RN et ses satellites s’attaquent aux aides à destination des élèves pour mieux financer leurs lubies sécuritaires.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/arret-des-bus-scolaires-suppression-des-kits-de-materiel-mais-levee-des-couleurs-la-rentree-antisociale-des-mairies-dextreme-droite-20260831_6GFTHOTVA5ADVHSPZDO4QIYYVE/"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -11,6 +143,28 @@
       "dek": "Après une série de piratages massifs, administrations et entreprises appellent leurs usagers à la vigilance. Mais comprendre le risque, déjouer une arnaque, surveiller ses comptes ou faire valoir ses droits exige des ressources inéquitablement réparties.",
       "avis": null,
       "lien": "https://www.politis.fr/api/proxy/?articleID=503198"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T15:29:31+00:00",
+      "titre": "Augmenter le salaire net en réduisant le brut : l’arnaque des candidats libéraux à la présidentielle",
+      "dek": "Les libéraux, qu’ils soient de droite ou dits de gauche, viennent de lancer une grande offensive sur le salaire brut. Les aspirants à la présidence de la République, qu’il s’agisse de Bruno Retailleau, Gabriel Attal ou François Hollande comme Raphaël Glucksmann, veulent « augment…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/election-presidentielle/augmenter-le-salaire-net-en-reduisant-le-brut-larnaque-des-candidats-liberaux-a-la-presidentielle"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T15:11:14+00:00",
+      "titre": "«TVA sociale», retraites... Dans son nouveau livre, Hollande bouscule le PS et avance vers 2027",
+      "dek": "Dans son nouvel ouvrage Unir. Nouveau monde, nouvelle gauche (Éd. Robert Laffont), à paraître ce jeudi, l’ancien président détaille une série de propositions, pas toujours alignées sur les dogmes socialistes, et continue de se placer en recours présidentiel.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/tva-sociale-retraites-dans-son-nouveau-livre-hollande-bouscule-le-ps-et-avance-vers-2027-20260902"
     },
     {
       "tag": "Gauche",
@@ -88,17 +242,6 @@
       "dek": "La disparition de l’ancien premier ministre de cohabitation de François Mitterand, défait par Jacques Chirac en 1995, est riche d’enseignements à l’aube d’une nouvelle campagne présidentielle, estime dans sa chronique Solenn de Royer, journaliste au « Monde ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/02/la-trajectoire-d-edouard-balladur-offre-un-certain-nombre-de-lecons-aux-pretendants-d-aujourd-hui_6764384_823448.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T12:55:52+00:00",
-      "titre": "«TVA sociale», retraites... Dans son nouveau livre, Hollande bouscule le PS et avance vers 2027",
-      "dek": "Dans son nouvel ouvrage Unir. Nouveau monde, nouvelle gauche (Ed. Robert Laffont), qui paraîtra ce jeudi, l’ancien président détaille une série de propositions, pas toujours alignées sur les dogmes socialistes, et continue de se placer en recours présidentiel.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/tva-sociale-retraites-dans-son-nouveau-livre-hollande-bouscule-le-ps-et-avance-vers-2027-20260902"
     },
     {
       "tag": "Politique",
@@ -407,149 +550,6 @@
       "dek": "L’entourage du candidat Place publique a annoncé mardi 1er septembre vouloir participer au seul débat télé organisé par le service public de l’audiovisuel. Chez ses adversaires, on est prêt à en organiser d’autres sans lui.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/elections/cest-un-coup-de-force-du-camp-glucksmann-au-ps-on-tient-a-trois-debats-televises-pour-la-primaire-20260902_QSUOFG7EN5DRNPMHAKADL6C2LU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T07:24:23+00:00",
-      "titre": "Interdiction du voile dans l'espace public : \"C'est trop tard\", estime Jean-François Copé, pour qui \"il aurait fallu le décider il y a peut-être 25 ou 30 ans\"",
-      "dek": "Invité des \"4 Vérités\" mercredi 2 septembre, l'ancien président de l'UMP et actuel maire de Meaux réagit à la proposition du Rassemblement national d'interdire le port du voile dans l'espace public, si la formation d'extrême droite arrivait au pouvoir. \"Aujourd'hui, ce n'est pas …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/interdiction-du-voile-dans-l-espace-public-c-est-trop-tard-estime-jean-francois-cope-pour-qui-il-aurait-fallu-le-decider-il-y-a-peut-etre-25-ou-30-ans_8173316.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T07:00:10+00:00",
-      "titre": "Sanctionner le port du voile : Edouard Philippe juge la proposition du RN \"inconstitutionnelle et \"scandaleuse\"",
-      "dek": "\"Je ne veux pas entrer dans une confrontation avec mes compatriotes français de confession musulmane\", ajoute le candidat Horizons à la présidentielle, mercredi sur France Inter.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/religion/sanctionner-le-port-du-voile-edouard-philippe-juge-la-proposition-du-rn-inconstitutionnelle-et-scandaleuse_8173319.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T06:58:47+00:00",
-      "titre": "Le \"8h30 franceinfo\" de Marine Tondelier",
-      "dek": "Marine Tondelier, secrétaire nationale Les Écologistes, candidate à l'élection présidentielle est l'invitée du \"8h30 franceinfo\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-marine-tondelier_8144867.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T06:48:20+00:00",
-      "titre": "Présidentielle 2027 : les débats télévisés, source de tensions avant la primaire socialiste",
-      "dek": "Les participants au scrutin réclament la tenue de trois débats avant le premier tour du 10 octobre, à l’exception de Raphaël Glucksmann, qui plaide pour un rendez-vous unique en exclusivité sur le service public.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/02/presidentielle-2027-les-debats-televises-source-de-tensions-avant-la-primaire-socialiste_6764112_823448.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T06:30:00+00:00",
-      "titre": "« On la craint plus que lui » : en pleine promotion pour son livre, Sarah Knafo fait-elle de l’ombre à la candidature présidentielle d’Éric Zemmour ?",
-      "dek": "DÉCRYPTAGE - En tournée médiatique, l’eurodéputée prend la lumière pendant que le président de Reconquête prépare, en coulisses, sa candidature à la présidentielle.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/on-la-craint-plus-que-lui-en-pleine-promotion-pour-son-livre-sarah-knafo-fait-elle-de-l-ombre-a-la-candidature-presidentielle-d-eric-zemmour-20260902"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T06:06:17+00:00",
-      "titre": "Édito. Au RN, Marine Le Pen reprend la main et durcit le ton",
-      "dek": "À l’approche de la présidentielle, Marine Le Pen impose sa ligne au RN, entre interdiction du voile et réforme des retraites. Mais le parti pourrait bientôt devoir passer des slogans au \"réel\", avec le premier test du débat budgétaire à l’automne.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-au-rn-marine-le-pen-reprend-la-main-et-durcit-le-ton_8145038.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T05:57:47+00:00",
-      "titre": "REPORTAGE. \"Il faut quelqu'un qui renverse la table\" : en Seine-et-Marne, des électeurs de droite se disent tentés par le vote RN à la présidentielle",
-      "dek": "À Moret-sur-Loing, ville qui se situe dans une circonscription de droite, plusieurs électeurs de la droite dite \"traditionnelle\" disent avoir davantage de facilités à voter pour Marine Le Pen. Une étude Cluster17 réalisée fin juillet corrobore cette porosité entre ces deux électo…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/reportage-il-faut-quelqu-un-qui-renverse-la-table-en-seine-et-marne-des-electeurs-de-droite-se-disent-tentes-par-le-vote-rn-a-la-presidentielle_8172746.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T05:24:36+00:00",
-      "titre": "L’éprouvante rentrée d’une famille en quête d’un toit",
-      "dek": "Plus de 2 300 mineurs en France étaient encore sans solution d’hébergement le jour de la rentrée, presque deux fois plus qu’il y a trois ans. À Villeurbanne, pour Sihem et ses quatre enfants, la journée de reprise de l’école a pris les contours d’une course contre la montre, pour…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/020926/l-eprouvante-rentree-d-une-famille-en-quete-d-un-toit"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T04:36:00+00:00",
-      "titre": "Sénatoriales 2026 : la tête de liste RN dans les Bouches-du-Rhône est une ancienne torera",
-      "dek": "Marie-Pierre Callet, vice-présidente du département et tête de liste RN, affiche une grande passion pour les corridas. Une surprise compte tenu du grand dévouement que voue le leader local du parti, Franck Allisio, à la cause animale.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/senatoriales-2026-la-tete-de-liste-rn-dans-les-bouches-du-rhone-est-une-ancienne-torera-20260902_JFADPUK2SNAVPGL7VS2DB6EVMA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T04:35:07+00:00",
-      "titre": "Une idée « interdite par les traités européens » : le président de la Bundesbank s’oppose à l’annulation de la dette proposée par Jean-Luc Mélenchon",
-      "dek": "Joachim Nagel critique fermement la proposition du candidat « insoumis » à la présidentielle d’annuler les 18 % de dette de la France possédée par la Banque centrale européenne.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/02/une-idee-interdite-par-les-traites-europeens-le-president-de-la-bundesbank-s-oppose-a-l-annulation-de-la-dette-proposee-par-jean-luc-melenchon_6763942_3234.html"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T04:15:00+00:00",
-      "titre": "Présidentielle : de 1980 à 2022, ce que disaient les sondages à huit mois de l’élection",
-      "dek": "ANALYSE - Les sondages de septembre peuvent-ils dicter l’affiche d’un scrutin qui se déroulera en avril ? La comparaison historique invite à la prudence.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/presidentielle-de-1980-a-2022-ce-que-disaient-les-sondages-a-huit-mois-de-l-election-20260902"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T04:00:21+00:00",
-      "titre": "Présidentielle 2027 : les stratégies des candidats pour combler leurs carences sur le monde du travail",
-      "dek": "Régulièrement accusés de manquer d’expérience professionnelle en dehors de la politique, les prétendants à l’Elysée s’entourent d’experts, de patrons ou d’organisations de salariés qui influencent leurs programmes.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/02/presidentielle-2027-les-strategies-des-candidats-pour-combler-leurs-carences-sur-le-monde-du-travail_6763869_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T04:00:21+00:00",
-      "titre": "Voile, retraites : le malaise perceptible de Jordan Bardella vis-à-vis du programme présidentiel de Marine Le Pen",
-      "dek": "En trois jours, le président du RN a minimisé la portée de deux mesures symboliques du programme de Marine Le Pen, et contredit la candidate sur le récit du départ de son conseiller, François Durvye.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/02/voile-retraites-le-malaise-perceptible-de-jordan-bardella-vis-a-vis-du-programme-presidentiel-de-marine-le-pen_6763870_823448.html"
     }
   ]
 }
