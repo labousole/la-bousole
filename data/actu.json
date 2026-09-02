@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-09-02T00:09:23+00:00",
+  "generated_at": "2026-09-02T05:05:48+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T04:57:12+00:00",
+      "titre": "REPORTAGE. \"Il faut quelqu'un qui renverse la table\" : en Seine-et-Marne, des électeurs de droite se disent tentés par le vote RN à la présidentielle",
+      "dek": "À Moret-sur-Loing, plusieurs électeurs de la droite dite \"traditionnelle\" disent avoir davantage de facilités à voter pour Marine Le Pen. Une étude Cluster17 réalisée fin juillet corrobore cette porosité entre ces deux électorats.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/reportage-il-faut-quelqu-un-qui-renverse-la-table-en-seine-et-marne-des-electeurs-de-droite-se-disent-tentes-par-le-vote-rn-a-la-presidentielle_8172746.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T04:36:00+00:00",
+      "titre": "Sénatoriales 2026 : la tête de liste RN dans les Bouches-du-Rhône est une ancienne torera",
+      "dek": "Marie-Pierre Callet, vice-présidente du département et tête de liste RN, affiche une grande passion pour les corridas. Une surprise compte tenu du grand dévouement que voue le leader local du parti, Franck Allisio, à la cause animale.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/senatoriales-2026-la-tete-de-liste-rn-dans-les-bouches-du-rhone-est-une-ancienne-torera-20260902_JFADPUK2SNAVPGL7VS2DB6EVMA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T04:35:10+00:00",
+      "titre": "Une idée « interdite par les traités européens » : le président de la Bundesbank s’oppose à l’annulation de la dette proposée par Jean-Luc Mélenchon",
+      "dek": "Joachim Nagel critique fermement la proposition du candidat « insoumis » à la présidentielle d’annuler les 18 % de dette de la France possédée par la Banque centrale européenne.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/economie/article/2026/09/02/une-idee-interdite-par-les-traites-europeens-le-president-de-la-bundesbank-s-oppose-a-l-annulation-de-la-dette-proposee-par-jean-luc-melenchon_6763942_3234.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T04:15:00+00:00",
+      "titre": "Présidentielle : de 1980 à 2022, ce que disaient les sondages à huit mois de l’élection",
+      "dek": "ANALYSE - Les sondages de septembre peuvent-ils dicter l’affiche d’un scrutin qui se déroulera en avril ? La comparaison historique invite à la prudence.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/presidentielle-de-1980-a-2022-ce-que-disaient-les-sondages-a-huit-mois-de-l-election-20260902"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T04:00:21+00:00",
+      "titre": "Présidentielle 2027 : les stratégies des candidats pour combler leurs carences sur le monde du travail",
+      "dek": "Régulièrement accusés de manquer d’expérience professionnelle en dehors de la politique, les prétendants à l’Elysée s’entourent d’experts, de patrons ou d’organisations de salariés qui influencent leurs programmes.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/02/presidentielle-2027-les-strategies-des-candidats-pour-combler-leurs-carences-sur-le-monde-du-travail_6763869_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T04:00:21+00:00",
+      "titre": "Voile, retraites : le malaise perceptible de Jordan Bardella vis-à-vis du programme présidentiel de Marine Le Pen",
+      "dek": "En trois jours, le président du RN a minimisé la portée de deux mesures symboliques du programme de Marine Le Pen, et contredit la candidate sur le récit du départ de son conseiller, François Durvye.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/02/voile-retraites-le-malaise-perceptible-de-jordan-bardella-vis-a-vis-du-programme-presidentiel-de-marine-le-pen_6763870_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T04:00:04+00:00",
+      "titre": "INFO FRANCEINFO. Jean-Luc Mélenchon n'a recueilli pour l'instant qu'un peu plus de 200 promesses de parrainages en vue de la présidentielle, loin des 500 nécessaires",
+      "dek": "\"On a commencé en juin, si on attend que les parrainages arrivent tout seuls on va se faire peur\", estime une source interne au sein de LFI.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/melenchon/info-franceinfo-jean-luc-melenchon-n-a-recueilli-pour-l-instant-qu-un-peu-plus-de-200-promesses-de-parrainages-en-vue-de-la-presidentielle-loin-des-500-necessaires_8172731.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T03:58:25+00:00",
+      "titre": "\"Après des mois de normalisation, Marine Le Pen réactive un marqueur\" : pourquoi le RN replace la question du voile dans le débat présidentiel",
+      "dek": "Si l'interdiction du port du voile est dans l'ADN du programme de Marine Le Pen, il reste un élément de divergence au sein du parti.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/apres-des-mois-de-normalisation-marine-le-pen-reactive-un-marqueur-pourquoi-le-rn-replace-la-question-du-voile-dans-le-debat-presidentiel_8172068.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T03:56:28+00:00",
+      "titre": "VRAI OU FAUX. Marine Tondelier a-t-elle raison de dire qu'une loi sur la transmission d'entreprises familiales est \"détournée\" pour \"servir d'optimisation fiscale\" ?",
+      "dek": "Lors du tout premier débat de la campagne présidentielle organisé par le Medef, la candidate écologiste a ciblé le pacte Dutreil, un dispositif qui permet d'alléger fortement l'impôt sur la transmission des entreprises familiales.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-marine-tondelier-a-t-elle-raison-de-dire-qu-une-loi-sur-la-transmission-d-entreprises-familiales-est-detournee-pour-servir-d-optimisation-fiscale_8166221.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -451,105 +550,6 @@
       "dek": "Le député RN de la Somme Jean-Philippe Tanguy avait évoqué, dimanche soir, le projet de son parti de soumettre à des amendes les femmes portant le voile dans la sphère publique. Une proposition confirmée dès le lendemain par Marine Le Pen, et aussitôt fustigée par plusieurs candi…",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/01/interdiction-du-voile-dans-l-espace-public-le-rn-assume-son-projet-face-aux-critiques_6763436_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T10:00:08+00:00",
-      "titre": "« Dans une France en quête de changement profond, la dynamique n’appartient qu’à ceux qui promettent de renverser la table »",
-      "dek": "Alors que l’hypothèse d’un duel entre Marine Le Pen et Jean-Luc Mélenchon au second tour de l’élection présidentielle de 2027 agite les esprits, aucun des candidats issus de partis ayant déjà gouverné ne parvient à s’imposer. Une situation aux effets délétères, estime Françoise F…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/01/dans-une-france-en-quete-de-changement-profond-la-dynamique-n-appartient-qu-a-ceux-qui-promettent-de-renverser-la-table_6763400_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T09:56:26+00:00",
-      "titre": "Le RN souhaite sanctionner le port du voile",
-      "dek": "Le RN souhaite sanctionner d'une amende le port du voile dans l’espace public. Face à Agathe Lambret et Simon Le Baron, Jean-Philippe Tanguy, député RN de la Somme, a justifié cette décision \"pour protéger les femmes\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/front-national/le-rn-souhaite-sanctionner-le-port-du-voile_8171948.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T09:47:01+00:00",
-      "titre": "Plafonnement des arrêts maladie : \"Un salarié sur deux présente des signes de détresse psychologique au travail\", rappelle Sophie Binet, secrétaire générale de la CGT",
-      "dek": "\"Ce n'est pas en cassant le thermomètre qu'on va résoudre les symptômes et la maladie, […] stigmatiser les malades ne sert à rien\", estime la syndicaliste, qui réagit dans les \"4 Vérités\" du 1er septembre au durcissement des règles concernant les arrêts des salariés, et aux piste…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/plafonnement-des-arrets-maladie-un-salarie-sur-deux-presente-des-signes-de-detresse-psychologique-au-travail-rappelle-sophie-binet-secretaire-generale-de-la-cgt_8171717.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T09:46:40+00:00",
-      "titre": "Décès d'Édouard Balladur, voile, présidentielle... Le \"8h30 franceinfo\" de Jean-Philippe Tanguy",
-      "dek": "Jean-Philippe Tanguy, député RN de la Somme, est l'invité du 8h30 franceinfo",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-jean-philippe-tanguy_8144873.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T09:31:11+00:00",
-      "titre": "Rentrée scolaire : \"Il va falloir montrer qu'on est autre chose qu'une part de marché électoral\", prévient Sophie Vénétitay, professeure et secrétaire générale du SNES-FSU",
-      "dek": "Invitée de \"La Matinale\" mardi 1er septembre, l'enseignante et syndicaliste revient sur les enjeux de cette rentrée et réagit aux propositions des candidats à la présidentielle pour rehausser le salaire des professeurs. \"Je n'oublie pas que pendant 10 ans, […], les seules fois où…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/education/rentree-scolaire-il-va-falloir-montrer-qu-on-est-autre-chose-qu-une-part-de-marche-electoral-previent-sophie-venetitay-professeure-et-secretaire-generale-du-snes-fsu_8171855.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T09:29:38+00:00",
-      "titre": "Edouard Balladur : c’est l’histoire d’un mème",
-      "dek": "Prononcée après le 1er tour de la présidentielle 1995, le «Je vous demande de vous arrêter» du grand favori éliminé est passé à la postérité.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/edouard-balladur-cest-lhistoire-dun-meme-20260901_IMDW7OVGE5B3VLDSH3CNW5LM3E/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T09:09:58+00:00",
-      "titre": "Le grand n’importe quoi du RN sur l’interdiction du voile islamique",
-      "dek": "Le parti de Jordan Bardella a rétropédalé après l’annonce d’une pénalisation (inconstitutionnelle) du port du foulard dans les lieux publics, et s’embourbe une fois de plus sur le sujet.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/le-grand-nimporte-quoi-du-rn-sur-linterdiction-du-voile-islamique-20260901_A6FKIGDM5ZDC3KKEEEZEFN2JW4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T09:03:18+00:00",
-      "titre": "Présidentielle : Michel-Edouard Leclerc arrête son char",
-      "dek": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-michel-edouard-leclerc-arrete-son-char-20260901_JLSYKTMW25DAZI3NMGK5AWGQNQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T09:00:13+00:00",
-      "titre": "Présidentielle 2027 : l’Assemblée nationale, futur théâtre d’affrontement des candidats",
-      "dek": "A huit mois du scrutin, cette ultime session parlementaire sera l’occasion pour tous les députés candidats d’affirmer leur identité politique et de se différencier parfois jusqu’au sein même de leur famille. De quoi compliquer l’adoption du budget.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/01/presidentielle-2027-l-assemblee-nationale-futur-theatre-d-affrontement-des-candidats_6763387_823448.html"
     }
   ]
 }
