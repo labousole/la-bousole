@@ -71,12 +71,11 @@ const CANDIDATS = [
   { nom: "Gabriel Attal", parti: "Renaissance", bloc: "c", statut: "déclaré", note: "Président du parti présidentiel." },
   { nom: "Édouard Philippe", parti: "Horizons", bloc: "c", statut: "déclaré", note: "L'un des candidats les plus précoces de cette élection." },
   { nom: "Bruno Retailleau", parti: "LR", bloc: "d", statut: "déclaré", note: "Peine encore à rassembler toute sa famille politique." },
-  { nom: "Xavier Bertrand", parti: "LR", bloc: "d", statut: "pressenti", note: "Se prépare, se prépare." },
   { nom: "David Lisnard", parti: "Nouvelle Énergie", bloc: "d", statut: "déclaré", note: "Appelle à une primaire de toute la droite." },
   { nom: "Nicolas Dupont-Aignan", parti: "DLF", bloc: "d", statut: "déclaré", note: "Prêt à se retirer pour l'union nationaliste." },
   { nom: "Marine Le Pen", parti: "RN", bloc: "ed", statut: "déclarée", note: "Candidate malgré la peine prononcée en première instance." },
   { nom: "François Asselineau", parti: "UPR", bloc: "ed", statut: "déclaré", note: "Candidat sans interruption depuis 2012." },
-  { nom: "Raphaël Glucksmann", parti: "Place Publique", bloc: "g", statut: "déclaré", note: "Candidate à la primaire socialiste, Vive la Fraaaaaaance." },
+  { nom: "Raphaël Glucksmann", parti: "Place Publique", bloc: "g", statut: "pressenti", note: "Pas encore officialisé sa candidature." },
   { nom: "François Hollande", parti: "PS", bloc: "g", statut: "pressenti", note: "Prépare son retour en coulisses, sans passer par la primaire." },
   { nom: "Olivier Faure", parti: "PS", bloc: "g", statut: "pressenti", note: "En désaccord ouvert avec Boris Vallaud sur la stratégie." },
   { nom: "Boris Vallaud", parti: "PS", bloc: "g", statut: "pressenti", note: "Président du groupe socialiste à l'Assemblée." },
@@ -86,11 +85,11 @@ const CANDIDATS = [
 ];
 
 const DOSSIERS = [
-    {
-    titre: "L'hôpital français est-il en train de s'effondrer ?",
-    dek: "D'un côté : « notre système de santé s'effondre ». De l'autre : « la France a l'un des meilleurs systèmes de santé au monde ».",
+  {
+    titre: "L'hôpital français est-il vraiment en train de s'effondrer ?",
+    dek: "Fermetures de lits, urgences saturées, déserts médicaux, dépenses de santé : ce dossier confronte les deux discours qui s'affrontent aux données DREES et OCDE, entre le récit de l'effondrement total et celui du déni complet.",
     date: "Dossier de vérification",
-    lien: "dossiers/lhopital_français.html",
+    lien: "dossiers/hopital-sante.html",
   },
   {
     titre: "Le travail paie-t-il encore en France ?",
@@ -111,8 +110,181 @@ const NAV = [
   { id: "partis", label: "Partis" },
   { id: "candidats", label: "Candidats 2027" },
   { id: "dossiers", label: "Dossiers" },
+  { id: "comparateur", label: "Comparateur" },
+  { id: "boussole", label: "Testez-vous" },
   { id: "edito", label: "Édito" },
 ];
+
+/* ============================================================
+   COMPARATEUR & BOUSSOLE ÉLECTORALE
+   Positionnement simplifié à visée pédagogique — deux axes :
+   x = axe économique (gauche -2 → droite +2)
+   y = axe ouverture/souveraineté (ouvert -2 → identitaire +2)
+   Coordonnées approximatives, discutables par nature : un parti
+   n'est jamais un point unique. À ne pas confondre avec un test
+   scientifique — voir le disclaimer affiché sur la page.
+   ============================================================ */
+const PROGRAMMES = [
+  { sigle: "LO", nom: "Lutte ouvrière", bloc: "eg", x: -2, y: -1.5,
+    themes: {
+      "Retraites": "Retour à la retraite à 60 ans, financée par une hausse des cotisations patronales.",
+      "Fiscalité": "Suppression des exonérations patronales, contrôle ouvrier des comptes d'entreprise.",
+      "Climat": "Subordonné à la question sociale : la production doit être décidée collectivement, pas par le marché.",
+      "Immigration": "Liberté de circulation et d'installation, régularisation de tous les sans-papiers.",
+      "Europe": "Opposition à l'Union européenne telle qu'elle existe, vue comme un cadre au service du capital.",
+      "Travail": "Interdiction des licenciements dans les entreprises qui font des profits, partage du temps de travail.",
+    }},
+  { sigle: "NPA", nom: "Nouveau Parti anticapitaliste", bloc: "eg", x: -2, y: -1.7,
+    themes: {
+      "Retraites": "Retraite à 60 ans à taux plein, financée par les profits du capital.",
+      "Fiscalité": "Taxation forte du capital et des grandes fortunes, expropriation des grands groupes.",
+      "Climat": "Planification écologique rompant avec la logique de profit.",
+      "Immigration": "Régularisation générale, liberté de circulation et d'installation.",
+      "Europe": "Rupture avec les traités européens actuels.",
+      "Travail": "Réduction du temps de travail sans perte de salaire, interdiction des licenciements boursiers.",
+    }},
+  { sigle: "LFI", nom: "La France insoumise", bloc: "g", x: -1.8, y: -1,
+    themes: {
+      "Retraites": "Retour à la retraite à 60 ans, financée par une hausse des cotisations sur les hauts revenus.",
+      "Fiscalité": "Rétablissement de l'ISF, tranche supérieure de l'impôt sur le revenu renforcée.",
+      "Climat": "Planification écologique, règle verte, sortie du nucléaire à terme.",
+      "Immigration": "Régularisation par le travail, réforme de l'accueil, opposition aux politiques répressives.",
+      "Europe": "Désobéissance aux traités européens jugés incompatibles avec le programme social.",
+      "Travail": "Hausse du SMIC, semaine de travail réduite, VIe République avec plus de droits sociaux.",
+    }},
+  { sigle: "PCF", nom: "Parti communiste français", bloc: "g", x: -1.6, y: -0.8,
+    themes: {
+      "Retraites": "Retraite à 60 ans, financement par une réforme des cotisations patronales.",
+      "Fiscalité": "Renforcement de la progressivité de l'impôt, taxation des dividendes.",
+      "Climat": "Planification écologique publique, pôle public de l'énergie.",
+      "Immigration": "Politique d'accueil digne, régularisation des travailleurs sans papiers.",
+      "Europe": "Réorientation profonde de l'UE vers le social, sans rupture unilatérale.",
+      "Travail": "Hausse du SMIC, renforcement du Code du travail, services publics renforcés.",
+    }},
+  { sigle: "PS", nom: "Parti socialiste", bloc: "g", x: -0.8, y: -0.3,
+    themes: {
+      "Retraites": "Retour progressif vers 62 ans, correctifs pour les carrières longues et pénibles.",
+      "Fiscalité": "Réforme de la fiscalité du capital, lutte contre l'évasion fiscale.",
+      "Climat": "Transition écologique planifiée avec accompagnement social des filières.",
+      "Immigration": "Politique d'accueil régulée, réforme de l'asile sans discours de fermeté systématique.",
+      "Europe": "Europe sociale renforcée, fidélité au cadre européen actuel.",
+      "Travail": "Revalorisation du SMIC, dialogue social renforcé, sécurisation des parcours professionnels.",
+    }},
+  { sigle: "PP", nom: "Place Publique", bloc: "g", x: -0.7, y: -0.6,
+    themes: {
+      "Retraites": "Système par répartition maintenu, correctifs ciblés plutôt que réforme systémique.",
+      "Fiscalité": "Taxation renforcée du capital et des successions importantes.",
+      "Climat": "Green New Deal européen, investissement massif dans la transition.",
+      "Immigration": "Politique migratoire humaniste articulée à l'échelle européenne.",
+      "Europe": "Fédéralisme européen assumé, approfondissement de l'intégration.",
+      "Travail": "Partage de la valeur, renforcement des droits des travailleurs des plateformes.",
+    }},
+  { sigle: "EELV", nom: "Les Écologistes", bloc: "eco", x: -1.0, y: -1.2,
+    themes: {
+      "Retraites": "Retraite à 60 ans avec prise en compte de la pénibilité et du travail non-salarié.",
+      "Fiscalité": "Fiscalité écologique et sociale renforcée, taxation du capital.",
+      "Climat": "Sortie du nucléaire à terme, priorité absolue aux renouvelables et à la sobriété.",
+      "Immigration": "Politique d'accueil digne, régularisation, opposition aux politiques de fermeture.",
+      "Europe": "Europe fédérale et écologique renforcée.",
+      "Travail": "Réduction du temps de travail, revenu de base, relocalisation de l'économie.",
+    }},
+  { sigle: "RE", nom: "Renaissance", bloc: "c", x: 0.3, y: 0,
+    themes: {
+      "Retraites": "Défend la réforme portant l'âge légal à 64 ans, adoptée durant le quinquennat Macron.",
+      "Fiscalité": "Poursuite de la baisse des impôts de production, stabilité fiscale pour les entreprises.",
+      "Climat": "Nucléaire et renouvelables combinés, transition portée par l'innovation et le marché.",
+      "Immigration": "Fermeté sur l'immigration irrégulière, sélectivité accrue de l'immigration de travail.",
+      "Europe": "Approfondissement de l'intégration européenne, autonomie stratégique de l'UE.",
+      "Travail": "Poursuite des réformes du marché du travail, incitation au retour à l'emploi.",
+    }},
+  { sigle: "MoDem", nom: "MoDem", bloc: "c", x: 0.2, y: -0.2,
+    themes: {
+      "Retraites": "Soutien à la réforme des 64 ans, ouverture à des ajustements pour les carrières longues.",
+      "Fiscalité": "Orthodoxie budgétaire, réduction progressive de la dette publique.",
+      "Climat": "Mix énergétique équilibré entre nucléaire et renouvelables.",
+      "Immigration": "Ligne centriste, entre fermeté et intégration.",
+      "Europe": "Europe fédérale, ligne historique pro-européenne du parti.",
+      "Travail": "Dialogue social, formation professionnelle renforcée.",
+    }},
+  { sigle: "HOR", nom: "Horizons", bloc: "c", x: 0.6, y: 0.2,
+    themes: {
+      "Retraites": "Défend la réforme des 64 ans, ouvert à des aménagements ciblés.",
+      "Fiscalité": "Baisse des dépenses publiques, réduction des impôts de production.",
+      "Climat": "Relance du nucléaire comme pilier de la décarbonation.",
+      "Immigration": "Ligne ferme sur l'immigration irrégulière, quotas par métier envisagés.",
+      "Europe": "Europe puissance, souveraineté industrielle et de défense.",
+      "Travail": "Incitations renforcées au retour à l'emploi, simplification du droit du travail.",
+    }},
+  { sigle: "LR", nom: "Les Républicains", bloc: "d", x: 1.3, y: 0.8,
+    themes: {
+      "Retraites": "Défend un âge de départ à 64 ans ou plus, système par capitalisation en complément.",
+      "Fiscalité": "Baisse significative des impôts et des dépenses publiques.",
+      "Climat": "Relance massive du nucléaire, prudence sur les contraintes réglementaires vertes.",
+      "Immigration": "Réduction ferme de l'immigration, conditionnalité des aides sociales.",
+      "Europe": "Europe des nations, moins d'intégration fédérale.",
+      "Travail": "Allègement du droit du travail, incitation forte au retour à l'emploi.",
+    }},
+  { sigle: "NE", nom: "Nouvelle Énergie", bloc: "d", x: 1.1, y: 0.5,
+    themes: {
+      "Retraites": "Soutien à un allongement de la durée de cotisation, gestion décentralisée.",
+      "Fiscalité": "Décentralisation fiscale, plus d'autonomie budgétaire pour les collectivités.",
+      "Climat": "Transition pilotée par les territoires, nucléaire et renouvelables locaux.",
+      "Immigration": "Ligne ferme, gestion différenciée selon les territoires.",
+      "Europe": "Europe des régions et des territoires.",
+      "Travail": "Simplification administrative pour les entreprises locales et PME.",
+    }},
+  { sigle: "RN", nom: "Rassemblement national", bloc: "ed", x: 1.0, y: 2,
+    themes: {
+      "Retraites": "Retraite à 60 ou 62 ans selon les carrières longues, financée par la priorité nationale.",
+      "Fiscalité": "Baisse ciblée de la TVA sur les produits de première nécessité.",
+      "Climat": "Priorité au nucléaire, scepticisme envers les contraintes écologiques européennes.",
+      "Immigration": "Réduction drastique de l'immigration, priorité nationale dans l'accès aux prestations.",
+      "Europe": "Europe des nations, remise en cause de plusieurs compétences de l'UE.",
+      "Travail": "Priorité nationale à l'embauche, exonérations ciblées pour les entreprises françaises.",
+    }},
+  { sigle: "REC", nom: "Reconquête", bloc: "ed", x: 1.4, y: 2,
+    themes: {
+      "Retraites": "Allongement de la durée de cotisation, système plus individualisé.",
+      "Fiscalité": "Baisse forte des impôts et des dépenses publiques, État recentré.",
+      "Climat": "Priorité totale au nucléaire, opposition aux normes environnementales jugées punitives.",
+      "Immigration": "Arrêt de l'immigration extra-européenne, remigration proposée.",
+      "Europe": "Ligne souverainiste marquée, réduction drastique des compétences de l'UE.",
+      "Travail": "Dérégulation forte du marché du travail, baisse des charges.",
+    }},
+  { sigle: "DLF", nom: "Debout la France", bloc: "d", x: 1.0, y: 1.6,
+    themes: {
+      "Retraites": "Maintien du système par répartition, opposition à la réforme des 64 ans.",
+      "Fiscalité": "Baisse des impôts de production, simplification fiscale pour les indépendants.",
+      "Climat": "Priorité au nucléaire souverain, scepticisme sur les normes imposées par Bruxelles.",
+      "Immigration": "Réduction significative de l'immigration, contrôle renforcé des frontières.",
+      "Europe": "Sortie des traités jugés contraires à la souveraineté nationale, ligne gaulliste.",
+      "Travail": "Protectionnisme ciblé pour préserver l'emploi industriel français.",
+    }},
+  { sigle: "UPR", nom: "Union populaire républicaine", bloc: "ed", x: 0.5, y: 1.8,
+    themes: {
+      "Retraites": "Retour à la retraite à 60 ans, rendu possible selon eux par la sortie de l'euro.",
+      "Fiscalité": "Reprise de souveraineté monétaire jugée préalable à toute réforme fiscale.",
+      "Climat": "Peu développé, subordonné à la question de la souveraineté nationale.",
+      "Immigration": "Contrôle renforcé aux frontières nationales retrouvées.",
+      "Europe": "Sortie de l'Union européenne, de l'euro et de l'OTAN (Frexit).",
+      "Travail": "Politique industrielle protectionniste rendue possible par la sortie de l'euro selon le parti.",
+    }},
+];
+
+const THEMES = ["Retraites", "Fiscalité", "Climat", "Immigration", "Europe", "Travail"];
+
+const QUESTIONS = [
+  { texte: "Il faut augmenter fortement le SMIC et les salaires, quitte à demander plus aux entreprises.", dx: -1, dy: 0 },
+  { texte: "Il faut baisser les impôts et les charges qui pèsent sur les entreprises.", dx: 1, dy: 0 },
+  { texte: "Il faut sortir du nucléaire et miser prioritairement sur les énergies renouvelables.", dx: -0.3, dy: -0.6 },
+  { texte: "Il faut réduire fortement l'immigration, y compris l'immigration de travail.", dx: 0.2, dy: 1 },
+  { texte: "Il faut aller vers plus d'intégration européenne, y compris une Europe fédérale.", dx: -0.2, dy: -1 },
+  { texte: "Il faut renforcer les services publics et la protection sociale, même si cela coûte plus cher.", dx: -1, dy: -0.1 },
+  { texte: "Il faut travailler plus longtemps et responsabiliser davantage chacun face au chômage.", dx: 1, dy: 0.2 },
+  { texte: "Il faut défendre la souveraineté nationale, y compris face à l'Union européenne et à l'OTAN.", dx: 0.1, dy: 1 },
+];
+
+
 
 function useDaysUntil(dateStr) {
   return useMemo(() => {
@@ -402,6 +574,198 @@ function Dossiers() {
   );
 }
 
+function Comparateur() {
+  const [a, setA] = useState("LFI");
+  const [b, setB] = useState("RN");
+  const partyA = PROGRAMMES.find((p) => p.sigle === a);
+  const partyB = PROGRAMMES.find((p) => p.sigle === b);
+
+  const Select = ({ value, onChange }) => (
+    <select
+      value={value}
+      onChange={(e) => onChange(e.target.value)}
+      className="px-3 py-2 text-sm w-full"
+      style={{ fontFamily: "'IBM Plex Mono', monospace", border: "1px solid var(--ink)", background: "#fff", color: "var(--ink)" }}
+    >
+      {PROGRAMMES.map((p) => (
+        <option key={p.sigle} value={p.sigle}>{p.nom} ({p.sigle})</option>
+      ))}
+    </select>
+  );
+
+  return (
+    <div className="px-5 md:px-10 py-10 max-w-5xl mx-auto">
+      <Eyebrow>Comparer</Eyebrow>
+      <h2 className="mt-3 uppercase" style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 700, fontSize: "clamp(1.8rem, 4vw, 2.6rem)", color: "var(--ink)" }}>
+        Comparateur de programmes
+      </h2>
+      <p className="mt-3 max-w-2xl text-[0.98rem] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif", color: "#332f27" }}>
+        Choisis deux partis pour comparer leurs positions, thème par thème. Positionnement simplifié — les
+        programmes complets seront précisés à mesure que la campagne avance.
+      </p>
+
+      <div className="mt-6 grid sm:grid-cols-2 gap-4">
+        <div>
+          <BlocDot bloc={partyA?.bloc} /> <Select value={a} onChange={setA} />
+        </div>
+        <div>
+          <BlocDot bloc={partyB?.bloc} /> <Select value={b} onChange={setB} />
+        </div>
+      </div>
+
+      <div className="mt-8 grid gap-0">
+        {THEMES.map((theme, i) => (
+          <div key={theme} className="grid sm:grid-cols-[120px_1fr_1fr] gap-3 sm:gap-6 py-5" style={{ borderTop: i === 0 ? "1px solid var(--line)" : "1px solid var(--line)" }}>
+            <div className="text-[11px] uppercase tracking-wide font-medium pt-1" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "var(--red)" }}>
+              {theme}
+            </div>
+            <p className="text-[0.92rem] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif", color: "#332f27" }}>
+              {partyA?.themes[theme]}
+            </p>
+            <p className="text-[0.92rem] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif", color: "#332f27" }}>
+              {partyB?.themes[theme]}
+            </p>
+          </div>
+        ))}
+      </div>
+
+      <p className="mt-8 text-[0.8rem]" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#8a8272" }}>
+        Synthèses rédigées par la rédaction à partir des programmes 2022 et des prises de position publiques les
+        plus récentes — à jour au mieux, susceptibles d'évoluer avec la campagne 2027.
+      </p>
+    </div>
+  );
+}
+
+function Boussole() {
+  const [step, setStep] = useState(0);
+  const [answers, setAnswers] = useState([]);
+  const [done, setDone] = useState(false);
+
+  const CHOICES = [
+    { label: "Pas du tout d'accord", v: -2 },
+    { label: "Plutôt pas d'accord", v: -1 },
+    { label: "Neutre", v: 0 },
+    { label: "Plutôt d'accord", v: 1 },
+    { label: "Tout à fait d'accord", v: 2 },
+  ];
+
+  const answer = (v) => {
+    const next = [...answers, v];
+    setAnswers(next);
+    if (step + 1 >= QUESTIONS.length) {
+      setDone(true);
+    } else {
+      setStep(step + 1);
+    }
+  };
+
+  const restart = () => {
+    setStep(0);
+    setAnswers([]);
+    setDone(false);
+  };
+
+  const results = useMemo(() => {
+    if (!done) return [];
+    let x = 0, y = 0;
+    QUESTIONS.forEach((q, i) => {
+      const v = answers[i];
+      x += q.dx * v;
+      y += q.dy * v;
+    });
+    const maxNorm = QUESTIONS.reduce((s, q) => s + Math.sqrt(q.dx * q.dx + q.dy * q.dy) * 2, 0);
+    const scored = PROGRAMMES.map((p) => {
+      const dist = Math.sqrt((p.x - x / 2) ** 2 + (p.y - y / 2) ** 2);
+      return { ...p, dist };
+    });
+    scored.sort((p1, p2) => p1.dist - p2.dist);
+    const maxDist = Math.max(...scored.map((s) => s.dist)) || 1;
+    return scored.slice(0, 5).map((s) => ({ ...s, affinite: Math.round((1 - s.dist / (maxDist * 1.15)) * 100) }));
+  }, [done, answers]);
+
+  return (
+    <div className="px-5 md:px-10 py-10 max-w-3xl mx-auto">
+      <Eyebrow>Testez-vous</Eyebrow>
+      <h2 className="mt-3 uppercase" style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 700, fontSize: "clamp(1.8rem, 4vw, 2.6rem)", color: "var(--ink)" }}>
+        La boussole électorale
+      </h2>
+      <p className="mt-3 text-[0.95rem] leading-relaxed" style={{ fontFamily: "'Source Serif 4', serif", color: "#332f27" }}>
+        {QUESTIONS.length} affirmations, aucune bonne réponse. Un exercice simplifié pour se situer — pas un
+        prédicteur de vote.
+      </p>
+
+      {!done && (
+        <div className="mt-8">
+          <div className="flex items-center justify-between mb-3">
+            <span className="text-[11px] uppercase tracking-wide" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#8a8272" }}>
+              Question {step + 1} / {QUESTIONS.length}
+            </span>
+          </div>
+          <div className="w-full h-1 mb-8" style={{ background: "var(--line)" }}>
+            <div className="h-1" style={{ width: `${(step / QUESTIONS.length) * 100}%`, background: "var(--red)" }} />
+          </div>
+          <p className="text-xl leading-snug mb-8" style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 500, color: "var(--ink)" }}>
+            {QUESTIONS[step].texte}
+          </p>
+          <div className="grid gap-2">
+            {CHOICES.map((c) => (
+              <button
+                key={c.label}
+                onClick={() => answer(c.v)}
+                className="text-left px-4 py-3 text-sm transition-colors"
+                style={{ fontFamily: "'IBM Plex Mono', monospace", border: "1px solid var(--ink)", background: "#fff", color: "var(--ink)" }}
+              >
+                {c.label}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {done && (
+        <div className="mt-8">
+          <h3 className="text-lg mb-4" style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, color: "var(--ink)" }}>
+            Les partis les plus proches de tes réponses
+          </h3>
+          <div className="grid gap-3">
+            {results.map((r, i) => (
+              <div key={r.sigle} className="p-4 flex items-center gap-4" style={{ border: "1px solid var(--line)" }}>
+                <span className="text-2xl font-bold w-8 text-center" style={{ fontFamily: "'Oswald', sans-serif", color: i === 0 ? "var(--red)" : "#8a8272" }}>
+                  {i + 1}
+                </span>
+                <div className="flex-1">
+                  <div className="flex items-center gap-2">
+                    <BlocDot bloc={r.bloc} />
+                    <span style={{ fontFamily: "'Oswald', sans-serif", fontWeight: 600, color: "var(--ink)" }}>{r.nom}</span>
+                  </div>
+                  <div className="w-full h-1.5 mt-2" style={{ background: "var(--line)" }}>
+                    <div className="h-1.5" style={{ width: `${Math.max(5, r.affinite)}%`, background: "var(--red)" }} />
+                  </div>
+                </div>
+                <span className="text-sm shrink-0" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#8a8272" }}>
+                  {Math.max(0, r.affinite)}%
+                </span>
+              </div>
+            ))}
+          </div>
+          <button
+            onClick={restart}
+            className="mt-8 px-5 py-2.5 text-xs uppercase tracking-wide"
+            style={{ fontFamily: "'IBM Plex Mono', monospace", border: "1px solid var(--ink)", color: "var(--ink)", background: "transparent" }}
+          >
+            Refaire le test
+          </button>
+          <p className="mt-6 text-[0.8rem]" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#8a8272" }}>
+            Positionnement simplifié à deux axes, à visée pédagogique — ne remplace pas la lecture des
+            programmes complets. Les pourcentages mesurent une proximité relative, pas une probabilité de vote.
+          </p>
+        </div>
+      )}
+    </div>
+  );
+}
+
 function Edito() {
   return (
     <div className="px-5 md:px-10 py-10 max-w-3xl mx-auto">
@@ -442,7 +806,7 @@ function App() {
               <div className="text-[10px] uppercase tracking-[0.16em]" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "var(--red)" }}>Actualité politique · cap à gauche</div>
             </div>
           </div>
-          <nav className="hidden md:flex items-center gap-1">
+          <nav className="hidden md:flex items-center gap-1 flex-wrap justify-end">
             {NAV.map((n) => (
               <button key={n.id} onClick={() => setTab(n.id)} className="px-3 py-2 text-sm uppercase tracking-wide"
                 style={{ fontFamily: "'IBM Plex Mono', monospace", color: tab === n.id ? "var(--red)" : "var(--ink)", borderBottom: tab === n.id ? "2px solid var(--red)" : "2px solid transparent" }}>
@@ -469,6 +833,8 @@ function App() {
         {tab === "partis" && <Partis />}
         {tab === "candidats" && <Candidats />}
         {tab === "dossiers" && <Dossiers />}
+        {tab === "comparateur" && <Comparateur />}
+        {tab === "boussole" && <Boussole />}
         {tab === "edito" && <Edito />}
       </main>
 
