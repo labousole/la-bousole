@@ -13,7 +13,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from post_social import post_to_bluesky, post_to_mastodon  # noqa: E402
 
-SITE_URL = "https://labousole.github.io/la-bousole/"
+SITE_URL = "https://labousole.github.io/la-boussole/"
 
 HASHTAGS = ["#Politique", "#France2027", "#Gauche", "#Présidentielle2027"]
 
