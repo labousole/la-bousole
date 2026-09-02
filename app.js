@@ -62,26 +62,27 @@ const PARTIS = [
 const CANDIDATS = [
   { nom: "Nathalie Arthaud", parti: "LO", bloc: "eg", statut: "déclarée", note: "Candidate en 2012, 2017 et 2022, repart pour porter la voix ouvriériste." },
   { nom: "Philippe Poutou", parti: "NPA", bloc: "eg", statut: "déclaré", note: "Porte-parole du NPA, candidat pour la quatrième fois." },
-  { nom: "Jean-Luc Mélenchon", parti: "LFI", bloc: "g", statut: "déclaré", note: "En course pour une quatrième présidentielle." },
-  { nom: "Fabien Roussel", parti: "PCF", bloc: "g", statut: "déclaré", note: "Réélu à la tête du PCF en juillet 2026." },
+  { nom: "Jean-Luc Mélenchon", parti: "LFI", bloc: "g", statut: "déclaré", note: "Annoncée le 3 mai 2026, en course pour une quatrième présidentielle après 2012, 2017 et 2022." },
+  { nom: "Fabien Roussel", parti: "PCF", bloc: "g", statut: "pressenti", note: "Les militants communistes ont validé sa candidature à plus de 60 % en juin 2026 ; officialisation attendue le 6 septembre 2026." },
+  { nom: "Philippe Brun", parti: "PS (primaire)", bloc: "g", statut: "déclaré", note: "Député PS, l'un des tout premiers déclarés pour la primaire socialiste des 11 et 18 octobre 2026." },
   { nom: "Ségolène Royal", parti: "PS (primaire)", bloc: "g", statut: "déclarée", note: "Candidate à la primaire socialiste, vingt ans après 2007." },
-  { nom: "Karim Bouamrane", parti: "PS", bloc: "g", statut: "déclaré", note: "Maire socialiste de Saint-Ouen, candidature fédératrice." },
-  { nom: "Bernard Cazeneuve", parti: "La Convention", bloc: "g", statut: "déclaré", note: "Décline la primaire pour porter directement son propre projet." },
-  { nom: "Marine Tondelier", parti: "Les Écologistes", bloc: "eco", statut: "déclarée", note: "Engagée dans la primaire de la gauche unitaire." },
-  { nom: "Gabriel Attal", parti: "Renaissance", bloc: "c", statut: "déclaré", note: "Président du parti présidentiel." },
-  { nom: "Édouard Philippe", parti: "Horizons", bloc: "c", statut: "déclaré", note: "L'un des candidats les plus précoces de cette élection." },
+  { nom: "Karim Bouamrane", parti: "PS", bloc: "g", statut: "déclaré", note: "Maire socialiste de Saint-Ouen, candidature fédératrice annoncée le 9 juin 2026." },
+  { nom: "Bernard Cazeneuve", parti: "La Convention", bloc: "g", statut: "déclaré", note: "Décline la primaire pour porter directement son propre projet, annoncé le 16 juillet 2026." },
+  { nom: "Marine Tondelier", parti: "Les Écologistes", bloc: "eco", statut: "déclarée", note: "Les Écologistes ne participent pas à la primaire socialiste d'octobre 2026." },
+  { nom: "Gabriel Attal", parti: "Renaissance", bloc: "c", statut: "déclaré", note: "Président du parti présidentiel, renvoie l'arbitrage avec Édouard Philippe à début 2027." },
+  { nom: "Édouard Philippe", parti: "Horizons", bloc: "c", statut: "déclaré", note: "Candidat depuis septembre 2025, opposé à toute primaire ; a reçu le ralliement de Gérald Darmanin." },
   { nom: "Bruno Retailleau", parti: "LR", bloc: "d", statut: "déclaré", note: "Peine encore à rassembler toute sa famille politique." },
-  { nom: "David Lisnard", parti: "Nouvelle Énergie", bloc: "d", statut: "déclaré", note: "Appelle à une primaire de toute la droite." },
+  { nom: "Xavier Bertrand", parti: "LR (indépendant)", bloc: "d", statut: "déclaré", note: "Président LR des Hauts-de-France, a confirmé sa candidature le 27 août 2026 aux Rencontres des entrepreneurs de France." },
+  { nom: "David Lisnard", parti: "Nouvelle Énergie", bloc: "d", statut: "déclaré", note: "A quitté LR en avril 2026 après le refus de Bruno Retailleau d'une primaire de toute la droite." },
   { nom: "Nicolas Dupont-Aignan", parti: "DLF", bloc: "d", statut: "déclaré", note: "Prêt à se retirer pour l'union nationaliste." },
-  { nom: "Marine Le Pen", parti: "RN", bloc: "ed", statut: "déclarée", note: "Candidate malgré la peine prononcée en première instance." },
-  { nom: "François Asselineau", parti: "UPR", bloc: "ed", statut: "déclaré", note: "Candidat sans interruption depuis 2012." },
-  { nom: "Raphaël Glucksmann", parti: "Place Publique", bloc: "g", statut: "pressenti", note: "Pas encore officialisé sa candidature." },
+  { nom: "Marine Le Pen", parti: "RN", bloc: "ed", statut: "déclarée", note: "Condamnée en appel dans l'affaire des assistants parlementaires du RN, mais reste éligible à la présidentielle 2027." },
+  { nom: "François Asselineau", parti: "UPR", bloc: "ed", statut: "déclaré", note: "Candidat sans interruption depuis 2012, campagne relancée fin mars 2026." },
+  { nom: "Raphaël Glucksmann", parti: "Place Publique", bloc: "g", statut: "pressenti", note: "Pas encore officialisé sa candidature ; a décliné une primaire de la gauche plus large." },
   { nom: "François Hollande", parti: "PS", bloc: "g", statut: "pressenti", note: "Prépare son retour en coulisses, sans passer par la primaire." },
   { nom: "Olivier Faure", parti: "PS", bloc: "g", statut: "pressenti", note: "En désaccord ouvert avec Boris Vallaud sur la stratégie." },
   { nom: "Boris Vallaud", parti: "PS", bloc: "g", statut: "pressenti", note: "Président du groupe socialiste à l'Assemblée." },
   { nom: "Éric Zemmour", parti: "Reconquête", bloc: "ed", statut: "pressenti", note: "Se présenterait « en principe », sans confirmation officielle." },
   { nom: "Dominique de Villepin", parti: "sans étiquette", bloc: "d", statut: "pressenti", note: "Verrait dans l'actualité internationale une voie de passage." },
-  { nom: "Gérald Darmanin", parti: "sans étiquette", bloc: "d", statut: "pressenti", note: "Avance vers 2027 « d'une manière ou d'une autre »." },
 ];
 
 const DOSSIERS = [
@@ -337,7 +338,7 @@ function useActu() {
 }
 
 function Accueil() {
-  const jours = useDaysUntil("2027-04-11");
+  const jours = useDaysUntil("2027-04-18");
   const { loading, error, articles, generatedAt } = useActu();
   const PAGE_SIZE = 8;
   const [visible, setVisible] = useState(PAGE_SIZE);
@@ -368,7 +369,7 @@ function Accueil() {
                 </span>
               </div>
               <span className="text-xs" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#6b6558" }}>
-                1er tour le 11 avril 2027 · 2nd tour le 25 avril 2027
+                1er tour le 18 avril 2027 · 2nd tour le 2 mai 2027
               </span>
             </div>
           </div>
@@ -530,7 +531,7 @@ function Candidats() {
         ))}
       </div>
       <p className="mt-8 text-[0.82rem]" style={{ fontFamily: "'IBM Plex Mono', monospace", color: "#8a8272" }}>
-        Liste non exhaustive. Chaque candidature définitive devra réunir 500 parrainages d'élus avant le dépôt officiel.
+        Liste non exhaustive. Chaque candidature définitive devra réunir 500 parrainages d'élus, à transmettre au Conseil constitutionnel avant le 12 mars 2027.
       </p>
     </div>
   );
@@ -792,7 +793,7 @@ function App() {
         <div className="inline-block" style={{ animation: "ticker 32s linear infinite", fontFamily: "'IBM Plex Mono', monospace" }}>
           <span className="text-[11px] tracking-wide" style={{ color: "var(--paper)" }}>
             &nbsp;&nbsp;PRIMAIRE DE LA GAUCHE UNITAIRE LE 11 OCTOBRE 2026 &nbsp;·&nbsp; 500 PARRAINAGES REQUIS POUR CHAQUE CANDIDATURE &nbsp;·&nbsp;
-            1<sup>ER</sup> TOUR DE LA PRÉSIDENTIELLE LE 11 AVRIL 2027 &nbsp;·&nbsp; SUIVEZ LA CAMPAGNE SUR LA BOUSSOLE &nbsp;·&nbsp;
+            1<sup>ER</sup> TOUR DE LA PRÉSIDENTIELLE LE 18 AVRIL 2027 &nbsp;·&nbsp; SUIVEZ LA CAMPAGNE SUR LA BOUSSOLE &nbsp;·&nbsp;
           </span>
         </div>
       </div>
