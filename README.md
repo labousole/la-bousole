@@ -6,7 +6,7 @@
 
 La Boussole est un site d'actualité politique qui assume une ligne éditoriale de gauche, tout en s'engageant à couvrir l'ensemble du paysage politique français — partis, candidats, actualité — sans exclure personne pour des raisons idéologiques.
 
-Ce n'est pas un média professionnel : c'est un projet personnel, pensé et développé par [Dylan Rock](https://github.com/) comme un espace de veille et de vérification autour de l'élection présidentielle de 2027.
+Ce n'est pas un média professionnel : c'est un projet personnel, pensé et développé comme un espace de veille et de vérification autour de l'élection présidentielle de 2027.
 
 ## Pourquoi ce site existe
 
