@@ -42,8 +42,6 @@ Le site est un projet 100 % statique (pas de serveur), avec :
 - un pipeline GitHub Actions qui va chercher l'actualité en RSS et republie automatiquement toutes les 6 heures ;
 - des posts automatiques sur Bluesky et Mastodon à chaque article inédit.
 
-Les détails techniques (déploiement, domaine personnalisé, configuration RSS, secrets) sont dans [`README.md`](./README.md).
-
 ## Contact
 
 Ce projet n'a pas vocation à remplacer un média professionnel ni à se substituer à la lecture des programmes complets des candidats. Pour toute remarque, erreur signalée ou suggestion de dossier, [ouvrir une issue](../../issues) sur ce dépôt.
