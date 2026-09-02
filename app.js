@@ -90,7 +90,7 @@ const DOSSIERS = [
     titre: "L'hôpital français est-il vraiment en train de s'effondrer ?",
     dek: "Fermetures de lits, urgences saturées, déserts médicaux, dépenses de santé : ce dossier confronte les deux discours qui s'affrontent aux données DREES et OCDE, entre le récit de l'effondrement total et celui du déni complet.",
     date: "Dossier de vérification",
-    lien: "dossiers/hopital-sante.html",
+    lien: "dossiers/lhopital_français.html",
   },
   {
     titre: "Le travail paie-t-il encore en France ?",
