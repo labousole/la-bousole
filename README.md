@@ -1,89 +1,49 @@
-# La Boussole — site statique + actu auto-mise à jour
+# La Boussole
 
-Site 100% statique (pas de build, pas de serveur Node à faire tourner) :
-- `index.html` + `app.js` : le site, React chargé en CDN, JSX transformé au vol par Babel dans le navigateur.
-- `data/actu.json` : les articles affichés sur la page d'accueil, lus par `app.js` via `fetch()`.
-- `scripts/fetch_actu.py` : récupère des flux RSS de presse française et régénère `data/actu.json`.
-- `.github/workflows/update-actu.yml` : exécute ce script toutes les 6h sur les serveurs de GitHub et commit le résultat.
+**Actualité politique française, cap à gauche — vers la présidentielle 2027.**
 
-Le principe : **le contenu se met à jour dans le dépôt Git lui-même**, pas besoin de rebuild ni de
-webhook de déploiement — le navigateur va chercher `data/actu.json` à chaque visite, donc dès que le
-fichier est mis à jour dans le repo, les visiteurs voient la nouvelle version.
+## Le projet, en une phrase
 
-## 1. Déploiement (5 minutes)
+La Boussole est un site d'actualité politique qui assume une ligne éditoriale de gauche, tout en s'engageant à couvrir l'ensemble du paysage politique français — partis, candidats, actualité — sans exclure personne pour des raisons idéologiques.
 
-### Option A — GitHub Pages (le plus simple, gratuit)
-```bash
-cd la-boussole-auto
-git init
-git add .
-git commit -m "init"
-git branch -M main
-git remote add origin git@github.com:<ton-user>/la-boussole.git
-git push -u origin main
-```
-Puis sur GitHub : **Settings → Pages → Source: Deploy from a branch → branch `main`, dossier `/ (root)`**.
-Le site sera en ligne sur `https://<ton-user>.github.io/la-boussole/` en 1-2 minutes.
+Ce n'est pas un média professionnel : c'est un projet personnel, pensé et développé par [Dylan Rock](https://github.com/) comme un espace de veille et de vérification autour de l'élection présidentielle de 2027.
 
-### Option B — Netlify / Vercel
-Glisse le dossier tel quel (pas de build command à configurer, `index.html` est déjà à la racine).
-Fonctionne aussi bien, avec un domaine plus propre et un déploiement instantané à chaque push.
+## Pourquoi ce site existe
 
-## 2. Activer l'automatisation
+Trois constats de départ :
 
-Le workflow `.github/workflows/update-actu.yml` est déjà dans le repo. Dès que tu pousses sur GitHub :
-- Il tourne automatiquement toutes les 6h (`cron: "0 */6 * * *"`)
-- Tu peux aussi le lancer à la main : onglet **Actions → Mise à jour de l'actu politique → Run workflow**
-- Il n'a besoin d'aucun secret : `permissions: contents: write` suffit pour qu'il commit sur le repo
+1. **La plupart des médias prétendent à une neutralité qu'ils n'ont pas vraiment.** La Boussole fait le choix inverse : elle dit d'où elle parle, plutôt que de déguiser un point de vue en objectivité de façade.
+2. **Assumer une ligne ne dispense pas d'un devoir d'exhaustivité.** Le site présente tous les partis et tous les candidats, y compris ceux que la rédaction combat politiquement — avec les mêmes faits, datés et vérifiables pour tout le monde.
+3. **Le débat public manque de vérification posée.** D'où les *dossiers* : des formats longs qui confrontent les affirmations les plus répétées (immigration, salaires, hôpital public...) aux données officielles (Insee, DREES, OCDE), sans céder ni au déni ni à la caricature.
 
-Vérifie après le premier run que `data/actu.json` a bien été mis à jour (commit auto signé
-`la-boussole-bot`).
+## Ce qu'on trouve sur le site
 
-### ⚠️ Piège classique de GitHub Actions
-GitHub **désactive automatiquement les workflows programmés (`schedule`)** si le dépôt reste inactif
-pendant 60 jours (aucun commit humain). Si tu vois que l'actu ne bouge plus après deux mois de silence,
-va dans l'onglet Actions et réactive le workflow (bouton "Enable workflow"), ou fais un commit
-quelconque de temps en temps.
+| Page | Ce que ça fait |
+|---|---|
+| **Accueil** | Fil d'actualité politique, mis à jour automatiquement plusieurs fois par jour via des flux RSS (Le Monde, franceinfo, Libération, L'Humanité, Mediapart, Politis, Le Figaro, Les Échos, Sénat...), avec un angle éditorial affiché en italique sur certains articles |
+| **Partis** | Panorama de ~20 partis français, de l'extrême gauche à l'extrême droite, classés par bloc, avec une description factuelle et parfois un avis de la rédaction |
+| **Candidats 2027** | Liste des candidats déclarés et pressentis à la présidentielle, mise à jour au fil de l'actualité |
+| **Dossiers** | Formats longs de vérification factuelle sur des sujets clivants (immigration, pouvoir d'achat, hôpital public...), confrontant les discours de droite et de gauche aux données officielles |
+| **Comparateur** | Outil pour comparer deux partis côte à côte sur 6 thèmes (retraites, fiscalité, climat, immigration, Europe, travail) |
+| **Testez-vous** | Boussole électorale : 8 questions pour se situer sur un plan politique simplifié et voir quels partis s'en rapprochent — un exercice pédagogique, pas un prédicteur de vote |
+| **Édito** | Le texte qui explique et assume la ligne éditoriale du site |
 
-## 3. Ajuster les sources RSS
+## Ce que ce n'est pas
 
-Tout se passe dans `scripts/fetch_actu.py`, variable `FEEDS` en haut du fichier :
-```python
-FEEDS = [
-    ("Le Monde – Politique", "https://www.lemonde.fr/politique/rss_full.xml", "Politique", "#C81E3A"),
-    ...
-]
-```
-Ajoute/retire des flux librement (n'importe quel flux RSS public convient : Mediapart, L'Obs,
-Basta!, Alternatives économiques, un flux Twitter/X converti en RSS via un proxy, etc.). La variable
-`KEYWORDS` filtre les articles pour ne garder que ceux vraiment liés à la politique.
+- **Pas un média professionnel** : pas de rédaction, pas de vérification par des journalistes accrédités — c'est un projet personnel qui s'appuie sur des sources primaires (Insee, DREES, OCDE, presse) et les cite.
+- **Pas neutre** : le site le dit lui-même, dans son édito et son bandeau. Les avis affichés en italique rouge sont clairement séparés des faits.
+- **Pas exhaustif à 100 %** : les programmes 2027 ne sont pas tous publiés à ce stade de la campagne ; les synthèses du Comparateur et de la Boussole électorale sont des approximations pédagogiques, pas des citations officielles.
+- **Pas affilié** à un parti, un candidat, ou un média existant.
 
-Le champ `"avis"` (l'angle éditorial en italique rouge) n'est **jamais généré automatiquement** — il
-reste `null` par défaut. C'est volontaire : le parti pris éditorial doit rester écrit à la main pour
-ne pas déraper. Tu peux éditer `data/actu.json` directement pour ajouter un avis sur un article
-donné ; le prochain run du script écrasera le fichier, donc si tu veux qu'un avis survive, il faut
-soit le committer juste après un run, soit l'ajouter comme un champ dérivé dans le script lui-même
-(ex: dictionnaire de mots-clés → phrase toute faite).
+## Sous le capot (pour aller plus loin)
 
-## 4. Tester en local
+Le site est un projet 100 % statique (pas de serveur), avec :
+- une page React chargée en CDN (pas de build) ;
+- un pipeline GitHub Actions qui va chercher l'actualité en RSS et republie automatiquement toutes les 6 heures ;
+- des posts automatiques sur Bluesky et Mastodon à chaque article inédit.
 
-```bash
-pip install -r scripts/requirements.txt
-python scripts/fetch_actu.py     # régénère data/actu.json
-python -m http.server 8000       # sert le site en local
-# → http://localhost:8000
-```
+Les détails techniques (déploiement, domaine personnalisé, configuration RSS, secrets) sont dans [`README.md`](./README.md).
 
-## 5. Aller plus loin
+## Contact
 
-- **Partis et candidats** restent gérés à la main dans `app.js` (données peu volatiles, à faible
-  fréquence de changement — une candidature qui se déclare, ça se met à jour en 30 secondes dans le
-  fichier). Si tu veux les automatiser aussi, le principe est le même : un script qui scrape une page
-  Wikipédia stable (ex. "Liste des candidats à l'élection présidentielle française de 2027") et
-  regénère un `data/candidats.json`.
-- **Fréquence du cron** : `0 */6 * * *` = toutes les 6h. Pour plus réactif, `0 * * * *` (toutes les
-  heures) — GitHub tolère mal les crons plus fréquents que 5 min de toute façon, et plus tu es
-  fréquent, plus tu consommes de minutes Actions (2000 min/mois gratuites sur un repo public/privé
-  perso, largement suffisant ici).
-- **Alerte si le script échoue silencieusement** : ajoute une étape qui poste sur un webhook Slack/
-  Discord en cas d'échec (`if: failure()` dans le workflow).
+Ce projet n'a pas vocation à remplacer un média professionnel ni à se substituer à la lecture des programmes complets des candidats. Pour toute remarque, erreur signalée ou suggestion de dossier, [ouvrir une issue](../../issues) sur ce dépôt.
