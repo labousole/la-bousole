@@ -1,6 +1,204 @@
 {
-  "generated_at": "2026-09-02T10:06:59+00:00",
+  "generated_at": "2026-09-02T15:11:26+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T15:45:31+00:00",
+      "titre": "Fuites de données : tous vulnérables mais pas tous égaux",
+      "dek": "Après une série de piratages massifs, administrations et entreprises appellent leurs usagers à la vigilance. Mais comprendre le risque, déjouer une arnaque, surveiller ses comptes ou faire valoir ses droits exige des ressources inéquitablement réparties.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=503198"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T14:46:34+00:00",
+      "titre": "Les deux journalistes français détenus au Togo depuis fin juillet sont en liberté provisoire",
+      "dek": "Les deux réalisateurs français et leur collaborateur local, arrêtés dans le nord du Togo fin juillet et poursuivis pour fausses déclarations, sont désormais en liberté provisoire, «un soulagement» pour l’ONG Reporters sans frontières.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/020926/les-deux-journalistes-francais-detenus-au-togo-depuis-fin-juillet-sont-en-liberte-provisoire"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T14:07:34+00:00",
+      "titre": "Licenciée manu militari par un couple d’ambassadeurs, Saadia El Lahyani se retrouve sans papiers en France",
+      "dek": "Septuagénaire, Saadia El Lahyani était employée de service chez des diplomates à Paris, après avoir été débauchée au Maroc. Elle dit avoir été exploitée puis mise à la rue du jour au lendemain, en présence de policiers. Ses documents d’identité lui ont été retirés.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/020926/licenciee-manu-militari-par-un-couple-d-ambassadeurs-saadia-el-lahyani-se-retrouve-sans-papiers-en-france"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T14:00:08+00:00",
+      "titre": "Présidentielle 2027 : Bruno Retailleau, une approche très libérale du dérèglement climatique",
+      "dek": "« Les candidats et le climat ». Le président du parti Les Républicains dénonce des « normes paralysantes » qui empêchent l’adaptation au changement climatique. Il met en avant le nucléaire, la géothermie et les mégabassines, malgré leurs limites.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/02/presidentielle-2027-bruno-retailleau-defend-des-solutions-issues-du-progres-technologique-pour-lutter-contre-le-dereglement-climatique_6764452_4355770.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T13:49:00+00:00",
+      "titre": "Quand le Premier ministre Edouard Balladur s’immisçait dans les Affaires étrangères",
+      "dek": "De la renégociation des accords Blair House à l’épineux dossier du génocide au Rwanda, l’ex-Premier ministre, mort le 31 août, a joué un rôle prépondérant dans le domaine réservé du président de la République, rappelle l’historien Pierre-Emmanuel Guigo.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/tribunes/quand-le-premier-ministre-edouard-balladur-simmiscait-dans-les-affaires-etrangeres-20260902_3SQPBSXLMBBNJKVLPO5UC22GS4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T13:36:30+00:00",
+      "titre": "A Hayange, la mairie RN supprime des bus scolaires laissant des enfants «littéralement sur le bord de la route»",
+      "dek": "Depuis la rentrée mardi 1er septembre, des dizaines d’élèves subissent la décision du maire Fabien Engelmann de supprimer les navettes vers trois écoles primaires. L’élu d’extrême droite avance des raisons financières et de répartition des compétences.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/societe/education/a-hayange-la-mairie-rn-supprime-des-bus-scolaires-laissant-des-enfants-litteralement-sur-bord-de-la-route-20260902_N4WTFSMMDRB3RAXA3UGW36HK74/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T13:13:52+00:00",
+      "titre": "Présidentielle 2027 : Eric Zemmour déborde Sarah Knafo et prépare son entrée en campagne",
+      "dek": "Le patron de Reconquête, présent mardi pour le lancement du livre de sa compagne, a promis à la presse une accélération politique. En attendant, il se délecte des frictions au sein du Rassemblement national, dont il espère profiter.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-eric-zemmour-deborde-sarah-knafo-et-prepare-son-entree-en-campagne-20260902_2XCXAW64LZDV5CXIVEJZ65GIAE/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T13:00:09+00:00",
+      "titre": "« La trajectoire d’Edouard Balladur offre un certain nombre de leçons aux prétendants d’aujourd’hui »",
+      "dek": "La disparition de l’ancien premier ministre de cohabitation de François Mitterand, défait par Jacques Chirac en 1995, est riche d’enseignements à l’aube d’une nouvelle campagne présidentielle, estime dans sa chronique Solenn de Royer, journaliste au « Monde ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/02/la-trajectoire-d-edouard-balladur-offre-un-certain-nombre-de-lecons-aux-pretendants-d-aujourd-hui_6764384_823448.html"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T12:55:52+00:00",
+      "titre": "«TVA sociale», retraites... Dans son nouveau livre, Hollande bouscule le PS et avance vers 2027",
+      "dek": "Dans son nouvel ouvrage Unir. Nouveau monde, nouvelle gauche (Ed. Robert Laffont), qui paraîtra ce jeudi, l’ancien président détaille une série de propositions, pas toujours alignées sur les dogmes socialistes, et continue de se placer en recours présidentiel.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/tva-sociale-retraites-dans-son-nouveau-livre-hollande-bouscule-le-ps-et-avance-vers-2027-20260902"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T12:40:54+00:00",
+      "titre": "Emmanuel Macron se rend à Londres pour visiter l’exposition de la tapisserie de Bayeux en compagnie du roi Charles III",
+      "dek": "Le premier ministre britannique, Andy Burnham, sera également présent au British Museum mercredi, avant une rencontre bilatérale avec le président de la République à Downing Street, jeudi.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/02/emmanuel-macron-se-rend-a-londres-pour-visiter-l-exposition-de-la-tapisserie-de-bayeux-en-compagnie-du-roi-charles-iii_6764382_3210.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T12:38:56+00:00",
+      "titre": "Avec sa vidéo générée par IA, le ministre israélien d’extrême droite Itamar Ben Gvir se vautre dans l’immonde",
+      "dek": "C’est une abjection. En se vantant des conditions de détention de plus en plus dégradées des prisonniers palestiniens, le ministre israélien de la Sécurité nationale, Itamar Ben Gvir a publié une vidéo les mettant en scène en file indienne sur un tapis roulant. Joviaux et en bonn…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/etat-palestinien/avec-sa-video-generee-par-ia-le-ministre-israelien-dextreme-droite-itamar-ben-gvir-se-vautre-dans-limmonde"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T12:32:15+00:00",
+      "titre": "Budget 2027 : Marine Tondelier ne voit «aucune raison de penser qu’un seul Écologiste votera»",
+      "dek": "A gauche, le Parti socialiste a adopté une position similaire alors que les Insoumis ont déjà affirmé qu’ils censureraient le  2027.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/budget-2027-marine-tondelier-ne-voit-aucune-raison-de-penser-quun-seul-ecologiste-votera-20260902_ABGAJYHSKVBNZMGMZOWOKZLVLM/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T12:10:21+00:00",
+      "titre": "Après la suppression des navettes scolaires par le maire RN d'Hayange, la Ville tente de trouver des solutions pour les enfants",
+      "dek": "Le maire Fabien Engelmann confirme mercredi à ICI Lorraine le recrutement d'un \"policier retraité\" qui accompagnera \"à partir de lundi\" les élèves, après avoir annoncé la suppression du service de ramassage scolaire",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/france/rentree/apres-la-suppression-des-navettes-scolaires-par-le-maire-rn-d-hayange-la-ville-tente-de-trouver-des-solutions-pour-les-enfants_8173784.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T12:00:15+00:00",
+      "titre": "Régions : « Une économie robuste repose moins sur quelques usines emblématiques que sur la densité et la diversité de son tissu productif »",
+      "dek": "L’interdépendance des régions est un atout pour renforcer la souveraineté économique de la France, expliquent, dans une tribune au « Monde », Arnaud Florentin et Elisabeth Laville, du cabinet d’études et de conseil Utopies.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/02/regions-une-economie-robuste-repose-moins-sur-quelques-usines-emblematiques-que-sur-la-densite-et-la-diversite-de-son-tissu-productif_6764372_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T11:49:33+00:00",
+      "titre": "Patrick Bruel, présidentielle, RN... Le \"8h30 franceinfo\" de Marine Tondelier",
+      "dek": "Marine Tondelier, secrétaire nationale Les Écologistes, candidate à l'élection présidentielle, est l'invitée du \"8h30 franceinfo\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-marine-tondelier_8144867.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T11:01:13+00:00",
+      "titre": "Présidentielle 2027 : François Hollande cherche le juste ton, entre l’ex un peu lourd et la valeur refuge",
+      "dek": "Alors que l’ancien président et prétendant à l’Elysée sort un livre jeudi 3 septembre, il n’est pas facile de le suivre dans sa démarche qui entend réhabiliter son bilan, esquiver la primaire sociale-démocrate et poursuivre la politique de l’offre.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-francois-hollande-cherche-le-juste-ton-entre-lex-un-peu-lourd-et-la-valeur-refuge-20260902_R7ZVFOW64ZEPXFUHNVQKHSHZVU/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T10:16:24+00:00",
+      "titre": "«Mediapart» a répondu à vos questions sur sa ligne éditoriale et son actualité",
+      "dek": "Les directrices éditoriales du journal, Lénaïg Bredoux et Valentine Oberti, ont répondu à vos questions sur le traitement de l’actualité et sur la vie de la rédaction, mercredi 2 septembre, dans le cadre d’un chat.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/culture-et-idees/020926/mediapart-repondu-vos-questions-sur-sa-ligne-editoriale-et-son-actualite"
+    },
+    {
+      "tag": "Droite",
+      "color": "#3A5A8C",
+      "source": "Le Figaro – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T10:00:00+00:00",
+      "titre": "Édouard Balladur, une rigueur qui nous manque tant aujourd’hui",
+      "dek": "DISPARITION - L’ancien premier ministre incarnait une certaine conception de la droite française : sérieuse, intelligente, pondérée, et toujours à la recherche de l’intérêt général. L’académicien Jean-Marie Rouart l’a bien connu.",
+      "avis": null,
+      "lien": "https://www.lefigaro.fr/politique/edouard-balladur-une-rigueur-qui-nous-manque-tant-aujourd-hui-20260902"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -11,17 +209,6 @@
       "dek": "Le chanteur Patrick Bruel, mis en examen pour violences sexuelles, annonce l'annulation de sa tournée prévue à l'automne. \nInvitée d'Agathe Lambret et Simon Le Baron, la secrétaire nationale des Ecologistes, Marine Tondelier, a expliqué ne plus pouvoir écouter ses chansons.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/culture/musique/patrick-bruel/patrick-bruel-je-l-ai-enormement-ecoute-mais-je-n-y-arrive-plus_8173613.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T09:40:53+00:00",
-      "titre": "Après la suppression des navettes scolaires par le maire RN d'Hayange en Moselle, l'Union des familles laïques saisit le préfet",
-      "dek": "Le maire avait invoqué un chevauchement des compétences avec l’intercommunalité et l’augmentation du coût du service. \"Un défaut manifeste d’anticipation\", dénonce l'Ufal, mercredi dans un communiqué.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/france/rentree/apres-la-suppression-des-navettes-scolaires-par-le-maire-rn-d-hayange-en-moselle-l-union-des-familles-laiques-saisit-le-prefet_8173571.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
       "tag": "Politique",
@@ -68,6 +255,17 @@
       "lien": "https://www.franceinfo.fr/elections/presidentielle/personne-ne-gagnera-seul-la-presidentielle-2027-martele-marine-tondelier-qui-prevoit-de-rencontrer-tout-le-monde-a-gauche-dans-les-semaines-a-venir_8173526.html#xtor=RSS-3-%5Bgeneral%5D"
     },
     {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T09:19:21+00:00",
+      "titre": "Le maire de Bonneuil-sur-Marne, Denis Öztorun, porte plainte après des injures racistes",
+      "dek": "L’édile PCF de Bonneuil-sur-Marne dénonce les injures racistes dont il fait l’objet. Il a annoncé un dépôt de plainte ce 2&nbsp;septembre et un rassemblement dimanche 6&nbsp;septembre.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/bonneuil-sur-marne/le-maire-de-bonneuil-sur-marne-denis-oztorun-porte-plainte-apres-des-injures-racistes"
+    },
+    {
       "tag": "Politique",
       "color": "#C81E3A",
       "source": "Libération – Politique",
@@ -85,7 +283,7 @@
       "date": "02 Sep 2026",
       "date_iso": "2026-09-02T09:00:47+00:00",
       "titre": "\"Il n'y aura qu'une seule candidature de la gauche sociale-démocrate\" à la présidentielle 2027, assure François Hollande",
-      "dek": "François Hollande publie jeudi un livre. \"Je porte un projet\", affirme l'ancien président, mercredi sur France Inter, tout en répétant qu'il n'était \"pas candidat aujourd'hui\".",
+      "dek": "A la veille de la publication de son livre, François Hollande affirme qu'il \"porte un projet\", mercredi sur France Inter, tout en répétant qu'il n'était \"pas candidat aujourd'hui\".",
       "avis": null,
       "lien": "https://www.franceinfo.fr/elections/presidentielle/il-n-y-aura-qu-une-seule-candidature-de-la-gauche-social-democrate-a-la-presidentielle-2027-assure-francois-hollande_8173478.html#xtor=RSS-3-%5Bgeneral%5D"
     },
@@ -121,17 +319,6 @@
       "dek": "Si l'interdiction du port du voile est dans l'ADN du programme de Marine Le Pen, il reste un élément de divergence au sein du parti.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/politique/front-national/apres-des-mois-de-normalisation-marine-le-pen-reactive-un-marqueur-pourquoi-le-rn-replace-la-question-du-voile-dans-le-debat-presidentiel_8172068.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T08:38:45+00:00",
-      "titre": "«TVA sociale», retraites... Dans son nouveau livre, Hollande bouscule le PS et avance vers 2027",
-      "dek": "Dans son nouvel ouvrage Unir. Nouveau monde, nouvelle gauche (Ed. Robert Laffont), qui paraîtra ce jeudi, l’ancien président détaille une série de propositions, pas toujours alignées sur les dogmes socialistes, et continue de se placer en recours présidentiel.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/tva-sociale-retraites-dans-son-nouveau-livre-hollande-bouscule-le-ps-et-avance-vers-2027-20260902"
     },
     {
       "tag": "Politique",
@@ -363,193 +550,6 @@
       "dek": "En trois jours, le président du RN a minimisé la portée de deux mesures symboliques du programme de Marine Le Pen, et contredit la candidate sur le récit du départ de son conseiller, François Durvye.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/02/voile-retraites-le-malaise-perceptible-de-jordan-bardella-vis-a-vis-du-programme-presidentiel-de-marine-le-pen_6763870_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T04:00:04+00:00",
-      "titre": "INFO FRANCEINFO. Jean-Luc Mélenchon n'a recueilli pour l'instant qu'un peu plus de 200 promesses de parrainages en vue de la présidentielle, loin des 500 nécessaires",
-      "dek": "\"On a commencé en juin, si on attend que les parrainages arrivent tout seuls on va se faire peur\", estime une source interne au sein de LFI.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/melenchon/info-franceinfo-jean-luc-melenchon-n-a-recueilli-pour-l-instant-qu-un-peu-plus-de-200-promesses-de-parrainages-en-vue-de-la-presidentielle-loin-des-500-necessaires_8172731.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T03:56:28+00:00",
-      "titre": "VRAI OU FAUX. Marine Tondelier a-t-elle raison de dire qu'une loi sur la transmission d'entreprises familiales est \"détournée\" pour \"servir d'optimisation fiscale\" ?",
-      "dek": "Lors du tout premier débat de la campagne présidentielle organisé par le Medef, la candidate écologiste a ciblé le pacte Dutreil, un dispositif qui permet d'alléger fortement l'impôt sur la transmission des entreprises familiales.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-marine-tondelier-a-t-elle-raison-de-dire-qu-une-loi-sur-la-transmission-d-entreprises-familiales-est-detournee-pour-servir-d-optimisation-fiscale_8166221.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T21:34:26+00:00",
-      "titre": "\"Pour moi, l'école, ce n'est pas un sujet de campagne présidentielle. C'est juste le cœur de mon engagement en politique\", déclare Gabriel Attal, candidat de Renaissance à la présidentielle",
-      "dek": "Gabriel Attal, candidat de Renaissance à l'élection présidentielle, était l'invité du journal de 20 Heures, mardi 1er septembre sur France 2.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/gabriel-attal/pour-moi-l-ecole-ce-n-est-pas-un-sujet-de-campagne-presidentielle-c-est-juste-le-c-ur-de-mon-engagement-en-politique-declare-gabriel-attal-candidat-de-renaissance-a-la-presidentielle_8172782.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T21:28:02+00:00",
-      "titre": "«Je propose une véritable révolution culturelle pour l’école» : Bruno Retailleau dévoile son projet de rupture",
-      "dek": "Lundi soir à Boulogne, le président des Républicains a présenté les résultats d’une réflexion conduite avec un groupe de travail piloté par le sénateur Max Brisson. Il prône un changement de « philosophie », après des années de dérives « pédagogistes ».",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/je-propose-une-veritable-revolution-culturelle-pour-l-ecole-bruno-retailleau-devoile-un-projet-de-rupture-et-sa-vision-d-une-ecole-libre-20260831"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T21:11:13+00:00",
-      "titre": "Présidentielle 2027 : Édouard Philippe et Gabriel Attal, les héritiers du président ?",
-      "dek": "Gabriel Attal et Édouard Philippe ont tous deux occupé la fonction de Premier ministre d’Emmanuel Macron. Une expérience qui peut être un atout, mais aussi un poids dans la campagne présidentielle. Comment défendre l'héritage d'un président qui est aujourd'hui contesté sans appar…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/presidentielle-2027-edouard-philippe-et-gabriel-attal-les-heritiers-du-president_8172767.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T20:44:36+00:00",
-      "titre": "La \"loi intégrale\" contre les violences sexuelles consécutive à l'affaire Lyhanna sera examinée début octobre à l'Assemblée, confirme Sébastien Lecornu",
-      "dek": "La proposition de loi déposée le 11 août comprend 69 articles, dont l'examen par une commission spéciale débutera le 7 septembre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/la-loi-integrale-contre-les-violences-sexuelles-consecutive-a-l-affaire-lyhanna-sera-examinee-debut-octobre-a-l-assemblee-confirme-sebastien-lecornu_8172752.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T19:47:57+00:00",
-      "titre": "Interdiction du voile : Gabriel Attal \"en désaccord avec la proposition du RN\"",
-      "dek": "Interrogé sur la proposition de Marine Le Pen d'interdire le voile dans l'espace public, le candidat Renaissance Gabriel Attal affirme avoir un \"désaccord de choix de société\" avec le Rassemblement national.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/interdiction-du-voile-gabriel-attal-en-desaccord-avec-la-proposition-du-rn_8172710.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T19:22:17+00:00",
-      "titre": "Présidentielle 2027 : \"Il faut une réforme constitutionnelle profonde, pour mieux partager le pouvoir\", défend Gabriel Attal au \"20 Heures\" de France 2",
-      "dek": "\"On est dans un temps ou chacun doit présenter sa vision\", a fait valoir le candidat Renaissance à la présidentielle invité, mardi, du nouveau rendez-vous politique du \"20 Heures\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-il-faut-une-reforme-constitutionnelle-profonde-pour-mieux-partager-le-pouvoir-defend-gabriel-attal-au-20-heures-de-france-2_8172656.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T19:00:02+00:00",
-      "titre": "Clémence Guetté (LFI) plaide pour accorder des droits à l'amitié",
-      "dek": "🫂🇫🇷 \"Pacs\" amical, congé en cas de deuil, habitat collectif... La députée LFI Clémence Guetté plaide pour accorder des droits à l'amitié dans une société où, selon elle, \"tout est pensé pour le couple et la famille\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/societe/clemence-guette-lfi-plaide-pour-accorder-des-droits-a-l-amitie_8172407.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T18:48:24+00:00",
-      "titre": "Mis en examen pour violences sexuelles, Patrick Bruel annule sa tournée d’automne",
-      "dek": "Visé par une trentaine de témoignages dans la presse et mis en examen dans quatre dossiers, Patrick Bruel annonce renoncer à une tournée de trente-cinq concerts. Une décision qui «ne signifie en aucun cas» qu’il «renonce à [se] défendre», indique le chanteur.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/010926/mis-en-examen-pour-violences-sexuelles-patrick-bruel-annule-sa-tournee-d-automne"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T18:41:08+00:00",
-      "titre": "François Ruffin-Dominique de Villepin : un débat d’inclassables",
-      "dek": "«Libération» organise ce mercredi une rencontre inédite entre le député de gauche, candidat à la présidentielle, et l’ex-Premier ministre de droite qu’une entrée en lice démange. Itinéraires de deux électrons libres.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/idees-et-debats/editorial/francois-ruffin-dominique-de-villepin-un-debat-dinclassables-20260901_4LMB37GHWFCXXOD4QP2D6WRL4I/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T18:32:08+00:00",
-      "titre": "Guillaume Tabard : «Édouard Balladur, des leçons à retenir pour la droite»",
-      "dek": "CONTRE-POINT - L’ancien premier ministre incarnait finalement la synthèse idéologique d’une droite utile au pays.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/guillaume-tabard-edouard-balladur-des-lecons-a-retenir-pour-la-droite-20260901"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T18:10:20+00:00",
-      "titre": "François Ruffin, le pari sans les partis pour la présidentielle",
-      "dek": "Malgré une certaine popularité et des idées qui alimentent régulièrement le débat public, l’ex-insoumis peine à exister dans une campagne dominée par deux gauches irréconciliables, où les appareils partisans ont repris la main.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/francois-ruffin-le-pari-sans-les-partis-pour-la-presidentielle-20260901_5IXMS2EBNRG7XBA55TEQZLFXCI/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T18:04:05+00:00",
-      "titre": "Rentrée scolaire : pour Attal et Philippe, des hausses de salaire pour les enseignants à double tranchant",
-      "dek": "A l’instar des autres prétendants à l’Elysée en 2027, les deux candidats héritiers du macronisme rivalisent de promesses de revalorisations, à rebours de leur action quand ils étaient Premiers ministres.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/rentree-scolaire-pour-attal-et-philippe-des-hausses-de-salaire-pour-les-enseignants-a-double-tranchant-20260901_BXQNKFR7KNF2RN2RBBZXBP4RHM/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T18:03:33+00:00",
-      "titre": "Dominique de Villepin à la présidentielle : ira ou n’ira pas ?",
-      "dek": "Lancé dans une campagne qui ne dit pas son nom, l’ancien Premier ministre chiraquien ne compte pas officialiser sa candidature avant la Toussaint et parie sur l’effondrement des autres prétendants à l’Elysée pour rallier des soutiens de tous horizons. A l’invitation de «Libératio…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/dominique-de-villepin-a-la-presidentielle-ira-ou-nira-pas-20260901_4VTTXGWTLFDBHHV4SJ4UBN7XMY/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T17:43:00+00:00",
-      "titre": "Pénalisation du voile par le RN : une proposition contraire à la Constitution",
-      "dek": "Selon des spécialistes du droit, la mesure, remise sur la table lundi 31 août par Marine Le Pen, est contraire à la loi fondamentale française. Et contourner son inconstitutionnalité serait complexe et tortueux.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/societe/police-justice/penalisation-du-voile-par-le-rn-une-proposition-contraire-a-la-constitution-20260901_METNYUQCYBHVBA3LOBQYAP73TQ/"
-    },
-    {
-      "tag": "Droite",
-      "color": "#3A5A8C",
-      "source": "Le Figaro – Politique",
-      "date": "01 Sep 2026",
-      "date_iso": "2026-09-01T17:40:00+00:00",
-      "titre": "« Populisme », « police du vêtement », « désaccord radical » : la classe politique s’insurge contre la sanction du RN sur le port du voile",
-      "dek": "DÉCRYPTAGE - Dimanche, le député Jean-Philippe Tanguy a remis sur la table une vieille marotte nationaliste : l’interdiction du port du voile dans l’espace public, assortie d’une amende. Une initiative critiquée par la plupart des candidats à la présidentielle.",
-      "avis": null,
-      "lien": "https://www.lefigaro.fr/politique/populisme-police-du-vetement-desaccord-radical-la-classe-politique-s-insurge-contre-la-sanction-du-rn-sur-le-port-du-voile-20260901"
     }
   ]
 }
