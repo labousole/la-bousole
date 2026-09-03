@@ -1,6 +1,182 @@
 {
-  "generated_at": "2026-09-03T10:06:32+00:00",
+  "generated_at": "2026-09-03T15:05:45+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T15:00:03+00:00",
+      "titre": "« “Foutre au feu” la dette, une image puissante qui s’inscrit dans une longue histoire politique »",
+      "dek": "En proposant de « brûler » les créances détenues par la Banque centrale européenne, Jean-Luc Mélenchon a réveillé un vieux mythe révolutionnaire qui n’a pourtant jamais fait florès en France, remarque Pascal Riché, journaliste au « Monde », dans sa chronique.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/03/foutre-au-feu-la-dette-une-image-puissante-qui-s-inscrit-dans-une-longue-histoire-politique_6765171_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T14:32:04+00:00",
+      "titre": "\"J'ai fait une erreur terrible\" : Jean-Luc Mélenchon admet avoir \"changé d'avis\" sur le port du voile islamique",
+      "dek": "Le candidat de LFI à la présidentielle a reconnu avoir changé de position quant au port du voile par des femmes musulmanes. Il l'avait qualifié dans le passé de \"chiffon sur la tête\". Le leader des Insoumis explique qu'il n'avait \"pas compris\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/j-ai-fait-une-erreur-terrible-jean-luc-melenchon-admet-avoir-change-d-avis-sur-le-port-du-voile-islamique_8175281.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T14:20:51+00:00",
+      "titre": "Fin de l’Union européenne, abrogation des 35 heures, retraite à 67 ans… façon Stérin, Vincent Bolloré veut inspirer l’extrême droite avec son « Manifeste »",
+      "dek": "Dans leur livre-enquête la Droite de Dieu. Vincent Bolloré, un milliardaire en mission, Camille Vigogne Le Coat et Clément Lacombe révèle le programme politique concocté par Vincent Bolloré pour inspirer l’extrême droite française.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/election-presidentielle/fin-de-lunion-europeenne-abrogation-des-35-heures-retraite-a-67-ans-facon-sterin-vincent-bollore-veut-inspirer-lextreme-droite-avec-son-manifeste"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T14:12:13+00:00",
+      "titre": "Faute de soutiens de poids, Attal présente son équipe de campagne",
+      "dek": "Alors que son rival Edouard Philippe a enregistré plusieurs ralliements, le candidat Renaissance s’entoure de trois proches chargés de diriger sa campagne et opte pour plusieurs personnalités issue de la société civile parmi ses porte-parole, dont l’ex-judokate et journaliste Cél…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/faute-de-soutiens-de-poids-attal-presente-son-equipe-de-campagne-20260903_J54GPYSCBJHQDPWMCIHEBPAEK4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T13:49:31+00:00",
+      "titre": "Interventionniste dans ses médias, l’union de la droite et de l’extrême droite en idée fixe… Bolloré au cœur d’un livre-enquête",
+      "dek": "«La Droite de Dieu - Vincent Bolloré» qui paraît ce jeudi 3 septembre dépeint un milliardaire réactionnaire en mission pour la présidentielle 2027 via son groupe, d’Europe 1 au «JDD» en passant par CNews.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/economie/medias/interventionniste-dans-ses-medias-lunion-des-droites-en-idee-fixe-bollore-au-coeur-dun-livre-enquete-20260903_JXU2NIYOM5GMJDO7FYXZX5U57I/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T13:21:30+00:00",
+      "titre": "\"Stop aux boucs émissaires\" : magistrats et commissaires de police contestent le courrier de Gérald Darmanin sur les violences sexuelles sur mineurs",
+      "dek": "Dans un rare communiqué commun, les deux syndicats reprochent au garde des Sceaux d'avoir envoyé une note au ministre de l'Intérieur pour recenser les \"difficultés\" identifiées par les parquets dans le traitement des affaires de violences sexuelles sur mineurs, dans le sillage de…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/harcelement-sexuel/stop-aux-boucs-emissaires-magistrats-et-commissaires-de-police-contestent-le-courrier-de-gerald-darmanin-sur-les-violences-sexuelles-sur-mineurs_8175497.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T12:48:11+00:00",
+      "titre": "Propositions sur l’amitié de Clémence Guetté : « Le Figaro » bloqué au temps de la Manif pour Tous",
+      "dek": "La droite n’est pas dupe. Comme au temps de la Manif pour tous contre le Pacs, le mariage gay, l’IVG, c’est bien la famille qui est attaquée. « Je veux simplement, disait vendredi dans nos colonnes Clémence Guetté, vice-présidente LFI de l’Assemblée nationale et autrice de Pour u…",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/clemence-guette/propositions-sur-lamitie-de-clemence-guette-le-figaro-bloque-au-temps-de-la-manif-pour-tous"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T12:35:53+00:00",
+      "titre": "Réchauffement climatique : Monique Barbut appelle à «être à la hauteur des enjeux» après un été qui «restera dans l’histoire»",
+      "dek": "Lors de la présentation du bilan climatique de l’été ce jeudi 3 septembre, la ministre de la Transition écologique a annoncé que la période de juin à août a été «la plus chaude jamais enregistrée» depuis 1900. Et a appelé à mettre en place rapidement certaines mesures.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/rechauffement-climatique-monique-barbut-appelle-a-etre-a-la-hauteur-des-enjeux-apres-un-ete-qui-restera-dans-lhistoire-20260903_JRPGFMRTFNHZZD2WEMN43SEJ7U/"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T12:17:32+00:00",
+      "titre": "Détenu cinq ans en Bulgarie, l’activiste saoudien Abdulrahman al-Khalidi est libre",
+      "dek": "C’est la fin d’un enfermement sans précédent, mais pas de sa bataille pour trouver refuge en Europe: le défenseur des droits humains et journaliste Abdulrahman al-Khalidi est toujours menacé d’expulsion vers l’Arabie saoudite, et en attente d’une décision sur sa demande d’asile.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/030926/detenu-cinq-ans-en-bulgarie-l-activiste-saoudien-abdulrahman-al-khalidi-est-libre"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T12:13:28+00:00",
+      "titre": "En Espagne, droite et extrême droite manifestent contre Sánchez et instrumentalisent la crise de Ceuta",
+      "dek": "Mercredi 2 septembre, la fête annuelle de Ceuta s’est transformée en manifestation nationale contre l’immigration et la complaisance dont ferait preuve l’Espagne envers le Maroc. Pedro Sánchez, qui a répliqué devant le Parlement jeudi, doit composer avec la défiance de ses parten…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/030926/en-espagne-droite-et-extreme-droite-manifestent-contre-sanchez-et-instrumentalisent-la-crise-de-ceu"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T11:25:42+00:00",
+      "titre": "La prolongation de l'encadrement des loyers débattue \"à partir du 21 octobre au Sénat\", selon la mairie de Paris",
+      "dek": "Le gouvernement s'est engagé à reconduire le dispositif \"pour deux ans\", affirme l'adjoint à la mairie de Paris chargé du logement; jeudi sur franceinfo.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/immobilier/encadrement-des-loyers/la-prolongation-de-l-encadrement-des-loyers-debattue-a-partir-du-21-octobre-au-senat-selon-la-mairie-de-paris_8175380.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T11:24:59+00:00",
+      "titre": "Carburants, présidentielle, budget... Le \"8h30 franceinfo\" de Maud Bregeon",
+      "dek": "Maud Bregeon, porte-parole du gouvernement, ministre déléguée chargée de l'Énergie, est l'invitée du \"8h30 franceinfo\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/le-8h30-franceinfo-de-maud-bregeon_8144864.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T10:55:42+00:00",
+      "titre": "A sept mois de la présidentielle, le patron de la lutte contre les ingérences numériques part travailler... avec le groupe Bolloré",
+      "dek": "Le chef du service Viginum, Marc-Antoine Brillant, quittera ses fonctions en octobre. Cet ancien militaire s’apprête à lancer sa propre agence de contre-ingérence, en partenariat avec l’entreprise Havas, dirigée par le fils du milliardaire d’extrême droite.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/a-sept-mois-de-la-presidentielle-le-patron-de-la-lutte-contre-les-ingerences-numeriques-part-travailler-avec-le-groupe-bollore-20260903_4UI3DRQ5YVE5PEG5WZ55IVYUY4/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T10:39:15+00:00",
+      "titre": "Présidentielle 2027 : Gabriel Attal présente son équipe de campagne, avec Céline Géraud comme responsable de la communication",
+      "dek": "L’ancienne judoka devenue journaliste va « piloter » une équipe de porte-parole « ancrée dans le réel », composée notamment de la députée (Renaissance) Violette Spillebout et du maire de Bonifacio, Jean-Charles Orsucci.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/03/presidentielle-2027-gabriel-attal-presente-son-equipe-de-campagne-avec-celine-geraud-comme-responsable-de-la-communication_6765142_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T10:34:32+00:00",
+      "titre": "Tension entre la Russie et l'Europe, budget 2027... Les informés du matin du jeudi 03 septembre 2026",
+      "dek": "Tous les jours, les informés débattent de l'actualité autour d'Agathe Lambret et de Renaud Dély.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/les-informes-du-matin/tension-entre-la-russie-et-l-europe-budget-2027-les-informes-du-matin-du-jeudi-03-septembre-2026_8146097.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "03 Sep 2026",
+      "date_iso": "2026-09-03T10:10:38+00:00",
+      "titre": "Bregeon : \"Ça n'est dans l'intérêt de personne de priver la France d'un budget\"",
+      "dek": "Alors que de nombreuses voix s'élèvent pour menacer le gouvernement de censure sur le vote du budget 2027, \"ce n'est dans l'intérêt de personne de priver la France d'un budget\", alerte Maud Bregeon. La porte-parole du gouvernement était l'invitée d'Agathe Lambret et Simon Le Baro…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/budget/bregeon-dans-l-interet-de-personne-de-priver-la-france-d-un-budget_8175245.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -41,7 +217,7 @@
       "date": "03 Sep 2026",
       "date_iso": "2026-09-03T09:29:04+00:00",
       "titre": "« On se renifle » : De Villepin et Ruffin se draguent en vue de la présidentielle",
-      "dek": "François Ruffin et Dominique de Villepin ont débattu ensemble lors d’une rencontre organisée par Libération et BFM. Deux « électrons libres », l’un de gauche, l’autre de droite, qui se sont entendus sur pas mal de sujets. Deux outsiders de l’élection présidentielle qui se sont re…",
+      "dek": "François Ruffin et Dominique de Villepin ont débattu ensemble lors d'une rencontre organisée par Libération et BFM. Deux \"électrons libres\", l'un de gauche, l'autre de droite, qui se sont entendus sur pas mal de sujets. Deux outsiders de l'élection présidentielle qui se sont rend…",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/dominique-de-villepin/on-se-renifle-de-villepin-et-ruffin-se-draguent-en-vue-de-la-presidentielle"
     },
@@ -50,9 +226,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T09:28:55+00:00",
+      "date_iso": "2026-09-03T09:28:54+00:00",
       "titre": "Carburant : les aides seront reconduites pour septembre et octobre pour les secteurs les plus exposés",
-      "dek": "« On fera le point fin octobre, en fonction encore une fois de l’évolution de la situation, comme on le fait depuis le début », a assuré la ministre déléguée à l’énergie, Maud Bregeon.",
+      "dek": "« On fera le point fin octobre, en fonction de l’évolution de la situation, comme on le fait depuis le début », a assuré la ministre déléguée à l’énergie, Maud Bregeon.",
       "avis": null,
       "lien": "https://www.lemonde.fr/economie/article/2026/09/03/carburant-les-aides-seront-reconduites-pour-septembre-et-octobre-pour-les-secteurs-les-plus-exposes_6765135_3234.html"
     },
@@ -374,182 +550,6 @@
       "dek": "Les rassemblements estivaux des partis de gauche viennent de se succéder. LFI, Les Ecologistes, les communistes et les socialistes se sont réunis, chacun de son côté, lors des derniers week-ends d’août. Dans ce podcast, Robin Richardot, journaliste au service Politique du « Monde…",
       "avis": null,
       "lien": "https://www.lemonde.fr/podcasts/article/2026/09/03/universites-d-ete-la-rentree-dispersee-de-la-gauche_6764812_5463015.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T03:00:25+00:00",
-      "titre": "Présidentielle 2027 : Dominique de Villepin et François Ruffin, ou quand les contraires s’attirent pour mieux débattre",
-      "dek": "Pas encore tout à fait lancé dans la course à l’Elysée, l’ex-premier ministre chiraquien a échangé mercredi, à Paris, avec l’ancien « insoumis », déjà en campagne. Différents par leurs styles et leurs parcours, les deux hommes semblent s’accorder sur l’essentiel ou presque.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/03/presidentielle-2027-dominique-de-villepin-et-francois-ruffin-ou-quand-les-contraires-s-attirent-pour-mieux-debattre_6764808_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T03:00:20+00:00",
-      "titre": "Eric Lombard, ex-ministre de l’économie : « Il y a un chemin pour redresser le pays »",
-      "dek": "Ecarté par Sébastien Lecornu, l’ancien homme fort de Bercy n’a pas renoncé à la politique. Il veut se présenter aux prochaines élections législatives en Bretagne, et juge possible d’agir efficacement même sans majorité à l’Assemblée nationale.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/03/eric-lombard-ex-ministre-de-l-economie-il-y-a-un-chemin-pour-redresser-le-pays_6764806_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T03:00:15+00:00",
-      "titre": "Le gouvernement confronté aux attentes d’un monde agricole au bord de la crise économique après un été de sécheresse et de canicule",
-      "dek": "Initialement attendu jeudi 3 septembre, un plan d’aide gouvernemental doit être annoncé dans les jours à venir. Les organisations représentantes du secteur, en grande difficulté, mettent la pression sur l’exécutif.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/03/le-gouvernement-confronte-aux-attentes-d-un-monde-agricole-au-bord-de-la-crise-economique-apres-un-ete-de-secheresse-et-de-canicule_6764805_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T21:58:12+00:00",
-      "titre": "Présidentielle 2027 : Bruno Retailleau promet une réforme constitutionnelle pour donner « le dernier mot » au « peuple français » sur certains sujets",
-      "dek": "Dans un entretien au « Figaro », le candidat Les Républicains à l’Elysée dit vouloir faciliter le recours au référendum pour « toute question législative ». Il souhaite également faire primer le droit français, « dans certains cas », sur le droit européen.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/02/presidentielle-2027-bruno-retailleau-promet-une-reforme-constitutionnelle-pour-donner-le-dernier-mot-au-peuple-francais-sur-certains-sujets_6764572_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T21:02:22+00:00",
-      "titre": "Débat Ruffin-Villepin : taxe carbone, géopolitique, rapprochement… Les 5 moments marquants du débat organisé par Libé",
-      "dek": "L’ex-insoumis, déjà en lice pour l’élection présidentielle, et le chiraquien, qui pourrait se déclarer cet automne, étaient invités à l’Académie du Climat à Paris ce 2 septembre. Un événement organisé pour le lancement de «Libé 2027», une série de rencontres prévues par notre jou…",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/ruffin-villepin-les-4-moments-marquants-du-debat-organise-par-libe-20260902_PY3RLYR2VJH4POAL57GG4AGO5U/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T20:24:47+00:00",
-      "titre": "Voile islamique : Mélenchon reconnaît avoir «changé d’avis» au fil des années",
-      "dek": "Devant des militants insoumis à Paris, le candidat LFI à l’élection présidentielle a jugé que son opposition passée au port du foulard avait été une «erreur terrible». En 2017, il en parlait comme d’«un chiffon sur la tête».",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/voile-islamique-melenchon-reconnait-avoir-change-davis-au-fil-des-annees-20260902_KZRZ4HU64FD7XBWIB2OKRIK7EQ/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T20:02:34+00:00",
-      "titre": "Présidentielle 2027 : revivez le débat Ruffin-Villepin organisé par Libération",
-      "dek": "L’ex-journaliste déjà en campagne et l’ancien Premier ministre de droite qu’une entrée en lice démange échangeaient dans le cadre de «Libé 2027», une série de rencontres publiques pour ouvrir le débat le plus large possible.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/en-direct-presidentielle-2027-suivez-le-debat-entre-francois-ruffin-et-dominique-de-villepin-organise-par-liberation-20260902_6GTNL4KY4ZC6FF3C2BOGIQLNEA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T19:39:40+00:00",
-      "titre": "Débat «Libé» : Un rapprochement Ruffin-Villepin en vue de 2027 ? «On se renifle» lâche le député de gauche",
-      "dek": "L’ex-journaliste déjà en campagne et l’ancien Premier ministre de droite qu’une entrée en lice démange échangeaient dans le cadre de «Libé 2027», une série de rencontres publiques pour ouvrir le débat le plus large possible.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/en-direct-presidentielle-2027-suivez-le-debat-entre-francois-ruffin-et-dominique-de-villepin-organise-par-liberation-20260902_6GTNL4KY4ZC6FF3C2BOGIQLNEA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T18:22:12+00:00",
-      "titre": "Emmanuel Macron inaugure l'exposition de la tapisserie de Bayeux à Londres et qualifie ce prêt de \"geste d’amitié\"",
-      "dek": "Le chef de l'Etat avait personnellement décidé de prêter la tapisserie pour un an lors de sa visite d'Etat au Royaume-Uni en juillet 2025, afin de \"revivifier la relation culturelle\" et marquer \"la confiance\" actuelle entre Paris et Londres.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/culture/emmanuel-macron-inaugure-l-exposition-de-la-tapisserie-de-bayeux-installee-a-londres-pour-un-an_8174294.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T18:19:14+00:00",
-      "titre": "Drone à Leipzig: l’Allemagne accuse la Russie et c’est une première",
-      "dek": "Un drone armé d’explosifs a été retrouvé, le 5 août, à proximité d’un avion ukrainien, à l’aéroport de Leipzig. Le 1er septembre, le gouvernement allemand a publiquement attribué l’attaque à Moscou, ce qu’il évitait jusqu’à présent. Mais sans aller jusqu’à saisir l’Otan.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/020926/drone-leipzig-l-allemagne-accuse-la-russie-et-c-est-une-premiere"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T18:08:07+00:00",
-      "titre": "Les lois de l’amitié, objet politique de la rentrée",
-      "dek": "Clémence Guetté, députée insoumise et vice-présidente de l’Assemblée nationale, veut définir les cadres d’une «politique de l’amitié» bouleversant notre édifice juridique et susceptible de contrer tant l’extrême droite que le patriarcat et les logiques capitalistes.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/culture-et-idees/020926/les-lois-de-l-amitie-objet-politique-de-la-rentree"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T17:59:17+00:00",
-      "titre": "Primaire du PS : pourquoi l'organisation de débats semble déjà poser problème",
-      "dek": "Alors que Raphaël Glucksmann se contente de la seule date prévue, le 6 octobre, ses adversaires souhaitent, eux, les multiplier.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/raphael-glucksmann/primaire-du-ps-pourquoi-l-organisation-de-debats-semble-deja-poser-probleme_8174093.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T17:40:13+00:00",
-      "titre": "Dans une défense de l’Etat de droit, Richard Ferrand rappelle les partis au respect de la Constitution",
-      "dek": "Alors que la campagne présidentielle est lancée, le président du Conseil constitutionnel a estimé, à la Sorbonne, que « les libertés ne sont pas les variables d’ajustement des émotions et des impatiences d’un moment ». Sans faire référence au voile, que le RN veut interdire dans …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/02/dans-une-defense-de-l-etat-de-droit-richard-ferrand-rappelle-les-partis-au-respect-de-la-constitution_6764491_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T17:30:10+00:00",
-      "titre": "A La Réunion, la construction d’un câble sous-marin « souverain » reliant l’Afrique du Sud à Singapour vise à renforcer le développement économique de l’île",
-      "dek": "L’installation débutera en 2027, pour une mise en service en 2028, afin de sécuriser les connexions numériques du département français.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/02/a-la-reunion-la-construction-d-un-cable-sous-marin-souverain-reliant-l-afrique-du-sud-a-singapour-vise-a-renforcer-le-developpement-economique-de-l-ile_6764489_3234.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T16:04:51+00:00",
-      "titre": "La Hongrie remet la main sur un patrimoine accaparé par le clan Orbán",
-      "dek": "Le gouvernement de Péter Magyar a liquidé une trentaine de fondations, créées par le Fidesz, et qui contrôlaient de multiples institutions et entreprises. Au cœur de la bataille, plus de 8 milliards d’euros d’actifs et le retour dans le giron de l’État de 21 universités.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/020926/la-hongrie-remet-la-main-sur-un-patrimoine-accapare-par-le-clan-orban"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T16:00:00+00:00",
-      "titre": "«Libé 2027» : le premier débat entre François Ruffin et Dominique de Villepin",
-      "dek": "«Libération» vous donne rendez-vous ce mercredi 2 septembre à l’Académie du Climat, à Paris, pour une soirée de débat entre François Ruffin, député de la Somme et candidat à la présidentielle, et Dominique de Villepin, ancien Premier ministre, en partenariat avec BFM.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/forums/libe-2027-suivez-le-premier-debat-entre-francois-ruffin-et-dominique-de-villepin-20260826_7NJJJ5VN2RHY7A7COALPZXL2KE/"
     }
   ]
 }
