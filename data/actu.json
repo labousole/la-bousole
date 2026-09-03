@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-09-02T20:06:19+00:00",
+  "generated_at": "2026-09-03T00:09:59+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T21:58:12+00:00",
+      "titre": "Présidentielle 2027 : Bruno Retailleau promet une réforme constitutionnelle pour donner « le dernier mot » au peuple français sur certains sujets",
+      "dek": "Dans un entretien au « Figaro », le candidat Les Républicains à l’Elysée dit vouloir faciliter le recours au référendum pour « toute question législative ». Il souhaite également faire primer le droit français, « dans certains cas », sur le droit européen.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/02/presidentielle-2027-bruno-retailleau-promet-une-reforme-constitutionnelle-pour-donner-le-dernier-mot-au-peuple-francais-sur-certains-sujets_6764572_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T21:02:22+00:00",
+      "titre": "Débat Ruffin-Villepin : taxe carbone, géopolitique, rapprochement… Les 5 moments marquants du débat organisé par Libé",
+      "dek": "L’ex-insoumis, déjà en lice pour l’élection présidentielle, et le chiraquien, qui pourrait se déclarer cet automne, étaient invités à l’Académie du Climat à Paris ce 2 septembre. Un événement organisé pour le lancement de «Libé 2027», une série de rencontres prévues par notre jou…",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/ruffin-villepin-les-4-moments-marquants-du-debat-organise-par-libe-20260902_PY3RLYR2VJH4POAL57GG4AGO5U/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T20:24:47+00:00",
+      "titre": "Voile islamique : Mélenchon reconnaît avoir «changé d’avis» au fil des années",
+      "dek": "Devant des militants insoumis à Paris, le candidat LFI à l’élection présidentielle a jugé que son opposition passée au port du foulard avait été une «erreur terrible». En 2017, il en parlait comme d’«un chiffon sur la tête».",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/voile-islamique-melenchon-reconnait-avoir-change-davis-au-fil-des-annees-20260902_KZRZ4HU64FD7XBWIB2OKRIK7EQ/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "02 Sep 2026",
+      "date_iso": "2026-09-02T20:02:34+00:00",
+      "titre": "Présidentielle 2027 : revivez le débat Ruffin-Villepin organisé par Libération",
+      "dek": "L’ex-journaliste déjà en campagne et l’ancien Premier ministre de droite qu’une entrée en lice démange échangeaient dans le cadre de «Libé 2027», une série de rencontres publiques pour ouvrir le débat le plus large possible.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/en-direct-presidentielle-2027-suivez-le-debat-entre-francois-ruffin-et-dominique-de-villepin-organise-par-liberation-20260902_6GTNL4KY4ZC6FF3C2BOGIQLNEA/"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -237,9 +281,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T13:00:09+00:00",
+      "date_iso": "2026-09-02T13:00:08+00:00",
       "titre": "« La trajectoire d’Edouard Balladur offre un certain nombre de leçons aux prétendants d’aujourd’hui »",
-      "dek": "La disparition de l’ancien premier ministre de cohabitation de François Mitterand, défait par Jacques Chirac en 1995, est riche d’enseignements à l’aube d’une nouvelle campagne présidentielle, estime dans sa chronique Solenn de Royer, journaliste au « Monde ».",
+      "dek": "La disparition de l’ancien premier ministre de cohabitation de François Mitterrand, défait par Jacques Chirac en 1995, est riche d’enseignements à l’aube d’une nouvelle campagne présidentielle, estime dans sa chronique Solenn de Royer, journaliste au « Monde ».",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/02/la-trajectoire-d-edouard-balladur-offre-un-certain-nombre-de-lecons-aux-pretendants-d-aujourd-hui_6764384_823448.html"
     },
@@ -506,50 +550,6 @@
       "dek": "Vieille de près d'un millénaire, la Tapisserie de Bayeux est exposée à Londres à partir du 10 septembre. Un prêt historique d'une durée de dix mois, voulu par Emmanuel Macron, qui célèbre aussi les liens entre la France et le Royaume-Uni.",
       "avis": null,
       "lien": "https://www.franceinfo.fr/replay-radio/le-tour-de-la-question/la-tapisserie-de-bayeux-s-installe-en-vedette-au-british-museum_8168456.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T08:22:37+00:00",
-      "titre": "Interdiction du voile dans l'espace public : \"Ce n'est pas une attaque vestimentaire\", défend le député RN Laurent Jacobelli",
-      "dek": "\"Le port du voile aujourd'hui, c'est affirmer une idéologie qui dit : les lois religieuses passent avant les lois de la République. Ça, c'est l'islamisme, l'islam radical\", justifie l'élu de Moselle, invité politique de franceinfo ce mercredi.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/l-invite-politique-du-mercredi-02-septembre-2026_8167568.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T08:00:07+00:00",
-      "titre": "La « bataille des gauches », un feuilleton centenaire : retour sur des dissensions aussi anciennes que le mouvement socialiste",
-      "dek": "Si l’histoire de la gauche est ponctuée de scissions sur des questions stratégiques ou des conflits de valeurs, la culture de la division semble s’exacerber aujourd’hui, à mesure que son poids politique s’affaiblit. Avant une nouvelle union ?",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/02/la-bataille-des-gauches-un-feuilleton-centenaire-retour-sur-des-dissensions-aussi-anciennes-que-le-mouvement-socialiste_6764216_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T07:35:14+00:00",
-      "titre": "Le lac Ontario rebaptisé «lac America» : le technofascisme en marche aux Etats-Unis",
-      "dek": "Derrière la bêtise crasse de Donald Trump de renommer le lac situé à la frontière avec le Canada se nichent les voraces et puissants Gafam, qui vampirisent la démocratie à coups d’algorithmes manipulateurs destinés à servir leurs intérêts et tuer la souveraineté populaire.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/le-lac-ontario-rebaptise-lac-america-le-technofascisme-en-marche-aux-etats-unis-20260902_PKEIXGL3VVDC5NJNMPTS4O7VXU/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "02 Sep 2026",
-      "date_iso": "2026-09-02T07:31:46+00:00",
-      "titre": "«C’est un coup de force du camp Glucksmann» : au PS, on tient à trois débats télévisés pour la primaire",
-      "dek": "L’entourage du candidat Place publique a annoncé mardi 1er septembre vouloir participer au seul débat télé organisé par le service public de l’audiovisuel. Chez ses adversaires, on est prêt à en organiser d’autres sans lui.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/elections/cest-un-coup-de-force-du-camp-glucksmann-au-ps-on-tient-a-trois-debats-televises-pour-la-primaire-20260902_QSUOFG7EN5DRNPMHAKADL6C2LU/"
     }
   ]
 }
