@@ -1,6 +1,182 @@
 {
-  "generated_at": "2026-09-04T10:06:33+00:00",
+  "generated_at": "2026-09-04T15:05:58+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T14:43:56+00:00",
+      "titre": "En Italie, Giorgia Meloni bat un record de longévité au pouvoir depuis l'après-guerre",
+      "dek": "Baisse du déficit, baisse des débarquements à Lampedusa… Dans un pays connu pour son instabilité politique, son gouvernement est devenu le plus durable de l'histoire depuis l'après-guerre.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/italie/en-italie-giorgia-meloni-bat-un-record-de-longevite-au-pouvoir-depuis-l-apres-guerre_8177318.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T14:28:06+00:00",
+      "titre": "Fraude fiscale: la justice saisit 65 millions d’euros sur les comptes du géant du conseil McKinsey",
+      "dek": "Après quatre ans d’enquête sur la fraude fiscale présumée de McKinsey en France, le Parquet national financier a obtenu la saisie en Belgique de 65,2 millions d’euros appartenant au géant états-unien du conseil. Une seconde enquête judiciaire est en cours sur les liens entre McKi…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/040926/fraude-fiscale-la-justice-saisit-65-millions-d-euros-sur-les-comptes-du-geant-du-conseil-mckinsey"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T14:16:22+00:00",
+      "titre": "REPORTAGE. \"Ça va pas changer grand-chose\" : la méfiance persiste chez certains agriculteurs malgré les annonces du gouvernement",
+      "dek": "La ministre de l'Agriculture, Annie Genevard, a annoncé vendredi un plan d'un milliard pour venir en aide aux producteurs, durement touchés par les canicules et la sécheresse cet été. Franceinfo est parti à la rencontre d'un agriculteur, sceptique de l'efficacité de cette annonce…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/reportage-ca-va-pas-changer-grand-chose-la-mefiance-persiste-chez-certains-agriculteurs-malgre-les-annonces-du-gouvernement_8177102.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T13:49:55+00:00",
+      "titre": "Accusé d’assassinat, Loïk Le Priol se victimise face aux enquêteurs",
+      "dek": "Le 7 septembre s’ouvrira le procès consécutif à la mort par balles de Federico Aramburú, rugbyman tué par des militants d’extrême droite en mars 2022. Parmi les accusés, Loïk Le Priol, ancien du GUD, qui a affirmé au cours de l’instruction avoir agi en légitime défense.",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=503989"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T13:27:38+00:00",
+      "titre": "Canicule: dans les écoles et les hôpitaux, des promesses en l’air",
+      "dek": "Au cours de l’été caniculaire, des engagements ont été pris pour les écoles et les hôpitaux. En cette rentrée toujours brûlante, le corps enseignant n’a rien vu arriver. Quant aux soignants, ils ont hérité de climatiseurs mobiles achetés en catastrophe sur le budget des établisse…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/france/040926/canicule-dans-les-ecoles-et-les-hopitaux-des-promesses-en-l-air"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T13:04:05+00:00",
+      "titre": "Présidentielle 2027 : qui sont les candidats déclarés à la primaire socialiste ?",
+      "dek": "Les militants du Parti socialiste et de Place publique et leurs sympathisants prêts à débourser 15 euros, désigneront leur candidat(e) les week-ends des 9-10 et 16-17 octobre. Passage en revue des prétendants.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-qui-sont-les-candidats-declares-a-la-primaire-sociale-democrate-20260825_QQADNI5M5RAV5JAXOHILWCS5OA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T13:00:12+00:00",
+      "titre": "Les relations dangereuses de la droite corse avec l’extrême droite",
+      "dek": "La porosité grandissante entre des membres du parti Les Républicains et certains mouvements identitaires bouscule le paysage politique insulaire à l’approche des élections sénatoriales.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/04/les-relations-dangereuses-de-la-droite-corse-avec-l-extreme-droite_6765791_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T12:36:03+00:00",
+      "titre": "Handicap : Emmanuel Macron dévoile des mesures pour « simplifier tous les gestes du quotidien », de l’école plus inclusive à l’emploi accompagné",
+      "dek": "Le chef de l’Etat, qui préside, vendredi, une conférence nationale qui doit fixer le cap des politiques publiques du handicap a aussi annoncé une nouvelle stratégie nationale pour les troubles du neurodéveloppement, dont l’autisme.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/04/emmanuel-macron-devoile-une-nouvelle-feuille-de-route-pour-ameliorer-le-quotidien-des-personnes-handicapees_6765788_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T12:00:02+00:00",
+      "titre": "Pourquoi LFI et le RN s'emparent du voile ?",
+      "dek": "La question du voile s’installe-t-elle dans la campagne présidentielle ? En 2010, Jean-Luc Mélenchon y voyait un “signe de soumission patriarcale”. Il défend désormais la liberté de le porter. À l’inverse, le RN promet de l’interdire dans l’espace public et de sanctionner les fem…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/pourquoi-lfi-et-le-rn-s-emparent-du-voile_8176928.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T11:56:45+00:00",
+      "titre": "Présidentielle 2027 : pour Jean-Luc Mélenchon, la transition écologique passe par une forte reprise en main de l’Etat",
+      "dek": "« Les candidats et le climat ». Pour faire de la France la « première République écologique », le candidat de LFI prévoit des nationalisations, la création d’« écorégions » et un « service écologique ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/04/presidentielle-2027-pour-jean-luc-melenchon-la-transition-ecologique-passe-par-une-forte-reprise-en-main-de-l-etat_6765784_4355770.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T11:41:54+00:00",
+      "titre": "Le député Jean-René Cazeneuve (EPR) salue le \"très bel effort\" du gouvernement avec un plan d'urgence pour les agriculteurs face à la sécheresse",
+      "dek": "\"Est-ce que ça va suffire ?\" s'interroge le député du camp présidentiel qui y voit tout de même \"un plan historiquement élevé\", vendredi sur franceinfo.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/le-depute-jean-rene-cazeneuve-epr-salue-le-tres-bel-effort-du-gouvernement-avec-un-plan-d-urgence-pour-les-agriculteurs-face-a-la-secheresse_8177021.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T11:38:27+00:00",
+      "titre": "\"Les aides ne sont jamais à la hauteur\" : le milliard annoncé par le gouvernement pour répondre à la crise agricole jugé insuffisant par le secteur",
+      "dek": "Plus d'un milliard d'euros, c'est le montant annoncé ce vendredi 4 septembre matin par le gouvernement pour sauver les agriculteurs de la sécheresse. Un plan d'urgence très attendu, et prévoit notamment des aides à la trésorerie, pour l'achat de fourrage et de semences. Qu'en pen…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/les-aides-ne-sont-jamais-a-la-hauteur-le-milliard-annonce-par-le-gouvernement-pour-repondre-a-la-crise-agricole-juge-insuffisant-par-le-secteur_8177024.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T11:00:02+00:00",
+      "titre": "Giorgia Meloni : un record de longévité pour quel bilan ?",
+      "dek": "1 413 jours au pouvoir. Un record pour le gouvernement de la présidente du Conseil italien, Giorgia Meloni qui bat Silvio Berlusconi. Le secret de la longévité de la dirigeante d'extrême droite ? Manier pragmatisme européen et ambiguïtés nationales. Une stabilité indéniable pour …",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/italie/giorgia-meloni-un-record-de-longevite-pour-quel-bilan_8176676.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T10:57:49+00:00",
+      "titre": "Canicule : le gouvernement aide, un peu, les agriculteurs… mais sabre le budget de l’école",
+      "dek": "Le gouvernement a annoncé vendredi un plan de plus d’un milliard d’euros pour l’agriculture affaiblie par les canicules à répétition mais on apprend dans le même temps que les budgets annoncés pour les écoles en surchauffe en début d’été ont été réduits des trois quarts.",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/agriculteurs/canicule-le-gouvernement-aide-les-agriculteurs-mais-sabre-le-budget-de-lecole"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T10:53:06+00:00",
+      "titre": "«Il y a pas mal de fric à se faire»: les curieuses pratiques du député RN José Beaurain",
+      "dek": "D’anciens collaborateurs accusent le parlementaire de l’Aisne de s’être enrichi sur les fonds de l’Assemblée nationale. L’un d’eux raconte à «Mediapart» s’être vu proposer un coup immobilier sur la vente de bâtiments publics. L’élu d’extrême droite conteste, et a annoncé déposer …",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/040926/il-y-pas-mal-de-fric-se-faire-les-curieuses-pratiques-du-depute-rn-jose-beaurain"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T10:03:30+00:00",
+      "titre": "\"Nous allons protéger les scrutins de 2027\", affirme Jean-Noël Barrot, face au risque d'ingérences étrangères",
+      "dek": "Le ministre des Affaires étrangère cite, vendredi sur France Inter, \"de nouveaux textes juridiques\" et estime que \"la France est en avance\" tout en jugeant nécessaire \"d'aller plus loin parce que la menace évolue\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/nous-allons-proteger-les-scrutins-de-2027-affirme-jean-noel-barrot-face-au-risque-d-ingerences-etrangeres_8176832.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -41,6 +217,17 @@
       "date": "04 Sep 2026",
       "date_iso": "2026-09-04T09:30:17+00:00",
       "titre": "Gabriel Attal arrange son bilan budgétaire de 2024 en ce début de campagne présidentielle",
+      "dek": "L’ancien premier ministre se vante d’avoir diminué les dépenses de l’Etat pour la première fois depuis 2015. Les rapports racontent une histoire plus complexe, entre bonnes nouvelles conjoncturelles, improvisation budgétaire et dérapage global.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/04/gabriel-attal-arrange-son-bilan-budgetaire-de-2024-en-ce-debut-de-campagne-presidentielle_6765760_4355770.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T09:30:00+00:00",
+      "titre": "Gabriel Attal arrange son bilan budgétaire de 2024 en ce début de campagne présidentielle",
       "dek": "L’ancien premier ministre se vante d’avoir diminué les dépenses de l’Etat pour la première fois depuis 2015. Les rapports racontent une histoire plus complexe, entre bonnes nouvelles conjoncturelles, improvisation budgétaire et dérapage global.",
       "avis": null,
       "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/04/gabriel-attal-arrange-son-bilan-budgetaire-de-2024-en-ce-debut-de-campagne-presidentielle_6765760_4355770.html"
@@ -149,9 +336,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T08:23:17+00:00",
+      "date_iso": "2026-09-04T08:23:15+00:00",
       "titre": "Présidentielle 2027 : le député Emmanuel Maurel annonce qu’il participera à la primaire à gauche",
-      "dek": "L’animateur national du petit parti Gauche républicaine et socialiste est le septième candidat déclaré à la primaire du camp social-démocrate, qui se tiendra les 9-10 et 16-17 octobre. Tous les candidats doivent obtenir un certain nombre de parrainages pour pouvoir se présenter.",
+      "dek": "L’animateur national du petit parti Gauche républicaine et socialiste est le septième candidat déclaré à la primaire du camp social-démocrate, qui se tiendra les 9-10 et 16-17 octobre.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/04/presidentielle-2027-le-depute-emmanuel-maurel-annonce-qu-il-participera-a-la-primaire-a-gauche_6765747_823448.html"
     },
@@ -363,193 +550,6 @@
       "dek": "Après un été caniculaire historique, le premier secrétaire du Parti socialiste a présenté les contours de son plan écologique samedi 29 août à Blois. Officiellement candidat à la primaire de la gauche, le numéro un du parti entend imprimer sa marque sur ce thème désormais inconto…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/environnement/qu-est-ce-que-le-socialisme-ecologique-prone-par-olivier-faure_8175926.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T04:56:10+00:00",
-      "titre": "\"Sur le terrain\" du 3 septembre 2026 : le référendum élargi, proposition démocratique ou populiste ?",
-      "dek": "Loïc de La Mornais s'intéresse dans cette 2ème partie au référendum, qui fait son grand retour dans plusieurs programmes de candidats à la présidentielle : une manière de contourner le Parlement ou le Conseil constitutionnel ? Une séquence à retrouver dans l'émission \"Sur le terr…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-3-septembre-2026-le-referendum-elargi-proposition-democratique-ou-populiste_8176436.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T04:37:16+00:00",
-      "titre": "DIRECT. La ministre de l'Agriculture Annie Genevard doit annoncer des mesures d'aide au secteur pour faire face aux canicules et à la sécheresse",
-      "dek": "La représentante du gouvernement se rendra ensuite à la foire de Châlons-en-Champagne, dans la Marne, à la rencontre des professionnels du secteur.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/direct-la-ministre-de-l-agriculture-annie-genevard-doit-annoncer-des-mesures-d-aide-au-secteur-pour-faire-face-aux-canicules-et-a-la-secheresse_8176388.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T04:35:52+00:00",
-      "titre": "\"Sur le terrain\" du 3 septembre 2026 : avec quel budget s'adapter aux canicules ?",
-      "dek": "Loïc de La Mornais s'intéresse dans cette 1ère partie au poids des vagues de chaleurs et de leurs conséquences dans les arbitrages budgétaires : après cet été caniculaire, la transition écologique sera-t-elle le parent pauvre du budget national ?Une séquence à retrouver dans l'ém…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-3-septembre-2026-avec-quel-budget-s-adapter-aux-canicules_8176418.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T04:30:08+00:00",
-      "titre": "Olivier Blanchard et Quentin Vandeweyer : « Sur l’annulation de la dette détenue par la Banque de France, l’erreur est de croire qu’elle dégagerait des ressources ou serait sans coût »",
-      "dek": "Dans une tribune au « Monde », l’ancien chef économiste du Fonds monétaire international et le professeur à la London Business School expliquent pourquoi la proposition du candidat « insoumis » à la présidentielle, Jean-Luc Mélenchon, serait au mieux une opération blanche, au pir…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/04/olivier-blanchard-et-quentin-vandeweyer-sur-l-annulation-de-la-dette-detenue-par-la-banque-de-france-l-erreur-est-de-croire-qu-elle-degagerait-des-ressources-ou-serait-sans-cout_6765631_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T04:00:11+00:00",
-      "titre": "Rénovation thermique des écoles : le gouvernement ampute le plan d’urgence canicule de 40 millions d’euros",
-      "dek": "Fin juin, en pleine canicule, une enveloppe de près de 60 millions d’euros avait été annoncée par la Banque des territoires et le programme Actee, qui finance la rénovation thermique des bâtiments publics des collectivités locales, afin d’équiper des établissements scolaires d’ic…",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/societe/article/2026/09/04/renovation-thermique-des-ecoles-le-gouvernement-ampute-le-plan-d-urgence-canicule-de-40-millions-d-euros_6765625_3224.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T03:57:36+00:00",
-      "titre": "\"On ne découvre rien\" : les candidats à la présidentielle ont-ils adapté leur programme après les canicules d'un été \"apocalyptique\" ?",
-      "dek": "L'été 2026 est le plus chaud jamais enregistré en France depuis le début des relevés des températures. Cette actualité climatique va-t-elle percuter la campagne électorale et faire de l'écologie le thème central ? Franceinfo a interrogé les prétendants à l'Elysée.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/on-ne-decouvre-rien-les-candidats-a-la-presidentielle-ont-ils-adapte-leur-programme-apres-les-canicules-d-un-ete-apocalyptique_8174960.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T03:56:04+00:00",
-      "titre": "DIRECT. Ecole, logement, accessibilité… Emmanuel Macron attendu avec des annonces à la Conférence nationale sur le handicap",
-      "dek": "Le président de la République s'exprime à la mi-journée, vendredi, en clôture de ce rendez-vous organisé tous les trois ans. Avant de quitter ses fonctions, il entend \"ouvrir une nouvelle étape d'une société pleinement accessible\", selon l'Elysée.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/sante/handicap/direct-ecole-logement-accessibilite-emmanuel-macron-attendu-avec-des-annonces-a-la-conference-nationale-sur-le-handicap_8174987.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T20:56:54+00:00",
-      "titre": "Pourquoi le RN et LFI s’emparent-ils du voile ?",
-      "dek": "\"J’ai fait une erreur terrible.\" Jean-Luc Mélenchon assume son revirement sur le voile. En 2010, il y voyait un \"signe de soumission patriarcale.\" Il défend désormais la liberté de le porter. À l’inverse, le Rassemblement national promet de l’interdire dans l’espace public et de …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pourquoi-le-rn-et-lfi-s-emprent-ils-du-voile_8175992.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T20:10:35+00:00",
-      "titre": "Nommée présidente de RTE, l’ex-secrétaire générale adjointe de l’Elysée n’a pas le droit d’entrer en contact avec Lecornu et ses ministres",
-      "dek": "Selon une décision rendue le 10 mars par la Haute autorité pour la transparence de la vie publique, Emilie Piette, passée par la présidence entre 2023 et 2026, ne pourra échanger avec les membres du gouvernement que trois ans après avoir quitté son poste.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/nommee-presidente-de-rte-lex-secretaire-generale-adjointe-de-lelysee-na-pas-le-droit-dentrer-en-contact-avec-lecornu-et-ses-ministres-20260903_ZMX7N65YDZAYND2AYAM36OJND4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T19:05:02+00:00",
-      "titre": "Georgia Meloni : une longévité record pour quel bilan ?",
-      "dek": "1 413 jours au pouvoir. Un record pour le gouvernement de la présidente du Conseil italien, Georgia Meloni qui bat Silvio Berlusconi. Le secret de la longévité de la dirigeante d'extrême droite ? Manier pragmatisme européen et ambiguïtés nationales. Une stabilité indéniable pour …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/italie/georgia-meloni-une-longevite-record-pour-quel-bilan_8175902.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T18:42:12+00:00",
-      "titre": "Nouvelle-Calédonie : l’Etat accorde une aide financière et relance le débat institutionnel",
-      "dek": "Venue à Paris pour alerter sur les risques de banqueroute qui menace la collectivité, la délégation transpartisane calédonienne a obtenu des subventions supplémentaires, outre les 430 millions prévus en 2026 dans le pacte de refondation. Un soutien conditionné à la poursuite des …",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/03/nouvelle-caledonie-l-etat-accorde-une-aide-financiere-et-relance-le-debat-institutionnel_6765214_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T17:56:29+00:00",
-      "titre": "Bilan de l’été: un gouvernement «pris par surprise» et des températures jamais enregistrées en France",
-      "dek": "Météo-France a présenté jeudi 3 septembre son bilan climatique de l’été, en présence des ministres Monique Barbut et Mathieu Lefèvre. À la veille d’une nouvelle vague de chaleur, il confirme que cette saison 2026 a dépassé, de loin, toutes les références connues jusqu’ici.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/030926/bilan-de-l-ete-un-gouvernement-pris-par-surprise-et-des-temperatures-jamais-enregistrees-en-france"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T17:51:41+00:00",
-      "titre": "Présidentielle 2027 : à droite et au centre, privés de primaire, les unitaires amers",
-      "dek": "Face aux turbulentes rentrées d’Edouard Philippe, Gabriel Attal et Bruno Retailleau, les appels à une candidature unique du «bloc central» refleurissent. Les obstacles demeurent nombreux.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-2027-a-droite-et-au-centre-prives-de-primaire-les-unitaires-amers-20260903_RUX6ERBHSZATPIWCTFJUFASGEE/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T17:17:00+00:00",
-      "titre": "Présidentielle 2027 : les adhérents du PCF votent sur la candidature de Fabien Roussel",
-      "dek": "Les adhérents du PCF votent jusqu’à dimanche 6&nbsp;septembre pour valider la candidature de leur secrétaire national à l’élection présidentielle de 2027. L’objectif est de contribuer à «&nbsp;rendre la gauche majoritaire&nbsp;» en donnant «&nbsp;toute leur place aux enjeux de cl…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/fabien-roussel/presidentielle-2027-les-adherents-du-pcf-votent-sur-la-candidature-de-fabien-roussel"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T17:16:50+00:00",
-      "titre": "Gabriel Attal dévoile une équipe de campagne présidentielle sans poids lourds politiques mais avec de « nouveaux visages »",
-      "dek": "Sans cesse ramené à Emmanuel Macron et à son duel avec Edouard Philippe pour l’élection présidentielle 2027, le candidat prône le « renouvellement » et a notamment choisi l’ancienne judoka et journaliste Céline Géraud pour piloter sa communication.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/03/gabriel-attal-devoile-une-equipe-de-campagne-presidentielle-sans-poids-lourds-politiques-mais-avec-de-nouveaux-visages_6765203_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T17:07:02+00:00",
-      "titre": "« L’État nous ignore » : surexploités cet été, les pompiers volontaires oubliés à la rentrée",
-      "dek": "Ils représentent près de 78 % des effectifs, assurent 66 % des interventions, mais sont exclus des discussions sur le très attendu projet de loi sur la sécurité civile. Les deux syndicats de sapeurs-pompiers volontaires revendiquent simplement le droit de s’exprimer.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=503731"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T17:01:25+00:00",
-      "titre": "«Petite culotte de chou broutée par des lapins» : mais d’où vient l’expression sortie par Dominique de Villepin ?",
-      "dek": "Pour échapper à une question posée par un journaliste de BFMTV, l’ex-Premier ministre a mobilisé une expression surannée à l’origine incertaine, mais plutôt localisée dans le Sud-Ouest.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/checknews/petite-culotte-de-chou-broutee-par-des-lapins-mais-dou-vient-lexpression-sortie-par-dominique-de-villepin-20260903_IW4ZIGNGSJDNJKSSA4D7MOFB6E/"
     }
   ]
 }
