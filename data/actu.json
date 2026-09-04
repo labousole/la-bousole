@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-09-04T00:09:07+00:00",
+  "generated_at": "2026-09-04T05:05:53+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Politis",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T06:30:00+00:00",
+      "titre": "Mort de Jean-François Leroy : le photojournalisme en deuil",
+      "dek": "",
+      "avis": null,
+      "lien": "https://www.politis.fr/api/proxy/?articleID=503582"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T05:00:05+00:00",
+      "titre": "Violences dans le périscolaire parisien : Emmanuel Grégoire sera auditionné le 8 septembre par la mission d’information de la Ville",
+      "dek": "Le maire de Paris, visé par une plainte au pénal, sera entendu en sa qualité d’ancien adjoint aux ressources humaines ; sa prédécesseure, Anne Hidalgo, devait être reçue le même jour mais a fait part de son indisponibilité. Tous deux seront auditionnés au Sénat les 15 et 16 septe…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/04/violences-dans-le-periscolaire-parisien-emmanuel-gregoire-sera-auditionne-le-8-septembre-par-la-mission-d-information-de-la-ville_6765665_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T05:00:00+00:00",
+      "titre": "Jérôme Poirot, le haut fonctionnaire passé par le renseignement qui travaille avec le RN",
+      "dek": "Selon nos informations, l’énarque, passé par des cabinets ministériels sous Nicolas Sarkozy, est chargé d’aider à synthétiser le projet de Marine Le Pen. Son recrutement témoigne de la progression du parti dans des strates qui lui étaient jusqu’ici difficilement atteignables.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/jerome-poirot-le-haut-fonctionnaire-passe-par-le-renseignement-qui-travaille-avec-le-rn-20260904_UCOGEEK3YZA6DMKJLEYIL6UPOI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T04:57:50+00:00",
+      "titre": "Qu’est-ce que le \"socialisme écologique\" prôné par Olivier Faure ?",
+      "dek": "Après un été caniculaire historique, le premier secrétaire du Parti socialiste a présenté les contours de son plan écologique samedi 29 août à Blois. Officiellement candidat à la primaire de la gauche, le numéro un du parti entend imprimer sa marque sur ce thème désormais inconto…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/environnement/qu-est-ce-que-le-socialisme-ecologique-prone-par-olivier-faure_8175926.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T04:56:10+00:00",
+      "titre": "\"Sur le terrain\" du 3 septembre 2026 : le référendum élargi, proposition démocratique ou populiste ?",
+      "dek": "Loïc de La Mornais s'intéresse dans cette 2ème partie au référendum, qui fait son grand retour dans plusieurs programmes de candidats à la présidentielle : une manière de contourner le Parlement ou le Conseil constitutionnel ? Une séquence à retrouver dans l'émission \"Sur le terr…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-3-septembre-2026-le-referendum-elargi-proposition-democratique-ou-populiste_8176436.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T04:37:16+00:00",
+      "titre": "DIRECT. La ministre de l'Agriculture Annie Genevard doit annoncer des mesures d'aide au secteur pour faire face aux canicules et à la sécheresse",
+      "dek": "La représentante du gouvernement se rendra ensuite à la foire de Châlons-en-Champagne, dans la Marne, à la rencontre des professionnels du secteur.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/direct-la-ministre-de-l-agriculture-annie-genevard-doit-annoncer-des-mesures-d-aide-au-secteur-pour-faire-face-aux-canicules-et-a-la-secheresse_8176388.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T04:35:52+00:00",
+      "titre": "\"Sur le terrain\" du 3 septembre 2026 : avec quel budget s'adapter aux canicules ?",
+      "dek": "Loïc de La Mornais s'intéresse dans cette 1ère partie au poids des vagues de chaleurs et de leurs conséquences dans les arbitrages budgétaires : après cet été caniculaire, la transition écologique sera-t-elle le parent pauvre du budget national ?Une séquence à retrouver dans l'ém…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-magazine/franceinfo/sur-le-terrain/sur-le-terrain-du-3-septembre-2026-avec-quel-budget-s-adapter-aux-canicules_8176418.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T04:30:08+00:00",
+      "titre": "Olivier Blanchard et Quentin Vandeweyer : « Sur l’annulation de la dette détenue par la Banque de France, l’erreur est de croire qu’elle dégagerait des ressources ou serait sans coût »",
+      "dek": "Dans une tribune au « Monde », l’ancien chef économiste du Fonds monétaire international et le professeur à la London Business School expliquent pourquoi la proposition du candidat « insoumis » à la présidentielle, Jean-Luc Mélenchon, serait au mieux une opération blanche, au pir…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/idees/article/2026/09/04/olivier-blanchard-et-quentin-vandeweyer-sur-l-annulation-de-la-dette-detenue-par-la-banque-de-france-l-erreur-est-de-croire-qu-elle-degagerait-des-ressources-ou-serait-sans-cout_6765631_3232.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T04:00:11+00:00",
+      "titre": "Rénovation thermique des écoles : le gouvernement ampute le plan d’urgence canicule de 40 millions d’euros",
+      "dek": "Fin juin, en pleine canicule, une enveloppe de près de 60 millions d’euros avait été annoncée par la Banque des territoires et le programme Actee, qui finance la rénovation thermique des bâtiments publics des collectivités locales, afin d’équiper des établissements scolaires d’ic…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/societe/article/2026/09/04/renovation-thermique-des-ecoles-le-gouvernement-ampute-le-plan-d-urgence-canicule-de-40-millions-d-euros_6765625_3224.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T03:57:36+00:00",
+      "titre": "\"On ne découvre rien\" : les candidats à la présidentielle ont-ils adapté leur programme après les canicules d'un été \"apocalyptique\" ?",
+      "dek": "L'été 2026 est le plus chaud jamais enregistré en France depuis le début des relevés des températures. Cette actualité climatique va-t-elle percuter la campagne électorale et faire de l'écologie le thème central ? Franceinfo a interrogé les prétendants à l'Elysée.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/on-ne-decouvre-rien-les-candidats-a-la-presidentielle-ont-ils-adapte-leur-programme-apres-les-canicules-d-un-ete-apocalyptique_8174960.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T03:56:04+00:00",
+      "titre": "DIRECT. Ecole, logement, accessibilité… Emmanuel Macron attendu avec des annonces à la Conférence nationale sur le handicap",
+      "dek": "Le président de la République s'exprime à la mi-journée, vendredi, en clôture de ce rendez-vous organisé tous les trois ans. Avant de quitter ses fonctions, il entend \"ouvrir une nouvelle étape d'une société pleinement accessible\", selon l'Elysée.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/sante/handicap/direct-ecole-logement-accessibilite-emmanuel-macron-attendu-avec-des-annonces-a-la-conference-nationale-sur-le-handicap_8174987.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -429,127 +550,6 @@
       "dek": "Alors que de nombreuses voix s'élèvent pour menacer le gouvernement de censure sur le vote du budget 2027, \"ce n'est dans l'intérêt de personne de priver la France d'un budget\", alerte Maud Bregeon. La porte-parole du gouvernement était l'invitée d'Agathe Lambret et Simon Le Baro…",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/budget/bregeon-dans-l-interet-de-personne-de-priver-la-france-d-un-budget_8175245.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T09:48:35+00:00",
-      "titre": "L’humoriste de Radio Nova Florence Mendez annonce attaquer deux influenceurs d’extrême droite en justice",
-      "dek": "Après l’avoir copieusement insultée, deux influenceurs de la fachosphère ont lancé mi-juin leurs abonnés contre l’humoriste belge, coupable à leurs yeux d’avoir brocardé l’extrême droite à l’antenne. Elle annonce son intention de porter l’affaire devant les tribunaux.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/lhumoriste-de-radio-nova-florence-mendez-annonce-attaquer-deux-influenceurs-dextreme-droite-en-justice-20260903_SMBXN367LBDGZF7O2QD6VXWSQM/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T09:41:12+00:00",
-      "titre": "Visé par une plainte, le préfet des Hauts-de-Seine tronque un extrait de BFMTV et enrôle le Figaro pour se défendre",
-      "dek": "Après la révélation par l’Humanité d’une action en cessation de manquement visant le préfet des Hauts-de-Seine, accusé d‘empêcher les renouvellements de titres de séjour, Alexandre Brugère contre-attaque. Quitte à déformer un reportage de BFMTV et berner le Figaro.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/alexandre-brugere/vise-par-une-plainte-le-prefet-des-hauts-de-seine-tronque-un-extrait-de-bfmtv-et-enrole-le-figaro-pour-se-defendre"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T09:32:51+00:00",
-      "titre": "Annuler une partie de la dette française est \"une proposition fantaisiste\", selon le Prix Nobel d'économie Jean Tirole",
-      "dek": "Jean Tirole estime jeudi sur France Inter qu'une annulation, dans le meilleur des cas, \"ne changerait rien\" et, dans le pire des cas, serait \"contraire aux règlements\" européens et signifierait que la France \"devrait sortir de la zone euro\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/annuler-une-partie-de-la-dette-francaise-est-une-proposition-fantaisiste-selon-le-prix-nobel-d-economie-jean-tirole_8175131.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T09:29:04+00:00",
-      "titre": "« On se renifle » : De Villepin et Ruffin se draguent en vue de la présidentielle",
-      "dek": "François Ruffin et Dominique de Villepin ont débattu ensemble lors d'une rencontre organisée par Libération et BFM. Deux \"électrons libres\", l'un de gauche, l'autre de droite, qui se sont entendus sur pas mal de sujets. Deux outsiders de l'élection présidentielle qui se sont rend…",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/dominique-de-villepin/on-se-renifle-de-villepin-et-ruffin-se-draguent-en-vue-de-la-presidentielle"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T09:28:54+00:00",
-      "titre": "Carburant : les aides seront reconduites pour septembre et octobre pour les secteurs les plus exposés",
-      "dek": "« On fera le point fin octobre, en fonction de l’évolution de la situation, comme on le fait depuis le début », a assuré la ministre déléguée à l’énergie, Maud Bregeon.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/economie/article/2026/09/03/carburant-les-aides-seront-reconduites-pour-septembre-et-octobre-pour-les-secteurs-les-plus-exposes_6765135_3234.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T09:28:22+00:00",
-      "titre": "Censurer le budget, une bonne tactique pour les candidats ?",
-      "dek": "Sébastien Lecornu s’apprête à se lancer dans un nouveau marathon budgétaire périlleux. Et le spectre de la censure plane déjà sur le gouvernement. L'édito de Renaud Dély.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/censurer-le-budget-une-bonne-tactique-pour-les-candidats_8175158.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T09:22:10+00:00",
-      "titre": "A l’Assemblée nationale, la reprise des travaux est prévue pour début octobre",
-      "dek": "A l’ouverture de la session ordinaire, les députés doivent examiner la proposition de loi intégrale contre les violences faites aux femmes et aux enfants.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/a-lassemblee-nationale-la-reprise-des-travaux-est-prevue-pour-debut-octobre-20260903_HRM26G23HBDNVE6SNYVFWYE6U4/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T09:05:08+00:00",
-      "titre": "\"C'est la santé bucco-dentaire qui va sans doute être mise à mal\" : les dentistes inquiets après l'annonce de la réduction du taux de remboursement par l'assurance maladie",
-      "dek": "Le gouvernement a confirmé son intention de baisser dès janvier 2027 le taux de remboursement des soins dentaires par la Sécurité sociale. A 60% actuellement, il pourrait passer à 50%, voire même 40%. Les dentistes sont vent debout et alertent sur les conséquences pour la santé d…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/sante/politique-de-sante/c-est-la-sante-bucco-dentaire-qui-va-sans-doute-etre-mise-a-mal-les-dentistes-inquiets-apres-l-annonce-de-la-reduction-du-taux-de-remboursement-par-l-assurance-maladie_8175086.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T09:01:12+00:00",
-      "titre": "Cyberattaques en France : le ministère de l’Ecologie touché à son tour par «une attaque informatique sophistiquée»",
-      "dek": "Plusieurs sites liés au ministère de la Transition écologique ont été inaccessibles aux internautes, à la suite d’une brèche dans le système de messagerie la semaine dernière. Un signalement a été fait à la justice.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/cyberattaques-en-france-le-ministere-de-lecologie-touche-a-son-tour-par-une-attaque-informatique-sophistiquee-20260903_6DGRFDK5DBFULINKBYADXX27WM/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T08:56:35+00:00",
-      "titre": "Canicule : politiser la colère",
-      "dek": "Les canicules et les incendies de l’été 2026 le disent : nous vivons – et vivrons – des catastrophes et drames écologiques profonds, pas une crise climatique passagère. Mais si nombre de médias et gouvernants préfèrent l’ignorer, ces événements ne doivent pas nous paralyser.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=503485"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "03 Sep 2026",
-      "date_iso": "2026-09-03T08:52:19+00:00",
-      "titre": "Assemblée nationale : le gouvernement renonce à une session extraordinaire en septembre",
-      "dek": "Le gouvernement préfère attendre l’ouverture de la session ordinaire, le 1ᵉʳ octobre, pour soumettre aux députés la proposition de loi contre les violences sexistes et sexuelles.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/03/assemblee-nationale-le-gouvernement-renonce-a-une-session-extraordinaire-en-septembre_6765132_823448.html"
     }
   ]
 }
