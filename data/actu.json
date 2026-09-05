@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-05T00:09:53+00:00",
+  "generated_at": "2026-09-05T05:05:41+00:00",
   "articles": [
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "L'Humanité – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T04:45:00+00:00",
+      "titre": "Le procès des assassins de l’ancien rugbyman Argentin Federico Martin Aramburú s’ouvre lundi à Paris",
+      "dek": "Deux militants d’ultradroite, Loïk Le Priol et Romain Bouvier, sont jugés, à partir de lundi, pour « assassinat » et « tentative d’assassinat », après la mort, le 19 mars 2022, dans le Quartier Latin, à Paris, de l’ancien rugbyman argentin. Une affaire emblématique des violences …",
+      "avis": null,
+      "lien": "https://www.humanite.fr/politique/extreme-droite/le-proces-des-assassins-de-lancien-rugbyman-argentin-federico-martin-aramburu-souvre-lundi-a-paris"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T03:00:10+00:00",
+      "titre": "Jordan Bardella soutient son allié britannique Nigel Farage, fragilisé par des soupçons de financements irréguliers",
+      "dek": "La conférence de rentrée de la formation d’extrême droite Reform UK a été marquée, vendredi, par la révélation de tentatives de contournement de la loi de financement des partis. Invité d’honneur, le président du RN a signé avec Nigel Farage un « protocole d’accord » pour lutter …",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/international/article/2026/09/05/jordan-bardella-soutient-son-allie-britannique-nigel-farage-fragilise-par-des-soupcons-de-financements-irreguliers_6766063_3210.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -528,28 +550,6 @@
       "dek": "L’ancien premier ministre se vante d’avoir diminué les dépenses de l’Etat pour la première fois depuis 2015. Les rapports racontent une histoire plus complexe, entre bonnes nouvelles conjoncturelles, improvisation budgétaire et dérapage global.",
       "avis": null,
       "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/04/gabriel-attal-arrange-son-bilan-budgetaire-de-2024-en-ce-debut-de-campagne-presidentielle_6765760_4355770.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T09:30:00+00:00",
-      "titre": "Gabriel Attal arrange son bilan budgétaire de 2024 en ce début de campagne présidentielle",
-      "dek": "L’ancien premier ministre se vante d’avoir diminué les dépenses de l’Etat pour la première fois depuis 2015. Les rapports racontent une histoire plus complexe, entre bonnes nouvelles conjoncturelles, improvisation budgétaire et dérapage global.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/04/gabriel-attal-arrange-son-bilan-budgetaire-de-2024-en-ce-debut-de-campagne-presidentielle_6765760_4355770.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T09:27:43+00:00",
-      "titre": "Crise agricole : \"L'enjeu, c'est d'avoir des financements qui permettent au modèle d'évoluer structurellement, pas uniquement de compenser les pertes de cette année\", pointe le chercheur François Gemenne",
-      "dek": "Invité de \"La Matinale\" ce vendredi, alors que le gouvernement doit annoncer son plan d'aide aux agriculteurs après un été aux lourdes conséquences pour les cultures et le bétail, le chercheur belge, spécialiste des questions de gouvernance sur le climat, tient à alerter sur les …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/crise-agricole-l-enjeu-c-est-d-avoir-des-financements-qui-permettent-au-modele-d-evoluer-structurellement-pas-uniquement-de-compenser-les-pertes-de-cette-annee-pointe-le-chercheur-francois-gemenne_8176748.html#xtor=RSS-3-%5Bgeneral%5D"
     }
   ]
 }
