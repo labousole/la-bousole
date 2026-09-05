@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-09-05T15:05:45+00:00",
+  "generated_at": "2026-09-05T20:06:03+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T20:02:25+00:00",
+      "titre": "DIRECT. Election présidentielle : Jordan Bardella réaffirme son \"amitié politique indéfectible\" avec Marine Le Pen, malgré les polémiques",
+      "dek": "En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T18:31:22+00:00",
+      "titre": "Présidentielle 2027 : Jean-Luc Mélenchon à la braderie de Lille, à fond sur le pouvoir d’achat",
+      "dek": "Devant une foule conquise, le candidat insoumis a, ce samedi, déroulé notamment les aspects économiques et sociaux de son programme : blocage des prix et des loyers, augmentation du smic et annulation d’une partie de la dette française.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/elections/presidentielle-2027-jean-luc-melenchon-a-la-braderie-de-lille-a-fond-sur-le-pouvoir-dachat-20260905_GBAQNSSV55E2TESVNL3AOUNWLA/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T18:30:34+00:00",
+      "titre": "Présidentielle 2027 : Eric Ciotti propose à Marine Le Pen « un pacte d’alliance »",
+      "dek": "L’élu niçois a annoncé avoir fait part à la candidate à la présidentielle d’une quinzaine de « propositions qui peuvent être complémentaires et contribuer à bâtir un projet encore en préparation ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/presidentielle-2027-eric-ciotti-propose-a-marine-le-pen-un-pacte-d-alliance_6766399_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T17:42:05+00:00",
+      "titre": "Présidentielle 2027 : Eric Ciotti, maire de Nice, propose «un pacte d’alliance» à Marine Le Pen",
+      "dek": "Le dirigeant de l’Union des droites pour la République (UDR) a officialisé, lors de sa rentrée politique à ce samedi, son soutien à la candidate du RN dans la course à l’Elysée. Il a mis en avant une «quinzaine de propositions» qu’il a transmises à la candidate RN.",
+      "avis": null,
+      "lien": "https://www.liberation.fr/politique/presidentielle-2027-eric-ciotti-maire-de-nice-propose-un-pacte-dalliance-a-marine-le-pen-20260905_ASP3I5ZKF5D25IALL3SS653NPI/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T17:11:24+00:00",
+      "titre": "Pouvoir d'achat, RN... Jean-Luc Mélenchon dévoile ses premières mesures de campagne pour 2027 à la braderie de Lille",
+      "dek": "Le leader de La France insoumise et candidat à la présidentielle a tenu un discours de rentrée à la braderie de Lille, dans lequel il a notamment proposé de bloquer les prix.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/melenchon/pouvoir-d-achat-rn-jean-luc-melenchon-a-delivre-un-discours-de-campagne-depuis-la-braderie-de-lille_8178941.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T17:04:15+00:00",
+      "titre": "À Lyon, la mobilisation contre les logements bouilloires engrange des premières victoires",
+      "dek": "Une mobilisation inédite de locataires lyonnais a conduit le maire écologiste Grégory Doucet à intégrer «la chaleur excessive» comme un critère d’insalubrité des logements. Une première, alors qu’une nouvelle vague de températures élevées frappe plusieurs départements.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/ecologie/050926/lyon-la-mobilisation-contre-les-logements-bouilloires-engrange-des-premieres-victoires"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T17:03:23+00:00",
+      "titre": "Éric Ciotti veut faire «la preuve par Nice» du succès de l’alliance avec l’extrême droite",
+      "dek": "Pour sa rentrée, le nouveau maire de Nice a présenté sa ville comme un laboratoire de l’union de la droite et de l’extrême droite, déclinable à l’échelle du pays. Sans renoncer à peser, par ses propositions sur les retraites notamment, sur le futur programme présidentiel de Marin…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/politique/050926/eric-ciotti-veut-faire-la-preuve-par-nice-du-succes-de-l-alliance-avec-l-extreme-droite"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T15:55:28+00:00",
+      "titre": "Marine Tondelier veut une loi pour \"interdire le mensonge en politique\" après les propos polémiques d'un sénateur sur un pesticide",
+      "dek": "La patronne des Ecologistes veut un \"arsenal législatif solide pour protéger la qualité du débat public\", inspiré du modèle gallois, en se défendant de vouloir un \"ministère de la vérité\".",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/eelv/marine-tondelier-veut-une-loi-pour-interdire-le-mensonge-en-politique-apres-les-propos-polemiques-d-un-senateur-sur-un-pesticide_8178884.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T15:52:28+00:00",
+      "titre": "VIDEO. \"Comment peut-on être aussi misérable ?\" : à Lille, Jean-Luc Mélenchon cible Jordan Bardella, \"un fasciste sans réputation et sans portée\"",
+      "dek": "Le candidat insoumis à l'élection présidentielle a réagi à la signature par le président du RN d'un \"protocole d'accord\" sur l'immigration avec le populiste britannique Nigel Farage.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/video-comment-peut-on-etre-aussi-miserable-a-lille-jean-luc-melenchon-cible-jordan-bardella-un-fasciste-sans-reputation-et-sans-portee_8178842.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T15:28:52+00:00",
+      "titre": "Jordan Bardella sur le soutien à l’Ukraine : « On ne peut pas donner de l’argent sans aucune garantie ni sans la sûreté que cet argent sera remboursé un jour »",
+      "dek": "Le président du RN a pris la parole sur la guerre en Ukraine, samedi, après les déclarations de Louis Alliot appelant à « couper le robinet » du soutien à Kiev et a réaffirmé son « affinité politique et personnelle indéfectible » envers Marine Le Pen, après une semaine pendant la…",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/jordan-bardella-sur-le-soutien-a-l-ukraine-on-ne-peut-pas-donner-de-l-argent-sans-aucune-garantie-ni-sans-la-surete-que-cet-argent-sera-rembourse-un-jour_6766357_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T15:04:44+00:00",
+      "titre": "\"Il n'y a qu'une voie\" : Eric Ciotti propose à Marine Le Pen \"un pacte d'alliance\" pour la présidentielle de 2027",
+      "dek": "Pour sa rentrée politique, le dirigeant de l'Union des droites pour la République (UDR) a mis en avant une quinzaine de propositions qui peuvent selon lui être \"complémentaires\" du projet du Rassemblement national.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/il-n-y-a-qu-une-voie-eric-ciotti-propose-a-marine-le-pen-un-pacte-d-alliance-pour-la-presidentielle-de-2027_8178815.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -14,10 +135,21 @@
     },
     {
       "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T15:00:11+00:00",
+      "titre": "Quatre questions sur la demande de Rachida Dati de réintégrer la magistrature, à quelques jours de son procès pour corruption",
+      "dek": "L'ex-ministre de la Culture sera jugée du 16 au 28 septembre devant le tribunal correctionnel de Paris, notamment pour corruption et trafic d'influence passifs dans l'affaire Renault-Nissan.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/rachida-dati/quatre-questions-sur-la-demande-de-rachida-dati-de-reintegrer-la-magistrature-a-quelques-jours-de-son-proces-pour-corruption_8178530.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T14:41:22+00:00",
+      "date_iso": "2026-09-05T14:41:19+00:00",
       "titre": "Guerre en Ukraine : le RN est un « cheval de Troie des impérialistes » pour Marine Tondelier, le « parti de l’étranger » pour Raphaël Glucksmann",
       "dek": "Les déclarations de plusieurs cadres du parti d’extrême droite sur les limites à apporter à l’aide à Kiev ont été de nouveau critiquées, samedi, à gauche.",
       "avis": null,
@@ -418,138 +550,6 @@
       "dek": "Depuis le 7 juillet et l’annonce de la candidature de Le Pen, le binôme à la tête du Rassemblement national se dissocie. Bardella, relégué au poste de candidat à Matignon, peine à trouver sa place.",
       "avis": null,
       "lien": "https://www.liberation.fr/politique/cest-elle-ou-moi-le-retour-de-marion-marechal-fait-derailler-le-duo-le-pen-bardella-20260904_2ERRGNKMIRBJNO52MWADVIIKOE/"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T17:02:22+00:00",
-      "titre": "Wolfgang Kaleck, avocat: «La démocratie et les droits humains doivent être ramenés à la vie encore et encore»",
-      "dek": "Aux côtés des victimes de la junte argentine ou de la famille de Patrice Lumumba, Wolfgang Kaleck, spécialisé en droit pénal international, se bat contre les injustices. Face aux attaques dont le droit est l’objet, il plaide pour une justice internationale refondée.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/040926/wolfgang-kaleck-avocat-la-democratie-et-les-droits-humains-doivent-etre-ramenes-la-vie-encore-et-en"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T17:01:20+00:00",
-      "titre": "Les États-Unis s’acharnent contre la Cour pénale internationale, l’Union européenne tergiverse",
-      "dek": "Des magistrats internationaux sous sanctions, des États mis sous pression pour renier leurs engagements: l’offensive de Washington contre la CPI est extrêmement violente. Face à elle, l’Union européenne tarde à activer un mécanisme de protection pourtant à portée de main.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/international/040926/les-etats-unis-s-acharnent-contre-la-cour-penale-internationale-l-union-europeenne-tergiverse"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T17:00:14+00:00",
-      "titre": "LFI et Renaissance, dix ans d’existence et beaucoup de points communs",
-      "dek": "Dans son nouvel ouvrage, « Faire parti autrement ? », fruit de dix années d’enquête, le politiste Rémi Lefebvre s’est livré à une étude comparée de ces deux mouvements politiques plus personnalisés que les formes partisanes traditionnelles. Il s’interroge sur leur avenir.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/idees/article/2026/09/04/lfi-et-renaissance-dix-ans-d-existence-et-beaucoup-de-points-communs_6765842_3232.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T16:56:20+00:00",
-      "titre": "Charles Josselin, ancien ministre et figure de la politique en Bretagne, est mort",
-      "dek": "Député et président du conseil général des Côtes-d’Armor, Charles Josselin fut un des grands noms du socialisme breton. Il est mort mardi, à l’âge de 88 ans.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/disparitions/article/2026/09/04/charles-josselin-ancien-ministre-et-figure-de-la-politique-en-bretagne-est-mort_6765840_3382.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T16:54:41+00:00",
-      "titre": "\"Franc-Jeu\". Avec Jean-Philippe Tanguy",
-      "dek": "Dans la perspective de l'élection présidentielle de 2027, à travers des interviews et des débats, Benjamin Duhamel interroge celles et ceux qui participent aux choix proposés aux Français pour l’avenir du pays. Le 6 septembre 2026, il reçoit Jean-Philippe Tanguy, député de la Som…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/replay-magazine/france-2/franc-jeu/franc-jeu-avec-jean-philippe-tanguy_8163866.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T16:29:20+00:00",
-      "titre": "Sécheresse: le plan d’urgence du gouvernement ne satisfait pas les agriculteurs",
-      "dek": "Les mesures d’aide d’un peu plus de 1 milliard d’euros annoncées par le gouvernement vendredi 4 septembre pour soutenir les agriculteurs après un été de sécheresse et de canicule sont jugées largement insuffisantes par les organisations syndicales.",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/040926/secheresse-le-plan-d-urgence-du-gouvernement-ne-satisfait-pas-les-agriculteurs"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T15:28:19+00:00",
-      "titre": "«Attiré par tout ce qui brille» : la métamorphose jet-set de Jordan Bardella",
-      "dek": "Adresses de luxe et costumes sur mesure, compagne au sang bleu et salons privés : le président du RN étale son goût du faste et fait la une de la presse people. Quitte à brouiller l’image du parti et à inquiéter son camp.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/attire-par-tout-ce-qui-brille-la-metamorphose-jet-set-de-jordan-bardella-20260904_OY2TC7XK35HA7EUY4ATR6YRE2Y/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T15:24:15+00:00",
-      "titre": "Les syndicats de police sortent \"insatisfaits\" de leur échange avec le ministre de l'Intérieur et mettent en garde contre une mobilisation le 15 septembre",
-      "dek": "Laurent Nuñez recevait les représentants de la police au ministère de l'Intérieur vendredi pour aborder des questions budgétaires.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/faits-divers/police/les-syndicats-de-police-insatisfaits-de-leur-echange-avec-le-ministre-de-l-interieur-et-mettent-en-garde-contre-un-mobilisation-le-15-septembre_8177417.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T15:22:44+00:00",
-      "titre": "L’humoriste Florence Mendez accuse deux influenceurs d’extrême droite de cyberharcèlement",
-      "dek": "Les vidéos de deux youtubeurs ont entraîné cet été, selon la chroniqueuse de Radio Nova, un déferlement de messages insultants et menaçants.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/pixels/article/2026/09/04/l-humoriste-florence-mendez-accuse-deux-influenceurs-d-extreme-droite-de-cyberharcelement_6765818_4408996.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T15:14:31+00:00",
-      "titre": "\"Nous demandons un Grenelle de l'aide à domicile\", lance le directeur général de l'association APF France handicap, après la Conférence nationale",
-      "dek": "\"Le sujet de l'autonomie des personnes handicapées et des personnes âgées passe par les aides à domicile, l'aide humaine, or, c'est un véritable désastre actuellement\", déplore Serge Widawski, vendredi sur franceinfo. La 7e conférence nationale du handicap s'est tenue près de Par…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/sante/handicap/nous-demandons-un-grenelle-de-l-aide-a-domicile-lance-le-directeur-general-de-l-association-apf-france-handicap-apres-la-conference-nationale_8177474.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T15:07:28+00:00",
-      "titre": "« Couper le robinet à l’Ukraine » : le ton est monté entre Edouard Philippe et Marine Le Pen au sujet de l’aide à Kiev",
-      "dek": "L’ancien premier ministre réagissait aux propos tenus par Louis Aliot, vice-président du Rassemblement national, qui affirmait jeudi soir qu’il était favorable à « couper le robinet » des aides à Kiev.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/04/passe-d-armes-entre-edouard-philippe-et-marine-le-pen-au-sujet-de-l-aide-a-l-ukraine_6765814_823448.html"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T14:50:52+00:00",
-      "titre": "Présidentielle 2027 : Marine Tondelier veut interdire le « mensonge » en politique",
-      "dek": "La candidate écologiste à la présidentielle a semble-t-il été excédée par l'aveux d'un sénateur Horizon sur France 2, qui a avoué avec « fait une fake news » au sujet de l'acétamipride, ce pesticide polémique récemment réintroduit en France",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/ethique/presidentielle-2027-marine-tondelier-veut-interdire-le-mensonge-en-politique"
     }
   ]
 }
