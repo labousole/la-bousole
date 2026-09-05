@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-09-05T10:05:56+00:00",
+  "generated_at": "2026-09-05T15:05:45+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T15:00:14+00:00",
+      "titre": "DIRECT. Election présidentielle : à Lille, Jean-Luc Mélenchon qualifie Jordan Bardella de \"fasciste sans réputation\"",
+      "dek": "En cette rentrée politique, des candidats de tous bords prennent la parole ce week-end, depuis la braderie de Lille où la Foire de Châlons-en-Champagne.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T14:41:22+00:00",
+      "titre": "Guerre en Ukraine : le RN est un « cheval de Troie des impérialistes » pour Marine Tondelier, le « parti de l’étranger » pour Raphaël Glucksmann",
+      "dek": "Les déclarations de plusieurs cadres du parti d’extrême droite sur les limites à apporter à l’aide à Kiev ont été de nouveau critiquées, samedi, à gauche.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/guerre-en-ukraine-le-rn-est-un-cheval-de-troie-des-imperialistes-pour-marine-tondelier-le-parti-de-l-etranger-pour-raphael-glucksmann_6766353_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T14:36:40+00:00",
+      "titre": "\"Il n'y a qu'une voie\" : Eric Ciotti propose à Marine Le Pen \"un pacte d'alliance\" pour la présidentielle de 2027",
+      "dek": "Pour sa rentrée politique, le dirigeant de l'Union des droites pour la République (UDR) a mis en avant une quinzaine de propositions qui peuvent selon lui être \"complémentaires\" du projet du Rassemblement national.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/il-n-y-a-qu-une-voie-eric-ciotti-propose-a-marine-le-pen-un-pacte-d-alliance-pour-la-presidentielle-de-2027_8178815.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T14:00:04+00:00",
+      "titre": "Présidentielle 2027 : pour Gabriel Attal et Edouard Philippe, le poids d’un bilan écologique contrasté",
+      "dek": "« Les candidats et le climat ». Les deux principaux aspirants du bloc central défendent une vision pragmatique de l’adaptation climatique, qui marierait croissance et écologie. A Matignon, ils avaient surtout privilégié l’économie.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/05/presidentielle-2027-pour-gabriel-attal-et-edouard-philippe-le-poids-d-un-bilan-ecologique-contraste_6766350_4355770.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T13:47:57+00:00",
+      "titre": "La chute de Fernando Cerimedo, «roi des trolls» et tête de pont trumpiste en Amérique latine",
+      "dek": "Maître de la désinformation d’extrême droite, le consultant politique argentin Fernando Cerimedo est poursuivi en Bolivie pour tentative de féminicide. Son arrestation a des répercussions bien au-delà, car il a été le conseiller de nombreux présidents, parmi lesquels Javier Milei…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/050926/la-chute-de-fernando-cerimedo-roi-des-trolls-et-tete-de-pont-trumpiste-en-amerique-latine"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T13:33:24+00:00",
+      "titre": "Au Royaume-Uni, Nigel Farage est fragilisé, mais incontesté dans son parti",
+      "dek": "De jeudi à samedi, le parti d’extrême droite britannique Reform UK tenait son congrès annuel à Birmingham. Après un été difficile, son chef voulait remotiver les troupes, mais il fait face à de nouvelles accusations de malversations.",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/050926/au-royaume-uni-nigel-farage-est-fragilise-mais-inconteste-dans-son-parti"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T11:06:11+00:00",
+      "titre": "Présidentielle 2027 : « Le Monde » analyse le match entre Attal et Philippe sur leurs réseaux sociaux",
+      "dek": "Si les deux candidats ont voulu atteindre le même objectif, leurs stratégies sur leurs comptes Instagram et TikTok ont été très différentes. Dans ce nouveau format, « Le Monde » vous décrypte les enjeux de leur été.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/video/2026/09/05/presidentielle-2027-le-monde-analyse-le-match-entre-attal-et-philippe-sur-leurs-reseaux-sociaux_6766332_823448.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T11:00:07+00:00",
+      "titre": "Sénatoriales 2026 : Gérard Larcher fait campagne dans le Gard avant des élections déterminantes pour la droite face à l’extrême droite",
+      "dek": "Vendredi 4 septembre, le président du Sénat est allé rencontrer les grands électeurs dans un département où le RN et l’UDR d’Eric Ciotti ont remporté toutes les circonscriptions aux législatives de 2024.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/senatoriales-2026-gerard-larcher-fait-campagne-dans-le-gard-avant-des-elections-determinantes-pour-la-droite-face-a-l-extreme-droite_6766330_823448.html"
+    },
     {
       "tag": "Politique",
       "color": "#8C1327",
@@ -462,94 +550,6 @@
       "dek": "La candidate écologiste à la présidentielle a semble-t-il été excédée par l'aveux d'un sénateur Horizon sur France 2, qui a avoué avec « fait une fake news » au sujet de l'acétamipride, ce pesticide polémique récemment réintroduit en France",
       "avis": null,
       "lien": "https://www.humanite.fr/politique/ethique/presidentielle-2027-marine-tondelier-veut-interdire-le-mensonge-en-politique"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T14:43:56+00:00",
-      "titre": "En Italie, Giorgia Meloni bat un record de longévité au pouvoir depuis l'après-guerre",
-      "dek": "Baisse du déficit, baisse des débarquements à Lampedusa… Dans un pays connu pour son instabilité politique, son gouvernement est devenu le plus durable de l'histoire depuis l'après-guerre.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/italie/en-italie-giorgia-meloni-bat-un-record-de-longevite-au-pouvoir-depuis-l-apres-guerre_8177318.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T14:28:06+00:00",
-      "titre": "Fraude fiscale: la justice saisit 65 millions d’euros sur les comptes du géant du conseil McKinsey",
-      "dek": "Après quatre ans d’enquête sur la fraude fiscale présumée de McKinsey en France, le Parquet national financier a obtenu la saisie en Belgique de 65,2 millions d’euros appartenant au géant états-unien du conseil. Une seconde enquête judiciaire est en cours sur les liens entre McKi…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/040926/fraude-fiscale-la-justice-saisit-65-millions-d-euros-sur-les-comptes-du-geant-du-conseil-mckinsey"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T14:16:22+00:00",
-      "titre": "REPORTAGE. \"Ça va pas changer grand-chose\" : la méfiance persiste chez certains agriculteurs malgré les annonces du gouvernement",
-      "dek": "La ministre de l'Agriculture, Annie Genevard, a annoncé vendredi un plan d'un milliard pour venir en aide aux producteurs, durement touchés par les canicules et la sécheresse cet été. Franceinfo est parti à la rencontre d'un agriculteur, sceptique de l'efficacité de cette annonce…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/reportage-ca-va-pas-changer-grand-chose-la-mefiance-persiste-chez-certains-agriculteurs-malgre-les-annonces-du-gouvernement_8177102.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Politis",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T13:49:55+00:00",
-      "titre": "Accusé d’assassinat, Loïk Le Priol se victimise face aux enquêteurs",
-      "dek": "Le 7 septembre s’ouvrira le procès consécutif à la mort par balles de Federico Aramburú, rugbyman tué par des militants d’extrême droite en mars 2022. Parmi les accusés, Loïk Le Priol, ancien du GUD, qui a affirmé au cours de l’instruction avoir agi en légitime défense.",
-      "avis": null,
-      "lien": "https://www.politis.fr/api/proxy/?articleID=503989"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T13:27:38+00:00",
-      "titre": "Canicule: dans les écoles et les hôpitaux, des promesses en l’air",
-      "dek": "Au cours de l’été caniculaire, des engagements ont été pris pour les écoles et les hôpitaux. En cette rentrée toujours brûlante, le corps enseignant n’a rien vu arriver. Quant aux soignants, ils ont hérité de climatiseurs mobiles achetés en catastrophe sur le budget des établisse…",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/france/040926/canicule-dans-les-ecoles-et-les-hopitaux-des-promesses-en-l-air"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T13:04:05+00:00",
-      "titre": "Présidentielle 2027 : qui sont les candidats déclarés à la primaire socialiste ?",
-      "dek": "Les militants du Parti socialiste et de Place publique et leurs sympathisants prêts à débourser 15 euros, désigneront leur candidat(e) les week-ends des 9-10 et 16-17 octobre. Passage en revue des prétendants.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/presidentielle-2027-qui-sont-les-candidats-declares-a-la-primaire-sociale-democrate-20260825_QQADNI5M5RAV5JAXOHILWCS5OA/"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T13:00:12+00:00",
-      "titre": "Les relations dangereuses de la droite corse avec l’extrême droite",
-      "dek": "La porosité grandissante entre des membres du parti Les Républicains et certains mouvements identitaires bouscule le paysage politique insulaire à l’approche des élections sénatoriales.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/04/les-relations-dangereuses-de-la-droite-corse-avec-l-extreme-droite_6765791_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T12:36:03+00:00",
-      "titre": "Handicap : Emmanuel Macron dévoile des mesures pour « simplifier tous les gestes du quotidien », de l’école plus inclusive à l’emploi accompagné",
-      "dek": "Le chef de l’Etat, qui préside, vendredi, une conférence nationale qui doit fixer le cap des politiques publiques du handicap a aussi annoncé une nouvelle stratégie nationale pour les troubles du neurodéveloppement, dont l’autisme.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/article/2026/09/04/emmanuel-macron-devoile-une-nouvelle-feuille-de-route-pour-ameliorer-le-quotidien-des-personnes-handicapees_6765788_823448.html"
     }
   ]
 }
