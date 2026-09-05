@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-04T20:05:45+00:00",
+  "generated_at": "2026-09-05T00:09:53+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T21:03:43+00:00",
+      "titre": "Des manifestants évacués lors du congrès annuel de Reform UK",
+      "dek": "Le président du Rassemblement national Jordan Bardella a été invité par le leader d’extrême droite Nigel Farage au congrès annuel du parti Reform UK à Birmingham (Royaume-Uni), vendredi 4 septembre, pour signer un protocole d'accord anti-immigration.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/royaume-uni/des-manifestants-evacues-lors-du-congres-annuel-de-reform-uk_8177933.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "04 Sep 2026",
+      "date_iso": "2026-09-04T20:09:51+00:00",
+      "titre": "L'ancienne ministre de la Justice Rachida Dati, bientôt jugée pour corruption, a demandé à redevenir magistrate",
+      "dek": "\"Elle sera prochainement affectée dans le cadre de la procédure de transparence classique des magistrats\", a précisé le ministère de la Justice, sollicité par franceinfo.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/rachida-dati/l-ancienne-ministre-de-la-justice-rachida-dati-bientot-jugee-pour-corruption-a-demande-a-redevenir-magistrate_8177876.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Politique",
       "color": "#C81E3A",
@@ -528,28 +550,6 @@
       "dek": "Invité de \"La Matinale\" ce vendredi, alors que le gouvernement doit annoncer son plan d'aide aux agriculteurs après un été aux lourdes conséquences pour les cultures et le bétail, le chercheur belge, spécialiste des questions de gouvernance sur le climat, tient à alerter sur les …",
       "avis": null,
       "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/crise-agricole-l-enjeu-c-est-d-avoir-des-financements-qui-permettent-au-modele-d-evoluer-structurellement-pas-uniquement-de-compenser-les-pertes-de-cette-annee-pointe-le-chercheur-francois-gemenne_8176748.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T09:26:54+00:00",
-      "titre": "Annie Genevard est le \"visage d'un État incapable de répondre à une crise majeure\", dénonce l'eurodéputé RN Gilles Pennelle, après l'annonce d'un plan les agriculteurs",
-      "dek": "Le plan de plus d'un milliard d'euros face annoncé par la ministre de l'Agriculture est un \"véritable scandale\" alors que les \"pertes dues à la sécheresse sont estimées à 10 milliards d'euros\", estime Gilles Pennelle, vendredi sur franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/annie-genevard-est-le-visage-d-un-etat-incapable-de-repondre-a-une-crise-majeure-denonce-l-eurodepute-rn-gilles-pennelle-apres-l-annonce-d-un-plan-pour-soutenir-les-agriculteurs_8176796.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Libération – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T09:20:21+00:00",
-      "titre": "Raphaël Glucksmann ouvre la porte à plusieurs débats pour la primaire PS",
-      "dek": "Le fondateur de Place publique rétropédale sur son souhait de débat unique organisé par le service public, et encourage un accord entre les chaînes de télévision.",
-      "avis": null,
-      "lien": "https://www.liberation.fr/politique/raphael-glucksmann-ouvre-la-porte-a-plusieurs-debats-pour-la-primaire-ps-20260904_64CAEEUC3JBXRLATOZXTIOO3YE/"
     }
   ]
 }
