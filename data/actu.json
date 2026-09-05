@@ -1,6 +1,138 @@
 {
-  "generated_at": "2026-09-05T05:05:41+00:00",
+  "generated_at": "2026-09-05T10:05:56+00:00",
   "articles": [
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T10:01:19+00:00",
+      "titre": "DIRECT. Election présidentielle : \"Entre le Rassemblement national et moi, il y a deux mondes\", lance Gabriel Attal à la braderie de Lille",
+      "dek": "La braderie de Lille, lancée au Moyen-âge, est l'un des événements les plus emblématiques de la vie lilloise. Mais il s'agit aussi d'un lieu prisé des personnalités politiques nationales.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/direct-campagne-presidentielle-jean-luc-melenchon-gabriel-attal-et-marine-tondelier-venus-vendre-leur-candidature-a-la-braderie-de-lille_8178386.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T09:37:06+00:00",
+      "titre": "L'AfD aux portes du pouvoir dans la campagne allemande",
+      "dek": "Quedlinbourg, petite ville touristique du Land de Saxe-Anhalt, en Allemagne, va voter le 6 septembre pour choisir le nouveau président de région. Ulrich Siegmund, le candidat de l’AfD (Alternative pour l’Allemagne), parti d'extrême droite, est en passe de l'emporter. Ce serait un…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/monde/europe/allemagne/l-afd-aux-portes-du-pouvoir-dans-la-campagne-allemande_8173733.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T09:00:12+00:00",
+      "titre": "Sénatoriales 2026 : dans le Bas-Rhin, les divisions à gauche ouvrent la voie aux recompositions",
+      "dek": "Dans un département plutôt acquis à la droite, une liste menée par une socialiste avec un numéro deux de centre droit tente de reconduire la formule gagnante de l’élection municipale à Strasbourg, pour ravir le siège au sénateur écologique sortant.",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/politique/article/2026/09/05/senatoriales-2026-dans-le-bas-rhin-les-divisions-a-gauche-ouvrent-la-voie-aux-recompositions_6766321_823448.html"
+    },
+    {
+      "tag": "Gauche",
+      "color": "#1F5C4A",
+      "source": "Mediapart",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T08:54:16+00:00",
+      "titre": "En Saxe-Anhalt, l’AfD rêve d’une majorité absolue pour déclencher un «effet domino»",
+      "dek": "Dimanche 6 septembre, l’extrême droite allemande compte sur un succès régional pour crédibiliser sa promesse d’un «sursaut national». Entre nostalgie de l’Est, déception envers les conservateurs et rejet global des élites, des pans entiers de l’électorat penchent pour la liste di…",
+      "avis": null,
+      "lien": "https://www.mediapart.fr/journal/international/050926/en-saxe-anhalt-l-afd-reve-d-une-majorite-absolue-pour-declencher-un-effet-domino"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T08:45:48+00:00",
+      "titre": "Guerre en Ukraine : \"Nous sommes aux côtés de l'Ukraine, mais pas au prix de la ruine financière\", estime Laurent Jacobelli",
+      "dek": "Invité politique du samedi 5 septembre, Laurent Jacobelli, député RN de Moselle, est revenu sur la guerre en Ukraine. Il a présenté les potentielles aides accordées à Kiev si Marine Le Pen venait à être élue présidente en 2027.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/front-national/guerre-en-ukraine-nous-sommes-aux-cotes-de-l-ukraine-mais-pas-au-prix-de-la-ruine-financiere-estime-laurent-jacobelli_8178485.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Le Monde – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T08:24:14+00:00",
+      "titre": "Présidentielle 2027 : « On n’arrivera pas à battre le Rassemblement national avec juste un vote de barrage », dit Gabriel Attal à la braderie de Lille",
+      "dek": "Le secrétaire général de Renaissance et candidat à l’élection a par ailleurs déclaré qu’il n’y avait « pas de fatalité » à l’arrivée du parti d’extrême droite au pouvoir, en plaidant pour une « vision pour la France ».",
+      "avis": null,
+      "lien": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/05/presidentielle-2027-on-n-arrivera-pas-a-battre-le-rassemblement-national-avec-juste-un-vote-de-barrage-dit-gabriel-attal-a-la-braderie-de-lille_6766319_6205049.html"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T07:59:25+00:00",
+      "titre": "Présidentielle 2027 : Marine Le Pen et Jordan Bardella affichent de plus en plus leurs divergences",
+      "dek": "A 7 mois de la présidentielle, le RN reste toujours en tète, et de loin, des intentions de vote, mais le fameux \"ticket\" Marine Le Pen / Jordan Bardella semble s'effriter.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/replay-radio/le-brief-politique/presidentielle-2027-marine-le-pen-et-jordan-bardella-affichent-de-plus-en-plus-leurs-divergences_8148692.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T07:37:54+00:00",
+      "titre": "\"On coupe le robinet\" : Marine Le Pen et Edouard Philippe s’affrontent par tweets interposés sur l'aide à l'Ukraine",
+      "dek": "Les deux anciens Premiers ministres Edouard Philippe et Gabriel Attal et la candidate du RN s’affrontent depuis 24 heures sur le soutien à apporter à Kiev. Une nouvelle montée des tensions entre les favoris des sondages en vue de la présidentielle.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/on-coupe-le-robinet-marine-le-pen-et-edouard-philippe-s-affrontent-par-tweets-interposes-sur-l-aide-a-l-ukraine_8178434.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T06:47:05+00:00",
+      "titre": "Braderie de Lille : Mélenchon, Attal… la présidentielle s’invite dans les rues",
+      "dek": "Il y a des airs de campagne présidentielle à la braderie de Lille ce samedi. Trois candidats au moins seront présents : l'écologiste Marine Tondelier, Gabriel Attal, pour le parti présidentiel et Jean-Luc Mélenchon cet après midi, avec un discours à 16h30. Les deux hommes au même…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/elections/presidentielle/braderie-de-lille-melenchon-attal-la-presidentielle-s-invite-dans-les-rues_8178413.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#C81E3A",
+      "source": "Libération – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T06:22:00+00:00",
+      "titre": "2027 : moi moi moi, candidat, par Mathieu Lindon",
+      "dek": "Mais pourquoi d’autres se présentent ? Pour qui ils se prennent ? Ils croient qu’on les attend ? Ils n’ont pas saisi que c’était mon tour ?",
+      "avis": null,
+      "lien": "https://www.liberation.fr/idees-et-debats/opinions/2027-moi-moi-moi-candidat-par-mathieu-lindon-20260905_BJRJ4IJA35GWTL62PDB6AEN4AU/"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T06:03:45+00:00",
+      "titre": "\"Nous partageons les mêmes valeurs\" : Jordan Bardella s'affiche avec le sulfureux \"Monsieur Brexit\"",
+      "dek": "En compagnie de Nigel Farage, leader du parti populiste d'extrême droite Reform UK, Jordan Bardella a signé, vendredi 4 septembre, un accord prévoyant un renvoi des réfugiés des eaux britanniques vers la France dans le cas où le RN accède au pouvoir lors de la prochaine président…",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/politique/jordan-bardella/nous-partageons-les-memes-valeurs-jordan-bardella-s-affiche-avec-le-sulfureux-monsieur-brexit_8178383.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
+    {
+      "tag": "Politique",
+      "color": "#8C1327",
+      "source": "franceinfo – Politique",
+      "date": "05 Sep 2026",
+      "date_iso": "2026-09-05T05:04:29+00:00",
+      "titre": "\"Un débat très franco-français\" : pourquoi le port du voile islamique dans l'espace public passionne plus que chez nos voisins",
+      "dek": "Depuis 2004, plusieurs pays européens ont réglementé le port de vêtements religieux, en particulier celui du voile intégral. Mais le débat porte rarement, comme en France, sur la possibilité de bannir le foulard de l'espace public.",
+      "avis": null,
+      "lien": "https://www.franceinfo.fr/societe/religion/un-debat-tres-franco-francais-pourquoi-le-port-du-voile-islamique-dans-l-espace-public-passionne-plus-que-chez-nos-voisins_8175416.html#xtor=RSS-3-%5Bgeneral%5D"
+    },
     {
       "tag": "Gauche",
       "color": "#1F5C4A",
@@ -17,9 +149,9 @@
       "color": "#C81E3A",
       "source": "Le Monde – Politique",
       "date": "05 Sep 2026",
-      "date_iso": "2026-09-05T03:00:10+00:00",
+      "date_iso": "2026-09-05T03:00:07+00:00",
       "titre": "Jordan Bardella soutient son allié britannique Nigel Farage, fragilisé par des soupçons de financements irréguliers",
-      "dek": "La conférence de rentrée de la formation d’extrême droite Reform UK a été marquée, vendredi, par la révélation de tentatives de contournement de la loi de financement des partis. Invité d’honneur, le président du RN a signé avec Nigel Farage un « protocole d’accord » pour lutter …",
+      "dek": "La conférence de rentrée de la formation d’extrême droite Reform UK a été marquée, vendredi à Birmingham, par la révélation de tentatives de contournement de la loi de financement des partis. Invité d’honneur, le président du RN a signé avec Nigel Farage un « protocole d’accord »…",
       "avis": null,
       "lien": "https://www.lemonde.fr/international/article/2026/09/05/jordan-bardella-soutient-son-allie-britannique-nigel-farage-fragilise-par-des-soupcons-de-financements-irreguliers_6766063_3210.html"
     },
@@ -418,138 +550,6 @@
       "dek": "Le chef de l’Etat, qui préside, vendredi, une conférence nationale qui doit fixer le cap des politiques publiques du handicap a aussi annoncé une nouvelle stratégie nationale pour les troubles du neurodéveloppement, dont l’autisme.",
       "avis": null,
       "lien": "https://www.lemonde.fr/politique/article/2026/09/04/emmanuel-macron-devoile-une-nouvelle-feuille-de-route-pour-ameliorer-le-quotidien-des-personnes-handicapees_6765788_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T12:00:02+00:00",
-      "titre": "Pourquoi LFI et le RN s'emparent du voile ?",
-      "dek": "La question du voile s’installe-t-elle dans la campagne présidentielle ? En 2010, Jean-Luc Mélenchon y voyait un “signe de soumission patriarcale”. Il défend désormais la liberté de le porter. À l’inverse, le RN promet de l’interdire dans l’espace public et de sanctionner les fem…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/pourquoi-lfi-et-le-rn-s-emparent-du-voile_8176928.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T11:56:45+00:00",
-      "titre": "Présidentielle 2027 : pour Jean-Luc Mélenchon, la transition écologique passe par une forte reprise en main de l’Etat",
-      "dek": "« Les candidats et le climat ». Pour faire de la France la « première République écologique », le candidat de LFI prévoit des nationalisations, la création d’« écorégions » et un « service écologique ».",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/04/presidentielle-2027-pour-jean-luc-melenchon-la-transition-ecologique-passe-par-une-forte-reprise-en-main-de-l-etat_6765784_4355770.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T11:41:54+00:00",
-      "titre": "Le député Jean-René Cazeneuve (EPR) salue le \"très bel effort\" du gouvernement avec un plan d'urgence pour les agriculteurs face à la sécheresse",
-      "dek": "\"Est-ce que ça va suffire ?\" s'interroge le député du camp présidentiel qui y voit tout de même \"un plan historiquement élevé\", vendredi sur franceinfo.",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/secheresse/le-depute-jean-rene-cazeneuve-epr-salue-le-tres-bel-effort-du-gouvernement-avec-un-plan-d-urgence-pour-les-agriculteurs-face-a-la-secheresse_8177021.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T11:38:27+00:00",
-      "titre": "\"Les aides ne sont jamais à la hauteur\" : le milliard annoncé par le gouvernement pour répondre à la crise agricole jugé insuffisant par le secteur",
-      "dek": "Plus d'un milliard d'euros, c'est le montant annoncé ce vendredi 4 septembre matin par le gouvernement pour sauver les agriculteurs de la sécheresse. Un plan d'urgence très attendu, et prévoit notamment des aides à la trésorerie, pour l'achat de fourrage et de semences. Qu'en pen…",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/les-aides-ne-sont-jamais-a-la-hauteur-le-milliard-annonce-par-le-gouvernement-pour-repondre-a-la-crise-agricole-juge-insuffisant-par-le-secteur_8177024.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T11:00:02+00:00",
-      "titre": "Giorgia Meloni : un record de longévité pour quel bilan ?",
-      "dek": "1 413 jours au pouvoir. Un record pour le gouvernement de la présidente du Conseil italien, Giorgia Meloni qui bat Silvio Berlusconi. Le secret de la longévité de la dirigeante d'extrême droite ? Manier pragmatisme européen et ambiguïtés nationales. Une stabilité indéniable pour …",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/monde/italie/giorgia-meloni-un-record-de-longevite-pour-quel-bilan_8176676.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T10:57:49+00:00",
-      "titre": "Canicule : le gouvernement aide, un peu, les agriculteurs… mais sabre le budget de l’école",
-      "dek": "Le gouvernement a annoncé vendredi un plan de plus d’un milliard d’euros pour l’agriculture affaiblie par les canicules à répétition mais on apprend dans le même temps que les budgets annoncés pour les écoles en surchauffe en début d’été ont été réduits des trois quarts.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/agriculteurs/canicule-le-gouvernement-aide-les-agriculteurs-mais-sabre-le-budget-de-lecole"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "Mediapart",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T10:53:06+00:00",
-      "titre": "«Il y a pas mal de fric à se faire»: les curieuses pratiques du député RN José Beaurain",
-      "dek": "D’anciens collaborateurs accusent le parlementaire de l’Aisne de s’être enrichi sur les fonds de l’Assemblée nationale. L’un d’eux raconte à «Mediapart» s’être vu proposer un coup immobilier sur la vente de bâtiments publics. L’élu d’extrême droite conteste, et a annoncé déposer …",
-      "avis": null,
-      "lien": "https://www.mediapart.fr/journal/politique/040926/il-y-pas-mal-de-fric-se-faire-les-curieuses-pratiques-du-depute-rn-jose-beaurain"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T10:03:30+00:00",
-      "titre": "\"Nous allons protéger les scrutins de 2027\", affirme Jean-Noël Barrot, face au risque d'ingérences étrangères",
-      "dek": "Le ministre des Affaires étrangère cite, vendredi sur France Inter, \"de nouveaux textes juridiques\" et estime que \"la France est en avance\" tout en jugeant nécessaire \"d'aller plus loin parce que la menace évolue\".",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/elections/presidentielle/nous-allons-proteger-les-scrutins-de-2027-affirme-jean-noel-barrot-face-au-risque-d-ingerences-etrangeres_8176832.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Gauche",
-      "color": "#1F5C4A",
-      "source": "L'Humanité – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T10:01:00+00:00",
-      "titre": "Bolloré publie son « Manifeste » pour inspirer l’extrême droite",
-      "dek": "Dans leur livre-enquête \"La Droite de Dieu. Vincent Bolloré, un milliardaire en mission\", Camille Vigogne Le Coat et Clément Lacombe révèlent le programme politique concocté par Vincent Bolloré pour inspirer l’extrême droite française.",
-      "avis": null,
-      "lien": "https://www.humanite.fr/politique/extreme-droite/bollore-publie-son-manifeste-pour-inspirer-lextreme-droite"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T10:00:38+00:00",
-      "titre": "Agriculture : ce qu’il faut retenir des annonces d’Annie Genevard",
-      "dek": "La ministre de l’agriculture a annoncé un plan de plus de 1 milliard d’euros pour soutenir le secteur agricole, touché par la sécheresse et la canicule.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/politique/video/2026/09/04/agriculture-ce-qu-il-faut-retenir-des-annonces-d-annie-genevard_6765768_823448.html"
-    },
-    {
-      "tag": "Politique",
-      "color": "#8C1327",
-      "source": "franceinfo – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T09:46:22+00:00",
-      "titre": "\"Jean-Luc Mélenchon peut être le prochain président écologiste\", estime Manuel Bompard",
-      "dek": "\"Jean-Luc Mélenchon peut être le prochain président écologiste\", estime Manuel Bompard",
-      "avis": null,
-      "lien": "https://www.franceinfo.fr/politique/jean-luc-melenchon-peut-etre-le-prochain-president-ecologiste-estime-manuel-bompard_8176853.html#xtor=RSS-3-%5Bgeneral%5D"
-    },
-    {
-      "tag": "Politique",
-      "color": "#C81E3A",
-      "source": "Le Monde – Politique",
-      "date": "04 Sep 2026",
-      "date_iso": "2026-09-04T09:30:17+00:00",
-      "titre": "Gabriel Attal arrange son bilan budgétaire de 2024 en ce début de campagne présidentielle",
-      "dek": "L’ancien premier ministre se vante d’avoir diminué les dépenses de l’Etat pour la première fois depuis 2015. Les rapports racontent une histoire plus complexe, entre bonnes nouvelles conjoncturelles, improvisation budgétaire et dérapage global.",
-      "avis": null,
-      "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/09/04/gabriel-attal-arrange-son-bilan-budgetaire-de-2024-en-ce-debut-de-campagne-presidentielle_6765760_4355770.html"
     }
   ]
 }
